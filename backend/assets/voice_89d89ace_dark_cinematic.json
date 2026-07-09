@@ -1,0 +1,497 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "EGO",
+    "start": 0.28,
+    "end": 0.72
+  },
+  {
+    "word": "IS",
+    "start": 0.827,
+    "end": 1.041
+  },
+  {
+    "word": "KILLING",
+    "start": 1.161,
+    "end": 1.521
+  },
+  {
+    "word": "YOUR",
+    "start": 1.553,
+    "end": 1.681
+  },
+  {
+    "word": "GROWTH!",
+    "start": 1.721,
+    "end": 2.401
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.705,
+    "end": 4.241
+  },
+  {
+    "word": "ne",
+    "start": 4.294,
+    "end": 4.4
+  },
+  {
+    "word": "kaha",
+    "start": 4.44,
+    "end": 4.639
+  },
+  {
+    "word": "tha:",
+    "start": 4.699,
+    "end": 4.959
+  },
+  {
+    "word": "Agni",
+    "start": 5.306,
+    "end": 6.16
+  },
+  {
+    "word": "uchh",
+    "start": 6.26,
+    "end": 6.64
+  },
+  {
+    "word": "jaatiyon",
+    "start": 6.72,
+    "end": 7.12
+  },
+  {
+    "word": "ka",
+    "start": 7.173,
+    "end": 7.279
+  },
+  {
+    "word": "guru",
+    "start": 7.343,
+    "end": 7.599
+  },
+  {
+    "word": "hai,",
+    "start": 7.659,
+    "end": 7.999
+  },
+  {
+    "word": "Brahmin",
+    "start": 8.159,
+    "end": 8.958
+  },
+  {
+    "word": "charo",
+    "start": 9.022,
+    "end": 9.358
+  },
+  {
+    "word": "varno",
+    "start": 9.418,
+    "end": 9.678
+  },
+  {
+    "word": "ka",
+    "start": 9.731,
+    "end": 9.837
+  },
+  {
+    "word": "guru",
+    "start": 9.901,
+    "end": 10.157
+  },
+  {
+    "word": "hai,",
+    "start": 10.197,
+    "end": 10.397
+  },
+  {
+    "word": "parantu",
+    "start": 10.617,
+    "end": 11.597
+  },
+  {
+    "word": "ek",
+    "start": 11.73,
+    "end": 11.996
+  },
+  {
+    "word": "atithi",
+    "start": 12.103,
+    "end": 12.797
+  },
+  {
+    "word": "yaani",
+    "start": 12.93,
+    "end": 13.355
+  },
+  {
+    "word": "anjaan",
+    "start": 13.462,
+    "end": 13.996
+  },
+  {
+    "word": "vyakti",
+    "start": 14.049,
+    "end": 14.474
+  },
+  {
+    "word": "sabka",
+    "start": 14.654,
+    "end": 15.274
+  },
+  {
+    "word": "guru",
+    "start": 15.322,
+    "end": 15.514
+  },
+  {
+    "word": "hota",
+    "start": 15.574,
+    "end": 15.834
+  },
+  {
+    "word": "hai.",
+    "start": 15.874,
+    "end": 16.154
+  },
+  {
+    "word": "Bro,",
+    "start": 16.434,
+    "end": 17.594
+  },
+  {
+    "word": "aaj",
+    "start": 17.754,
+    "end": 18.074
+  },
+  {
+    "word": "ke",
+    "start": 18.127,
+    "end": 18.233
+  },
+  {
+    "word": "corporate",
+    "start": 18.281,
+    "end": 18.713
+  },
+  {
+    "word": "aur",
+    "start": 18.773,
+    "end": 18.953
+  },
+  {
+    "word": "toxic",
+    "start": 19.046,
+    "end": 19.511
+  },
+  {
+    "word": "world",
+    "start": 19.564,
+    "end": 19.829
+  },
+  {
+    "word": "mein",
+    "start": 19.893,
+    "end": 20.149
+  },
+  {
+    "word": "log",
+    "start": 20.269,
+    "end": 20.629
+  },
+  {
+    "word": "sirf",
+    "start": 20.689,
+    "end": 20.949
+  },
+  {
+    "word": "unhe",
+    "start": 21.029,
+    "end": 21.349
+  },
+  {
+    "word": "respect",
+    "start": 21.409,
+    "end": 21.829
+  },
+  {
+    "word": "karte",
+    "start": 21.869,
+    "end": 22.149
+  },
+  {
+    "word": "hain",
+    "start": 22.189,
+    "end": 22.31
+  },
+  {
+    "word": "jinse",
+    "start": 22.45,
+    "end": 23.03
+  },
+  {
+    "word": "unka",
+    "start": 23.083,
+    "end": 23.269
+  },
+  {
+    "word": "matlab",
+    "start": 23.326,
+    "end": 23.668
+  },
+  {
+    "word": "nikalta",
+    "start": 23.708,
+    "end": 24.148
+  },
+  {
+    "word": "hai.",
+    "start": 24.188,
+    "end": 25.268
+  },
+  {
+    "word": "Asli",
+    "start": 25.348,
+    "end": 25.668
+  },
+  {
+    "word": "Sigma",
+    "start": 25.748,
+    "end": 26.148
+  },
+  {
+    "word": "wo",
+    "start": 26.228,
+    "end": 26.388
+  },
+  {
+    "word": "hai",
+    "start": 26.488,
+    "end": 26.788
+  },
+  {
+    "word": "jo",
+    "start": 26.895,
+    "end": 27.109
+  },
+  {
+    "word": "ek",
+    "start": 27.162,
+    "end": 27.268
+  },
+  {
+    "word": "stranger",
+    "start": 27.33,
+    "end": 27.826
+  },
+  {
+    "word": "ko",
+    "start": 27.879,
+    "end": 27.985
+  },
+  {
+    "word": "bhi",
+    "start": 28.025,
+    "end": 28.145
+  },
+  {
+    "word": "barabar",
+    "start": 28.205,
+    "end": 28.625
+  },
+  {
+    "word": "izzat",
+    "start": 28.705,
+    "end": 29.024
+  },
+  {
+    "word": "de.",
+    "start": 29.104,
+    "end": 29.344
+  },
+  {
+    "word": "Jis",
+    "start": 29.784,
+    "end": 30.304
+  },
+  {
+    "word": "din",
+    "start": 30.364,
+    "end": 30.544
+  },
+  {
+    "word": "tumne",
+    "start": 30.584,
+    "end": 30.864
+  },
+  {
+    "word": "ego",
+    "start": 30.964,
+    "end": 31.264
+  },
+  {
+    "word": "chhod",
+    "start": 31.317,
+    "end": 31.663
+  },
+  {
+    "word": "kar",
+    "start": 31.723,
+    "end": 31.903
+  },
+  {
+    "word": "har",
+    "start": 32.023,
+    "end": 32.383
+  },
+  {
+    "word": "kisi",
+    "start": 32.463,
+    "end": 32.702
+  },
+  {
+    "word": "se",
+    "start": 32.755,
+    "end": 32.861
+  },
+  {
+    "word": "seekhna",
+    "start": 32.909,
+    "end": 33.341
+  },
+  {
+    "word": "shuru",
+    "start": 33.368,
+    "end": 33.581
+  },
+  {
+    "word": "kar",
+    "start": 33.621,
+    "end": 33.741
+  },
+  {
+    "word": "diya,",
+    "start": 33.794,
+    "end": 34.46
+  },
+  {
+    "word": "tumhara",
+    "start": 34.5,
+    "end": 34.859
+  },
+  {
+    "word": "circle",
+    "start": 34.928,
+    "end": 35.342
+  },
+  {
+    "word": "aur",
+    "start": 35.402,
+    "end": 35.582
+  },
+  {
+    "word": "tumhari",
+    "start": 35.622,
+    "end": 35.982
+  },
+  {
+    "word": "growth",
+    "start": 36.039,
+    "end": 36.381
+  },
+  {
+    "word": "unstoppable",
+    "start": 36.454,
+    "end": 37.257
+  },
+  {
+    "word": "ho",
+    "start": 37.31,
+    "end": 37.416
+  },
+  {
+    "word": "jayegi.",
+    "start": 37.456,
+    "end": 37.976
+  },
+  {
+    "word": "Share",
+    "start": 38.163,
+    "end": 39.098
+  },
+  {
+    "word": "this",
+    "start": 39.13,
+    "end": 39.258
+  },
+  {
+    "word": "reel",
+    "start": 39.322,
+    "end": 39.578
+  },
+  {
+    "word": "with",
+    "start": 39.61,
+    "end": 39.738
+  },
+  {
+    "word": "that",
+    "start": 39.786,
+    "end": 39.978
+  },
+  {
+    "word": "one",
+    "start": 40.078,
+    "end": 40.378
+  },
+  {
+    "word": "egoistic",
+    "start": 40.458,
+    "end": 41.098
+  },
+  {
+    "word": "friend",
+    "start": 41.155,
+    "end": 41.497
+  },
+  {
+    "word": "who",
+    "start": 41.577,
+    "end": 41.817
+  },
+  {
+    "word": "only",
+    "start": 41.897,
+    "end": 42.217
+  },
+  {
+    "word": "respects",
+    "start": 42.279,
+    "end": 42.775
+  },
+  {
+    "word": "people",
+    "start": 42.832,
+    "end": 43.174
+  },
+  {
+    "word": "for",
+    "start": 43.214,
+    "end": 43.334
+  },
+  {
+    "word": "their",
+    "start": 43.361,
+    "end": 43.496
+  },
+  {
+    "word": "titles.",
+    "start": 43.599,
+    "end": 44.377
+  }
+]

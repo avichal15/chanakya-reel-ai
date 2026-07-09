@@ -1,0 +1,502 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "LIVING",
+    "start": 0.48,
+    "end": 0.88
+  },
+  {
+    "word": "A",
+    "start": 0.92,
+    "end": 0.96
+  },
+  {
+    "word": "FAKE",
+    "start": 1.067,
+    "end": 1.441
+  },
+  {
+    "word": "LIFE!",
+    "start": 1.569,
+    "end": 2.161
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.417,
+    "end": 3.761
+  },
+  {
+    "word": "ne",
+    "start": 3.814,
+    "end": 3.92
+  },
+  {
+    "word": "kaha",
+    "start": 3.96,
+    "end": 4.159
+  },
+  {
+    "word": "tha:",
+    "start": 4.219,
+    "end": 4.479
+  },
+  {
+    "word": "Satya",
+    "start": 4.739,
+    "end": 5.599
+  },
+  {
+    "word": "ke",
+    "start": 5.652,
+    "end": 5.758
+  },
+  {
+    "word": "bal",
+    "start": 5.838,
+    "end": 6.078
+  },
+  {
+    "word": "par",
+    "start": 6.118,
+    "end": 6.238
+  },
+  {
+    "word": "hi",
+    "start": 6.291,
+    "end": 6.397
+  },
+  {
+    "word": "dharti",
+    "start": 6.424,
+    "end": 6.718
+  },
+  {
+    "word": "tiki",
+    "start": 6.798,
+    "end": 7.118
+  },
+  {
+    "word": "hai,",
+    "start": 7.158,
+    "end": 7.918
+  },
+  {
+    "word": "satya",
+    "start": 7.998,
+    "end": 8.318
+  },
+  {
+    "word": "se",
+    "start": 8.371,
+    "end": 8.477
+  },
+  {
+    "word": "hi",
+    "start": 8.53,
+    "end": 8.636
+  },
+  {
+    "word": "surya",
+    "start": 8.716,
+    "end": 9.036
+  },
+  {
+    "word": "tapta",
+    "start": 9.076,
+    "end": 9.356
+  },
+  {
+    "word": "hai",
+    "start": 9.436,
+    "end": 9.676
+  },
+  {
+    "word": "aur",
+    "start": 9.796,
+    "end": 10.156
+  },
+  {
+    "word": "hawa",
+    "start": 10.196,
+    "end": 10.476
+  },
+  {
+    "word": "behti",
+    "start": 10.529,
+    "end": 10.875
+  },
+  {
+    "word": "hai.",
+    "start": 10.915,
+    "end": 11.115
+  },
+  {
+    "word": "Sansaar",
+    "start": 11.339,
+    "end": 12.394
+  },
+  {
+    "word": "ki",
+    "start": 12.447,
+    "end": 12.553
+  },
+  {
+    "word": "har",
+    "start": 12.633,
+    "end": 12.873
+  },
+  {
+    "word": "cheez",
+    "start": 12.953,
+    "end": 13.353
+  },
+  {
+    "word": "satya",
+    "start": 13.413,
+    "end": 13.673
+  },
+  {
+    "word": "par",
+    "start": 13.713,
+    "end": 13.833
+  },
+  {
+    "word": "hi",
+    "start": 13.86,
+    "end": 13.914
+  },
+  {
+    "word": "tiki",
+    "start": 13.994,
+    "end": 14.314
+  },
+  {
+    "word": "hai.",
+    "start": 14.354,
+    "end": 14.634
+  },
+  {
+    "word": "Aaj",
+    "start": 15.074,
+    "end": 15.594
+  },
+  {
+    "word": "kal",
+    "start": 15.634,
+    "end": 15.754
+  },
+  {
+    "word": "log",
+    "start": 15.834,
+    "end": 16.074
+  },
+  {
+    "word": "social",
+    "start": 16.131,
+    "end": 16.473
+  },
+  {
+    "word": "media",
+    "start": 16.54,
+    "end": 16.875
+  },
+  {
+    "word": "aur",
+    "start": 16.935,
+    "end": 17.115
+  },
+  {
+    "word": "'Corporate'",
+    "start": 17.195,
+    "end": 17.639
+  },
+  {
+    "word": "duniya",
+    "start": 17.659,
+    "end": 17.918
+  },
+  {
+    "word": "mein",
+    "start": 17.95,
+    "end": 18.078
+  },
+  {
+    "word": "fake",
+    "start": 18.174,
+    "end": 18.558
+  },
+  {
+    "word": "flex",
+    "start": 18.638,
+    "end": 18.958
+  },
+  {
+    "word": "karne",
+    "start": 18.978,
+    "end": 19.198
+  },
+  {
+    "word": "ke",
+    "start": 19.251,
+    "end": 19.357
+  },
+  {
+    "word": "liye",
+    "start": 19.384,
+    "end": 19.678
+  },
+  {
+    "word": "toxic",
+    "start": 19.785,
+    "end": 20.32
+  },
+  {
+    "word": "jhooth",
+    "start": 20.36,
+    "end": 20.64
+  },
+  {
+    "word": "bolte",
+    "start": 20.68,
+    "end": 20.96
+  },
+  {
+    "word": "hain.",
+    "start": 21.0,
+    "end": 21.639
+  },
+  {
+    "word": "Fake",
+    "start": 21.727,
+    "end": 22.079
+  },
+  {
+    "word": "'Friends',",
+    "start": 22.159,
+    "end": 22.721
+  },
+  {
+    "word": "fake",
+    "start": 22.833,
+    "end": 23.281
+  },
+  {
+    "word": "lifestyle.",
+    "start": 23.337,
+    "end": 23.921
+  },
+  {
+    "word": "Par",
+    "start": 24.081,
+    "end": 24.561
+  },
+  {
+    "word": "jab",
+    "start": 24.621,
+    "end": 24.801
+  },
+  {
+    "word": "reality",
+    "start": 24.861,
+    "end": 25.281
+  },
+  {
+    "word": "hit",
+    "start": 25.341,
+    "end": 25.521
+  },
+  {
+    "word": "karti",
+    "start": 25.569,
+    "end": 25.841
+  },
+  {
+    "word": "hai,",
+    "start": 25.881,
+    "end": 26.161
+  },
+  {
+    "word": "toh",
+    "start": 26.261,
+    "end": 26.561
+  },
+  {
+    "word": "sab",
+    "start": 26.661,
+    "end": 26.961
+  },
+  {
+    "word": "khatam",
+    "start": 27.001,
+    "end": 27.28
+  },
+  {
+    "word": "ho",
+    "start": 27.307,
+    "end": 27.361
+  },
+  {
+    "word": "jata",
+    "start": 27.441,
+    "end": 27.761
+  },
+  {
+    "word": "hai.",
+    "start": 27.801,
+    "end": 28.361
+  },
+  {
+    "word": "Apna",
+    "start": 28.508,
+    "end": 28.962
+  },
+  {
+    "word": "'Circle'",
+    "start": 29.042,
+    "end": 29.684
+  },
+  {
+    "word": "aur",
+    "start": 29.764,
+    "end": 30.004
+  },
+  {
+    "word": "apni",
+    "start": 30.057,
+    "end": 30.243
+  },
+  {
+    "word": "'Growth'",
+    "start": 30.323,
+    "end": 30.963
+  },
+  {
+    "word": "real",
+    "start": 31.011,
+    "end": 31.203
+  },
+  {
+    "word": "rakho.",
+    "start": 31.263,
+    "end": 31.683
+  },
+  {
+    "word": "Truth",
+    "start": 31.87,
+    "end": 32.805
+  },
+  {
+    "word": "is",
+    "start": 32.885,
+    "end": 33.045
+  },
+  {
+    "word": "the",
+    "start": 33.065,
+    "end": 33.125
+  },
+  {
+    "word": "ultimate",
+    "start": 33.187,
+    "end": 33.683
+  },
+  {
+    "word": "Sigma",
+    "start": 33.75,
+    "end": 34.085
+  },
+  {
+    "word": "trait.",
+    "start": 34.165,
+    "end": 34.725
+  },
+  {
+    "word": "Share",
+    "start": 34.858,
+    "end": 35.523
+  },
+  {
+    "word": "this",
+    "start": 35.571,
+    "end": 35.763
+  },
+  {
+    "word": "reel",
+    "start": 35.811,
+    "end": 36.003
+  },
+  {
+    "word": "with",
+    "start": 36.035,
+    "end": 36.163
+  },
+  {
+    "word": "that",
+    "start": 36.211,
+    "end": 36.403
+  },
+  {
+    "word": "one",
+    "start": 36.463,
+    "end": 36.643
+  },
+  {
+    "word": "person",
+    "start": 36.723,
+    "end": 37.203
+  },
+  {
+    "word": "who",
+    "start": 37.223,
+    "end": 37.283
+  },
+  {
+    "word": "needs",
+    "start": 37.336,
+    "end": 37.601
+  },
+  {
+    "word": "to",
+    "start": 37.628,
+    "end": 37.682
+  },
+  {
+    "word": "drop",
+    "start": 37.762,
+    "end": 38.082
+  },
+  {
+    "word": "the",
+    "start": 38.102,
+    "end": 38.162
+  },
+  {
+    "word": "fake",
+    "start": 38.242,
+    "end": 38.562
+  },
+  {
+    "word": "act",
+    "start": 38.642,
+    "end": 38.882
+  },
+  {
+    "word": "and",
+    "start": 38.922,
+    "end": 39.042
+  },
+  {
+    "word": "face",
+    "start": 39.122,
+    "end": 39.442
+  },
+  {
+    "word": "reality.",
+    "start": 39.522,
+    "end": 40.242
+  }
+]

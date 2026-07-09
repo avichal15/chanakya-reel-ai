@@ -1,0 +1,432 @@
+[
+  {
+    "word": "NO",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "MONEY,",
+    "start": 0.24,
+    "end": 1.08
+  },
+  {
+    "word": "NO",
+    "start": 1.227,
+    "end": 1.521
+  },
+  {
+    "word": "RESPECT!",
+    "start": 1.601,
+    "end": 2.401
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.673,
+    "end": 4.001
+  },
+  {
+    "word": "kehte",
+    "start": 4.054,
+    "end": 4.4
+  },
+  {
+    "word": "hain:",
+    "start": 4.44,
+    "end": 4.641
+  },
+  {
+    "word": "Jiske",
+    "start": 4.961,
+    "end": 5.521
+  },
+  {
+    "word": "paas",
+    "start": 5.574,
+    "end": 5.84
+  },
+  {
+    "word": "dhan",
+    "start": 5.92,
+    "end": 6.24
+  },
+  {
+    "word": "hai,",
+    "start": 6.3,
+    "end": 6.56
+  },
+  {
+    "word": "usi",
+    "start": 6.72,
+    "end": 7.12
+  },
+  {
+    "word": "ke",
+    "start": 7.173,
+    "end": 7.279
+  },
+  {
+    "word": "dost",
+    "start": 7.375,
+    "end": 7.759
+  },
+  {
+    "word": "aur",
+    "start": 7.839,
+    "end": 8.079
+  },
+  {
+    "word": "rishtedaar",
+    "start": 8.139,
+    "end": 8.719
+  },
+  {
+    "word": "hote",
+    "start": 8.759,
+    "end": 9.039
+  },
+  {
+    "word": "hain.",
+    "start": 9.079,
+    "end": 9.358
+  },
+  {
+    "word": "Duniya",
+    "start": 9.718,
+    "end": 10.397
+  },
+  {
+    "word": "usi",
+    "start": 10.504,
+    "end": 10.798
+  },
+  {
+    "word": "ko",
+    "start": 10.878,
+    "end": 11.038
+  },
+  {
+    "word": "asli",
+    "start": 11.118,
+    "end": 11.358
+  },
+  {
+    "word": "mard",
+    "start": 11.438,
+    "end": 11.677
+  },
+  {
+    "word": "maanti",
+    "start": 11.704,
+    "end": 12.078
+  },
+  {
+    "word": "hai",
+    "start": 12.138,
+    "end": 12.318
+  },
+  {
+    "word": "aur",
+    "start": 12.458,
+    "end": 12.878
+  },
+  {
+    "word": "usi",
+    "start": 12.985,
+    "end": 13.279
+  },
+  {
+    "word": "ko",
+    "start": 13.359,
+    "end": 13.519
+  },
+  {
+    "word": "samajhdar",
+    "start": 13.599,
+    "end": 14.319
+  },
+  {
+    "word": "samajhti",
+    "start": 14.359,
+    "end": 14.798
+  },
+  {
+    "word": "hai.",
+    "start": 14.858,
+    "end": 15.118
+  },
+  {
+    "word": "Bro,",
+    "start": 15.378,
+    "end": 16.238
+  },
+  {
+    "word": "society",
+    "start": 16.368,
+    "end": 17.278
+  },
+  {
+    "word": "ka",
+    "start": 17.358,
+    "end": 17.518
+  },
+  {
+    "word": "yahi",
+    "start": 17.598,
+    "end": 17.918
+  },
+  {
+    "word": "sabse",
+    "start": 18.018,
+    "end": 18.398
+  },
+  {
+    "word": "bada",
+    "start": 18.478,
+    "end": 18.717
+  },
+  {
+    "word": "bitter",
+    "start": 18.751,
+    "end": 18.955
+  },
+  {
+    "word": "truth",
+    "start": 19.022,
+    "end": 19.357
+  },
+  {
+    "word": "hai.",
+    "start": 19.397,
+    "end": 20.237
+  },
+  {
+    "word": "Jab",
+    "start": 20.297,
+    "end": 20.477
+  },
+  {
+    "word": "tak",
+    "start": 20.537,
+    "end": 20.717
+  },
+  {
+    "word": "bank",
+    "start": 20.765,
+    "end": 20.957
+  },
+  {
+    "word": "account",
+    "start": 21.007,
+    "end": 21.357
+  },
+  {
+    "word": "bhara",
+    "start": 21.384,
+    "end": 21.678
+  },
+  {
+    "word": "hai,",
+    "start": 21.718,
+    "end": 22.238
+  },
+  {
+    "word": "tumhara",
+    "start": 22.298,
+    "end": 22.718
+  },
+  {
+    "word": "'Circle'",
+    "start": 22.798,
+    "end": 23.36
+  },
+  {
+    "word": "aur",
+    "start": 23.42,
+    "end": 23.6
+  },
+  {
+    "word": "'Friends'",
+    "start": 23.68,
+    "end": 24.319
+  },
+  {
+    "word": "tumhari",
+    "start": 24.419,
+    "end": 24.959
+  },
+  {
+    "word": "respect",
+    "start": 25.019,
+    "end": 25.439
+  },
+  {
+    "word": "karenge.",
+    "start": 25.479,
+    "end": 26.319
+  },
+  {
+    "word": "Bina",
+    "start": 26.519,
+    "end": 26.878
+  },
+  {
+    "word": "paise",
+    "start": 26.958,
+    "end": 27.278
+  },
+  {
+    "word": "ke",
+    "start": 27.331,
+    "end": 27.437
+  },
+  {
+    "word": "tumhara",
+    "start": 27.497,
+    "end": 27.838
+  },
+  {
+    "word": "knowledge",
+    "start": 27.894,
+    "end": 28.398
+  },
+  {
+    "word": "aur",
+    "start": 28.498,
+    "end": 28.798
+  },
+  {
+    "word": "struggle",
+    "start": 28.869,
+    "end": 29.437
+  },
+  {
+    "word": "kisi",
+    "start": 29.597,
+    "end": 29.997
+  },
+  {
+    "word": "ko",
+    "start": 30.05,
+    "end": 30.156
+  },
+  {
+    "word": "nahi",
+    "start": 30.196,
+    "end": 30.317
+  },
+  {
+    "word": "dikhta.",
+    "start": 30.377,
+    "end": 31.317
+  },
+  {
+    "word": "Stop",
+    "start": 31.421,
+    "end": 31.837
+  },
+  {
+    "word": "chasing",
+    "start": 31.897,
+    "end": 32.317
+  },
+  {
+    "word": "temporary",
+    "start": 32.373,
+    "end": 32.877
+  },
+  {
+    "word": "validation",
+    "start": 32.957,
+    "end": 33.757
+  },
+  {
+    "word": "and",
+    "start": 33.857,
+    "end": 34.157
+  },
+  {
+    "word": "start",
+    "start": 34.224,
+    "end": 34.559
+  },
+  {
+    "word": "building",
+    "start": 34.603,
+    "end": 34.955
+  },
+  {
+    "word": "your",
+    "start": 35.003,
+    "end": 35.195
+  },
+  {
+    "word": "wealth.",
+    "start": 35.264,
+    "end": 36.118
+  },
+  {
+    "word": "Share",
+    "start": 36.191,
+    "end": 36.556
+  },
+  {
+    "word": "this",
+    "start": 36.604,
+    "end": 36.796
+  },
+  {
+    "word": "reel",
+    "start": 36.86,
+    "end": 37.116
+  },
+  {
+    "word": "with",
+    "start": 37.148,
+    "end": 37.276
+  },
+  {
+    "word": "someone",
+    "start": 37.326,
+    "end": 37.676
+  },
+  {
+    "word": "who",
+    "start": 37.696,
+    "end": 37.756
+  },
+  {
+    "word": "is",
+    "start": 37.809,
+    "end": 37.915
+  },
+  {
+    "word": "grinding",
+    "start": 37.977,
+    "end": 38.473
+  },
+  {
+    "word": "alone",
+    "start": 38.553,
+    "end": 38.953
+  },
+  {
+    "word": "to",
+    "start": 39.086,
+    "end": 39.352
+  },
+  {
+    "word": "build",
+    "start": 39.419,
+    "end": 39.754
+  },
+  {
+    "word": "their",
+    "start": 39.794,
+    "end": 39.994
+  },
+  {
+    "word": "empire.",
+    "start": 40.074,
+    "end": 40.714
+  }
+]

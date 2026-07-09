@@ -1,0 +1,497 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "CHASING",
+    "start": 0.4,
+    "end": 0.879
+  },
+  {
+    "word": "TOXIC",
+    "start": 1.012,
+    "end": 1.518
+  },
+  {
+    "word": "RELATIONSHIPS!",
+    "start": 1.578,
+    "end": 2.559
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.783,
+    "end": 3.999
+  },
+  {
+    "word": "ne",
+    "start": 4.052,
+    "end": 4.158
+  },
+  {
+    "word": "kaha",
+    "start": 4.198,
+    "end": 4.397
+  },
+  {
+    "word": "tha:",
+    "start": 4.457,
+    "end": 4.717
+  },
+  {
+    "word": "Asli",
+    "start": 4.93,
+    "end": 5.516
+  },
+  {
+    "word": "sathi",
+    "start": 5.596,
+    "end": 5.916
+  },
+  {
+    "word": "wahi",
+    "start": 5.996,
+    "end": 6.235
+  },
+  {
+    "word": "hai",
+    "start": 6.295,
+    "end": 6.475
+  },
+  {
+    "word": "jo",
+    "start": 6.555,
+    "end": 6.715
+  },
+  {
+    "word": "andar",
+    "start": 6.775,
+    "end": 7.035
+  },
+  {
+    "word": "se",
+    "start": 7.115,
+    "end": 7.275
+  },
+  {
+    "word": "shuddh",
+    "start": 7.328,
+    "end": 7.595
+  },
+  {
+    "word": "ho,",
+    "start": 7.648,
+    "end": 7.994
+  },
+  {
+    "word": "jo",
+    "start": 8.074,
+    "end": 8.234
+  },
+  {
+    "word": "wafadaar",
+    "start": 8.274,
+    "end": 8.794
+  },
+  {
+    "word": "ho,",
+    "start": 8.874,
+    "end": 9.314
+  },
+  {
+    "word": "jo",
+    "start": 9.407,
+    "end": 9.593
+  },
+  {
+    "word": "apno",
+    "start": 9.673,
+    "end": 9.913
+  },
+  {
+    "word": "se",
+    "start": 9.993,
+    "end": 10.153
+  },
+  {
+    "word": "sachha",
+    "start": 10.217,
+    "end": 10.553
+  },
+  {
+    "word": "prem",
+    "start": 10.617,
+    "end": 10.873
+  },
+  {
+    "word": "kare,",
+    "start": 10.913,
+    "end": 11.272
+  },
+  {
+    "word": "aur",
+    "start": 11.392,
+    "end": 11.752
+  },
+  {
+    "word": "jo",
+    "start": 11.805,
+    "end": 11.911
+  },
+  {
+    "word": "hamesha",
+    "start": 11.951,
+    "end": 12.391
+  },
+  {
+    "word": "sach",
+    "start": 12.455,
+    "end": 12.711
+  },
+  {
+    "word": "bole.",
+    "start": 12.764,
+    "end": 13.11
+  },
+  {
+    "word": "Aaj",
+    "start": 13.59,
+    "end": 14.23
+  },
+  {
+    "word": "kal",
+    "start": 14.27,
+    "end": 14.39
+  },
+  {
+    "word": "log",
+    "start": 14.49,
+    "end": 14.79
+  },
+  {
+    "word": "looks",
+    "start": 14.857,
+    "end": 15.192
+  },
+  {
+    "word": "aur",
+    "start": 15.252,
+    "end": 15.432
+  },
+  {
+    "word": "status",
+    "start": 15.501,
+    "end": 15.915
+  },
+  {
+    "word": "ke",
+    "start": 15.968,
+    "end": 16.074
+  },
+  {
+    "word": "peeche",
+    "start": 16.114,
+    "end": 16.315
+  },
+  {
+    "word": "bhaagte",
+    "start": 16.355,
+    "end": 16.715
+  },
+  {
+    "word": "hain,",
+    "start": 16.755,
+    "end": 17.036
+  },
+  {
+    "word": "par",
+    "start": 17.196,
+    "end": 17.676
+  },
+  {
+    "word": "yaad",
+    "start": 17.756,
+    "end": 17.996
+  },
+  {
+    "word": "rakhna",
+    "start": 18.076,
+    "end": 18.395
+  },
+  {
+    "word": "ek",
+    "start": 18.635,
+    "end": 19.115
+  },
+  {
+    "word": "'True",
+    "start": 19.195,
+    "end": 19.435
+  },
+  {
+    "word": "Partner'",
+    "start": 19.505,
+    "end": 20.115
+  },
+  {
+    "word": "tumhari",
+    "start": 20.145,
+    "end": 20.475
+  },
+  {
+    "word": "life",
+    "start": 20.539,
+    "end": 20.795
+  },
+  {
+    "word": "bana",
+    "start": 20.859,
+    "end": 21.115
+  },
+  {
+    "word": "ya",
+    "start": 21.222,
+    "end": 21.436
+  },
+  {
+    "word": "bigaad",
+    "start": 21.476,
+    "end": 21.755
+  },
+  {
+    "word": "sakta",
+    "start": 21.815,
+    "end": 22.075
+  },
+  {
+    "word": "hai.",
+    "start": 22.115,
+    "end": 22.395
+  },
+  {
+    "word": "Agar",
+    "start": 22.688,
+    "end": 23.354
+  },
+  {
+    "word": "tumhara",
+    "start": 23.394,
+    "end": 23.753
+  },
+  {
+    "word": "partner",
+    "start": 23.823,
+    "end": 24.313
+  },
+  {
+    "word": "ya",
+    "start": 24.366,
+    "end": 24.472
+  },
+  {
+    "word": "circle",
+    "start": 24.541,
+    "end": 24.955
+  },
+  {
+    "word": "tumhe",
+    "start": 24.995,
+    "end": 25.195
+  },
+  {
+    "word": "peace",
+    "start": 25.262,
+    "end": 25.597
+  },
+  {
+    "word": "nahi",
+    "start": 25.637,
+    "end": 25.836
+  },
+  {
+    "word": "de",
+    "start": 25.889,
+    "end": 25.995
+  },
+  {
+    "word": "raha,",
+    "start": 26.035,
+    "end": 26.394
+  },
+  {
+    "word": "tumhari",
+    "start": 26.514,
+    "end": 27.114
+  },
+  {
+    "word": "growth",
+    "start": 27.16,
+    "end": 27.436
+  },
+  {
+    "word": "mein",
+    "start": 27.468,
+    "end": 27.596
+  },
+  {
+    "word": "support",
+    "start": 27.656,
+    "end": 28.076
+  },
+  {
+    "word": "nahi",
+    "start": 28.116,
+    "end": 28.237
+  },
+  {
+    "word": "kar",
+    "start": 28.277,
+    "end": 28.397
+  },
+  {
+    "word": "raha,",
+    "start": 28.477,
+    "end": 28.876
+  },
+  {
+    "word": "aur",
+    "start": 28.996,
+    "end": 29.356
+  },
+  {
+    "word": "jhooth",
+    "start": 29.436,
+    "end": 29.756
+  },
+  {
+    "word": "bol",
+    "start": 29.816,
+    "end": 29.996
+  },
+  {
+    "word": "raha",
+    "start": 30.036,
+    "end": 30.235
+  },
+  {
+    "word": "hai,",
+    "start": 30.275,
+    "end": 30.475
+  },
+  {
+    "word": "toh",
+    "start": 30.635,
+    "end": 31.115
+  },
+  {
+    "word": "it's",
+    "start": 31.168,
+    "end": 31.354
+  },
+  {
+    "word": "a",
+    "start": 31.394,
+    "end": 31.434
+  },
+  {
+    "word": "toxic",
+    "start": 31.527,
+    "end": 31.992
+  },
+  {
+    "word": "trap.",
+    "start": 32.072,
+    "end": 32.552
+  },
+  {
+    "word": "Cut",
+    "start": 32.732,
+    "end": 33.272
+  },
+  {
+    "word": "them",
+    "start": 33.304,
+    "end": 33.432
+  },
+  {
+    "word": "off.",
+    "start": 33.532,
+    "end": 34.272
+  },
+  {
+    "word": "Loyalty",
+    "start": 34.382,
+    "end": 35.112
+  },
+  {
+    "word": "is",
+    "start": 35.192,
+    "end": 35.352
+  },
+  {
+    "word": "everything.",
+    "start": 35.417,
+    "end": 36.147
+  },
+  {
+    "word": "Share",
+    "start": 36.294,
+    "end": 37.029
+  },
+  {
+    "word": "this",
+    "start": 37.061,
+    "end": 37.189
+  },
+  {
+    "word": "reel",
+    "start": 37.253,
+    "end": 37.509
+  },
+  {
+    "word": "with",
+    "start": 37.541,
+    "end": 37.669
+  },
+  {
+    "word": "someone",
+    "start": 37.719,
+    "end": 38.069
+  },
+  {
+    "word": "who",
+    "start": 38.089,
+    "end": 38.149
+  },
+  {
+    "word": "needs",
+    "start": 38.216,
+    "end": 38.551
+  },
+  {
+    "word": "to",
+    "start": 38.578,
+    "end": 38.632
+  },
+  {
+    "word": "set",
+    "start": 38.712,
+    "end": 38.952
+  },
+  {
+    "word": "their",
+    "start": 38.979,
+    "end": 39.114
+  },
+  {
+    "word": "standards",
+    "start": 39.17,
+    "end": 39.674
+  },
+  {
+    "word": "higher.",
+    "start": 39.743,
+    "end": 40.237
+  }
+]

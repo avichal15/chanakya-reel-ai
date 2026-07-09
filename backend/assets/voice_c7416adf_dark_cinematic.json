@@ -1,0 +1,372 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "ROMANTICIZING",
+    "start": 0.48,
+    "end": 1.439
+  },
+  {
+    "word": "RED",
+    "start": 1.499,
+    "end": 1.679
+  },
+  {
+    "word": "FLAGS!",
+    "start": 1.786,
+    "end": 2.401
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.641,
+    "end": 4.001
+  },
+  {
+    "word": "ne",
+    "start": 4.054,
+    "end": 4.16
+  },
+  {
+    "word": "kaha",
+    "start": 4.2,
+    "end": 4.399
+  },
+  {
+    "word": "tha:",
+    "start": 4.459,
+    "end": 4.719
+  },
+  {
+    "word": "Asli",
+    "start": 5.012,
+    "end": 5.758
+  },
+  {
+    "word": "sathi",
+    "start": 5.838,
+    "end": 6.238
+  },
+  {
+    "word": "wahi",
+    "start": 6.278,
+    "end": 6.558
+  },
+  {
+    "word": "hai",
+    "start": 6.618,
+    "end": 6.798
+  },
+  {
+    "word": "jo",
+    "start": 6.878,
+    "end": 7.038
+  },
+  {
+    "word": "charitra",
+    "start": 7.086,
+    "end": 7.518
+  },
+  {
+    "word": "se",
+    "start": 7.598,
+    "end": 7.758
+  },
+  {
+    "word": "shuddh",
+    "start": 7.811,
+    "end": 8.196
+  },
+  {
+    "word": "ho,",
+    "start": 8.236,
+    "end": 8.396
+  },
+  {
+    "word": "wafadaar",
+    "start": 8.596,
+    "end": 9.276
+  },
+  {
+    "word": "ho,",
+    "start": 9.356,
+    "end": 9.596
+  },
+  {
+    "word": "dil",
+    "start": 9.796,
+    "end": 10.396
+  },
+  {
+    "word": "se",
+    "start": 10.476,
+    "end": 10.636
+  },
+  {
+    "word": "pyaar",
+    "start": 10.716,
+    "end": 10.957
+  },
+  {
+    "word": "kare,",
+    "start": 10.997,
+    "end": 11.437
+  },
+  {
+    "word": "aur",
+    "start": 11.577,
+    "end": 11.997
+  },
+  {
+    "word": "hamesha",
+    "start": 12.037,
+    "end": 12.557
+  },
+  {
+    "word": "sach",
+    "start": 12.637,
+    "end": 12.957
+  },
+  {
+    "word": "bole.",
+    "start": 13.037,
+    "end": 13.917
+  },
+  {
+    "word": "Bro,",
+    "start": 14.057,
+    "end": 14.557
+  },
+  {
+    "word": "aaj",
+    "start": 14.757,
+    "end": 15.117
+  },
+  {
+    "word": "kal",
+    "start": 15.157,
+    "end": 15.277
+  },
+  {
+    "word": "log",
+    "start": 15.377,
+    "end": 15.677
+  },
+  {
+    "word": "'Looks'",
+    "start": 15.797,
+    "end": 16.317
+  },
+  {
+    "word": "aur",
+    "start": 16.357,
+    "end": 16.477
+  },
+  {
+    "word": "'Aesthetics'",
+    "start": 16.517,
+    "end": 17.116
+  },
+  {
+    "word": "ke",
+    "start": 17.143,
+    "end": 17.197
+  },
+  {
+    "word": "chakkar",
+    "start": 17.25,
+    "end": 17.597
+  },
+  {
+    "word": "mein",
+    "start": 17.629,
+    "end": 17.757
+  },
+  {
+    "word": "'Loyalty'",
+    "start": 17.837,
+    "end": 18.637
+  },
+  {
+    "word": "compromise",
+    "start": 18.666,
+    "end": 18.956
+  },
+  {
+    "word": "kar",
+    "start": 18.996,
+    "end": 19.116
+  },
+  {
+    "word": "dete",
+    "start": 19.176,
+    "end": 19.436
+  },
+  {
+    "word": "hain.",
+    "start": 19.476,
+    "end": 19.757
+  },
+  {
+    "word": "Agar",
+    "start": 20.077,
+    "end": 20.797
+  },
+  {
+    "word": "tumhara",
+    "start": 20.857,
+    "end": 21.276
+  },
+  {
+    "word": "partner",
+    "start": 21.336,
+    "end": 21.756
+  },
+  {
+    "word": "honest",
+    "start": 21.825,
+    "end": 22.239
+  },
+  {
+    "word": "nahi",
+    "start": 22.279,
+    "end": 22.478
+  },
+  {
+    "word": "hai,",
+    "start": 22.538,
+    "end": 22.878
+  },
+  {
+    "word": "toh",
+    "start": 22.978,
+    "end": 23.278
+  },
+  {
+    "word": "wo",
+    "start": 23.331,
+    "end": 23.437
+  },
+  {
+    "word": "relationship",
+    "start": 23.499,
+    "end": 24.243
+  },
+  {
+    "word": "ek",
+    "start": 24.35,
+    "end": 24.564
+  },
+  {
+    "word": "ticking",
+    "start": 24.624,
+    "end": 25.044
+  },
+  {
+    "word": "time",
+    "start": 25.124,
+    "end": 25.444
+  },
+  {
+    "word": "bomb",
+    "start": 25.508,
+    "end": 25.764
+  },
+  {
+    "word": "hai.",
+    "start": 25.824,
+    "end": 26.084
+  },
+  {
+    "word": "Stop",
+    "start": 26.292,
+    "end": 27.124
+  },
+  {
+    "word": "settling",
+    "start": 27.168,
+    "end": 27.52
+  },
+  {
+    "word": "for",
+    "start": 27.56,
+    "end": 27.68
+  },
+  {
+    "word": "toxic",
+    "start": 27.773,
+    "end": 28.238
+  },
+  {
+    "word": "partners.",
+    "start": 28.318,
+    "end": 29.038
+  },
+  {
+    "word": "Share",
+    "start": 29.185,
+    "end": 29.92
+  },
+  {
+    "word": "this",
+    "start": 29.968,
+    "end": 30.16
+  },
+  {
+    "word": "reel",
+    "start": 30.224,
+    "end": 30.48
+  },
+  {
+    "word": "with",
+    "start": 30.512,
+    "end": 30.64
+  },
+  {
+    "word": "that",
+    "start": 30.688,
+    "end": 30.88
+  },
+  {
+    "word": "one",
+    "start": 30.98,
+    "end": 31.28
+  },
+  {
+    "word": "friend",
+    "start": 31.349,
+    "end": 31.763
+  },
+  {
+    "word": "who",
+    "start": 31.883,
+    "end": 32.243
+  },
+  {
+    "word": "always",
+    "start": 32.3,
+    "end": 32.642
+  },
+  {
+    "word": "ignores",
+    "start": 32.722,
+    "end": 33.282
+  },
+  {
+    "word": "the",
+    "start": 33.322,
+    "end": 33.442
+  },
+  {
+    "word": "red",
+    "start": 33.502,
+    "end": 33.682
+  },
+  {
+    "word": "flags.",
+    "start": 33.789,
+    "end": 34.484
+  }
+]

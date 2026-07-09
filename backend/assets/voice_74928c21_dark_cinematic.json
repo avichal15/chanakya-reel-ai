@@ -1,0 +1,527 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "WORDS",
+    "start": 0.256,
+    "end": 0.72
+  },
+  {
+    "word": "MEAN",
+    "start": 0.8,
+    "end": 1.12
+  },
+  {
+    "word": "NOTHING!",
+    "start": 1.23,
+    "end": 2.08
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.432,
+    "end": 4.16
+  },
+  {
+    "word": "ne",
+    "start": 4.213,
+    "end": 4.319
+  },
+  {
+    "word": "kaha",
+    "start": 4.359,
+    "end": 4.558
+  },
+  {
+    "word": "tha:",
+    "start": 4.618,
+    "end": 4.878
+  },
+  {
+    "word": "Raja",
+    "start": 5.438,
+    "end": 6.238
+  },
+  {
+    "word": "ka",
+    "start": 6.291,
+    "end": 6.397
+  },
+  {
+    "word": "aadesh,",
+    "start": 6.477,
+    "end": 7.437
+  },
+  {
+    "word": "gyaani",
+    "start": 7.477,
+    "end": 7.836
+  },
+  {
+    "word": "ki",
+    "start": 7.889,
+    "end": 7.995
+  },
+  {
+    "word": "baat,",
+    "start": 8.075,
+    "end": 8.795
+  },
+  {
+    "word": "aur",
+    "start": 8.835,
+    "end": 8.955
+  },
+  {
+    "word": "kanyadaan...",
+    "start": 9.035,
+    "end": 10.394
+  },
+  {
+    "word": "ye",
+    "start": 10.421,
+    "end": 10.475
+  },
+  {
+    "word": "teeno",
+    "start": 10.555,
+    "end": 10.955
+  },
+  {
+    "word": "zindagi",
+    "start": 11.035,
+    "end": 11.355
+  },
+  {
+    "word": "mein",
+    "start": 11.387,
+    "end": 11.515
+  },
+  {
+    "word": "sirf",
+    "start": 11.595,
+    "end": 11.995
+  },
+  {
+    "word": "ek",
+    "start": 12.128,
+    "end": 12.394
+  },
+  {
+    "word": "baar",
+    "start": 12.474,
+    "end": 12.714
+  },
+  {
+    "word": "hote",
+    "start": 12.754,
+    "end": 13.034
+  },
+  {
+    "word": "hain.",
+    "start": 13.074,
+    "end": 13.915
+  },
+  {
+    "word": "Inka",
+    "start": 13.968,
+    "end": 14.234
+  },
+  {
+    "word": "kaha",
+    "start": 14.274,
+    "end": 14.554
+  },
+  {
+    "word": "patthar",
+    "start": 14.634,
+    "end": 15.034
+  },
+  {
+    "word": "ki",
+    "start": 15.087,
+    "end": 15.193
+  },
+  {
+    "word": "lakeer",
+    "start": 15.273,
+    "end": 15.753
+  },
+  {
+    "word": "hota",
+    "start": 15.813,
+    "end": 16.073
+  },
+  {
+    "word": "hai.",
+    "start": 16.113,
+    "end": 17.193
+  },
+  {
+    "word": "Aaj",
+    "start": 17.233,
+    "end": 17.433
+  },
+  {
+    "word": "kal",
+    "start": 17.473,
+    "end": 17.593
+  },
+  {
+    "word": "log",
+    "start": 17.693,
+    "end": 17.993
+  },
+  {
+    "word": "apni",
+    "start": 18.073,
+    "end": 18.393
+  },
+  {
+    "word": "baaton",
+    "start": 18.446,
+    "end": 18.792
+  },
+  {
+    "word": "se",
+    "start": 18.872,
+    "end": 19.032
+  },
+  {
+    "word": "aise",
+    "start": 19.112,
+    "end": 19.432
+  },
+  {
+    "word": "palatte",
+    "start": 19.492,
+    "end": 19.992
+  },
+  {
+    "word": "hain",
+    "start": 20.052,
+    "end": 20.232
+  },
+  {
+    "word": "jaise",
+    "start": 20.392,
+    "end": 20.792
+  },
+  {
+    "word": "weather.",
+    "start": 20.842,
+    "end": 21.272
+  },
+  {
+    "word": "Corporate",
+    "start": 21.384,
+    "end": 22.392
+  },
+  {
+    "word": "deals",
+    "start": 22.459,
+    "end": 22.794
+  },
+  {
+    "word": "mein",
+    "start": 22.842,
+    "end": 23.034
+  },
+  {
+    "word": "fake",
+    "start": 23.114,
+    "end": 23.434
+  },
+  {
+    "word": "promises,",
+    "start": 23.514,
+    "end": 24.554
+  },
+  {
+    "word": "doston",
+    "start": 24.634,
+    "end": 25.034
+  },
+  {
+    "word": "ke",
+    "start": 25.087,
+    "end": 25.193
+  },
+  {
+    "word": "toxic",
+    "start": 25.286,
+    "end": 25.751
+  },
+  {
+    "word": "excuses.",
+    "start": 25.851,
+    "end": 26.711
+  },
+  {
+    "word": "Bro,",
+    "start": 26.931,
+    "end": 27.671
+  },
+  {
+    "word": "agar",
+    "start": 27.783,
+    "end": 28.231
+  },
+  {
+    "word": "tumhara",
+    "start": 28.291,
+    "end": 28.711
+  },
+  {
+    "word": "'Yes'",
+    "start": 28.791,
+    "end": 29.231
+  },
+  {
+    "word": "aur",
+    "start": 29.261,
+    "end": 29.351
+  },
+  {
+    "word": "'No'",
+    "start": 29.431,
+    "end": 29.751
+  },
+  {
+    "word": "solid",
+    "start": 29.858,
+    "end": 30.393
+  },
+  {
+    "word": "nahi",
+    "start": 30.433,
+    "end": 30.713
+  },
+  {
+    "word": "hai,",
+    "start": 30.753,
+    "end": 30.953
+  },
+  {
+    "word": "toh",
+    "start": 31.073,
+    "end": 31.433
+  },
+  {
+    "word": "tumhari",
+    "start": 31.473,
+    "end": 31.833
+  },
+  {
+    "word": "koi",
+    "start": 31.953,
+    "end": 32.233
+  },
+  {
+    "word": "aukaat",
+    "start": 32.273,
+    "end": 32.632
+  },
+  {
+    "word": "nahi.",
+    "start": 32.672,
+    "end": 32.951
+  },
+  {
+    "word": "Real",
+    "start": 33.159,
+    "end": 33.991
+  },
+  {
+    "word": "growth",
+    "start": 34.048,
+    "end": 34.39
+  },
+  {
+    "word": "tabhi",
+    "start": 34.47,
+    "end": 34.79
+  },
+  {
+    "word": "hogi",
+    "start": 34.87,
+    "end": 35.19
+  },
+  {
+    "word": "jab",
+    "start": 35.31,
+    "end": 35.67
+  },
+  {
+    "word": "tumhare",
+    "start": 35.71,
+    "end": 36.07
+  },
+  {
+    "word": "circle",
+    "start": 36.139,
+    "end": 36.553
+  },
+  {
+    "word": "mein",
+    "start": 36.601,
+    "end": 36.793
+  },
+  {
+    "word": "tumhari",
+    "start": 36.853,
+    "end": 37.273
+  },
+  {
+    "word": "'Commitment'",
+    "start": 37.353,
+    "end": 37.991
+  },
+  {
+    "word": "ki",
+    "start": 38.044,
+    "end": 38.15
+  },
+  {
+    "word": "value",
+    "start": 38.23,
+    "end": 38.63
+  },
+  {
+    "word": "ho.",
+    "start": 38.71,
+    "end": 38.95
+  },
+  {
+    "word": "Be",
+    "start": 39.243,
+    "end": 39.829
+  },
+  {
+    "word": "a",
+    "start": 39.909,
+    "end": 39.989
+  },
+  {
+    "word": "person",
+    "start": 40.058,
+    "end": 40.472
+  },
+  {
+    "word": "of",
+    "start": 40.552,
+    "end": 40.712
+  },
+  {
+    "word": "your",
+    "start": 40.744,
+    "end": 40.872
+  },
+  {
+    "word": "word.",
+    "start": 40.968,
+    "end": 41.832
+  },
+  {
+    "word": "Tag",
+    "start": 41.952,
+    "end": 42.312
+  },
+  {
+    "word": "that",
+    "start": 42.36,
+    "end": 42.552
+  },
+  {
+    "word": "friend",
+    "start": 42.609,
+    "end": 42.951
+  },
+  {
+    "word": "who",
+    "start": 42.991,
+    "end": 43.111
+  },
+  {
+    "word": "always",
+    "start": 43.191,
+    "end": 43.671
+  },
+  {
+    "word": "flips",
+    "start": 43.738,
+    "end": 44.073
+  },
+  {
+    "word": "on",
+    "start": 44.1,
+    "end": 44.154
+  },
+  {
+    "word": "their",
+    "start": 44.181,
+    "end": 44.316
+  },
+  {
+    "word": "words,",
+    "start": 44.396,
+    "end": 45.196
+  },
+  {
+    "word": "or",
+    "start": 45.249,
+    "end": 45.355
+  },
+  {
+    "word": "share",
+    "start": 45.408,
+    "end": 45.673
+  },
+  {
+    "word": "this",
+    "start": 45.705,
+    "end": 45.833
+  },
+  {
+    "word": "to",
+    "start": 45.886,
+    "end": 45.992
+  },
+  {
+    "word": "your",
+    "start": 46.024,
+    "end": 46.152
+  },
+  {
+    "word": "story",
+    "start": 46.232,
+    "end": 46.632
+  },
+  {
+    "word": "to",
+    "start": 46.765,
+    "end": 47.031
+  },
+  {
+    "word": "filter",
+    "start": 47.1,
+    "end": 47.514
+  },
+  {
+    "word": "out",
+    "start": 47.594,
+    "end": 47.834
+  },
+  {
+    "word": "the",
+    "start": 47.894,
+    "end": 48.074
+  },
+  {
+    "word": "fakes.",
+    "start": 48.154,
+    "end": 48.714
+  }
+]

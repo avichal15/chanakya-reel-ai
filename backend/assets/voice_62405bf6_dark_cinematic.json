@@ -1,0 +1,477 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "WANDERING",
+    "start": 0.52,
+    "end": 1.12
+  },
+  {
+    "word": "AIMLESSLY!",
+    "start": 1.22,
+    "end": 2.08
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.352,
+    "end": 3.76
+  },
+  {
+    "word": "ne",
+    "start": 3.813,
+    "end": 3.919
+  },
+  {
+    "word": "kaha",
+    "start": 3.959,
+    "end": 4.158
+  },
+  {
+    "word": "tha:",
+    "start": 4.218,
+    "end": 4.918
+  },
+  {
+    "word": "Ek",
+    "start": 5.091,
+    "end": 5.437
+  },
+  {
+    "word": "bhraman",
+    "start": 5.49,
+    "end": 5.836
+  },
+  {
+    "word": "karne",
+    "start": 5.896,
+    "end": 6.156
+  },
+  {
+    "word": "wale",
+    "start": 6.196,
+    "end": 6.476
+  },
+  {
+    "word": "raja,",
+    "start": 6.556,
+    "end": 7.437
+  },
+  {
+    "word": "vidwan",
+    "start": 7.497,
+    "end": 8.076
+  },
+  {
+    "word": "aur",
+    "start": 8.176,
+    "end": 8.476
+  },
+  {
+    "word": "yogi",
+    "start": 8.556,
+    "end": 8.876
+  },
+  {
+    "word": "ka",
+    "start": 8.956,
+    "end": 9.116
+  },
+  {
+    "word": "har",
+    "start": 9.196,
+    "end": 9.436
+  },
+  {
+    "word": "jagah",
+    "start": 9.496,
+    "end": 9.836
+  },
+  {
+    "word": "samman",
+    "start": 9.896,
+    "end": 10.235
+  },
+  {
+    "word": "hota",
+    "start": 10.295,
+    "end": 10.555
+  },
+  {
+    "word": "hai,",
+    "start": 10.595,
+    "end": 11.435
+  },
+  {
+    "word": "par",
+    "start": 11.475,
+    "end": 11.595
+  },
+  {
+    "word": "bina",
+    "start": 11.675,
+    "end": 12.076
+  },
+  {
+    "word": "lakshya",
+    "start": 12.136,
+    "end": 12.476
+  },
+  {
+    "word": "ke",
+    "start": 12.529,
+    "end": 12.635
+  },
+  {
+    "word": "bhatakne",
+    "start": 12.688,
+    "end": 13.194
+  },
+  {
+    "word": "wali",
+    "start": 13.234,
+    "end": 13.433
+  },
+  {
+    "word": "stree",
+    "start": 13.54,
+    "end": 13.913
+  },
+  {
+    "word": "ka",
+    "start": 14.046,
+    "end": 14.312
+  },
+  {
+    "word": "vinaash",
+    "start": 14.512,
+    "end": 15.111
+  },
+  {
+    "word": "tay",
+    "start": 15.171,
+    "end": 15.351
+  },
+  {
+    "word": "hai.",
+    "start": 15.411,
+    "end": 16.271
+  },
+  {
+    "word": "Bro,",
+    "start": 16.441,
+    "end": 17.031
+  },
+  {
+    "word": "2026",
+    "start": 17.511,
+    "end": 18.75
+  },
+  {
+    "word": "mein",
+    "start": 18.774,
+    "end": 18.87
+  },
+  {
+    "word": "iska",
+    "start": 19.003,
+    "end": 19.429
+  },
+  {
+    "word": "harsh",
+    "start": 19.509,
+    "end": 19.909
+  },
+  {
+    "word": "truth",
+    "start": 19.976,
+    "end": 20.311
+  },
+  {
+    "word": "samjho.",
+    "start": 20.391,
+    "end": 20.951
+  },
+  {
+    "word": "Agar",
+    "start": 21.298,
+    "end": 22.152
+  },
+  {
+    "word": "tumhari",
+    "start": 22.192,
+    "end": 22.552
+  },
+  {
+    "word": "Growth",
+    "start": 22.632,
+    "end": 23.112
+  },
+  {
+    "word": "ek",
+    "start": 23.272,
+    "end": 23.592
+  },
+  {
+    "word": "King",
+    "start": 23.656,
+    "end": 23.912
+  },
+  {
+    "word": "ki",
+    "start": 23.965,
+    "end": 24.071
+  },
+  {
+    "word": "tarah",
+    "start": 24.131,
+    "end": 24.391
+  },
+  {
+    "word": "purposeful",
+    "start": 24.461,
+    "end": 25.11
+  },
+  {
+    "word": "hai,",
+    "start": 25.15,
+    "end": 25.35
+  },
+  {
+    "word": "toh",
+    "start": 25.47,
+    "end": 25.83
+  },
+  {
+    "word": "society",
+    "start": 25.91,
+    "end": 26.47
+  },
+  {
+    "word": "respect",
+    "start": 26.53,
+    "end": 26.95
+  },
+  {
+    "word": "degi.",
+    "start": 27.01,
+    "end": 27.35
+  },
+  {
+    "word": "Par",
+    "start": 27.59,
+    "end": 28.31
+  },
+  {
+    "word": "agar",
+    "start": 28.374,
+    "end": 28.63
+  },
+  {
+    "word": "tumhara",
+    "start": 28.67,
+    "end": 29.029
+  },
+  {
+    "word": "Circle",
+    "start": 29.109,
+    "end": 29.589
+  },
+  {
+    "word": "aur",
+    "start": 29.669,
+    "end": 29.909
+  },
+  {
+    "word": "tumhare",
+    "start": 29.969,
+    "end": 30.309
+  },
+  {
+    "word": "Friends",
+    "start": 30.399,
+    "end": 31.029
+  },
+  {
+    "word": "sirf",
+    "start": 31.149,
+    "end": 31.589
+  },
+  {
+    "word": "weekend",
+    "start": 31.659,
+    "end": 32.149
+  },
+  {
+    "word": "parties,",
+    "start": 32.239,
+    "end": 33.269
+  },
+  {
+    "word": "Corporate",
+    "start": 33.317,
+    "end": 33.749
+  },
+  {
+    "word": "rat",
+    "start": 33.829,
+    "end": 34.069
+  },
+  {
+    "word": "race",
+    "start": 34.165,
+    "end": 34.549
+  },
+  {
+    "word": "ya",
+    "start": 34.709,
+    "end": 35.029
+  },
+  {
+    "word": "Toxic",
+    "start": 35.122,
+    "end": 35.587
+  },
+  {
+    "word": "validation",
+    "start": 35.645,
+    "end": 36.225
+  },
+  {
+    "word": "ke",
+    "start": 36.278,
+    "end": 36.384
+  },
+  {
+    "word": "peeche",
+    "start": 36.444,
+    "end": 36.864
+  },
+  {
+    "word": "'bhatak'",
+    "start": 36.904,
+    "end": 37.344
+  },
+  {
+    "word": "rahe",
+    "start": 37.371,
+    "end": 37.585
+  },
+  {
+    "word": "hain,",
+    "start": 37.625,
+    "end": 37.906
+  },
+  {
+    "word": "toh",
+    "start": 38.026,
+    "end": 38.386
+  },
+  {
+    "word": "self-destruction",
+    "start": 38.482,
+    "end": 39.502
+  },
+  {
+    "word": "pakka",
+    "start": 39.582,
+    "end": 39.982
+  },
+  {
+    "word": "hai.",
+    "start": 40.042,
+    "end": 40.302
+  },
+  {
+    "word": "Stop",
+    "start": 40.542,
+    "end": 41.502
+  },
+  {
+    "word": "wandering",
+    "start": 41.558,
+    "end": 42.062
+  },
+  {
+    "word": "aimlessly.",
+    "start": 42.142,
+    "end": 42.864
+  },
+  {
+    "word": "Share",
+    "start": 43.051,
+    "end": 43.986
+  },
+  {
+    "word": "this",
+    "start": 44.034,
+    "end": 44.226
+  },
+  {
+    "word": "reel",
+    "start": 44.29,
+    "end": 44.546
+  },
+  {
+    "word": "with",
+    "start": 44.578,
+    "end": 44.706
+  },
+  {
+    "word": "someone",
+    "start": 44.746,
+    "end": 45.026
+  },
+  {
+    "word": "who",
+    "start": 45.066,
+    "end": 45.186
+  },
+  {
+    "word": "is",
+    "start": 45.213,
+    "end": 45.267
+  },
+  {
+    "word": "wasting",
+    "start": 45.327,
+    "end": 45.747
+  },
+  {
+    "word": "their",
+    "start": 45.774,
+    "end": 45.909
+  },
+  {
+    "word": "potential",
+    "start": 45.973,
+    "end": 46.549
+  },
+  {
+    "word": "and",
+    "start": 46.709,
+    "end": 47.189
+  },
+  {
+    "word": "needs",
+    "start": 47.256,
+    "end": 47.591
+  },
+  {
+    "word": "a",
+    "start": 47.631,
+    "end": 47.671
+  },
+  {
+    "word": "reality",
+    "start": 47.731,
+    "end": 48.151
+  },
+  {
+    "word": "check.",
+    "start": 48.218,
+    "end": 48.713
+  }
+]

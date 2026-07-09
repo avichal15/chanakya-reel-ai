@@ -1,0 +1,482 @@
+[
+  {
+    "word": "KOI",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "TUMHARA",
+    "start": 0.24,
+    "end": 0.561
+  },
+  {
+    "word": "NAHI",
+    "start": 0.641,
+    "end": 0.881
+  },
+  {
+    "word": "HAI!",
+    "start": 0.961,
+    "end": 1.681
+  },
+  {
+    "word": "Chanakya",
+    "start": 1.777,
+    "end": 2.401
+  },
+  {
+    "word": "ne",
+    "start": 2.454,
+    "end": 2.56
+  },
+  {
+    "word": "kaha",
+    "start": 2.6,
+    "end": 2.799
+  },
+  {
+    "word": "tha:",
+    "start": 2.859,
+    "end": 3.199
+  },
+  {
+    "word": "Insaan",
+    "start": 3.492,
+    "end": 4.398
+  },
+  {
+    "word": "akela",
+    "start": 4.478,
+    "end": 4.878
+  },
+  {
+    "word": "hi",
+    "start": 4.905,
+    "end": 4.959
+  },
+  {
+    "word": "paida",
+    "start": 5.023,
+    "end": 5.399
+  },
+  {
+    "word": "hota",
+    "start": 5.429,
+    "end": 5.599
+  },
+  {
+    "word": "hai,",
+    "start": 5.639,
+    "end": 6.319
+  },
+  {
+    "word": "akela",
+    "start": 6.372,
+    "end": 6.718
+  },
+  {
+    "word": "hi",
+    "start": 6.745,
+    "end": 6.799
+  },
+  {
+    "word": "marta",
+    "start": 6.879,
+    "end": 7.199
+  },
+  {
+    "word": "hai,",
+    "start": 7.259,
+    "end": 7.999
+  },
+  {
+    "word": "apne",
+    "start": 8.052,
+    "end": 8.318
+  },
+  {
+    "word": "acche",
+    "start": 8.425,
+    "end": 8.798
+  },
+  {
+    "word": "aur",
+    "start": 8.858,
+    "end": 9.038
+  },
+  {
+    "word": "bure",
+    "start": 9.102,
+    "end": 9.358
+  },
+  {
+    "word": "karmon",
+    "start": 9.418,
+    "end": 9.757
+  },
+  {
+    "word": "ka",
+    "start": 9.784,
+    "end": 9.838
+  },
+  {
+    "word": "fal",
+    "start": 9.938,
+    "end": 10.238
+  },
+  {
+    "word": "akela",
+    "start": 10.398,
+    "end": 10.958
+  },
+  {
+    "word": "hi",
+    "start": 11.011,
+    "end": 11.117
+  },
+  {
+    "word": "bhogta",
+    "start": 11.17,
+    "end": 11.596
+  },
+  {
+    "word": "hai,",
+    "start": 11.636,
+    "end": 12.156
+  },
+  {
+    "word": "aur",
+    "start": 12.256,
+    "end": 12.556
+  },
+  {
+    "word": "akela",
+    "start": 12.636,
+    "end": 13.036
+  },
+  {
+    "word": "hi",
+    "start": 13.089,
+    "end": 13.195
+  },
+  {
+    "word": "narak",
+    "start": 13.315,
+    "end": 13.675
+  },
+  {
+    "word": "ya",
+    "start": 13.808,
+    "end": 14.074
+  },
+  {
+    "word": "moksha",
+    "start": 14.114,
+    "end": 14.473
+  },
+  {
+    "word": "ko",
+    "start": 14.526,
+    "end": 14.632
+  },
+  {
+    "word": "prapt",
+    "start": 14.685,
+    "end": 15.031
+  },
+  {
+    "word": "karta",
+    "start": 15.071,
+    "end": 15.351
+  },
+  {
+    "word": "hai.",
+    "start": 15.391,
+    "end": 16.471
+  },
+  {
+    "word": "Bro,",
+    "start": 16.551,
+    "end": 16.951
+  },
+  {
+    "word": "tum",
+    "start": 17.071,
+    "end": 17.431
+  },
+  {
+    "word": "sochte",
+    "start": 17.538,
+    "end": 17.992
+  },
+  {
+    "word": "ho",
+    "start": 18.045,
+    "end": 18.151
+  },
+  {
+    "word": "tumhara",
+    "start": 18.211,
+    "end": 18.552
+  },
+  {
+    "word": "'Circle'",
+    "start": 18.632,
+    "end": 19.272
+  },
+  {
+    "word": "tumhare",
+    "start": 19.312,
+    "end": 19.672
+  },
+  {
+    "word": "bure",
+    "start": 19.736,
+    "end": 19.992
+  },
+  {
+    "word": "waqt",
+    "start": 20.045,
+    "end": 20.311
+  },
+  {
+    "word": "mein",
+    "start": 20.327,
+    "end": 20.391
+  },
+  {
+    "word": "kaam",
+    "start": 20.471,
+    "end": 20.711
+  },
+  {
+    "word": "aayega?",
+    "start": 20.751,
+    "end": 21.191
+  },
+  {
+    "word": "Reality",
+    "start": 21.351,
+    "end": 22.471
+  },
+  {
+    "word": "check:",
+    "start": 22.538,
+    "end": 23.233
+  },
+  {
+    "word": "Your",
+    "start": 23.305,
+    "end": 23.593
+  },
+  {
+    "word": "struggles,",
+    "start": 23.665,
+    "end": 24.633
+  },
+  {
+    "word": "your",
+    "start": 24.665,
+    "end": 24.793
+  },
+  {
+    "word": "failures,",
+    "start": 24.873,
+    "end": 25.593
+  },
+  {
+    "word": "and",
+    "start": 25.693,
+    "end": 25.993
+  },
+  {
+    "word": "your",
+    "start": 26.025,
+    "end": 26.153
+  },
+  {
+    "word": "ultimate",
+    "start": 26.224,
+    "end": 26.792
+  },
+  {
+    "word": "growth...",
+    "start": 26.861,
+    "end": 27.995
+  },
+  {
+    "word": "sab",
+    "start": 28.055,
+    "end": 28.235
+  },
+  {
+    "word": "tumhari",
+    "start": 28.295,
+    "end": 28.715
+  },
+  {
+    "word": "khud",
+    "start": 28.768,
+    "end": 29.034
+  },
+  {
+    "word": "ki",
+    "start": 29.087,
+    "end": 29.193
+  },
+  {
+    "word": "responsibility",
+    "start": 29.252,
+    "end": 30.078
+  },
+  {
+    "word": "hai.",
+    "start": 30.118,
+    "end": 30.318
+  },
+  {
+    "word": "Stop",
+    "start": 30.526,
+    "end": 31.358
+  },
+  {
+    "word": "depending",
+    "start": 31.414,
+    "end": 31.918
+  },
+  {
+    "word": "on",
+    "start": 31.971,
+    "end": 32.077
+  },
+  {
+    "word": "fake",
+    "start": 32.157,
+    "end": 32.477
+  },
+  {
+    "word": "friends.",
+    "start": 32.537,
+    "end": 33.117
+  },
+  {
+    "word": "Akele",
+    "start": 33.397,
+    "end": 33.997
+  },
+  {
+    "word": "aaye",
+    "start": 34.077,
+    "end": 34.316
+  },
+  {
+    "word": "ho,",
+    "start": 34.369,
+    "end": 34.955
+  },
+  {
+    "word": "akele",
+    "start": 35.035,
+    "end": 35.435
+  },
+  {
+    "word": "hi",
+    "start": 35.462,
+    "end": 35.516
+  },
+  {
+    "word": "jeetna",
+    "start": 35.569,
+    "end": 35.915
+  },
+  {
+    "word": "padega.",
+    "start": 35.975,
+    "end": 36.474
+  },
+  {
+    "word": "Share",
+    "start": 36.621,
+    "end": 37.356
+  },
+  {
+    "word": "this",
+    "start": 37.404,
+    "end": 37.596
+  },
+  {
+    "word": "reel",
+    "start": 37.66,
+    "end": 37.916
+  },
+  {
+    "word": "on",
+    "start": 37.969,
+    "end": 38.075
+  },
+  {
+    "word": "your",
+    "start": 38.107,
+    "end": 38.235
+  },
+  {
+    "word": "story",
+    "start": 38.315,
+    "end": 38.715
+  },
+  {
+    "word": "to",
+    "start": 38.768,
+    "end": 38.874
+  },
+  {
+    "word": "filter",
+    "start": 38.943,
+    "end": 39.357
+  },
+  {
+    "word": "out",
+    "start": 39.397,
+    "end": 39.517
+  },
+  {
+    "word": "the",
+    "start": 39.557,
+    "end": 39.677
+  },
+  {
+    "word": "fakes",
+    "start": 39.757,
+    "end": 40.157
+  },
+  {
+    "word": "and",
+    "start": 40.237,
+    "end": 40.477
+  },
+  {
+    "word": "wake",
+    "start": 40.557,
+    "end": 40.877
+  },
+  {
+    "word": "up",
+    "start": 40.93,
+    "end": 41.036
+  },
+  {
+    "word": "the",
+    "start": 41.076,
+    "end": 41.196
+  },
+  {
+    "word": "lone",
+    "start": 41.276,
+    "end": 41.596
+  },
+  {
+    "word": "wolves.",
+    "start": 41.676,
+    "end": 42.316
+  }
+]

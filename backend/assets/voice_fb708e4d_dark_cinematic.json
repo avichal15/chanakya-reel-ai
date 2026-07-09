@@ -1,0 +1,487 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "BEGGING",
+    "start": 0.4,
+    "end": 0.801
+  },
+  {
+    "word": "FOR",
+    "start": 0.861,
+    "end": 1.041
+  },
+  {
+    "word": "SUPPORT!",
+    "start": 1.141,
+    "end": 1.921
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.161,
+    "end": 3.361
+  },
+  {
+    "word": "ne",
+    "start": 3.414,
+    "end": 3.52
+  },
+  {
+    "word": "kaha",
+    "start": 3.56,
+    "end": 3.759
+  },
+  {
+    "word": "tha:",
+    "start": 3.819,
+    "end": 4.319
+  },
+  {
+    "word": "Baarish",
+    "start": 4.426,
+    "end": 4.881
+  },
+  {
+    "word": "ke",
+    "start": 4.934,
+    "end": 5.04
+  },
+  {
+    "word": "paani",
+    "start": 5.093,
+    "end": 5.358
+  },
+  {
+    "word": "jaisa",
+    "start": 5.398,
+    "end": 5.758
+  },
+  {
+    "word": "koi",
+    "start": 5.878,
+    "end": 6.158
+  },
+  {
+    "word": "jal",
+    "start": 6.218,
+    "end": 6.398
+  },
+  {
+    "word": "nahi,",
+    "start": 6.438,
+    "end": 7.198
+  },
+  {
+    "word": "khud",
+    "start": 7.251,
+    "end": 7.437
+  },
+  {
+    "word": "ki",
+    "start": 7.517,
+    "end": 7.677
+  },
+  {
+    "word": "aatma-shakti",
+    "start": 7.757,
+    "end": 8.475
+  },
+  {
+    "word": "jaisa",
+    "start": 8.515,
+    "end": 8.874
+  },
+  {
+    "word": "koi",
+    "start": 8.954,
+    "end": 9.274
+  },
+  {
+    "word": "bal",
+    "start": 9.354,
+    "end": 9.594
+  },
+  {
+    "word": "nahi,",
+    "start": 9.634,
+    "end": 10.553
+  },
+  {
+    "word": "aankhon",
+    "start": 10.593,
+    "end": 10.954
+  },
+  {
+    "word": "jaisi",
+    "start": 11.034,
+    "end": 11.434
+  },
+  {
+    "word": "koi",
+    "start": 11.554,
+    "end": 11.914
+  },
+  {
+    "word": "roshni",
+    "start": 11.994,
+    "end": 12.394
+  },
+  {
+    "word": "nahi,",
+    "start": 12.434,
+    "end": 12.793
+  },
+  {
+    "word": "aur",
+    "start": 12.973,
+    "end": 13.513
+  },
+  {
+    "word": "ann",
+    "start": 13.613,
+    "end": 13.913
+  },
+  {
+    "word": "(food)",
+    "start": 14.193,
+    "end": 14.528
+  },
+  {
+    "word": "jaisa",
+    "start": 14.541,
+    "end": 14.874
+  },
+  {
+    "word": "koi",
+    "start": 15.034,
+    "end": 15.434
+  },
+  {
+    "word": "dhan",
+    "start": 15.514,
+    "end": 15.753
+  },
+  {
+    "word": "nahi.",
+    "start": 15.793,
+    "end": 16.153
+  },
+  {
+    "word": "Tum",
+    "start": 16.513,
+    "end": 16.953
+  },
+  {
+    "word": "apne",
+    "start": 17.006,
+    "end": 17.272
+  },
+  {
+    "word": "'Connections'",
+    "start": 17.312,
+    "end": 18.11
+  },
+  {
+    "word": "aur",
+    "start": 18.14,
+    "end": 18.23
+  },
+  {
+    "word": "'Friends'",
+    "start": 18.31,
+    "end": 18.792
+  },
+  {
+    "word": "ke",
+    "start": 18.819,
+    "end": 18.873
+  },
+  {
+    "word": "sahare",
+    "start": 18.926,
+    "end": 19.272
+  },
+  {
+    "word": "baithe",
+    "start": 19.32,
+    "end": 19.672
+  },
+  {
+    "word": "ho?",
+    "start": 19.725,
+    "end": 19.991
+  },
+  {
+    "word": "Wake",
+    "start": 20.151,
+    "end": 20.791
+  },
+  {
+    "word": "up",
+    "start": 20.844,
+    "end": 20.95
+  },
+  {
+    "word": "bro.",
+    "start": 21.07,
+    "end": 21.75
+  },
+  {
+    "word": "Is",
+    "start": 21.857,
+    "end": 22.071
+  },
+  {
+    "word": "ruthless",
+    "start": 22.133,
+    "end": 22.629
+  },
+  {
+    "word": "duniya",
+    "start": 22.669,
+    "end": 22.948
+  },
+  {
+    "word": "mein",
+    "start": 22.98,
+    "end": 23.108
+  },
+  {
+    "word": "koi",
+    "start": 23.268,
+    "end": 23.588
+  },
+  {
+    "word": "tumhe",
+    "start": 23.648,
+    "end": 23.908
+  },
+  {
+    "word": "save",
+    "start": 23.972,
+    "end": 24.228
+  },
+  {
+    "word": "karne",
+    "start": 24.288,
+    "end": 24.548
+  },
+  {
+    "word": "nahi",
+    "start": 24.588,
+    "end": 24.787
+  },
+  {
+    "word": "aayega.",
+    "start": 24.867,
+    "end": 25.347
+  },
+  {
+    "word": "Tumhara",
+    "start": 25.787,
+    "end": 26.546
+  },
+  {
+    "word": "apna",
+    "start": 26.626,
+    "end": 26.946
+  },
+  {
+    "word": "'Self-Belief'",
+    "start": 27.026,
+    "end": 28.106
+  },
+  {
+    "word": "aur",
+    "start": 28.176,
+    "end": 28.386
+  },
+  {
+    "word": "akele",
+    "start": 28.506,
+    "end": 28.946
+  },
+  {
+    "word": "aage",
+    "start": 28.986,
+    "end": 29.185
+  },
+  {
+    "word": "badhne",
+    "start": 29.245,
+    "end": 29.505
+  },
+  {
+    "word": "ki",
+    "start": 29.585,
+    "end": 29.745
+  },
+  {
+    "word": "himmat",
+    "start": 29.805,
+    "end": 30.144
+  },
+  {
+    "word": "hi",
+    "start": 30.224,
+    "end": 30.384
+  },
+  {
+    "word": "tumhari",
+    "start": 30.504,
+    "end": 31.104
+  },
+  {
+    "word": "aakhiri",
+    "start": 31.264,
+    "end": 31.664
+  },
+  {
+    "word": "taqat",
+    "start": 31.744,
+    "end": 32.224
+  },
+  {
+    "word": "hai.",
+    "start": 32.264,
+    "end": 32.984
+  },
+  {
+    "word": "Stop",
+    "start": 33.104,
+    "end": 33.584
+  },
+  {
+    "word": "relying",
+    "start": 33.634,
+    "end": 33.984
+  },
+  {
+    "word": "on",
+    "start": 34.011,
+    "end": 34.065
+  },
+  {
+    "word": "others,",
+    "start": 34.134,
+    "end": 34.948
+  },
+  {
+    "word": "build",
+    "start": 35.001,
+    "end": 35.266
+  },
+  {
+    "word": "your",
+    "start": 35.298,
+    "end": 35.426
+  },
+  {
+    "word": "own",
+    "start": 35.526,
+    "end": 35.826
+  },
+  {
+    "word": "empire.",
+    "start": 35.929,
+    "end": 36.707
+  },
+  {
+    "word": "Share",
+    "start": 36.84,
+    "end": 37.505
+  },
+  {
+    "word": "this",
+    "start": 37.537,
+    "end": 37.665
+  },
+  {
+    "word": "reel",
+    "start": 37.745,
+    "end": 38.065
+  },
+  {
+    "word": "with",
+    "start": 38.097,
+    "end": 38.225
+  },
+  {
+    "word": "that",
+    "start": 38.273,
+    "end": 38.465
+  },
+  {
+    "word": "one",
+    "start": 38.525,
+    "end": 38.705
+  },
+  {
+    "word": "friend",
+    "start": 38.774,
+    "end": 39.188
+  },
+  {
+    "word": "who",
+    "start": 39.208,
+    "end": 39.268
+  },
+  {
+    "word": "needs",
+    "start": 39.335,
+    "end": 39.67
+  },
+  {
+    "word": "to",
+    "start": 39.697,
+    "end": 39.751
+  },
+  {
+    "word": "stop",
+    "start": 39.831,
+    "end": 40.151
+  },
+  {
+    "word": "depending",
+    "start": 40.191,
+    "end": 40.551
+  },
+  {
+    "word": "on",
+    "start": 40.604,
+    "end": 40.71
+  },
+  {
+    "word": "others",
+    "start": 40.779,
+    "end": 41.193
+  },
+  {
+    "word": "and",
+    "start": 41.333,
+    "end": 41.753
+  },
+  {
+    "word": "realize",
+    "start": 41.823,
+    "end": 42.313
+  },
+  {
+    "word": "their",
+    "start": 42.366,
+    "end": 42.631
+  },
+  {
+    "word": "own",
+    "start": 42.711,
+    "end": 42.951
+  },
+  {
+    "word": "worth.",
+    "start": 43.031,
+    "end": 43.511
+  }
+]

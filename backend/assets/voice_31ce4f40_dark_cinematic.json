@@ -1,0 +1,442 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "CHANGING",
+    "start": 0.32,
+    "end": 0.798
+  },
+  {
+    "word": "YOUR",
+    "start": 0.83,
+    "end": 0.958
+  },
+  {
+    "word": "DECISIONS!",
+    "start": 1.038,
+    "end": 1.918
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.222,
+    "end": 3.758
+  },
+  {
+    "word": "ne",
+    "start": 3.811,
+    "end": 3.917
+  },
+  {
+    "word": "kaha",
+    "start": 3.997,
+    "end": 4.236
+  },
+  {
+    "word": "tha:",
+    "start": 4.276,
+    "end": 4.476
+  },
+  {
+    "word": "Ek",
+    "start": 4.849,
+    "end": 5.595
+  },
+  {
+    "word": "raja",
+    "start": 5.635,
+    "end": 5.996
+  },
+  {
+    "word": "ka",
+    "start": 6.076,
+    "end": 6.236
+  },
+  {
+    "word": "aadesh,",
+    "start": 6.316,
+    "end": 7.036
+  },
+  {
+    "word": "ek",
+    "start": 7.223,
+    "end": 7.597
+  },
+  {
+    "word": "vidwan",
+    "start": 7.657,
+    "end": 8.077
+  },
+  {
+    "word": "ki",
+    "start": 8.13,
+    "end": 8.236
+  },
+  {
+    "word": "baat,",
+    "start": 8.316,
+    "end": 8.716
+  },
+  {
+    "word": "aur",
+    "start": 8.936,
+    "end": 9.596
+  },
+  {
+    "word": "ek",
+    "start": 9.729,
+    "end": 9.995
+  },
+  {
+    "word": "kanyadaan\u2014ye",
+    "start": 10.035,
+    "end": 11.594
+  },
+  {
+    "word": "teeno",
+    "start": 11.69,
+    "end": 12.154
+  },
+  {
+    "word": "zindagi",
+    "start": 12.234,
+    "end": 12.635
+  },
+  {
+    "word": "mein",
+    "start": 12.667,
+    "end": 12.795
+  },
+  {
+    "word": "sirf",
+    "start": 12.895,
+    "end": 13.275
+  },
+  {
+    "word": "ek",
+    "start": 13.408,
+    "end": 13.674
+  },
+  {
+    "word": "baar",
+    "start": 13.727,
+    "end": 13.913
+  },
+  {
+    "word": "hote",
+    "start": 13.953,
+    "end": 14.233
+  },
+  {
+    "word": "hain.",
+    "start": 14.273,
+    "end": 15.514
+  },
+  {
+    "word": "Aaj",
+    "start": 15.594,
+    "end": 15.834
+  },
+  {
+    "word": "kal",
+    "start": 15.874,
+    "end": 15.994
+  },
+  {
+    "word": "log",
+    "start": 16.074,
+    "end": 16.314
+  },
+  {
+    "word": "commitment",
+    "start": 16.358,
+    "end": 16.798
+  },
+  {
+    "word": "karte",
+    "start": 16.838,
+    "end": 17.198
+  },
+  {
+    "word": "hain",
+    "start": 17.238,
+    "end": 17.437
+  },
+  {
+    "word": "aur",
+    "start": 17.577,
+    "end": 17.997
+  },
+  {
+    "word": "agle",
+    "start": 18.05,
+    "end": 18.316
+  },
+  {
+    "word": "din",
+    "start": 18.376,
+    "end": 18.556
+  },
+  {
+    "word": "mukar",
+    "start": 18.596,
+    "end": 18.876
+  },
+  {
+    "word": "jaate",
+    "start": 18.929,
+    "end": 19.194
+  },
+  {
+    "word": "hain.",
+    "start": 19.234,
+    "end": 19.435
+  },
+  {
+    "word": "Corporate",
+    "start": 19.571,
+    "end": 20.795
+  },
+  {
+    "word": "deal",
+    "start": 20.859,
+    "end": 21.115
+  },
+  {
+    "word": "ho",
+    "start": 21.195,
+    "end": 21.355
+  },
+  {
+    "word": "ya",
+    "start": 21.408,
+    "end": 21.514
+  },
+  {
+    "word": "tumhara",
+    "start": 21.554,
+    "end": 21.913
+  },
+  {
+    "word": "friend",
+    "start": 21.959,
+    "end": 22.235
+  },
+  {
+    "word": "circle,",
+    "start": 22.292,
+    "end": 23.194
+  },
+  {
+    "word": "agar",
+    "start": 23.242,
+    "end": 23.434
+  },
+  {
+    "word": "tum",
+    "start": 23.514,
+    "end": 23.754
+  },
+  {
+    "word": "apne",
+    "start": 23.807,
+    "end": 23.993
+  },
+  {
+    "word": "decisions",
+    "start": 24.049,
+    "end": 24.553
+  },
+  {
+    "word": "flip",
+    "start": 24.617,
+    "end": 24.873
+  },
+  {
+    "word": "karte",
+    "start": 24.913,
+    "end": 25.273
+  },
+  {
+    "word": "ho,",
+    "start": 25.326,
+    "end": 25.592
+  },
+  {
+    "word": "toh",
+    "start": 25.692,
+    "end": 25.992
+  },
+  {
+    "word": "koi",
+    "start": 26.072,
+    "end": 26.312
+  },
+  {
+    "word": "tumhe",
+    "start": 26.372,
+    "end": 26.632
+  },
+  {
+    "word": "respect",
+    "start": 26.692,
+    "end": 27.112
+  },
+  {
+    "word": "nahi",
+    "start": 27.192,
+    "end": 27.431
+  },
+  {
+    "word": "karega.",
+    "start": 27.471,
+    "end": 27.91
+  },
+  {
+    "word": "Be",
+    "start": 28.23,
+    "end": 28.87
+  },
+  {
+    "word": "a",
+    "start": 28.91,
+    "end": 28.95
+  },
+  {
+    "word": "man",
+    "start": 29.03,
+    "end": 29.27
+  },
+  {
+    "word": "of",
+    "start": 29.297,
+    "end": 29.351
+  },
+  {
+    "word": "your",
+    "start": 29.383,
+    "end": 29.511
+  },
+  {
+    "word": "word.",
+    "start": 29.607,
+    "end": 30.071
+  },
+  {
+    "word": "Ek",
+    "start": 30.391,
+    "end": 31.031
+  },
+  {
+    "word": "baar",
+    "start": 31.084,
+    "end": 31.35
+  },
+  {
+    "word": "decision",
+    "start": 31.394,
+    "end": 31.746
+  },
+  {
+    "word": "le",
+    "start": 31.826,
+    "end": 31.986
+  },
+  {
+    "word": "liya,",
+    "start": 32.039,
+    "end": 32.385
+  },
+  {
+    "word": "toh",
+    "start": 32.465,
+    "end": 32.705
+  },
+  {
+    "word": "uspe",
+    "start": 32.812,
+    "end": 33.186
+  },
+  {
+    "word": "stand",
+    "start": 33.279,
+    "end": 33.744
+  },
+  {
+    "word": "lo.",
+    "start": 33.797,
+    "end": 33.983
+  },
+  {
+    "word": "Tag",
+    "start": 34.383,
+    "end": 35.583
+  },
+  {
+    "word": "that",
+    "start": 35.631,
+    "end": 35.823
+  },
+  {
+    "word": "friend",
+    "start": 35.88,
+    "end": 36.222
+  },
+  {
+    "word": "jo",
+    "start": 36.302,
+    "end": 36.462
+  },
+  {
+    "word": "humesha",
+    "start": 36.542,
+    "end": 37.102
+  },
+  {
+    "word": "apne",
+    "start": 37.182,
+    "end": 37.422
+  },
+  {
+    "word": "plans",
+    "start": 37.515,
+    "end": 37.98
+  },
+  {
+    "word": "aur",
+    "start": 38.04,
+    "end": 38.22
+  },
+  {
+    "word": "promises",
+    "start": 38.282,
+    "end": 38.778
+  },
+  {
+    "word": "se",
+    "start": 38.831,
+    "end": 38.937
+  },
+  {
+    "word": "peeche",
+    "start": 39.017,
+    "end": 39.416
+  },
+  {
+    "word": "hat",
+    "start": 39.456,
+    "end": 39.576
+  },
+  {
+    "word": "jata",
+    "start": 39.616,
+    "end": 39.896
+  },
+  {
+    "word": "hai.",
+    "start": 39.936,
+    "end": 40.216
+  }
+]

@@ -1,0 +1,21 @@
+.env: exists=False
+.env.local: exists=True
+  GEMINI_API_KEY=PLAC..._KEY
+backend\.env: exists=True
+  GEMINI_API_KEY=AIza...7WU8
+  ELEVENLABS_API_KEY=08fe...7ae7
+backend\.env.local: exists=False
+
+--- script_engine.py env path resolution ---
+Primary .env: C:\Users\avich\Downloads\chanakya-reel-ai\.env (exists=False)
+Fallback .env: C:\Users\avich\Downloads\chanakya-reel-ai\backend\.env (exists=True)
+
+--- voice_engine.py env path resolution ---
+voice_engine .env: C:\Users\avich\Downloads\chanakya-reel-ai\backend\.env (exists=True)
+
+ELEVENLABS_API_KEY from env: NOT SET
+GEMINI_API_KEY from env: NOT SET...
+
+After loading all .envs:
+ELEVENLABS_API_KEY: 08feea64c83c50919f600604d7690caaa27a24a5462fe1992647c9e713f67ae7
+GEMINI_API_KEY: PLACEHOLDER_API_KEY...

@@ -1,0 +1,407 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "CHANGING",
+    "start": 0.32,
+    "end": 0.72
+  },
+  {
+    "word": "YOUR",
+    "start": 0.752,
+    "end": 0.88
+  },
+  {
+    "word": "WORDS!",
+    "start": 0.992,
+    "end": 1.68
+  },
+  {
+    "word": "Chanakya",
+    "start": 1.968,
+    "end": 3.52
+  },
+  {
+    "word": "ne",
+    "start": 3.573,
+    "end": 3.679
+  },
+  {
+    "word": "kaha",
+    "start": 3.759,
+    "end": 3.998
+  },
+  {
+    "word": "tha:",
+    "start": 4.038,
+    "end": 4.238
+  },
+  {
+    "word": "Ek",
+    "start": 4.558,
+    "end": 5.198
+  },
+  {
+    "word": "sachha",
+    "start": 5.262,
+    "end": 5.598
+  },
+  {
+    "word": "raja",
+    "start": 5.678,
+    "end": 6.079
+  },
+  {
+    "word": "aur",
+    "start": 6.219,
+    "end": 6.639
+  },
+  {
+    "word": "ek",
+    "start": 6.692,
+    "end": 6.798
+  },
+  {
+    "word": "vidwan",
+    "start": 6.878,
+    "end": 7.358
+  },
+  {
+    "word": "vyakti",
+    "start": 7.411,
+    "end": 7.917
+  },
+  {
+    "word": "sirf",
+    "start": 7.997,
+    "end": 8.317
+  },
+  {
+    "word": "ek",
+    "start": 8.45,
+    "end": 8.716
+  },
+  {
+    "word": "baar",
+    "start": 8.769,
+    "end": 8.955
+  },
+  {
+    "word": "bolta",
+    "start": 9.015,
+    "end": 9.355
+  },
+  {
+    "word": "hai,",
+    "start": 9.415,
+    "end": 10.155
+  },
+  {
+    "word": "aur",
+    "start": 10.195,
+    "end": 10.315
+  },
+  {
+    "word": "apni",
+    "start": 10.368,
+    "end": 10.554
+  },
+  {
+    "word": "baat",
+    "start": 10.607,
+    "end": 10.873
+  },
+  {
+    "word": "se",
+    "start": 10.953,
+    "end": 11.113
+  },
+  {
+    "word": "kabhi",
+    "start": 11.173,
+    "end": 11.433
+  },
+  {
+    "word": "piche",
+    "start": 11.493,
+    "end": 11.753
+  },
+  {
+    "word": "nahi",
+    "start": 11.793,
+    "end": 11.992
+  },
+  {
+    "word": "hat-ta.",
+    "start": 12.052,
+    "end": 13.592
+  },
+  {
+    "word": "Aaj",
+    "start": 13.672,
+    "end": 13.912
+  },
+  {
+    "word": "kal",
+    "start": 13.952,
+    "end": 14.072
+  },
+  {
+    "word": "log",
+    "start": 14.172,
+    "end": 14.472
+  },
+  {
+    "word": "convenience",
+    "start": 14.525,
+    "end": 15.108
+  },
+  {
+    "word": "ke",
+    "start": 15.161,
+    "end": 15.267
+  },
+  {
+    "word": "hisaab",
+    "start": 15.327,
+    "end": 15.666
+  },
+  {
+    "word": "se",
+    "start": 15.746,
+    "end": 15.906
+  },
+  {
+    "word": "commitments",
+    "start": 15.959,
+    "end": 16.542
+  },
+  {
+    "word": "change",
+    "start": 16.599,
+    "end": 16.941
+  },
+  {
+    "word": "kar",
+    "start": 16.961,
+    "end": 17.021
+  },
+  {
+    "word": "lete",
+    "start": 17.074,
+    "end": 17.42
+  },
+  {
+    "word": "hain.",
+    "start": 17.46,
+    "end": 18.461
+  },
+  {
+    "word": "Corporate",
+    "start": 18.509,
+    "end": 18.941
+  },
+  {
+    "word": "ho",
+    "start": 18.994,
+    "end": 19.1
+  },
+  {
+    "word": "ya",
+    "start": 19.153,
+    "end": 19.259
+  },
+  {
+    "word": "personal",
+    "start": 19.312,
+    "end": 19.736
+  },
+  {
+    "word": "life,",
+    "start": 19.816,
+    "end": 20.696
+  },
+  {
+    "word": "agar",
+    "start": 20.744,
+    "end": 20.936
+  },
+  {
+    "word": "tumhara",
+    "start": 20.996,
+    "end": 21.415
+  },
+  {
+    "word": "word",
+    "start": 21.495,
+    "end": 21.815
+  },
+  {
+    "word": "weak",
+    "start": 21.879,
+    "end": 22.135
+  },
+  {
+    "word": "hai,",
+    "start": 22.175,
+    "end": 22.455
+  },
+  {
+    "word": "toh",
+    "start": 22.555,
+    "end": 22.855
+  },
+  {
+    "word": "tumhara",
+    "start": 22.895,
+    "end": 23.254
+  },
+  {
+    "word": "character",
+    "start": 23.31,
+    "end": 23.814
+  },
+  {
+    "word": "weak",
+    "start": 23.862,
+    "end": 24.054
+  },
+  {
+    "word": "hai.",
+    "start": 24.094,
+    "end": 24.854
+  },
+  {
+    "word": "Ek",
+    "start": 25.067,
+    "end": 25.493
+  },
+  {
+    "word": "Sigma",
+    "start": 25.56,
+    "end": 25.895
+  },
+  {
+    "word": "apni",
+    "start": 26.002,
+    "end": 26.296
+  },
+  {
+    "word": "baat",
+    "start": 26.349,
+    "end": 26.615
+  },
+  {
+    "word": "ka",
+    "start": 26.668,
+    "end": 26.774
+  },
+  {
+    "word": "pakka",
+    "start": 26.854,
+    "end": 27.174
+  },
+  {
+    "word": "hota",
+    "start": 27.254,
+    "end": 27.614
+  },
+  {
+    "word": "hai.",
+    "start": 27.644,
+    "end": 27.814
+  },
+  {
+    "word": "Jo",
+    "start": 28.081,
+    "end": 28.615
+  },
+  {
+    "word": "bol",
+    "start": 28.695,
+    "end": 28.935
+  },
+  {
+    "word": "diya,",
+    "start": 28.988,
+    "end": 29.254
+  },
+  {
+    "word": "wo",
+    "start": 29.414,
+    "end": 29.734
+  },
+  {
+    "word": "pathar",
+    "start": 29.814,
+    "end": 30.214
+  },
+  {
+    "word": "ki",
+    "start": 30.267,
+    "end": 30.373
+  },
+  {
+    "word": "lakeer",
+    "start": 30.437,
+    "end": 30.773
+  },
+  {
+    "word": "hai.",
+    "start": 30.833,
+    "end": 31.093
+  },
+  {
+    "word": "Share",
+    "start": 31.306,
+    "end": 32.371
+  },
+  {
+    "word": "this",
+    "start": 32.419,
+    "end": 32.611
+  },
+  {
+    "word": "reel",
+    "start": 32.675,
+    "end": 32.931
+  },
+  {
+    "word": "with",
+    "start": 32.963,
+    "end": 33.091
+  },
+  {
+    "word": "someone",
+    "start": 33.141,
+    "end": 33.491
+  },
+  {
+    "word": "who",
+    "start": 33.531,
+    "end": 33.651
+  },
+  {
+    "word": "always",
+    "start": 33.731,
+    "end": 34.211
+  },
+  {
+    "word": "breaks",
+    "start": 34.268,
+    "end": 34.61
+  },
+  {
+    "word": "their",
+    "start": 34.65,
+    "end": 34.85
+  },
+  {
+    "word": "promises.",
+    "start": 34.912,
+    "end": 35.568
+  }
+]

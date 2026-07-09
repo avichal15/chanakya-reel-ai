@@ -1,0 +1,432 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "EXPLAINING",
+    "start": 0.56,
+    "end": 1.201
+  },
+  {
+    "word": "YOURSELF!",
+    "start": 1.249,
+    "end": 1.841
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.145,
+    "end": 3.681
+  },
+  {
+    "word": "ne",
+    "start": 3.734,
+    "end": 3.84
+  },
+  {
+    "word": "kaha",
+    "start": 3.88,
+    "end": 4.079
+  },
+  {
+    "word": "tha:",
+    "start": 4.139,
+    "end": 4.399
+  },
+  {
+    "word": "Raja",
+    "start": 4.799,
+    "end": 5.52
+  },
+  {
+    "word": "apni",
+    "start": 5.6,
+    "end": 5.84
+  },
+  {
+    "word": "baat",
+    "start": 5.893,
+    "end": 6.159
+  },
+  {
+    "word": "ek",
+    "start": 6.239,
+    "end": 6.399
+  },
+  {
+    "word": "hi",
+    "start": 6.426,
+    "end": 6.48
+  },
+  {
+    "word": "baar",
+    "start": 6.533,
+    "end": 6.719
+  },
+  {
+    "word": "bolte",
+    "start": 6.759,
+    "end": 7.039
+  },
+  {
+    "word": "hain,",
+    "start": 7.079,
+    "end": 7.36
+  },
+  {
+    "word": "aur",
+    "start": 7.52,
+    "end": 8.0
+  },
+  {
+    "word": "vidwan",
+    "start": 8.06,
+    "end": 8.561
+  },
+  {
+    "word": "apna",
+    "start": 8.641,
+    "end": 8.961
+  },
+  {
+    "word": "ailaan",
+    "start": 9.001,
+    "end": 9.441
+  },
+  {
+    "word": "ek",
+    "start": 9.574,
+    "end": 9.84
+  },
+  {
+    "word": "hi",
+    "start": 9.867,
+    "end": 9.921
+  },
+  {
+    "word": "baar",
+    "start": 9.948,
+    "end": 10.082
+  },
+  {
+    "word": "karte",
+    "start": 10.122,
+    "end": 10.482
+  },
+  {
+    "word": "hain.",
+    "start": 10.522,
+    "end": 10.803
+  },
+  {
+    "word": "Ye",
+    "start": 11.07,
+    "end": 11.604
+  },
+  {
+    "word": "cheezein",
+    "start": 11.664,
+    "end": 12.084
+  },
+  {
+    "word": "sirf",
+    "start": 12.164,
+    "end": 12.484
+  },
+  {
+    "word": "ek",
+    "start": 12.644,
+    "end": 12.964
+  },
+  {
+    "word": "baar",
+    "start": 13.017,
+    "end": 13.203
+  },
+  {
+    "word": "hoti",
+    "start": 13.263,
+    "end": 13.523
+  },
+  {
+    "word": "hain.",
+    "start": 13.563,
+    "end": 13.842
+  },
+  {
+    "word": "Bro,",
+    "start": 14.142,
+    "end": 15.122
+  },
+  {
+    "word": "agar",
+    "start": 15.266,
+    "end": 15.842
+  },
+  {
+    "word": "tum",
+    "start": 15.902,
+    "end": 16.082
+  },
+  {
+    "word": "apne",
+    "start": 16.109,
+    "end": 16.323
+  },
+  {
+    "word": "boundaries",
+    "start": 16.381,
+    "end": 16.961
+  },
+  {
+    "word": "aur",
+    "start": 17.001,
+    "end": 17.121
+  },
+  {
+    "word": "decisions",
+    "start": 17.177,
+    "end": 17.681
+  },
+  {
+    "word": "ko",
+    "start": 17.734,
+    "end": 17.84
+  },
+  {
+    "word": "apne",
+    "start": 17.893,
+    "end": 18.159
+  },
+  {
+    "word": "circle",
+    "start": 18.25,
+    "end": 18.796
+  },
+  {
+    "word": "ya",
+    "start": 18.903,
+    "end": 19.117
+  },
+  {
+    "word": "corporate",
+    "start": 19.173,
+    "end": 19.677
+  },
+  {
+    "word": "job",
+    "start": 19.757,
+    "end": 19.997
+  },
+  {
+    "word": "mein",
+    "start": 20.029,
+    "end": 20.157
+  },
+  {
+    "word": "baar-baar",
+    "start": 20.264,
+    "end": 20.877
+  },
+  {
+    "word": "explain",
+    "start": 20.927,
+    "end": 21.277
+  },
+  {
+    "word": "kar",
+    "start": 21.337,
+    "end": 21.517
+  },
+  {
+    "word": "rahe",
+    "start": 21.544,
+    "end": 21.678
+  },
+  {
+    "word": "ho,",
+    "start": 21.758,
+    "end": 21.998
+  },
+  {
+    "word": "toh",
+    "start": 22.118,
+    "end": 22.478
+  },
+  {
+    "word": "tumhari",
+    "start": 22.538,
+    "end": 22.958
+  },
+  {
+    "word": "value",
+    "start": 23.038,
+    "end": 23.438
+  },
+  {
+    "word": "zero",
+    "start": 23.534,
+    "end": 23.918
+  },
+  {
+    "word": "hai.",
+    "start": 23.978,
+    "end": 24.678
+  },
+  {
+    "word": "Say",
+    "start": 24.808,
+    "end": 25.198
+  },
+  {
+    "word": "it",
+    "start": 25.251,
+    "end": 25.357
+  },
+  {
+    "word": "once.",
+    "start": 25.469,
+    "end": 26.077
+  },
+  {
+    "word": "Ek",
+    "start": 26.37,
+    "end": 26.956
+  },
+  {
+    "word": "baar",
+    "start": 27.009,
+    "end": 27.275
+  },
+  {
+    "word": "'No'",
+    "start": 27.315,
+    "end": 27.515
+  },
+  {
+    "word": "bol",
+    "start": 27.555,
+    "end": 27.675
+  },
+  {
+    "word": "diya,",
+    "start": 27.728,
+    "end": 28.194
+  },
+  {
+    "word": "toh",
+    "start": 28.244,
+    "end": 28.394
+  },
+  {
+    "word": "wo",
+    "start": 28.447,
+    "end": 28.553
+  },
+  {
+    "word": "final",
+    "start": 28.633,
+    "end": 29.033
+  },
+  {
+    "word": "hai.",
+    "start": 29.093,
+    "end": 29.433
+  },
+  {
+    "word": "Make",
+    "start": 29.609,
+    "end": 30.313
+  },
+  {
+    "word": "your",
+    "start": 30.345,
+    "end": 30.473
+  },
+  {
+    "word": "words",
+    "start": 30.553,
+    "end": 30.953
+  },
+  {
+    "word": "expensive.",
+    "start": 31.049,
+    "end": 32.433
+  },
+  {
+    "word": "Share",
+    "start": 32.52,
+    "end": 32.955
+  },
+  {
+    "word": "this",
+    "start": 33.019,
+    "end": 33.275
+  },
+  {
+    "word": "with",
+    "start": 33.307,
+    "end": 33.435
+  },
+  {
+    "word": "that",
+    "start": 33.483,
+    "end": 33.675
+  },
+  {
+    "word": "one",
+    "start": 33.755,
+    "end": 33.995
+  },
+  {
+    "word": "friend",
+    "start": 34.052,
+    "end": 34.394
+  },
+  {
+    "word": "who",
+    "start": 34.434,
+    "end": 34.554
+  },
+  {
+    "word": "needs",
+    "start": 34.607,
+    "end": 34.872
+  },
+  {
+    "word": "to",
+    "start": 34.899,
+    "end": 34.953
+  },
+  {
+    "word": "stop",
+    "start": 35.033,
+    "end": 35.353
+  },
+  {
+    "word": "explaining",
+    "start": 35.404,
+    "end": 35.914
+  },
+  {
+    "word": "themselves",
+    "start": 35.965,
+    "end": 36.475
+  },
+  {
+    "word": "to",
+    "start": 36.608,
+    "end": 36.874
+  },
+  {
+    "word": "toxic",
+    "start": 36.967,
+    "end": 37.432
+  },
+  {
+    "word": "people.",
+    "start": 37.501,
+    "end": 37.995
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "HALF-ASSING",
+    "start": 0.48,
+    "end": 1.199
+  },
+  {
+    "word": "YOUR",
+    "start": 1.231,
+    "end": 1.359
+  },
+  {
+    "word": "LIFE!",
+    "start": 1.471,
+    "end": 1.999
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.271,
+    "end": 3.679
+  },
+  {
+    "word": "ne",
+    "start": 3.732,
+    "end": 3.838
+  },
+  {
+    "word": "kaha",
+    "start": 3.878,
+    "end": 4.077
+  },
+  {
+    "word": "tha:",
+    "start": 4.137,
+    "end": 4.397
+  },
+  {
+    "word": "Chahe",
+    "start": 4.597,
+    "end": 5.277
+  },
+  {
+    "word": "kaam",
+    "start": 5.357,
+    "end": 5.597
+  },
+  {
+    "word": "chota",
+    "start": 5.677,
+    "end": 6.077
+  },
+  {
+    "word": "ho",
+    "start": 6.13,
+    "end": 6.236
+  },
+  {
+    "word": "ya",
+    "start": 6.316,
+    "end": 6.476
+  },
+  {
+    "word": "bada,",
+    "start": 6.516,
+    "end": 7.275
+  },
+  {
+    "word": "insaan",
+    "start": 7.355,
+    "end": 7.835
+  },
+  {
+    "word": "ko",
+    "start": 7.915,
+    "end": 8.075
+  },
+  {
+    "word": "apna",
+    "start": 8.155,
+    "end": 8.475
+  },
+  {
+    "word": "poora",
+    "start": 8.582,
+    "end": 9.036
+  },
+  {
+    "word": "zor",
+    "start": 9.136,
+    "end": 9.436
+  },
+  {
+    "word": "lagana",
+    "start": 9.476,
+    "end": 9.755
+  },
+  {
+    "word": "chahiye.",
+    "start": 9.808,
+    "end": 11.114
+  },
+  {
+    "word": "Ye",
+    "start": 11.167,
+    "end": 11.273
+  },
+  {
+    "word": "ek",
+    "start": 11.38,
+    "end": 11.594
+  },
+  {
+    "word": "cheez",
+    "start": 11.634,
+    "end": 11.994
+  },
+  {
+    "word": "hume",
+    "start": 12.034,
+    "end": 12.234
+  },
+  {
+    "word": "Sher",
+    "start": 12.346,
+    "end": 12.794
+  },
+  {
+    "word": "(Lion)",
+    "start": 12.994,
+    "end": 13.594
+  },
+  {
+    "word": "se",
+    "start": 13.647,
+    "end": 13.753
+  },
+  {
+    "word": "seekhni",
+    "start": 13.801,
+    "end": 14.153
+  },
+  {
+    "word": "chahiye.",
+    "start": 14.206,
+    "end": 15.231
+  },
+  {
+    "word": "Bro,",
+    "start": 15.381,
+    "end": 15.911
+  },
+  {
+    "word": "tumhara",
+    "start": 16.031,
+    "end": 16.63
+  },
+  {
+    "word": "problem",
+    "start": 16.68,
+    "end": 17.03
+  },
+  {
+    "word": "pata",
+    "start": 17.07,
+    "end": 17.269
+  },
+  {
+    "word": "hai",
+    "start": 17.309,
+    "end": 17.429
+  },
+  {
+    "word": "kya",
+    "start": 17.469,
+    "end": 17.669
+  },
+  {
+    "word": "hai?",
+    "start": 17.709,
+    "end": 18.469
+  },
+  {
+    "word": "Tum",
+    "start": 18.509,
+    "end": 18.629
+  },
+  {
+    "word": "overthink",
+    "start": 18.725,
+    "end": 19.349
+  },
+  {
+    "word": "karte",
+    "start": 19.389,
+    "end": 19.669
+  },
+  {
+    "word": "ho",
+    "start": 19.776,
+    "end": 19.99
+  },
+  {
+    "word": "aur",
+    "start": 20.11,
+    "end": 20.47
+  },
+  {
+    "word": "under-execute",
+    "start": 20.537,
+    "end": 21.432
+  },
+  {
+    "word": "karte",
+    "start": 21.472,
+    "end": 21.752
+  },
+  {
+    "word": "ho.",
+    "start": 21.832,
+    "end": 22.552
+  },
+  {
+    "word": "Corporate",
+    "start": 22.608,
+    "end": 23.112
+  },
+  {
+    "word": "grind",
+    "start": 23.179,
+    "end": 23.514
+  },
+  {
+    "word": "ho",
+    "start": 23.594,
+    "end": 23.754
+  },
+  {
+    "word": "ya",
+    "start": 23.807,
+    "end": 23.913
+  },
+  {
+    "word": "personal",
+    "start": 23.975,
+    "end": 24.471
+  },
+  {
+    "word": "growth,",
+    "start": 24.528,
+    "end": 25.35
+  },
+  {
+    "word": "agar",
+    "start": 25.414,
+    "end": 25.67
+  },
+  {
+    "word": "effort",
+    "start": 25.727,
+    "end": 26.069
+  },
+  {
+    "word": "100%",
+    "start": 26.229,
+    "end": 26.87
+  },
+  {
+    "word": "nahi",
+    "start": 26.91,
+    "end": 27.19
+  },
+  {
+    "word": "hai,",
+    "start": 27.23,
+    "end": 27.83
+  },
+  {
+    "word": "toh",
+    "start": 27.87,
+    "end": 27.99
+  },
+  {
+    "word": "fail",
+    "start": 28.07,
+    "end": 28.39
+  },
+  {
+    "word": "hona",
+    "start": 28.45,
+    "end": 28.71
+  },
+  {
+    "word": "guaranteed",
+    "start": 28.79,
+    "end": 29.59
+  },
+  {
+    "word": "hai.",
+    "start": 29.63,
+    "end": 30.63
+  },
+  {
+    "word": "Sher",
+    "start": 30.71,
+    "end": 31.03
+  },
+  {
+    "word": "kabhi",
+    "start": 31.07,
+    "end": 31.27
+  },
+  {
+    "word": "shikaar",
+    "start": 31.323,
+    "end": 31.749
+  },
+  {
+    "word": "casually",
+    "start": 31.82,
+    "end": 32.388
+  },
+  {
+    "word": "nahi",
+    "start": 32.428,
+    "end": 32.627
+  },
+  {
+    "word": "karta.",
+    "start": 32.667,
+    "end": 33.187
+  },
+  {
+    "word": "Be",
+    "start": 33.454,
+    "end": 33.988
+  },
+  {
+    "word": "ruthless.",
+    "start": 34.086,
+    "end": 34.95
+  },
+  {
+    "word": "Share",
+    "start": 35.097,
+    "end": 35.832
+  },
+  {
+    "word": "this",
+    "start": 35.88,
+    "end": 36.072
+  },
+  {
+    "word": "reel",
+    "start": 36.136,
+    "end": 36.392
+  },
+  {
+    "word": "with",
+    "start": 36.424,
+    "end": 36.552
+  },
+  {
+    "word": "that",
+    "start": 36.6,
+    "end": 36.792
+  },
+  {
+    "word": "one",
+    "start": 36.872,
+    "end": 37.112
+  },
+  {
+    "word": "friend",
+    "start": 37.169,
+    "end": 37.511
+  },
+  {
+    "word": "who",
+    "start": 37.551,
+    "end": 37.671
+  },
+  {
+    "word": "has",
+    "start": 37.731,
+    "end": 37.911
+  },
+  {
+    "word": "massive",
+    "start": 37.981,
+    "end": 38.471
+  },
+  {
+    "word": "potential",
+    "start": 38.535,
+    "end": 39.111
+  },
+  {
+    "word": "but",
+    "start": 39.251,
+    "end": 39.671
+  },
+  {
+    "word": "is",
+    "start": 39.724,
+    "end": 39.83
+  },
+  {
+    "word": "wasting",
+    "start": 39.9,
+    "end": 40.39
+  },
+  {
+    "word": "it.",
+    "start": 40.47,
+    "end": 40.79
+  }
+]

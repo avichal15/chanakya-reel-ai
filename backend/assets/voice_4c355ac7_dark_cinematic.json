@@ -1,0 +1,422 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "BANK",
+    "start": 0.224,
+    "end": 0.48
+  },
+  {
+    "word": "BALANCE",
+    "start": 0.54,
+    "end": 0.96
+  },
+  {
+    "word": "IS",
+    "start": 1.093,
+    "end": 1.359
+  },
+  {
+    "word": "A",
+    "start": 1.479,
+    "end": 1.599
+  },
+  {
+    "word": "LIE.",
+    "start": 1.719,
+    "end": 2.239
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.495,
+    "end": 3.839
+  },
+  {
+    "word": "ne",
+    "start": 3.892,
+    "end": 3.998
+  },
+  {
+    "word": "kaha",
+    "start": 4.038,
+    "end": 4.237
+  },
+  {
+    "word": "tha:",
+    "start": 4.297,
+    "end": 4.557
+  },
+  {
+    "word": "Ye",
+    "start": 4.85,
+    "end": 5.436
+  },
+  {
+    "word": "dhan,",
+    "start": 5.516,
+    "end": 5.996
+  },
+  {
+    "word": "daulat,",
+    "start": 6.156,
+    "end": 7.076
+  },
+  {
+    "word": "aur",
+    "start": 7.146,
+    "end": 7.356
+  },
+  {
+    "word": "zindagi",
+    "start": 7.476,
+    "end": 7.995
+  },
+  {
+    "word": "sab",
+    "start": 8.195,
+    "end": 8.795
+  },
+  {
+    "word": "temporary",
+    "start": 8.851,
+    "end": 9.355
+  },
+  {
+    "word": "hai.",
+    "start": 9.415,
+    "end": 9.755
+  },
+  {
+    "word": "Is",
+    "start": 10.022,
+    "end": 10.556
+  },
+  {
+    "word": "badalte",
+    "start": 10.616,
+    "end": 11.116
+  },
+  {
+    "word": "hue",
+    "start": 11.176,
+    "end": 11.356
+  },
+  {
+    "word": "sansar",
+    "start": 11.436,
+    "end": 11.916
+  },
+  {
+    "word": "mein",
+    "start": 11.964,
+    "end": 12.156
+  },
+  {
+    "word": "sirf",
+    "start": 12.336,
+    "end": 12.956
+  },
+  {
+    "word": "tumhara",
+    "start": 12.996,
+    "end": 13.355
+  },
+  {
+    "word": "'Dharma'",
+    "start": 13.435,
+    "end": 13.995
+  },
+  {
+    "word": "yani",
+    "start": 14.139,
+    "end": 14.715
+  },
+  {
+    "word": "tumhara",
+    "start": 14.755,
+    "end": 15.114
+  },
+  {
+    "word": "character",
+    "start": 15.17,
+    "end": 15.674
+  },
+  {
+    "word": "hi",
+    "start": 15.727,
+    "end": 15.833
+  },
+  {
+    "word": "permanent",
+    "start": 15.889,
+    "end": 16.393
+  },
+  {
+    "word": "hai.",
+    "start": 16.433,
+    "end": 16.713
+  },
+  {
+    "word": "Bro,",
+    "start": 16.953,
+    "end": 17.753
+  },
+  {
+    "word": "tum",
+    "start": 17.873,
+    "end": 18.233
+  },
+  {
+    "word": "jis",
+    "start": 18.273,
+    "end": 18.473
+  },
+  {
+    "word": "'Corporate",
+    "start": 18.553,
+    "end": 19.11
+  },
+  {
+    "word": "Growth'",
+    "start": 19.179,
+    "end": 19.673
+  },
+  {
+    "word": "aur",
+    "start": 19.733,
+    "end": 19.913
+  },
+  {
+    "word": "'Rich",
+    "start": 19.953,
+    "end": 20.233
+  },
+  {
+    "word": "Circle'",
+    "start": 20.29,
+    "end": 20.712
+  },
+  {
+    "word": "ke",
+    "start": 20.739,
+    "end": 20.793
+  },
+  {
+    "word": "peeche",
+    "start": 20.853,
+    "end": 21.192
+  },
+  {
+    "word": "bhaag",
+    "start": 21.232,
+    "end": 21.512
+  },
+  {
+    "word": "rahe",
+    "start": 21.565,
+    "end": 21.751
+  },
+  {
+    "word": "ho,",
+    "start": 21.831,
+    "end": 22.071
+  },
+  {
+    "word": "uske",
+    "start": 22.311,
+    "end": 22.871
+  },
+  {
+    "word": "chakkar",
+    "start": 22.898,
+    "end": 23.271
+  },
+  {
+    "word": "mein",
+    "start": 23.303,
+    "end": 23.431
+  },
+  {
+    "word": "apne",
+    "start": 23.538,
+    "end": 23.912
+  },
+  {
+    "word": "principles",
+    "start": 23.963,
+    "end": 24.473
+  },
+  {
+    "word": "mat",
+    "start": 24.553,
+    "end": 24.793
+  },
+  {
+    "word": "becho.",
+    "start": 24.846,
+    "end": 25.433
+  },
+  {
+    "word": "Paisa",
+    "start": 25.641,
+    "end": 26.633
+  },
+  {
+    "word": "aur",
+    "start": 26.713,
+    "end": 26.953
+  },
+  {
+    "word": "followers",
+    "start": 27.025,
+    "end": 27.673
+  },
+  {
+    "word": "aaj",
+    "start": 27.833,
+    "end": 28.153
+  },
+  {
+    "word": "hain,",
+    "start": 28.193,
+    "end": 28.474
+  },
+  {
+    "word": "kal",
+    "start": 28.634,
+    "end": 29.114
+  },
+  {
+    "word": "nahi.",
+    "start": 29.154,
+    "end": 29.874
+  },
+  {
+    "word": "But",
+    "start": 29.984,
+    "end": 30.314
+  },
+  {
+    "word": "your",
+    "start": 30.346,
+    "end": 30.474
+  },
+  {
+    "word": "character",
+    "start": 30.522,
+    "end": 30.954
+  },
+  {
+    "word": "is",
+    "start": 31.007,
+    "end": 31.113
+  },
+  {
+    "word": "forever.",
+    "start": 31.183,
+    "end": 31.833
+  },
+  {
+    "word": "Don't",
+    "start": 31.973,
+    "end": 32.473
+  },
+  {
+    "word": "sell",
+    "start": 32.521,
+    "end": 32.713
+  },
+  {
+    "word": "it",
+    "start": 32.766,
+    "end": 32.872
+  },
+  {
+    "word": "for",
+    "start": 32.892,
+    "end": 32.952
+  },
+  {
+    "word": "cheap",
+    "start": 33.019,
+    "end": 33.354
+  },
+  {
+    "word": "thrills.",
+    "start": 33.394,
+    "end": 34.354
+  },
+  {
+    "word": "Share",
+    "start": 34.427,
+    "end": 34.792
+  },
+  {
+    "word": "this",
+    "start": 34.84,
+    "end": 35.032
+  },
+  {
+    "word": "with",
+    "start": 35.064,
+    "end": 35.192
+  },
+  {
+    "word": "that",
+    "start": 35.24,
+    "end": 35.432
+  },
+  {
+    "word": "friend",
+    "start": 35.501,
+    "end": 35.915
+  },
+  {
+    "word": "who",
+    "start": 35.935,
+    "end": 35.995
+  },
+  {
+    "word": "is",
+    "start": 36.048,
+    "end": 36.154
+  },
+  {
+    "word": "chasing",
+    "start": 36.204,
+    "end": 36.554
+  },
+  {
+    "word": "money",
+    "start": 36.621,
+    "end": 36.956
+  },
+  {
+    "word": "but",
+    "start": 37.036,
+    "end": 37.276
+  },
+  {
+    "word": "losing",
+    "start": 37.345,
+    "end": 37.759
+  },
+  {
+    "word": "his",
+    "start": 37.819,
+    "end": 37.999
+  },
+  {
+    "word": "real",
+    "start": 38.095,
+    "end": 38.479
+  },
+  {
+    "word": "identity.",
+    "start": 38.568,
+    "end": 39.44
+  }
+]

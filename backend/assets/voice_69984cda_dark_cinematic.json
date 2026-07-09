@@ -1,0 +1,512 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "EXPLAINING",
+    "start": 0.56,
+    "end": 1.201
+  },
+  {
+    "word": "TWICE!",
+    "start": 1.334,
+    "end": 2.24
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.48,
+    "end": 3.68
+  },
+  {
+    "word": "ne",
+    "start": 3.733,
+    "end": 3.839
+  },
+  {
+    "word": "kaha",
+    "start": 3.879,
+    "end": 4.078
+  },
+  {
+    "word": "tha:",
+    "start": 4.138,
+    "end": 4.398
+  },
+  {
+    "word": "Raja",
+    "start": 4.878,
+    "end": 5.679
+  },
+  {
+    "word": "ek",
+    "start": 5.812,
+    "end": 6.078
+  },
+  {
+    "word": "baar",
+    "start": 6.158,
+    "end": 6.478
+  },
+  {
+    "word": "aagya",
+    "start": 6.558,
+    "end": 6.878
+  },
+  {
+    "word": "deta",
+    "start": 6.918,
+    "end": 7.198
+  },
+  {
+    "word": "hai,",
+    "start": 7.238,
+    "end": 7.998
+  },
+  {
+    "word": "vidwan",
+    "start": 8.058,
+    "end": 8.559
+  },
+  {
+    "word": "apna",
+    "start": 8.639,
+    "end": 8.879
+  },
+  {
+    "word": "faisla",
+    "start": 8.959,
+    "end": 9.439
+  },
+  {
+    "word": "ek",
+    "start": 9.599,
+    "end": 9.919
+  },
+  {
+    "word": "baar",
+    "start": 9.946,
+    "end": 10.08
+  },
+  {
+    "word": "sunata",
+    "start": 10.14,
+    "end": 10.56
+  },
+  {
+    "word": "hai,",
+    "start": 10.62,
+    "end": 11.44
+  },
+  {
+    "word": "aur",
+    "start": 11.48,
+    "end": 11.6
+  },
+  {
+    "word": "kanya",
+    "start": 11.64,
+    "end": 12.0
+  },
+  {
+    "word": "ka",
+    "start": 12.053,
+    "end": 12.159
+  },
+  {
+    "word": "daan",
+    "start": 12.239,
+    "end": 12.559
+  },
+  {
+    "word": "ek",
+    "start": 12.692,
+    "end": 12.958
+  },
+  {
+    "word": "hi",
+    "start": 12.985,
+    "end": 13.039
+  },
+  {
+    "word": "baar",
+    "start": 13.092,
+    "end": 13.278
+  },
+  {
+    "word": "hota",
+    "start": 13.338,
+    "end": 13.598
+  },
+  {
+    "word": "hai.",
+    "start": 13.638,
+    "end": 14.718
+  },
+  {
+    "word": "Ye",
+    "start": 14.771,
+    "end": 14.877
+  },
+  {
+    "word": "teenon",
+    "start": 14.941,
+    "end": 15.357
+  },
+  {
+    "word": "kaam",
+    "start": 15.41,
+    "end": 15.676
+  },
+  {
+    "word": "jeevan",
+    "start": 15.756,
+    "end": 16.075
+  },
+  {
+    "word": "mein",
+    "start": 16.107,
+    "end": 16.235
+  },
+  {
+    "word": "bas",
+    "start": 16.315,
+    "end": 16.555
+  },
+  {
+    "word": "ek",
+    "start": 16.688,
+    "end": 16.954
+  },
+  {
+    "word": "baar",
+    "start": 17.007,
+    "end": 17.193
+  },
+  {
+    "word": "hote",
+    "start": 17.233,
+    "end": 17.513
+  },
+  {
+    "word": "hain.",
+    "start": 17.553,
+    "end": 17.832
+  },
+  {
+    "word": "Bro,",
+    "start": 18.132,
+    "end": 19.312
+  },
+  {
+    "word": "agar",
+    "start": 19.368,
+    "end": 19.592
+  },
+  {
+    "word": "tum",
+    "start": 19.652,
+    "end": 19.832
+  },
+  {
+    "word": "apna",
+    "start": 19.859,
+    "end": 20.073
+  },
+  {
+    "word": "decision",
+    "start": 20.126,
+    "end": 20.55
+  },
+  {
+    "word": "lene",
+    "start": 20.59,
+    "end": 20.789
+  },
+  {
+    "word": "ke",
+    "start": 20.842,
+    "end": 20.948
+  },
+  {
+    "word": "baad",
+    "start": 21.028,
+    "end": 21.348
+  },
+  {
+    "word": "baar-baar",
+    "start": 21.508,
+    "end": 22.307
+  },
+  {
+    "word": "logo",
+    "start": 22.371,
+    "end": 22.627
+  },
+  {
+    "word": "ko",
+    "start": 22.68,
+    "end": 22.786
+  },
+  {
+    "word": "justify",
+    "start": 22.856,
+    "end": 23.346
+  },
+  {
+    "word": "kar",
+    "start": 23.386,
+    "end": 23.506
+  },
+  {
+    "word": "rahe",
+    "start": 23.559,
+    "end": 23.745
+  },
+  {
+    "word": "ho,",
+    "start": 23.798,
+    "end": 23.984
+  },
+  {
+    "word": "toh",
+    "start": 24.084,
+    "end": 24.384
+  },
+  {
+    "word": "tumhari",
+    "start": 24.424,
+    "end": 24.784
+  },
+  {
+    "word": "value",
+    "start": 24.877,
+    "end": 25.342
+  },
+  {
+    "word": "zero",
+    "start": 25.47,
+    "end": 25.982
+  },
+  {
+    "word": "hai.",
+    "start": 26.022,
+    "end": 26.302
+  },
+  {
+    "word": "Apne",
+    "start": 26.702,
+    "end": 27.582
+  },
+  {
+    "word": "circle",
+    "start": 27.673,
+    "end": 28.219
+  },
+  {
+    "word": "aur",
+    "start": 28.279,
+    "end": 28.459
+  },
+  {
+    "word": "corporate",
+    "start": 28.515,
+    "end": 29.019
+  },
+  {
+    "word": "life",
+    "start": 29.083,
+    "end": 29.339
+  },
+  {
+    "word": "mein",
+    "start": 29.371,
+    "end": 29.499
+  },
+  {
+    "word": "ek",
+    "start": 29.632,
+    "end": 29.898
+  },
+  {
+    "word": "'King'",
+    "start": 29.978,
+    "end": 30.298
+  },
+  {
+    "word": "ki",
+    "start": 30.325,
+    "end": 30.379
+  },
+  {
+    "word": "tarah",
+    "start": 30.439,
+    "end": 30.699
+  },
+  {
+    "word": "raho.",
+    "start": 30.739,
+    "end": 31.099
+  },
+  {
+    "word": "Ek",
+    "start": 31.312,
+    "end": 31.738
+  },
+  {
+    "word": "baar",
+    "start": 31.791,
+    "end": 31.977
+  },
+  {
+    "word": "'No'",
+    "start": 32.057,
+    "end": 32.297
+  },
+  {
+    "word": "bol",
+    "start": 32.337,
+    "end": 32.457
+  },
+  {
+    "word": "diya,",
+    "start": 32.51,
+    "end": 33.016
+  },
+  {
+    "word": "toh",
+    "start": 33.076,
+    "end": 33.256
+  },
+  {
+    "word": "wo",
+    "start": 33.283,
+    "end": 33.337
+  },
+  {
+    "word": "final",
+    "start": 33.43,
+    "end": 33.895
+  },
+  {
+    "word": "hona",
+    "start": 33.935,
+    "end": 34.135
+  },
+  {
+    "word": "chahiye.",
+    "start": 34.188,
+    "end": 34.693
+  },
+  {
+    "word": "Don't",
+    "start": 34.893,
+    "end": 35.573
+  },
+  {
+    "word": "backtrack",
+    "start": 35.637,
+    "end": 36.213
+  },
+  {
+    "word": "for",
+    "start": 36.273,
+    "end": 36.453
+  },
+  {
+    "word": "anyone.",
+    "start": 36.544,
+    "end": 37.65
+  },
+  {
+    "word": "Share",
+    "start": 37.743,
+    "end": 38.208
+  },
+  {
+    "word": "this",
+    "start": 38.256,
+    "end": 38.448
+  },
+  {
+    "word": "reel",
+    "start": 38.512,
+    "end": 38.768
+  },
+  {
+    "word": "with",
+    "start": 38.8,
+    "end": 38.928
+  },
+  {
+    "word": "that",
+    "start": 38.96,
+    "end": 39.088
+  },
+  {
+    "word": "one",
+    "start": 39.188,
+    "end": 39.488
+  },
+  {
+    "word": "friend",
+    "start": 39.557,
+    "end": 39.971
+  },
+  {
+    "word": "who",
+    "start": 40.011,
+    "end": 40.131
+  },
+  {
+    "word": "struggles",
+    "start": 40.187,
+    "end": 40.691
+  },
+  {
+    "word": "to",
+    "start": 40.718,
+    "end": 40.772
+  },
+  {
+    "word": "say",
+    "start": 40.832,
+    "end": 41.012
+  },
+  {
+    "word": "NO",
+    "start": 41.172,
+    "end": 41.492
+  },
+  {
+    "word": "and",
+    "start": 41.592,
+    "end": 41.892
+  },
+  {
+    "word": "needs",
+    "start": 41.959,
+    "end": 42.294
+  },
+  {
+    "word": "to",
+    "start": 42.347,
+    "end": 42.453
+  },
+  {
+    "word": "set",
+    "start": 42.533,
+    "end": 42.773
+  },
+  {
+    "word": "strong",
+    "start": 42.853,
+    "end": 43.333
+  },
+  {
+    "word": "boundaries.",
+    "start": 43.398,
+    "end": 44.208
+  }
+]

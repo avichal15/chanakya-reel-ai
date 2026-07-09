@@ -1,0 +1,542 @@
+[
+  {
+    "word": "WHY",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "THEY",
+    "start": 0.288,
+    "end": 0.48
+  },
+  {
+    "word": "REALLY",
+    "start": 0.571,
+    "end": 1.117
+  },
+  {
+    "word": "HATE",
+    "start": 1.197,
+    "end": 1.517
+  },
+  {
+    "word": "YOU.",
+    "start": 1.577,
+    "end": 2.597
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.765,
+    "end": 3.677
+  },
+  {
+    "word": "ne",
+    "start": 3.73,
+    "end": 3.836
+  },
+  {
+    "word": "kaha",
+    "start": 3.876,
+    "end": 4.075
+  },
+  {
+    "word": "tha:",
+    "start": 4.135,
+    "end": 4.395
+  },
+  {
+    "word": "Moorkh",
+    "start": 4.742,
+    "end": 5.675
+  },
+  {
+    "word": "insaan",
+    "start": 5.755,
+    "end": 6.235
+  },
+  {
+    "word": "gyaani",
+    "start": 6.275,
+    "end": 6.634
+  },
+  {
+    "word": "se",
+    "start": 6.687,
+    "end": 6.793
+  },
+  {
+    "word": "jalta",
+    "start": 6.833,
+    "end": 7.193
+  },
+  {
+    "word": "hai,",
+    "start": 7.233,
+    "end": 7.913
+  },
+  {
+    "word": "gareeb",
+    "start": 7.993,
+    "end": 8.392
+  },
+  {
+    "word": "ameer",
+    "start": 8.472,
+    "end": 8.791
+  },
+  {
+    "word": "se",
+    "start": 8.844,
+    "end": 8.95
+  },
+  {
+    "word": "jalta",
+    "start": 8.99,
+    "end": 9.27
+  },
+  {
+    "word": "hai,",
+    "start": 9.31,
+    "end": 10.07
+  },
+  {
+    "word": "charitraheen",
+    "start": 10.118,
+    "end": 10.79
+  },
+  {
+    "word": "log",
+    "start": 10.87,
+    "end": 11.11
+  },
+  {
+    "word": "shareefon",
+    "start": 11.19,
+    "end": 11.83
+  },
+  {
+    "word": "se",
+    "start": 11.883,
+    "end": 11.989
+  },
+  {
+    "word": "jalte",
+    "start": 12.029,
+    "end": 12.309
+  },
+  {
+    "word": "hain,",
+    "start": 12.349,
+    "end": 13.19
+  },
+  {
+    "word": "aur",
+    "start": 13.23,
+    "end": 13.35
+  },
+  {
+    "word": "nakamyab",
+    "start": 13.41,
+    "end": 13.99
+  },
+  {
+    "word": "insaan",
+    "start": 14.05,
+    "end": 14.629
+  },
+  {
+    "word": "successful",
+    "start": 14.731,
+    "end": 15.751
+  },
+  {
+    "word": "logo",
+    "start": 15.799,
+    "end": 15.991
+  },
+  {
+    "word": "se",
+    "start": 16.044,
+    "end": 16.15
+  },
+  {
+    "word": "jalta",
+    "start": 16.23,
+    "end": 16.55
+  },
+  {
+    "word": "hai.",
+    "start": 16.59,
+    "end": 17.51
+  },
+  {
+    "word": "Bro,",
+    "start": 17.71,
+    "end": 18.39
+  },
+  {
+    "word": "agar",
+    "start": 18.534,
+    "end": 19.11
+  },
+  {
+    "word": "tum",
+    "start": 19.17,
+    "end": 19.35
+  },
+  {
+    "word": "life",
+    "start": 19.414,
+    "end": 19.67
+  },
+  {
+    "word": "mein",
+    "start": 19.686,
+    "end": 19.75
+  },
+  {
+    "word": "grow",
+    "start": 19.83,
+    "end": 20.15
+  },
+  {
+    "word": "kar",
+    "start": 20.19,
+    "end": 20.31
+  },
+  {
+    "word": "rahe",
+    "start": 20.363,
+    "end": 20.549
+  },
+  {
+    "word": "ho",
+    "start": 20.629,
+    "end": 20.789
+  },
+  {
+    "word": "aur",
+    "start": 20.909,
+    "end": 21.269
+  },
+  {
+    "word": "tumhara",
+    "start": 21.309,
+    "end": 21.668
+  },
+  {
+    "word": "circle",
+    "start": 21.737,
+    "end": 22.151
+  },
+  {
+    "word": "tumhe",
+    "start": 22.191,
+    "end": 22.391
+  },
+  {
+    "word": "hate",
+    "start": 22.487,
+    "end": 22.871
+  },
+  {
+    "word": "kar",
+    "start": 22.911,
+    "end": 23.031
+  },
+  {
+    "word": "raha",
+    "start": 23.071,
+    "end": 23.351
+  },
+  {
+    "word": "hai,",
+    "start": 23.391,
+    "end": 24.071
+  },
+  {
+    "word": "toh",
+    "start": 24.091,
+    "end": 24.151
+  },
+  {
+    "word": "samajh",
+    "start": 24.231,
+    "end": 24.631
+  },
+  {
+    "word": "lo",
+    "start": 24.738,
+    "end": 24.952
+  },
+  {
+    "word": "ye",
+    "start": 25.059,
+    "end": 25.273
+  },
+  {
+    "word": "unki",
+    "start": 25.38,
+    "end": 25.674
+  },
+  {
+    "word": "apni",
+    "start": 25.781,
+    "end": 26.155
+  },
+  {
+    "word": "insecurities",
+    "start": 26.235,
+    "end": 27.035
+  },
+  {
+    "word": "hain.",
+    "start": 27.075,
+    "end": 28.076
+  },
+  {
+    "word": "Corporate",
+    "start": 28.116,
+    "end": 28.476
+  },
+  {
+    "word": "politics",
+    "start": 28.538,
+    "end": 29.034
+  },
+  {
+    "word": "ho",
+    "start": 29.114,
+    "end": 29.274
+  },
+  {
+    "word": "ya",
+    "start": 29.354,
+    "end": 29.514
+  },
+  {
+    "word": "toxic",
+    "start": 29.607,
+    "end": 30.072
+  },
+  {
+    "word": "friends,",
+    "start": 30.132,
+    "end": 31.112
+  },
+  {
+    "word": "losers",
+    "start": 31.192,
+    "end": 31.672
+  },
+  {
+    "word": "hamesha",
+    "start": 31.752,
+    "end": 32.392
+  },
+  {
+    "word": "winners",
+    "start": 32.442,
+    "end": 32.792
+  },
+  {
+    "word": "ko",
+    "start": 32.845,
+    "end": 32.951
+  },
+  {
+    "word": "pull",
+    "start": 32.999,
+    "end": 33.191
+  },
+  {
+    "word": "down",
+    "start": 33.239,
+    "end": 33.431
+  },
+  {
+    "word": "karenge.",
+    "start": 33.471,
+    "end": 33.991
+  },
+  {
+    "word": "Unki",
+    "start": 34.338,
+    "end": 35.112
+  },
+  {
+    "word": "jal",
+    "start": 35.192,
+    "end": 35.432
+  },
+  {
+    "word": "rahi",
+    "start": 35.472,
+    "end": 35.752
+  },
+  {
+    "word": "hai",
+    "start": 35.812,
+    "end": 35.992
+  },
+  {
+    "word": "kyunki",
+    "start": 36.152,
+    "end": 36.633
+  },
+  {
+    "word": "tum",
+    "start": 36.713,
+    "end": 36.953
+  },
+  {
+    "word": "wo",
+    "start": 37.06,
+    "end": 37.274
+  },
+  {
+    "word": "achieve",
+    "start": 37.334,
+    "end": 37.754
+  },
+  {
+    "word": "kar",
+    "start": 37.794,
+    "end": 37.914
+  },
+  {
+    "word": "rahe",
+    "start": 37.967,
+    "end": 38.153
+  },
+  {
+    "word": "ho",
+    "start": 38.286,
+    "end": 38.552
+  },
+  {
+    "word": "jo",
+    "start": 38.659,
+    "end": 38.873
+  },
+  {
+    "word": "wo",
+    "start": 38.953,
+    "end": 39.113
+  },
+  {
+    "word": "nahi",
+    "start": 39.233,
+    "end": 39.512
+  },
+  {
+    "word": "kar",
+    "start": 39.552,
+    "end": 39.672
+  },
+  {
+    "word": "paye.",
+    "start": 39.732,
+    "end": 40.072
+  },
+  {
+    "word": "Keep",
+    "start": 40.312,
+    "end": 41.272
+  },
+  {
+    "word": "winning,",
+    "start": 41.322,
+    "end": 42.232
+  },
+  {
+    "word": "let",
+    "start": 42.292,
+    "end": 42.472
+  },
+  {
+    "word": "them",
+    "start": 42.536,
+    "end": 42.792
+  },
+  {
+    "word": "burn.",
+    "start": 42.888,
+    "end": 43.352
+  },
+  {
+    "word": "Share",
+    "start": 43.539,
+    "end": 44.474
+  },
+  {
+    "word": "this",
+    "start": 44.522,
+    "end": 44.714
+  },
+  {
+    "word": "reel",
+    "start": 44.778,
+    "end": 45.034
+  },
+  {
+    "word": "with",
+    "start": 45.066,
+    "end": 45.194
+  },
+  {
+    "word": "that",
+    "start": 45.226,
+    "end": 45.354
+  },
+  {
+    "word": "Sigma",
+    "start": 45.434,
+    "end": 45.834
+  },
+  {
+    "word": "friend",
+    "start": 45.903,
+    "end": 46.317
+  },
+  {
+    "word": "who",
+    "start": 46.337,
+    "end": 46.397
+  },
+  {
+    "word": "is",
+    "start": 46.45,
+    "end": 46.556
+  },
+  {
+    "word": "getting",
+    "start": 46.596,
+    "end": 46.876
+  },
+  {
+    "word": "hated",
+    "start": 46.956,
+    "end": 47.356
+  },
+  {
+    "word": "just",
+    "start": 47.5,
+    "end": 48.076
+  },
+  {
+    "word": "for",
+    "start": 48.096,
+    "end": 48.156
+  },
+  {
+    "word": "being",
+    "start": 48.209,
+    "end": 48.474
+  },
+  {
+    "word": "successful.",
+    "start": 48.539,
+    "end": 49.269
+  }
+]

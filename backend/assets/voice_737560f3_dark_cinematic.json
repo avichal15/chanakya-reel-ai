@@ -1,0 +1,412 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "OVERSHARING",
+    "start": 0.528,
+    "end": 1.44
+  },
+  {
+    "word": "EVERYTHING!",
+    "start": 1.547,
+    "end": 2.482
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.706,
+    "end": 3.922
+  },
+  {
+    "word": "ne",
+    "start": 3.975,
+    "end": 4.081
+  },
+  {
+    "word": "kaha",
+    "start": 4.121,
+    "end": 4.401
+  },
+  {
+    "word": "tha:",
+    "start": 4.461,
+    "end": 5.121
+  },
+  {
+    "word": "Ek",
+    "start": 5.281,
+    "end": 5.601
+  },
+  {
+    "word": "kauve",
+    "start": 5.681,
+    "end": 6.081
+  },
+  {
+    "word": "se",
+    "start": 6.161,
+    "end": 6.321
+  },
+  {
+    "word": "ye",
+    "start": 6.401,
+    "end": 6.561
+  },
+  {
+    "word": "baatein",
+    "start": 6.614,
+    "end": 7.04
+  },
+  {
+    "word": "zaroor",
+    "start": 7.1,
+    "end": 7.439
+  },
+  {
+    "word": "seekho\u2014apni",
+    "start": 7.503,
+    "end": 8.879
+  },
+  {
+    "word": "private",
+    "start": 8.929,
+    "end": 9.279
+  },
+  {
+    "word": "life",
+    "start": 9.327,
+    "end": 9.519
+  },
+  {
+    "word": "ko",
+    "start": 9.599,
+    "end": 9.759
+  },
+  {
+    "word": "secret",
+    "start": 9.828,
+    "end": 10.242
+  },
+  {
+    "word": "rakho,",
+    "start": 10.302,
+    "end": 11.202
+  },
+  {
+    "word": "hamesha",
+    "start": 11.242,
+    "end": 11.762
+  },
+  {
+    "word": "alert",
+    "start": 11.842,
+    "end": 12.242
+  },
+  {
+    "word": "raho,",
+    "start": 12.282,
+    "end": 12.722
+  },
+  {
+    "word": "aur",
+    "start": 12.862,
+    "end": 13.282
+  },
+  {
+    "word": "kabhi",
+    "start": 13.362,
+    "end": 13.682
+  },
+  {
+    "word": "kisi",
+    "start": 13.762,
+    "end": 14.082
+  },
+  {
+    "word": "par",
+    "start": 14.142,
+    "end": 14.322
+  },
+  {
+    "word": "jaldi",
+    "start": 14.442,
+    "end": 14.882
+  },
+  {
+    "word": "bharosa",
+    "start": 14.922,
+    "end": 15.442
+  },
+  {
+    "word": "mat",
+    "start": 15.522,
+    "end": 15.762
+  },
+  {
+    "word": "karo.",
+    "start": 15.802,
+    "end": 16.162
+  },
+  {
+    "word": "Bro,",
+    "start": 16.462,
+    "end": 17.642
+  },
+  {
+    "word": "tum",
+    "start": 17.712,
+    "end": 17.922
+  },
+  {
+    "word": "apne",
+    "start": 17.975,
+    "end": 18.161
+  },
+  {
+    "word": "next",
+    "start": 18.241,
+    "end": 18.561
+  },
+  {
+    "word": "moves",
+    "start": 18.641,
+    "end": 19.041
+  },
+  {
+    "word": "aur",
+    "start": 19.101,
+    "end": 19.281
+  },
+  {
+    "word": "secrets",
+    "start": 19.361,
+    "end": 19.921
+  },
+  {
+    "word": "apne",
+    "start": 19.974,
+    "end": 20.24
+  },
+  {
+    "word": "'Friends'",
+    "start": 20.32,
+    "end": 20.919
+  },
+  {
+    "word": "aur",
+    "start": 20.949,
+    "end": 21.039
+  },
+  {
+    "word": "Corporate",
+    "start": 21.087,
+    "end": 21.519
+  },
+  {
+    "word": "circle",
+    "start": 21.576,
+    "end": 21.918
+  },
+  {
+    "word": "mein",
+    "start": 21.966,
+    "end": 22.158
+  },
+  {
+    "word": "sabko",
+    "start": 22.258,
+    "end": 22.638
+  },
+  {
+    "word": "bata",
+    "start": 22.678,
+    "end": 22.958
+  },
+  {
+    "word": "dete",
+    "start": 23.018,
+    "end": 23.278
+  },
+  {
+    "word": "ho.",
+    "start": 23.331,
+    "end": 23.597
+  },
+  {
+    "word": "Ye",
+    "start": 23.864,
+    "end": 24.398
+  },
+  {
+    "word": "log",
+    "start": 24.518,
+    "end": 24.878
+  },
+  {
+    "word": "toxic",
+    "start": 25.011,
+    "end": 25.676
+  },
+  {
+    "word": "hain.",
+    "start": 25.716,
+    "end": 25.917
+  },
+  {
+    "word": "Jab",
+    "start": 26.157,
+    "end": 26.877
+  },
+  {
+    "word": "tak",
+    "start": 26.937,
+    "end": 27.117
+  },
+  {
+    "word": "tumhari",
+    "start": 27.157,
+    "end": 27.597
+  },
+  {
+    "word": "'Growth'",
+    "start": 27.677,
+    "end": 28.157
+  },
+  {
+    "word": "confirm",
+    "start": 28.247,
+    "end": 28.877
+  },
+  {
+    "word": "na",
+    "start": 28.957,
+    "end": 29.117
+  },
+  {
+    "word": "ho",
+    "start": 29.197,
+    "end": 29.357
+  },
+  {
+    "word": "jaye,",
+    "start": 29.397,
+    "end": 29.837
+  },
+  {
+    "word": "move",
+    "start": 30.013,
+    "end": 30.717
+  },
+  {
+    "word": "in",
+    "start": 30.824,
+    "end": 31.038
+  },
+  {
+    "word": "silence.",
+    "start": 31.128,
+    "end": 31.838
+  },
+  {
+    "word": "Be",
+    "start": 32.078,
+    "end": 32.558
+  },
+  {
+    "word": "alert,",
+    "start": 32.651,
+    "end": 33.196
+  },
+  {
+    "word": "and",
+    "start": 33.276,
+    "end": 33.516
+  },
+  {
+    "word": "stop",
+    "start": 33.612,
+    "end": 33.996
+  },
+  {
+    "word": "trusting",
+    "start": 34.049,
+    "end": 34.473
+  },
+  {
+    "word": "everyone",
+    "start": 34.553,
+    "end": 35.193
+  },
+  {
+    "word": "blindly.",
+    "start": 35.273,
+    "end": 35.913
+  },
+  {
+    "word": "Share",
+    "start": 36.1,
+    "end": 37.035
+  },
+  {
+    "word": "this",
+    "start": 37.083,
+    "end": 37.275
+  },
+  {
+    "word": "reel",
+    "start": 37.339,
+    "end": 37.595
+  },
+  {
+    "word": "with",
+    "start": 37.627,
+    "end": 37.755
+  },
+  {
+    "word": "that",
+    "start": 37.803,
+    "end": 37.995
+  },
+  {
+    "word": "one",
+    "start": 38.055,
+    "end": 38.235
+  },
+  {
+    "word": "friend",
+    "start": 38.315,
+    "end": 38.795
+  },
+  {
+    "word": "who",
+    "start": 38.915,
+    "end": 39.275
+  },
+  {
+    "word": "overshares",
+    "start": 39.342,
+    "end": 39.996
+  },
+  {
+    "word": "everything",
+    "start": 40.061,
+    "end": 40.711
+  },
+  {
+    "word": "and",
+    "start": 40.851,
+    "end": 41.271
+  },
+  {
+    "word": "gets",
+    "start": 41.351,
+    "end": 41.671
+  },
+  {
+    "word": "betrayed.",
+    "start": 41.742,
+    "end": 42.47
+  }
+]

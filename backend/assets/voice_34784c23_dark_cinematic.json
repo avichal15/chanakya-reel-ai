@@ -1,0 +1,472 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "COMPLAINING!",
+    "start": 0.38,
+    "end": 1.76
+  },
+  {
+    "word": "Chanakya",
+    "start": 1.856,
+    "end": 2.56
+  },
+  {
+    "word": "ne",
+    "start": 2.613,
+    "end": 2.72
+  },
+  {
+    "word": "kaha",
+    "start": 2.76,
+    "end": 3.04
+  },
+  {
+    "word": "tha:",
+    "start": 3.08,
+    "end": 3.36
+  },
+  {
+    "word": "Ek",
+    "start": 3.653,
+    "end": 4.24
+  },
+  {
+    "word": "anushasit",
+    "start": 4.32,
+    "end": 5.12
+  },
+  {
+    "word": "vyakti",
+    "start": 5.2,
+    "end": 5.68
+  },
+  {
+    "word": "har",
+    "start": 5.76,
+    "end": 6.0
+  },
+  {
+    "word": "mushkil",
+    "start": 6.048,
+    "end": 6.4
+  },
+  {
+    "word": "aur",
+    "start": 6.46,
+    "end": 6.64
+  },
+  {
+    "word": "bojh",
+    "start": 6.747,
+    "end": 7.04
+  },
+  {
+    "word": "ko",
+    "start": 7.12,
+    "end": 7.28
+  },
+  {
+    "word": "bina",
+    "start": 7.4,
+    "end": 7.68
+  },
+  {
+    "word": "shikayat",
+    "start": 7.733,
+    "end": 8.16
+  },
+  {
+    "word": "ke",
+    "start": 8.213,
+    "end": 8.32
+  },
+  {
+    "word": "uthata",
+    "start": 8.4,
+    "end": 8.8
+  },
+  {
+    "word": "hai,",
+    "start": 8.86,
+    "end": 9.68
+  },
+  {
+    "word": "chahe",
+    "start": 9.74,
+    "end": 10.08
+  },
+  {
+    "word": "paristhitiyan",
+    "start": 10.14,
+    "end": 10.8
+  },
+  {
+    "word": "kaisi",
+    "start": 10.88,
+    "end": 11.24
+  },
+  {
+    "word": "bhi",
+    "start": 11.26,
+    "end": 11.36
+  },
+  {
+    "word": "hon.",
+    "start": 11.42,
+    "end": 12.32
+  },
+  {
+    "word": "Woh",
+    "start": 12.36,
+    "end": 12.48
+  },
+  {
+    "word": "hamesha",
+    "start": 12.56,
+    "end": 13.04
+  },
+  {
+    "word": "santusht",
+    "start": 13.104,
+    "end": 13.52
+  },
+  {
+    "word": "rehta",
+    "start": 13.573,
+    "end": 13.84
+  },
+  {
+    "word": "hai",
+    "start": 13.9,
+    "end": 14.08
+  },
+  {
+    "word": "kyunki",
+    "start": 14.213,
+    "end": 14.76
+  },
+  {
+    "word": "uski",
+    "start": 14.8,
+    "end": 14.96
+  },
+  {
+    "word": "shakti",
+    "start": 15.04,
+    "end": 15.52
+  },
+  {
+    "word": "uske",
+    "start": 15.653,
+    "end": 16.0
+  },
+  {
+    "word": "dhairya",
+    "start": 16.08,
+    "end": 16.48
+  },
+  {
+    "word": "mein",
+    "start": 16.512,
+    "end": 16.64
+  },
+  {
+    "word": "hai.",
+    "start": 16.68,
+    "end": 16.88
+  },
+  {
+    "word": "Bro,",
+    "start": 17.18,
+    "end": 18.36
+  },
+  {
+    "word": "aaj",
+    "start": 18.5,
+    "end": 18.8
+  },
+  {
+    "word": "kal",
+    "start": 18.84,
+    "end": 18.96
+  },
+  {
+    "word": "sabko",
+    "start": 19.06,
+    "end": 19.44
+  },
+  {
+    "word": "'Burnout'",
+    "start": 19.48,
+    "end": 19.92
+  },
+  {
+    "word": "chahiye",
+    "start": 19.947,
+    "end": 20.32
+  },
+  {
+    "word": "aur",
+    "start": 20.4,
+    "end": 20.64
+  },
+  {
+    "word": "sabko",
+    "start": 20.72,
+    "end": 21.12
+  },
+  {
+    "word": "'Vent'",
+    "start": 21.16,
+    "end": 21.48
+  },
+  {
+    "word": "karna",
+    "start": 21.5,
+    "end": 21.76
+  },
+  {
+    "word": "hai.",
+    "start": 21.82,
+    "end": 22.08
+  },
+  {
+    "word": "But",
+    "start": 22.3,
+    "end": 22.96
+  },
+  {
+    "word": "real",
+    "start": 23.024,
+    "end": 23.28
+  },
+  {
+    "word": "growth",
+    "start": 23.349,
+    "end": 23.76
+  },
+  {
+    "word": "tab",
+    "start": 23.86,
+    "end": 24.16
+  },
+  {
+    "word": "hoti",
+    "start": 24.22,
+    "end": 24.52
+  },
+  {
+    "word": "hai",
+    "start": 24.55,
+    "end": 24.64
+  },
+  {
+    "word": "jab",
+    "start": 24.8,
+    "end": 25.28
+  },
+  {
+    "word": "tum",
+    "start": 25.32,
+    "end": 25.44
+  },
+  {
+    "word": "pressure",
+    "start": 25.484,
+    "end": 25.84
+  },
+  {
+    "word": "ko",
+    "start": 25.893,
+    "end": 26.0
+  },
+  {
+    "word": "silent",
+    "start": 26.08,
+    "end": 26.56
+  },
+  {
+    "word": "handle",
+    "start": 26.606,
+    "end": 26.88
+  },
+  {
+    "word": "karte",
+    "start": 26.96,
+    "end": 27.28
+  },
+  {
+    "word": "ho.",
+    "start": 27.333,
+    "end": 27.52
+  },
+  {
+    "word": "Being",
+    "start": 27.707,
+    "end": 28.64
+  },
+  {
+    "word": "a",
+    "start": 28.68,
+    "end": 28.72
+  },
+  {
+    "word": "winner",
+    "start": 28.777,
+    "end": 29.12
+  },
+  {
+    "word": "means",
+    "start": 29.173,
+    "end": 29.44
+  },
+  {
+    "word": "bearing",
+    "start": 29.5,
+    "end": 29.92
+  },
+  {
+    "word": "the",
+    "start": 29.94,
+    "end": 30.0
+  },
+  {
+    "word": "weight",
+    "start": 30.057,
+    "end": 30.4
+  },
+  {
+    "word": "of",
+    "start": 30.427,
+    "end": 30.48
+  },
+  {
+    "word": "your",
+    "start": 30.512,
+    "end": 30.64
+  },
+  {
+    "word": "goals",
+    "start": 30.733,
+    "end": 31.2
+  },
+  {
+    "word": "without",
+    "start": 31.28,
+    "end": 31.84
+  },
+  {
+    "word": "crying",
+    "start": 31.897,
+    "end": 32.24
+  },
+  {
+    "word": "for",
+    "start": 32.28,
+    "end": 32.4
+  },
+  {
+    "word": "attention.",
+    "start": 32.464,
+    "end": 33.68
+  },
+  {
+    "word": "Discipline",
+    "start": 33.738,
+    "end": 34.32
+  },
+  {
+    "word": "is",
+    "start": 34.373,
+    "end": 34.48
+  },
+  {
+    "word": "the",
+    "start": 34.52,
+    "end": 34.64
+  },
+  {
+    "word": "only",
+    "start": 34.752,
+    "end": 35.2
+  },
+  {
+    "word": "way",
+    "start": 35.26,
+    "end": 35.44
+  },
+  {
+    "word": "out.",
+    "start": 35.56,
+    "end": 36.0
+  },
+  {
+    "word": "Share",
+    "start": 36.187,
+    "end": 37.12
+  },
+  {
+    "word": "this",
+    "start": 37.168,
+    "end": 37.36
+  },
+  {
+    "word": "with",
+    "start": 37.392,
+    "end": 37.52
+  },
+  {
+    "word": "that",
+    "start": 37.568,
+    "end": 37.76
+  },
+  {
+    "word": "one",
+    "start": 37.86,
+    "end": 38.16
+  },
+  {
+    "word": "silent",
+    "start": 38.229,
+    "end": 38.64
+  },
+  {
+    "word": "hustler",
+    "start": 38.704,
+    "end": 39.12
+  },
+  {
+    "word": "who",
+    "start": 39.22,
+    "end": 39.52
+  },
+  {
+    "word": "is",
+    "start": 39.573,
+    "end": 39.68
+  },
+  {
+    "word": "grinding",
+    "start": 39.751,
+    "end": 40.32
+  },
+  {
+    "word": "in",
+    "start": 40.373,
+    "end": 40.48
+  },
+  {
+    "word": "the",
+    "start": 40.5,
+    "end": 40.56
+  },
+  {
+    "word": "dark.",
+    "start": 40.656,
+    "end": 41.2
+  }
+]

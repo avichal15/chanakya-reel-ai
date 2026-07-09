@@ -1,0 +1,447 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "TRUSTING",
+    "start": 0.4,
+    "end": 0.881
+  },
+  {
+    "word": "BLINDLY!",
+    "start": 0.988,
+    "end": 2.322
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.45,
+    "end": 3.202
+  },
+  {
+    "word": "kehte",
+    "start": 3.255,
+    "end": 3.601
+  },
+  {
+    "word": "hain:",
+    "start": 3.641,
+    "end": 3.842
+  },
+  {
+    "word": "Jaise",
+    "start": 4.042,
+    "end": 4.482
+  },
+  {
+    "word": "sone",
+    "start": 4.602,
+    "end": 4.962
+  },
+  {
+    "word": "ko",
+    "start": 5.069,
+    "end": 5.283
+  },
+  {
+    "word": "ghisne,",
+    "start": 5.323,
+    "end": 5.843
+  },
+  {
+    "word": "kaatne,",
+    "start": 5.976,
+    "end": 6.642
+  },
+  {
+    "word": "tapane",
+    "start": 6.762,
+    "end": 7.362
+  },
+  {
+    "word": "aur",
+    "start": 7.482,
+    "end": 7.842
+  },
+  {
+    "word": "peetne",
+    "start": 7.922,
+    "end": 8.322
+  },
+  {
+    "word": "se",
+    "start": 8.402,
+    "end": 8.562
+  },
+  {
+    "word": "test",
+    "start": 8.61,
+    "end": 8.802
+  },
+  {
+    "word": "kiya",
+    "start": 8.855,
+    "end": 9.041
+  },
+  {
+    "word": "jata",
+    "start": 9.081,
+    "end": 9.361
+  },
+  {
+    "word": "hai,",
+    "start": 9.421,
+    "end": 9.921
+  },
+  {
+    "word": "waise",
+    "start": 9.961,
+    "end": 10.401
+  },
+  {
+    "word": "hi",
+    "start": 10.454,
+    "end": 10.56
+  },
+  {
+    "word": "ek",
+    "start": 10.667,
+    "end": 10.881
+  },
+  {
+    "word": "insaan",
+    "start": 10.961,
+    "end": 11.36
+  },
+  {
+    "word": "ki",
+    "start": 11.413,
+    "end": 11.519
+  },
+  {
+    "word": "pehchaan",
+    "start": 11.599,
+    "end": 12.159
+  },
+  {
+    "word": "uske",
+    "start": 12.346,
+    "end": 12.8
+  },
+  {
+    "word": "tyaag,",
+    "start": 12.88,
+    "end": 13.6
+  },
+  {
+    "word": "charitra,",
+    "start": 13.648,
+    "end": 14.56
+  },
+  {
+    "word": "gun",
+    "start": 14.66,
+    "end": 14.96
+  },
+  {
+    "word": "aur",
+    "start": 15.08,
+    "end": 15.44
+  },
+  {
+    "word": "uske",
+    "start": 15.52,
+    "end": 15.76
+  },
+  {
+    "word": "karm",
+    "start": 15.84,
+    "end": 16.16
+  },
+  {
+    "word": "se",
+    "start": 16.213,
+    "end": 16.319
+  },
+  {
+    "word": "hoti",
+    "start": 16.379,
+    "end": 16.639
+  },
+  {
+    "word": "hai.",
+    "start": 16.679,
+    "end": 16.879
+  },
+  {
+    "word": "Bro,",
+    "start": 17.119,
+    "end": 17.919
+  },
+  {
+    "word": "aaj",
+    "start": 18.159,
+    "end": 18.559
+  },
+  {
+    "word": "kal",
+    "start": 18.599,
+    "end": 18.719
+  },
+  {
+    "word": "log",
+    "start": 18.799,
+    "end": 19.039
+  },
+  {
+    "word": "Instagram",
+    "start": 19.103,
+    "end": 19.679
+  },
+  {
+    "word": "followers",
+    "start": 19.751,
+    "end": 20.399
+  },
+  {
+    "word": "aur",
+    "start": 20.479,
+    "end": 20.719
+  },
+  {
+    "word": "fake",
+    "start": 20.815,
+    "end": 21.199
+  },
+  {
+    "word": "flex",
+    "start": 21.279,
+    "end": 21.599
+  },
+  {
+    "word": "dekh",
+    "start": 21.652,
+    "end": 21.838
+  },
+  {
+    "word": "kar",
+    "start": 21.878,
+    "end": 21.998
+  },
+  {
+    "word": "trust",
+    "start": 22.065,
+    "end": 22.4
+  },
+  {
+    "word": "kar",
+    "start": 22.44,
+    "end": 22.56
+  },
+  {
+    "word": "lete",
+    "start": 22.613,
+    "end": 22.879
+  },
+  {
+    "word": "hain.",
+    "start": 22.919,
+    "end": 23.12
+  },
+  {
+    "word": "Stop",
+    "start": 23.296,
+    "end": 24.0
+  },
+  {
+    "word": "this.",
+    "start": 24.08,
+    "end": 24.48
+  },
+  {
+    "word": "Check",
+    "start": 24.613,
+    "end": 25.278
+  },
+  {
+    "word": "karo",
+    "start": 25.318,
+    "end": 25.598
+  },
+  {
+    "word": "ki",
+    "start": 25.625,
+    "end": 25.679
+  },
+  {
+    "word": "tumhare",
+    "start": 25.739,
+    "end": 26.159
+  },
+  {
+    "word": "downfall",
+    "start": 26.23,
+    "end": 26.798
+  },
+  {
+    "word": "mein",
+    "start": 26.846,
+    "end": 27.038
+  },
+  {
+    "word": "kaun",
+    "start": 27.145,
+    "end": 27.439
+  },
+  {
+    "word": "tumhare",
+    "start": 27.499,
+    "end": 27.919
+  },
+  {
+    "word": "liye",
+    "start": 27.946,
+    "end": 28.08
+  },
+  {
+    "word": "sacrifice",
+    "start": 28.144,
+    "end": 28.72
+  },
+  {
+    "word": "karta",
+    "start": 28.76,
+    "end": 29.04
+  },
+  {
+    "word": "hai.",
+    "start": 29.1,
+    "end": 30.0
+  },
+  {
+    "word": "Unke",
+    "start": 30.053,
+    "end": 30.239
+  },
+  {
+    "word": "toxic",
+    "start": 30.332,
+    "end": 30.797
+  },
+  {
+    "word": "words",
+    "start": 30.864,
+    "end": 31.199
+  },
+  {
+    "word": "nahi,",
+    "start": 31.239,
+    "end": 31.998
+  },
+  {
+    "word": "unke",
+    "start": 32.078,
+    "end": 32.318
+  },
+  {
+    "word": "actions",
+    "start": 32.408,
+    "end": 33.038
+  },
+  {
+    "word": "dekho.",
+    "start": 33.098,
+    "end": 33.598
+  },
+  {
+    "word": "Upgrade",
+    "start": 33.718,
+    "end": 34.558
+  },
+  {
+    "word": "your",
+    "start": 34.59,
+    "end": 34.718
+  },
+  {
+    "word": "circle.",
+    "start": 34.798,
+    "end": 35.358
+  },
+  {
+    "word": "Share",
+    "start": 35.491,
+    "end": 36.156
+  },
+  {
+    "word": "this",
+    "start": 36.204,
+    "end": 36.396
+  },
+  {
+    "word": "reel",
+    "start": 36.46,
+    "end": 36.716
+  },
+  {
+    "word": "with",
+    "start": 36.748,
+    "end": 36.876
+  },
+  {
+    "word": "someone",
+    "start": 36.926,
+    "end": 37.276
+  },
+  {
+    "word": "who",
+    "start": 37.316,
+    "end": 37.436
+  },
+  {
+    "word": "needs",
+    "start": 37.503,
+    "end": 37.838
+  },
+  {
+    "word": "to",
+    "start": 37.865,
+    "end": 37.919
+  },
+  {
+    "word": "filter",
+    "start": 37.988,
+    "end": 38.402
+  },
+  {
+    "word": "out",
+    "start": 38.442,
+    "end": 38.562
+  },
+  {
+    "word": "fake",
+    "start": 38.642,
+    "end": 38.962
+  },
+  {
+    "word": "friends",
+    "start": 39.012,
+    "end": 39.362
+  },
+  {
+    "word": "from",
+    "start": 39.394,
+    "end": 39.522
+  },
+  {
+    "word": "their",
+    "start": 39.549,
+    "end": 39.684
+  },
+  {
+    "word": "life.",
+    "start": 39.78,
+    "end": 40.244
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "ARGUING",
+    "start": 0.44,
+    "end": 1.04
+  },
+  {
+    "word": "WITH",
+    "start": 1.072,
+    "end": 1.2
+  },
+  {
+    "word": "FOOLS!",
+    "start": 1.307,
+    "end": 2.161
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.417,
+    "end": 3.761
+  },
+  {
+    "word": "ne",
+    "start": 3.788,
+    "end": 3.842
+  },
+  {
+    "word": "kaha",
+    "start": 3.922,
+    "end": 4.161
+  },
+  {
+    "word": "tha:",
+    "start": 4.221,
+    "end": 4.841
+  },
+  {
+    "word": "Ek",
+    "start": 4.988,
+    "end": 5.282
+  },
+  {
+    "word": "lalchi",
+    "start": 5.362,
+    "end": 5.841
+  },
+  {
+    "word": "insaan",
+    "start": 5.921,
+    "end": 6.32
+  },
+  {
+    "word": "ko",
+    "start": 6.373,
+    "end": 6.479
+  },
+  {
+    "word": "paise",
+    "start": 6.559,
+    "end": 6.959
+  },
+  {
+    "word": "se,",
+    "start": 7.039,
+    "end": 7.359
+  },
+  {
+    "word": "ek",
+    "start": 7.572,
+    "end": 7.998
+  },
+  {
+    "word": "ahankari",
+    "start": 8.078,
+    "end": 8.718
+  },
+  {
+    "word": "ko",
+    "start": 8.798,
+    "end": 8.958
+  },
+  {
+    "word": "jhuk",
+    "start": 9.038,
+    "end": 9.278
+  },
+  {
+    "word": "kar,",
+    "start": 9.358,
+    "end": 10.238
+  },
+  {
+    "word": "ek",
+    "start": 10.318,
+    "end": 10.478
+  },
+  {
+    "word": "murkh",
+    "start": 10.578,
+    "end": 10.958
+  },
+  {
+    "word": "ko",
+    "start": 11.065,
+    "end": 11.279
+  },
+  {
+    "word": "uski",
+    "start": 11.386,
+    "end": 11.68
+  },
+  {
+    "word": "haan",
+    "start": 11.76,
+    "end": 12.0
+  },
+  {
+    "word": "mein",
+    "start": 12.048,
+    "end": 12.24
+  },
+  {
+    "word": "haan",
+    "start": 12.32,
+    "end": 12.56
+  },
+  {
+    "word": "milakar,",
+    "start": 12.6,
+    "end": 13.2
+  },
+  {
+    "word": "aur",
+    "start": 13.36,
+    "end": 13.84
+  },
+  {
+    "word": "ek",
+    "start": 13.893,
+    "end": 13.999
+  },
+  {
+    "word": "samajhdar",
+    "start": 14.079,
+    "end": 14.719
+  },
+  {
+    "word": "ko",
+    "start": 14.799,
+    "end": 14.959
+  },
+  {
+    "word": "sirf",
+    "start": 15.139,
+    "end": 15.759
+  },
+  {
+    "word": "sach",
+    "start": 15.887,
+    "end": 16.399
+  },
+  {
+    "word": "bolkar",
+    "start": 16.459,
+    "end": 16.798
+  },
+  {
+    "word": "jeeta",
+    "start": 16.851,
+    "end": 17.197
+  },
+  {
+    "word": "ja",
+    "start": 17.25,
+    "end": 17.356
+  },
+  {
+    "word": "sakta",
+    "start": 17.416,
+    "end": 17.676
+  },
+  {
+    "word": "hai.",
+    "start": 17.716,
+    "end": 17.916
+  },
+  {
+    "word": "Bro,",
+    "start": 18.276,
+    "end": 19.796
+  },
+  {
+    "word": "corporate",
+    "start": 19.84,
+    "end": 20.236
+  },
+  {
+    "word": "duniya",
+    "start": 20.276,
+    "end": 20.635
+  },
+  {
+    "word": "aur",
+    "start": 20.695,
+    "end": 20.875
+  },
+  {
+    "word": "real",
+    "start": 20.939,
+    "end": 21.195
+  },
+  {
+    "word": "life",
+    "start": 21.275,
+    "end": 21.595
+  },
+  {
+    "word": "mein",
+    "start": 21.643,
+    "end": 21.835
+  },
+  {
+    "word": "sabse",
+    "start": 21.975,
+    "end": 22.475
+  },
+  {
+    "word": "ek",
+    "start": 22.582,
+    "end": 22.796
+  },
+  {
+    "word": "tarah",
+    "start": 22.836,
+    "end": 23.036
+  },
+  {
+    "word": "se",
+    "start": 23.116,
+    "end": 23.276
+  },
+  {
+    "word": "deal",
+    "start": 23.324,
+    "end": 23.516
+  },
+  {
+    "word": "nahi",
+    "start": 23.556,
+    "end": 23.755
+  },
+  {
+    "word": "karte.",
+    "start": 23.795,
+    "end": 24.235
+  },
+  {
+    "word": "Egoistic",
+    "start": 24.715,
+    "end": 25.835
+  },
+  {
+    "word": "logon",
+    "start": 25.895,
+    "end": 26.155
+  },
+  {
+    "word": "ka",
+    "start": 26.208,
+    "end": 26.314
+  },
+  {
+    "word": "ego",
+    "start": 26.434,
+    "end": 26.794
+  },
+  {
+    "word": "feed",
+    "start": 26.874,
+    "end": 27.194
+  },
+  {
+    "word": "karo",
+    "start": 27.234,
+    "end": 27.595
+  },
+  {
+    "word": "aur",
+    "start": 27.715,
+    "end": 28.075
+  },
+  {
+    "word": "apna",
+    "start": 28.128,
+    "end": 28.314
+  },
+  {
+    "word": "kaam",
+    "start": 28.394,
+    "end": 28.634
+  },
+  {
+    "word": "nikalwao.",
+    "start": 28.674,
+    "end": 29.194
+  },
+  {
+    "word": "Murkhon",
+    "start": 29.434,
+    "end": 30.394
+  },
+  {
+    "word": "se",
+    "start": 30.474,
+    "end": 30.634
+  },
+  {
+    "word": "behes",
+    "start": 30.734,
+    "end": 31.194
+  },
+  {
+    "word": "mat",
+    "start": 31.234,
+    "end": 31.354
+  },
+  {
+    "word": "karo.",
+    "start": 31.394,
+    "end": 31.754
+  },
+  {
+    "word": "Protect",
+    "start": 31.874,
+    "end": 32.714
+  },
+  {
+    "word": "your",
+    "start": 32.746,
+    "end": 32.874
+  },
+  {
+    "word": "energy",
+    "start": 32.943,
+    "end": 33.357
+  },
+  {
+    "word": "and",
+    "start": 33.417,
+    "end": 33.597
+  },
+  {
+    "word": "play",
+    "start": 33.693,
+    "end": 34.077
+  },
+  {
+    "word": "smart.",
+    "start": 34.224,
+    "end": 35.039
+  },
+  {
+    "word": "Share",
+    "start": 35.239,
+    "end": 36.239
+  },
+  {
+    "word": "this",
+    "start": 36.303,
+    "end": 36.559
+  },
+  {
+    "word": "with",
+    "start": 36.591,
+    "end": 36.719
+  },
+  {
+    "word": "that",
+    "start": 36.767,
+    "end": 36.959
+  },
+  {
+    "word": "friend",
+    "start": 37.016,
+    "end": 37.358
+  },
+  {
+    "word": "who",
+    "start": 37.398,
+    "end": 37.518
+  },
+  {
+    "word": "always",
+    "start": 37.632,
+    "end": 38.316
+  },
+  {
+    "word": "wastes",
+    "start": 38.385,
+    "end": 38.799
+  },
+  {
+    "word": "time",
+    "start": 38.879,
+    "end": 39.199
+  },
+  {
+    "word": "arguing",
+    "start": 39.289,
+    "end": 39.919
+  },
+  {
+    "word": "with",
+    "start": 39.951,
+    "end": 40.079
+  },
+  {
+    "word": "idiots.",
+    "start": 40.17,
+    "end": 40.796
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "word": "LOOK",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "AT",
+    "start": 0.187,
+    "end": 0.241
+  },
+  {
+    "word": "YOUR",
+    "start": 0.273,
+    "end": 0.401
+  },
+  {
+    "word": "FRIENDS.",
+    "start": 0.481,
+    "end": 1.361
+  },
+  {
+    "word": "THAT'S",
+    "start": 1.425,
+    "end": 1.841
+  },
+  {
+    "word": "YOUR",
+    "start": 1.889,
+    "end": 2.081
+  },
+  {
+    "word": "FUTURE.",
+    "start": 2.201,
+    "end": 2.801
+  },
+  {
+    "word": "Chanakya",
+    "start": 3.025,
+    "end": 4.161
+  },
+  {
+    "word": "ne",
+    "start": 4.214,
+    "end": 4.32
+  },
+  {
+    "word": "kaha",
+    "start": 4.36,
+    "end": 4.559
+  },
+  {
+    "word": "tha:",
+    "start": 4.619,
+    "end": 4.879
+  },
+  {
+    "word": "Jaisi",
+    "start": 5.279,
+    "end": 5.918
+  },
+  {
+    "word": "insaan",
+    "start": 5.978,
+    "end": 6.317
+  },
+  {
+    "word": "ki",
+    "start": 6.37,
+    "end": 6.476
+  },
+  {
+    "word": "kismat",
+    "start": 6.556,
+    "end": 6.956
+  },
+  {
+    "word": "aur",
+    "start": 6.996,
+    "end": 7.116
+  },
+  {
+    "word": "manzil",
+    "start": 7.176,
+    "end": 7.516
+  },
+  {
+    "word": "hoti",
+    "start": 7.576,
+    "end": 7.836
+  },
+  {
+    "word": "hai,",
+    "start": 7.876,
+    "end": 8.156
+  },
+  {
+    "word": "waisi",
+    "start": 8.396,
+    "end": 8.956
+  },
+  {
+    "word": "hi",
+    "start": 9.009,
+    "end": 9.115
+  },
+  {
+    "word": "uski",
+    "start": 9.222,
+    "end": 9.516
+  },
+  {
+    "word": "buddhi",
+    "start": 9.564,
+    "end": 9.916
+  },
+  {
+    "word": "ho",
+    "start": 9.943,
+    "end": 9.997
+  },
+  {
+    "word": "jati",
+    "start": 10.077,
+    "end": 10.397
+  },
+  {
+    "word": "hai,",
+    "start": 10.437,
+    "end": 11.277
+  },
+  {
+    "word": "waise",
+    "start": 11.317,
+    "end": 11.677
+  },
+  {
+    "word": "hi",
+    "start": 11.73,
+    "end": 11.836
+  },
+  {
+    "word": "uske",
+    "start": 11.943,
+    "end": 12.237
+  },
+  {
+    "word": "karm",
+    "start": 12.357,
+    "end": 12.636
+  },
+  {
+    "word": "ho",
+    "start": 12.689,
+    "end": 12.795
+  },
+  {
+    "word": "jate",
+    "start": 12.835,
+    "end": 13.115
+  },
+  {
+    "word": "hain,",
+    "start": 13.155,
+    "end": 13.434
+  },
+  {
+    "word": "aur",
+    "start": 13.634,
+    "end": 14.234
+  },
+  {
+    "word": "waise",
+    "start": 14.314,
+    "end": 14.714
+  },
+  {
+    "word": "hi",
+    "start": 14.767,
+    "end": 14.873
+  },
+  {
+    "word": "dost",
+    "start": 14.969,
+    "end": 15.353
+  },
+  {
+    "word": "use",
+    "start": 15.473,
+    "end": 15.833
+  },
+  {
+    "word": "milte",
+    "start": 15.873,
+    "end": 16.233
+  },
+  {
+    "word": "hain.",
+    "start": 16.273,
+    "end": 16.554
+  },
+  {
+    "word": "Bro,",
+    "start": 16.854,
+    "end": 17.834
+  },
+  {
+    "word": "agar",
+    "start": 17.962,
+    "end": 18.474
+  },
+  {
+    "word": "tumhara",
+    "start": 18.514,
+    "end": 18.873
+  },
+  {
+    "word": "circle",
+    "start": 18.93,
+    "end": 19.272
+  },
+  {
+    "word": "'losers'",
+    "start": 19.352,
+    "end": 19.83
+  },
+  {
+    "word": "ka",
+    "start": 19.857,
+    "end": 19.911
+  },
+  {
+    "word": "hai,",
+    "start": 19.971,
+    "end": 20.231
+  },
+  {
+    "word": "toh",
+    "start": 20.331,
+    "end": 20.631
+  },
+  {
+    "word": "tumhara",
+    "start": 20.671,
+    "end": 20.952
+  },
+  {
+    "word": "future",
+    "start": 21.032,
+    "end": 21.512
+  },
+  {
+    "word": "pehle",
+    "start": 21.592,
+    "end": 21.911
+  },
+  {
+    "word": "se",
+    "start": 21.964,
+    "end": 22.07
+  },
+  {
+    "word": "set",
+    "start": 22.15,
+    "end": 22.39
+  },
+  {
+    "word": "hai",
+    "start": 22.43,
+    "end": 22.55
+  },
+  {
+    "word": "-",
+    "start": 22.83,
+    "end": 23.11
+  },
+  {
+    "word": "Zero",
+    "start": 23.206,
+    "end": 23.59
+  },
+  {
+    "word": "Growth.",
+    "start": 23.67,
+    "end": 24.23
+  },
+  {
+    "word": "Corporate",
+    "start": 24.35,
+    "end": 25.43
+  },
+  {
+    "word": "politics",
+    "start": 25.492,
+    "end": 25.988
+  },
+  {
+    "word": "ho",
+    "start": 26.068,
+    "end": 26.228
+  },
+  {
+    "word": "ya",
+    "start": 26.281,
+    "end": 26.387
+  },
+  {
+    "word": "personal",
+    "start": 26.44,
+    "end": 26.864
+  },
+  {
+    "word": "success,",
+    "start": 26.954,
+    "end": 27.664
+  },
+  {
+    "word": "agar",
+    "start": 27.776,
+    "end": 28.224
+  },
+  {
+    "word": "tumhare",
+    "start": 28.264,
+    "end": 28.624
+  },
+  {
+    "word": "'friends'",
+    "start": 28.704,
+    "end": 29.186
+  },
+  {
+    "word": "toxic",
+    "start": 29.279,
+    "end": 29.744
+  },
+  {
+    "word": "hain",
+    "start": 29.784,
+    "end": 29.983
+  },
+  {
+    "word": "aur",
+    "start": 30.123,
+    "end": 30.543
+  },
+  {
+    "word": "tumhe",
+    "start": 30.583,
+    "end": 30.783
+  },
+  {
+    "word": "push",
+    "start": 30.863,
+    "end": 31.183
+  },
+  {
+    "word": "nahi",
+    "start": 31.303,
+    "end": 31.582
+  },
+  {
+    "word": "kar",
+    "start": 31.622,
+    "end": 31.742
+  },
+  {
+    "word": "rahe,",
+    "start": 31.795,
+    "end": 32.221
+  },
+  {
+    "word": "toh",
+    "start": 32.341,
+    "end": 32.701
+  },
+  {
+    "word": "tumhara",
+    "start": 32.741,
+    "end": 33.1
+  },
+  {
+    "word": "downfall",
+    "start": 33.171,
+    "end": 33.739
+  },
+  {
+    "word": "fix",
+    "start": 33.899,
+    "end": 34.379
+  },
+  {
+    "word": "hai.",
+    "start": 34.439,
+    "end": 34.699
+  },
+  {
+    "word": "Upgrade",
+    "start": 34.839,
+    "end": 35.819
+  },
+  {
+    "word": "your",
+    "start": 35.835,
+    "end": 35.899
+  },
+  {
+    "word": "circle,",
+    "start": 35.99,
+    "end": 36.816
+  },
+  {
+    "word": "or",
+    "start": 36.909,
+    "end": 37.095
+  },
+  {
+    "word": "stay",
+    "start": 37.175,
+    "end": 37.495
+  },
+  {
+    "word": "broke",
+    "start": 37.575,
+    "end": 37.975
+  },
+  {
+    "word": "forever.",
+    "start": 38.065,
+    "end": 38.855
+  },
+  {
+    "word": "Tag",
+    "start": 39.135,
+    "end": 39.975
+  },
+  {
+    "word": "that",
+    "start": 40.023,
+    "end": 40.215
+  },
+  {
+    "word": "one",
+    "start": 40.275,
+    "end": 40.455
+  },
+  {
+    "word": "friend",
+    "start": 40.524,
+    "end": 40.938
+  },
+  {
+    "word": "who",
+    "start": 40.978,
+    "end": 41.098
+  },
+  {
+    "word": "is",
+    "start": 41.125,
+    "end": 41.179
+  },
+  {
+    "word": "destined",
+    "start": 41.241,
+    "end": 41.737
+  },
+  {
+    "word": "for",
+    "start": 41.777,
+    "end": 41.897
+  },
+  {
+    "word": "greatness",
+    "start": 41.953,
+    "end": 42.457
+  },
+  {
+    "word": "but",
+    "start": 42.577,
+    "end": 42.937
+  },
+  {
+    "word": "stuck",
+    "start": 43.017,
+    "end": 43.417
+  },
+  {
+    "word": "in",
+    "start": 43.497,
+    "end": 43.657
+  },
+  {
+    "word": "the",
+    "start": 43.677,
+    "end": 43.737
+  },
+  {
+    "word": "wrong",
+    "start": 43.804,
+    "end": 44.139
+  },
+  {
+    "word": "circle.",
+    "start": 44.23,
+    "end": 44.936
+  }
+]

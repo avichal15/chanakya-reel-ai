@@ -1,0 +1,437 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "RUNNING",
+    "start": 0.38,
+    "end": 0.8
+  },
+  {
+    "word": "AWAY!",
+    "start": 0.907,
+    "end": 2.081
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.209,
+    "end": 3.041
+  },
+  {
+    "word": "ne",
+    "start": 3.094,
+    "end": 3.2
+  },
+  {
+    "word": "kaha",
+    "start": 3.24,
+    "end": 3.439
+  },
+  {
+    "word": "tha:",
+    "start": 3.499,
+    "end": 3.759
+  },
+  {
+    "word": "Dar",
+    "start": 3.979,
+    "end": 4.639
+  },
+  {
+    "word": "se",
+    "start": 4.719,
+    "end": 4.879
+  },
+  {
+    "word": "tab",
+    "start": 4.959,
+    "end": 5.199
+  },
+  {
+    "word": "tak",
+    "start": 5.239,
+    "end": 5.359
+  },
+  {
+    "word": "hi",
+    "start": 5.412,
+    "end": 5.518
+  },
+  {
+    "word": "daro",
+    "start": 5.578,
+    "end": 5.838
+  },
+  {
+    "word": "jab",
+    "start": 5.978,
+    "end": 6.398
+  },
+  {
+    "word": "tak",
+    "start": 6.458,
+    "end": 6.638
+  },
+  {
+    "word": "wo",
+    "start": 6.718,
+    "end": 6.878
+  },
+  {
+    "word": "samne",
+    "start": 6.958,
+    "end": 7.358
+  },
+  {
+    "word": "na",
+    "start": 7.411,
+    "end": 7.517
+  },
+  {
+    "word": "aaye.",
+    "start": 7.557,
+    "end": 8.396
+  },
+  {
+    "word": "Par",
+    "start": 8.436,
+    "end": 8.556
+  },
+  {
+    "word": "jab",
+    "start": 8.616,
+    "end": 8.796
+  },
+  {
+    "word": "museebat",
+    "start": 8.86,
+    "end": 9.436
+  },
+  {
+    "word": "sir",
+    "start": 9.496,
+    "end": 9.676
+  },
+  {
+    "word": "par",
+    "start": 9.736,
+    "end": 9.916
+  },
+  {
+    "word": "khadi",
+    "start": 9.943,
+    "end": 10.237
+  },
+  {
+    "word": "ho,",
+    "start": 10.29,
+    "end": 10.556
+  },
+  {
+    "word": "toh",
+    "start": 10.656,
+    "end": 10.956
+  },
+  {
+    "word": "bina",
+    "start": 11.036,
+    "end": 11.275
+  },
+  {
+    "word": "kisi",
+    "start": 11.355,
+    "end": 11.756
+  },
+  {
+    "word": "hichkichahat",
+    "start": 11.836,
+    "end": 12.636
+  },
+  {
+    "word": "ke",
+    "start": 12.716,
+    "end": 12.876
+  },
+  {
+    "word": "uspar",
+    "start": 12.983,
+    "end": 13.356
+  },
+  {
+    "word": "hamla",
+    "start": 13.416,
+    "end": 13.756
+  },
+  {
+    "word": "kar",
+    "start": 13.796,
+    "end": 13.916
+  },
+  {
+    "word": "do.",
+    "start": 13.996,
+    "end": 14.236
+  },
+  {
+    "word": "Bro,",
+    "start": 14.556,
+    "end": 15.756
+  },
+  {
+    "word": "tum",
+    "start": 15.816,
+    "end": 15.996
+  },
+  {
+    "word": "overthink",
+    "start": 16.092,
+    "end": 16.716
+  },
+  {
+    "word": "karke",
+    "start": 16.776,
+    "end": 17.116
+  },
+  {
+    "word": "apni",
+    "start": 17.223,
+    "end": 17.517
+  },
+  {
+    "word": "hi",
+    "start": 17.57,
+    "end": 17.676
+  },
+  {
+    "word": "'Growth'",
+    "start": 17.716,
+    "end": 18.076
+  },
+  {
+    "word": "ko",
+    "start": 18.103,
+    "end": 18.157
+  },
+  {
+    "word": "maar",
+    "start": 18.205,
+    "end": 18.397
+  },
+  {
+    "word": "rahe",
+    "start": 18.424,
+    "end": 18.638
+  },
+  {
+    "word": "ho.",
+    "start": 18.691,
+    "end": 18.877
+  },
+  {
+    "word": "Chahe",
+    "start": 19.077,
+    "end": 19.837
+  },
+  {
+    "word": "wo",
+    "start": 19.89,
+    "end": 19.996
+  },
+  {
+    "word": "'Corporate'",
+    "start": 20.076,
+    "end": 20.832
+  },
+  {
+    "word": "politics",
+    "start": 20.863,
+    "end": 21.111
+  },
+  {
+    "word": "ho",
+    "start": 21.164,
+    "end": 21.27
+  },
+  {
+    "word": "ya",
+    "start": 21.43,
+    "end": 21.75
+  },
+  {
+    "word": "koi",
+    "start": 21.83,
+    "end": 21.99
+  },
+  {
+    "word": "'Toxic'",
+    "start": 22.11,
+    "end": 22.83
+  },
+  {
+    "word": "circle,",
+    "start": 22.859,
+    "end": 23.113
+  },
+  {
+    "word": "jab",
+    "start": 23.293,
+    "end": 23.833
+  },
+  {
+    "word": "problem",
+    "start": 23.883,
+    "end": 24.233
+  },
+  {
+    "word": "samne",
+    "start": 24.313,
+    "end": 24.713
+  },
+  {
+    "word": "aa",
+    "start": 24.74,
+    "end": 24.794
+  },
+  {
+    "word": "jaye,",
+    "start": 24.874,
+    "end": 25.353
+  },
+  {
+    "word": "toh",
+    "start": 25.413,
+    "end": 25.593
+  },
+  {
+    "word": "bhagna",
+    "start": 25.646,
+    "end": 26.072
+  },
+  {
+    "word": "nahi,",
+    "start": 26.152,
+    "end": 26.791
+  },
+  {
+    "word": "usko",
+    "start": 26.871,
+    "end": 27.111
+  },
+  {
+    "word": "destroy",
+    "start": 27.181,
+    "end": 27.671
+  },
+  {
+    "word": "karna",
+    "start": 27.711,
+    "end": 27.991
+  },
+  {
+    "word": "seekho.",
+    "start": 28.055,
+    "end": 28.551
+  },
+  {
+    "word": "Alpha",
+    "start": 28.724,
+    "end": 29.589
+  },
+  {
+    "word": "bano,",
+    "start": 29.629,
+    "end": 29.908
+  },
+  {
+    "word": "victim",
+    "start": 30.011,
+    "end": 30.629
+  },
+  {
+    "word": "nahi.",
+    "start": 30.669,
+    "end": 30.948
+  },
+  {
+    "word": "Share",
+    "start": 31.135,
+    "end": 32.07
+  },
+  {
+    "word": "this",
+    "start": 32.102,
+    "end": 32.23
+  },
+  {
+    "word": "reel",
+    "start": 32.31,
+    "end": 32.63
+  },
+  {
+    "word": "with",
+    "start": 32.646,
+    "end": 32.71
+  },
+  {
+    "word": "that",
+    "start": 32.758,
+    "end": 32.95
+  },
+  {
+    "word": "one",
+    "start": 33.03,
+    "end": 33.27
+  },
+  {
+    "word": "friend",
+    "start": 33.339,
+    "end": 33.753
+  },
+  {
+    "word": "who",
+    "start": 33.853,
+    "end": 34.153
+  },
+  {
+    "word": "needs",
+    "start": 34.206,
+    "end": 34.471
+  },
+  {
+    "word": "to",
+    "start": 34.498,
+    "end": 34.552
+  },
+  {
+    "word": "stop",
+    "start": 34.632,
+    "end": 34.952
+  },
+  {
+    "word": "overthinking",
+    "start": 35.032,
+    "end": 35.752
+  },
+  {
+    "word": "and",
+    "start": 35.832,
+    "end": 36.072
+  },
+  {
+    "word": "start",
+    "start": 36.139,
+    "end": 36.474
+  },
+  {
+    "word": "fighting",
+    "start": 36.536,
+    "end": 37.032
+  },
+  {
+    "word": "back.",
+    "start": 37.096,
+    "end": 37.512
+  }
+]

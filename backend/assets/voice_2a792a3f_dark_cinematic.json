@@ -1,0 +1,437 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "LIVING",
+    "start": 0.52,
+    "end": 0.88
+  },
+  {
+    "word": "IN",
+    "start": 0.96,
+    "end": 1.12
+  },
+  {
+    "word": "DELUSION!",
+    "start": 1.2,
+    "end": 2.161
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.417,
+    "end": 3.681
+  },
+  {
+    "word": "ne",
+    "start": 3.734,
+    "end": 3.84
+  },
+  {
+    "word": "kaha",
+    "start": 3.88,
+    "end": 4.16
+  },
+  {
+    "word": "tha:",
+    "start": 4.2,
+    "end": 4.4
+  },
+  {
+    "word": "Insaan",
+    "start": 4.72,
+    "end": 5.68
+  },
+  {
+    "word": "ko",
+    "start": 5.733,
+    "end": 5.839
+  },
+  {
+    "word": "hamesha",
+    "start": 5.919,
+    "end": 6.479
+  },
+  {
+    "word": "khud",
+    "start": 6.532,
+    "end": 6.718
+  },
+  {
+    "word": "se",
+    "start": 6.798,
+    "end": 6.958
+  },
+  {
+    "word": "poochna",
+    "start": 6.978,
+    "end": 7.358
+  },
+  {
+    "word": "chahiye\u2014samay",
+    "start": 7.385,
+    "end": 8.878
+  },
+  {
+    "word": "kaisa",
+    "start": 8.918,
+    "end": 9.197
+  },
+  {
+    "word": "chal",
+    "start": 9.25,
+    "end": 9.436
+  },
+  {
+    "word": "raha",
+    "start": 9.476,
+    "end": 9.675
+  },
+  {
+    "word": "hai,",
+    "start": 9.715,
+    "end": 10.395
+  },
+  {
+    "word": "uske",
+    "start": 10.475,
+    "end": 10.795
+  },
+  {
+    "word": "sachhe",
+    "start": 10.859,
+    "end": 11.275
+  },
+  {
+    "word": "dost",
+    "start": 11.371,
+    "end": 11.755
+  },
+  {
+    "word": "kaun",
+    "start": 11.808,
+    "end": 12.074
+  },
+  {
+    "word": "hain,",
+    "start": 12.114,
+    "end": 12.795
+  },
+  {
+    "word": "uski",
+    "start": 12.875,
+    "end": 13.115
+  },
+  {
+    "word": "aamdani",
+    "start": 13.195,
+    "end": 13.836
+  },
+  {
+    "word": "aur",
+    "start": 13.876,
+    "end": 13.996
+  },
+  {
+    "word": "kharche",
+    "start": 14.076,
+    "end": 14.476
+  },
+  {
+    "word": "kya",
+    "start": 14.516,
+    "end": 14.716
+  },
+  {
+    "word": "hain,",
+    "start": 14.756,
+    "end": 15.037
+  },
+  {
+    "word": "aur",
+    "start": 15.157,
+    "end": 15.517
+  },
+  {
+    "word": "uski",
+    "start": 15.624,
+    "end": 15.918
+  },
+  {
+    "word": "asli",
+    "start": 16.051,
+    "end": 16.477
+  },
+  {
+    "word": "taqat",
+    "start": 16.557,
+    "end": 16.957
+  },
+  {
+    "word": "kya",
+    "start": 16.997,
+    "end": 17.197
+  },
+  {
+    "word": "hai.",
+    "start": 17.237,
+    "end": 17.437
+  },
+  {
+    "word": "Bro,",
+    "start": 17.717,
+    "end": 18.637
+  },
+  {
+    "word": "without",
+    "start": 18.727,
+    "end": 19.357
+  },
+  {
+    "word": "this",
+    "start": 19.405,
+    "end": 19.597
+  },
+  {
+    "word": "self-awareness,",
+    "start": 19.661,
+    "end": 20.639
+  },
+  {
+    "word": "tum",
+    "start": 20.759,
+    "end": 21.119
+  },
+  {
+    "word": "sirf",
+    "start": 21.199,
+    "end": 21.519
+  },
+  {
+    "word": "ek",
+    "start": 21.652,
+    "end": 21.918
+  },
+  {
+    "word": "puppet",
+    "start": 21.975,
+    "end": 22.317
+  },
+  {
+    "word": "ho.",
+    "start": 22.37,
+    "end": 22.556
+  },
+  {
+    "word": "Fake",
+    "start": 22.748,
+    "end": 23.516
+  },
+  {
+    "word": "'Friends',",
+    "start": 23.556,
+    "end": 24.075
+  },
+  {
+    "word": "toxic",
+    "start": 24.222,
+    "end": 24.957
+  },
+  {
+    "word": "'Circle'",
+    "start": 24.997,
+    "end": 25.519
+  },
+  {
+    "word": "aur",
+    "start": 25.639,
+    "end": 25.999
+  },
+  {
+    "word": "zero",
+    "start": 26.095,
+    "end": 26.479
+  },
+  {
+    "word": "financial",
+    "start": 26.535,
+    "end": 27.039
+  },
+  {
+    "word": "planning",
+    "start": 27.11,
+    "end": 27.678
+  },
+  {
+    "word": "tumhe",
+    "start": 27.778,
+    "end": 28.158
+  },
+  {
+    "word": "andar",
+    "start": 28.238,
+    "end": 28.558
+  },
+  {
+    "word": "se",
+    "start": 28.638,
+    "end": 28.798
+  },
+  {
+    "word": "khatam",
+    "start": 28.838,
+    "end": 29.197
+  },
+  {
+    "word": "kar",
+    "start": 29.237,
+    "end": 29.357
+  },
+  {
+    "word": "degi.",
+    "start": 29.417,
+    "end": 30.317
+  },
+  {
+    "word": "Stop",
+    "start": 30.429,
+    "end": 30.877
+  },
+  {
+    "word": "acting",
+    "start": 30.946,
+    "end": 31.36
+  },
+  {
+    "word": "like",
+    "start": 31.408,
+    "end": 31.6
+  },
+  {
+    "word": "you",
+    "start": 31.64,
+    "end": 31.76
+  },
+  {
+    "word": "have",
+    "start": 31.808,
+    "end": 32.0
+  },
+  {
+    "word": "infinite",
+    "start": 32.053,
+    "end": 32.477
+  },
+  {
+    "word": "time.",
+    "start": 32.573,
+    "end": 33.117
+  },
+  {
+    "word": "Know",
+    "start": 33.293,
+    "end": 33.997
+  },
+  {
+    "word": "your",
+    "start": 34.045,
+    "end": 34.237
+  },
+  {
+    "word": "worth",
+    "start": 34.317,
+    "end": 34.717
+  },
+  {
+    "word": "and",
+    "start": 34.757,
+    "end": 34.877
+  },
+  {
+    "word": "calculate",
+    "start": 34.949,
+    "end": 35.597
+  },
+  {
+    "word": "your",
+    "start": 35.629,
+    "end": 35.757
+  },
+  {
+    "word": "moves.",
+    "start": 35.85,
+    "end": 36.395
+  },
+  {
+    "word": "Share",
+    "start": 36.542,
+    "end": 37.277
+  },
+  {
+    "word": "this",
+    "start": 37.325,
+    "end": 37.517
+  },
+  {
+    "word": "reel",
+    "start": 37.581,
+    "end": 37.837
+  },
+  {
+    "word": "with",
+    "start": 37.869,
+    "end": 37.997
+  },
+  {
+    "word": "that",
+    "start": 38.045,
+    "end": 38.237
+  },
+  {
+    "word": "one",
+    "start": 38.297,
+    "end": 38.477
+  },
+  {
+    "word": "friend",
+    "start": 38.534,
+    "end": 38.876
+  },
+  {
+    "word": "who",
+    "start": 38.916,
+    "end": 39.036
+  },
+  {
+    "word": "needs",
+    "start": 39.076,
+    "end": 39.276
+  },
+  {
+    "word": "a",
+    "start": 39.316,
+    "end": 39.356
+  },
+  {
+    "word": "harsh",
+    "start": 39.436,
+    "end": 39.836
+  },
+  {
+    "word": "reality",
+    "start": 39.896,
+    "end": 40.316
+  },
+  {
+    "word": "check",
+    "start": 40.369,
+    "end": 40.634
+  },
+  {
+    "word": "today.",
+    "start": 40.701,
+    "end": 41.196
+  }
+]

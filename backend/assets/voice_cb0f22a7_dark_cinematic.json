@@ -1,0 +1,567 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "LAZINESS",
+    "start": 0.347,
+    "end": 0.961
+  },
+  {
+    "word": "WILL",
+    "start": 0.993,
+    "end": 1.121
+  },
+  {
+    "word": "BANKRUPT",
+    "start": 1.217,
+    "end": 1.841
+  },
+  {
+    "word": "YOU!",
+    "start": 1.901,
+    "end": 2.161
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.401,
+    "end": 3.681
+  },
+  {
+    "word": "ne",
+    "start": 3.734,
+    "end": 3.84
+  },
+  {
+    "word": "kaha",
+    "start": 3.88,
+    "end": 4.079
+  },
+  {
+    "word": "tha:",
+    "start": 4.139,
+    "end": 4.399
+  },
+  {
+    "word": "Aalas",
+    "start": 4.759,
+    "end": 5.519
+  },
+  {
+    "word": "se",
+    "start": 5.572,
+    "end": 5.678
+  },
+  {
+    "word": "vidya",
+    "start": 5.738,
+    "end": 6.078
+  },
+  {
+    "word": "nasht",
+    "start": 6.158,
+    "end": 6.478
+  },
+  {
+    "word": "ho",
+    "start": 6.505,
+    "end": 6.559
+  },
+  {
+    "word": "jati",
+    "start": 6.639,
+    "end": 6.959
+  },
+  {
+    "word": "hai,",
+    "start": 6.999,
+    "end": 7.679
+  },
+  {
+    "word": "dusron",
+    "start": 7.739,
+    "end": 8.078
+  },
+  {
+    "word": "ke",
+    "start": 8.131,
+    "end": 8.237
+  },
+  {
+    "word": "hath",
+    "start": 8.301,
+    "end": 8.557
+  },
+  {
+    "word": "mein",
+    "start": 8.589,
+    "end": 8.717
+  },
+  {
+    "word": "saunpa",
+    "start": 8.824,
+    "end": 9.278
+  },
+  {
+    "word": "gaya",
+    "start": 9.338,
+    "end": 9.598
+  },
+  {
+    "word": "dhan",
+    "start": 9.678,
+    "end": 9.917
+  },
+  {
+    "word": "barbaad",
+    "start": 9.977,
+    "end": 10.397
+  },
+  {
+    "word": "ho",
+    "start": 10.424,
+    "end": 10.478
+  },
+  {
+    "word": "jata",
+    "start": 10.558,
+    "end": 10.878
+  },
+  {
+    "word": "hai,",
+    "start": 10.918,
+    "end": 11.198
+  },
+  {
+    "word": "aur",
+    "start": 11.378,
+    "end": 11.918
+  },
+  {
+    "word": "bina",
+    "start": 11.958,
+    "end": 12.238
+  },
+  {
+    "word": "neta",
+    "start": 12.318,
+    "end": 12.719
+  },
+  {
+    "word": "(leader)",
+    "start": 12.999,
+    "end": 13.33
+  },
+  {
+    "word": "ki",
+    "start": 13.339,
+    "end": 13.357
+  },
+  {
+    "word": "sena",
+    "start": 13.457,
+    "end": 13.837
+  },
+  {
+    "word": "khatam",
+    "start": 13.917,
+    "end": 14.236
+  },
+  {
+    "word": "ho",
+    "start": 14.289,
+    "end": 14.395
+  },
+  {
+    "word": "jati",
+    "start": 14.435,
+    "end": 14.715
+  },
+  {
+    "word": "hai.",
+    "start": 14.775,
+    "end": 15.035
+  },
+  {
+    "word": "Bro,",
+    "start": 15.295,
+    "end": 16.435
+  },
+  {
+    "word": "agar",
+    "start": 16.507,
+    "end": 16.795
+  },
+  {
+    "word": "tum",
+    "start": 16.855,
+    "end": 17.035
+  },
+  {
+    "word": "laziness",
+    "start": 17.115,
+    "end": 17.515
+  },
+  {
+    "word": "ki",
+    "start": 17.568,
+    "end": 17.674
+  },
+  {
+    "word": "wajah",
+    "start": 17.714,
+    "end": 17.914
+  },
+  {
+    "word": "se",
+    "start": 17.994,
+    "end": 18.154
+  },
+  {
+    "word": "upskill",
+    "start": 18.261,
+    "end": 18.715
+  },
+  {
+    "word": "nahi",
+    "start": 18.755,
+    "end": 18.876
+  },
+  {
+    "word": "kar",
+    "start": 18.936,
+    "end": 19.116
+  },
+  {
+    "word": "rahe,",
+    "start": 19.143,
+    "end": 19.517
+  },
+  {
+    "word": "ya",
+    "start": 19.677,
+    "end": 19.997
+  },
+  {
+    "word": "apne",
+    "start": 20.05,
+    "end": 20.316
+  },
+  {
+    "word": "finances",
+    "start": 20.405,
+    "end": 21.117
+  },
+  {
+    "word": "dusron",
+    "start": 21.197,
+    "end": 21.596
+  },
+  {
+    "word": "ke",
+    "start": 21.649,
+    "end": 21.755
+  },
+  {
+    "word": "bharose",
+    "start": 21.795,
+    "end": 22.234
+  },
+  {
+    "word": "chhod",
+    "start": 22.287,
+    "end": 22.552
+  },
+  {
+    "word": "rakhe",
+    "start": 22.612,
+    "end": 22.872
+  },
+  {
+    "word": "hain,",
+    "start": 22.912,
+    "end": 23.193
+  },
+  {
+    "word": "toh",
+    "start": 23.333,
+    "end": 23.753
+  },
+  {
+    "word": "you",
+    "start": 23.853,
+    "end": 24.153
+  },
+  {
+    "word": "are",
+    "start": 24.233,
+    "end": 24.473
+  },
+  {
+    "word": "finished.",
+    "start": 24.535,
+    "end": 25.111
+  },
+  {
+    "word": "Aaj",
+    "start": 25.591,
+    "end": 26.231
+  },
+  {
+    "word": "ke",
+    "start": 26.284,
+    "end": 26.39
+  },
+  {
+    "word": "Corporate",
+    "start": 26.438,
+    "end": 26.87
+  },
+  {
+    "word": "world",
+    "start": 26.923,
+    "end": 27.188
+  },
+  {
+    "word": "mein,",
+    "start": 27.236,
+    "end": 27.588
+  },
+  {
+    "word": "bina",
+    "start": 27.708,
+    "end": 28.068
+  },
+  {
+    "word": "self-upgrade",
+    "start": 28.148,
+    "end": 29.109
+  },
+  {
+    "word": "aur",
+    "start": 29.169,
+    "end": 29.349
+  },
+  {
+    "word": "strong",
+    "start": 29.429,
+    "end": 29.909
+  },
+  {
+    "word": "leadership",
+    "start": 29.953,
+    "end": 30.393
+  },
+  {
+    "word": "ke",
+    "start": 30.5,
+    "end": 30.714
+  },
+  {
+    "word": "tumhari",
+    "start": 30.834,
+    "end": 31.434
+  },
+  {
+    "word": "value",
+    "start": 31.514,
+    "end": 31.914
+  },
+  {
+    "word": "zero",
+    "start": 32.058,
+    "end": 32.634
+  },
+  {
+    "word": "hai.",
+    "start": 32.694,
+    "end": 33.354
+  },
+  {
+    "word": "Stop",
+    "start": 33.45,
+    "end": 33.834
+  },
+  {
+    "word": "depending",
+    "start": 33.882,
+    "end": 34.314
+  },
+  {
+    "word": "on",
+    "start": 34.367,
+    "end": 34.473
+  },
+  {
+    "word": "your",
+    "start": 34.489,
+    "end": 34.553
+  },
+  {
+    "word": "toxic",
+    "start": 34.646,
+    "end": 35.111
+  },
+  {
+    "word": "friends",
+    "start": 35.171,
+    "end": 35.591
+  },
+  {
+    "word": "or",
+    "start": 35.618,
+    "end": 35.672
+  },
+  {
+    "word": "fake",
+    "start": 35.752,
+    "end": 36.072
+  },
+  {
+    "word": "gurus.",
+    "start": 36.152,
+    "end": 36.792
+  },
+  {
+    "word": "Take",
+    "start": 36.952,
+    "end": 37.592
+  },
+  {
+    "word": "control",
+    "start": 37.642,
+    "end": 37.992
+  },
+  {
+    "word": "of",
+    "start": 38.045,
+    "end": 38.151
+  },
+  {
+    "word": "your",
+    "start": 38.167,
+    "end": 38.231
+  },
+  {
+    "word": "own",
+    "start": 38.311,
+    "end": 38.551
+  },
+  {
+    "word": "Growth",
+    "start": 38.62,
+    "end": 39.034
+  },
+  {
+    "word": "and",
+    "start": 39.094,
+    "end": 39.274
+  },
+  {
+    "word": "rule",
+    "start": 39.386,
+    "end": 39.834
+  },
+  {
+    "word": "your",
+    "start": 39.866,
+    "end": 39.994
+  },
+  {
+    "word": "Circle.",
+    "start": 40.085,
+    "end": 40.711
+  },
+  {
+    "word": "Share",
+    "start": 40.871,
+    "end": 41.671
+  },
+  {
+    "word": "this",
+    "start": 41.719,
+    "end": 41.911
+  },
+  {
+    "word": "reel",
+    "start": 41.975,
+    "end": 42.231
+  },
+  {
+    "word": "with",
+    "start": 42.263,
+    "end": 42.391
+  },
+  {
+    "word": "that",
+    "start": 42.423,
+    "end": 42.551
+  },
+  {
+    "word": "friend",
+    "start": 42.608,
+    "end": 42.95
+  },
+  {
+    "word": "who",
+    "start": 42.99,
+    "end": 43.11
+  },
+  {
+    "word": "needs",
+    "start": 43.15,
+    "end": 43.35
+  },
+  {
+    "word": "to",
+    "start": 43.403,
+    "end": 43.509
+  },
+  {
+    "word": "stop",
+    "start": 43.589,
+    "end": 43.909
+  },
+  {
+    "word": "being",
+    "start": 43.949,
+    "end": 44.149
+  },
+  {
+    "word": "lazy",
+    "start": 44.245,
+    "end": 44.629
+  },
+  {
+    "word": "and",
+    "start": 44.749,
+    "end": 45.109
+  },
+  {
+    "word": "take",
+    "start": 45.173,
+    "end": 45.429
+  },
+  {
+    "word": "charge",
+    "start": 45.498,
+    "end": 45.912
+  },
+  {
+    "word": "of",
+    "start": 45.965,
+    "end": 46.071
+  },
+  {
+    "word": "his",
+    "start": 46.111,
+    "end": 46.231
+  },
+  {
+    "word": "life.",
+    "start": 46.327,
+    "end": 46.791
+  }
+]

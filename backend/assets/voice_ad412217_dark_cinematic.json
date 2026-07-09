@@ -1,0 +1,432 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "CRYING",
+    "start": 0.4,
+    "end": 0.799
+  },
+  {
+    "word": "OVER",
+    "start": 0.847,
+    "end": 1.039
+  },
+  {
+    "word": "EXCUSES!",
+    "start": 1.146,
+    "end": 2.16
+  },
+  {
+    "word": "Suno,",
+    "start": 2.46,
+    "end": 3.84
+  },
+  {
+    "word": "complaining",
+    "start": 3.867,
+    "end": 4.164
+  },
+  {
+    "word": "band",
+    "start": 4.244,
+    "end": 4.564
+  },
+  {
+    "word": "karo.",
+    "start": 4.644,
+    "end": 5.125
+  },
+  {
+    "word": "Chanakya",
+    "start": 5.349,
+    "end": 6.485
+  },
+  {
+    "word": "ne",
+    "start": 6.538,
+    "end": 6.644
+  },
+  {
+    "word": "kaha",
+    "start": 6.684,
+    "end": 6.883
+  },
+  {
+    "word": "tha:",
+    "start": 6.943,
+    "end": 7.203
+  },
+  {
+    "word": "Ek",
+    "start": 7.496,
+    "end": 8.082
+  },
+  {
+    "word": "gadhe",
+    "start": 8.122,
+    "end": 8.402
+  },
+  {
+    "word": "se",
+    "start": 8.482,
+    "end": 8.642
+  },
+  {
+    "word": "yeh",
+    "start": 8.722,
+    "end": 8.882
+  },
+  {
+    "word": "teen",
+    "start": 8.962,
+    "end": 9.282
+  },
+  {
+    "word": "baatein",
+    "start": 9.335,
+    "end": 9.68
+  },
+  {
+    "word": "zaroor",
+    "start": 9.74,
+    "end": 10.079
+  },
+  {
+    "word": "seekho\u2014thakne",
+    "start": 10.143,
+    "end": 11.599
+  },
+  {
+    "word": "ke",
+    "start": 11.652,
+    "end": 11.758
+  },
+  {
+    "word": "baad",
+    "start": 11.811,
+    "end": 11.997
+  },
+  {
+    "word": "bhi",
+    "start": 12.037,
+    "end": 12.157
+  },
+  {
+    "word": "apna",
+    "start": 12.237,
+    "end": 12.477
+  },
+  {
+    "word": "bojh",
+    "start": 12.557,
+    "end": 12.797
+  },
+  {
+    "word": "uthana,",
+    "start": 12.877,
+    "end": 13.997
+  },
+  {
+    "word": "sardi",
+    "start": 14.117,
+    "end": 14.557
+  },
+  {
+    "word": "aur",
+    "start": 14.597,
+    "end": 14.717
+  },
+  {
+    "word": "garmi",
+    "start": 14.837,
+    "end": 15.118
+  },
+  {
+    "word": "ki",
+    "start": 15.171,
+    "end": 15.277
+  },
+  {
+    "word": "parwah",
+    "start": 15.337,
+    "end": 15.677
+  },
+  {
+    "word": "na",
+    "start": 15.73,
+    "end": 15.836
+  },
+  {
+    "word": "karna,",
+    "start": 15.916,
+    "end": 16.396
+  },
+  {
+    "word": "aur",
+    "start": 16.536,
+    "end": 16.956
+  },
+  {
+    "word": "hamesha",
+    "start": 17.036,
+    "end": 17.436
+  },
+  {
+    "word": "santusht",
+    "start": 17.516,
+    "end": 18.076
+  },
+  {
+    "word": "rehna.",
+    "start": 18.116,
+    "end": 18.476
+  },
+  {
+    "word": "Bro,",
+    "start": 18.776,
+    "end": 19.756
+  },
+  {
+    "word": "thode",
+    "start": 19.889,
+    "end": 20.314
+  },
+  {
+    "word": "se",
+    "start": 20.367,
+    "end": 20.473
+  },
+  {
+    "word": "'Corporate'",
+    "start": 20.513,
+    "end": 21.109
+  },
+  {
+    "word": "pressure",
+    "start": 21.127,
+    "end": 21.271
+  },
+  {
+    "word": "mein",
+    "start": 21.303,
+    "end": 21.431
+  },
+  {
+    "word": "rona",
+    "start": 21.471,
+    "end": 21.751
+  },
+  {
+    "word": "band",
+    "start": 21.799,
+    "end": 21.991
+  },
+  {
+    "word": "karo.",
+    "start": 22.031,
+    "end": 22.31
+  },
+  {
+    "word": "Agar",
+    "start": 22.523,
+    "end": 23.029
+  },
+  {
+    "word": "'Growth'",
+    "start": 23.109,
+    "end": 23.509
+  },
+  {
+    "word": "chahiye,",
+    "start": 23.536,
+    "end": 23.99
+  },
+  {
+    "word": "toh",
+    "start": 24.07,
+    "end": 24.31
+  },
+  {
+    "word": "apna",
+    "start": 24.39,
+    "end": 24.71
+  },
+  {
+    "word": "bojh",
+    "start": 24.79,
+    "end": 25.11
+  },
+  {
+    "word": "khud",
+    "start": 25.19,
+    "end": 25.43
+  },
+  {
+    "word": "uthana",
+    "start": 25.51,
+    "end": 25.831
+  },
+  {
+    "word": "seekho.",
+    "start": 25.879,
+    "end": 26.311
+  },
+  {
+    "word": "Stop",
+    "start": 26.487,
+    "end": 27.191
+  },
+  {
+    "word": "acting",
+    "start": 27.248,
+    "end": 27.59
+  },
+  {
+    "word": "soft.",
+    "start": 27.686,
+    "end": 28.15
+  },
+  {
+    "word": "Weather,",
+    "start": 28.26,
+    "end": 29.11
+  },
+  {
+    "word": "mood",
+    "start": 29.19,
+    "end": 29.51
+  },
+  {
+    "word": "ya",
+    "start": 29.563,
+    "end": 29.669
+  },
+  {
+    "word": "'Toxic'",
+    "start": 29.749,
+    "end": 30.348
+  },
+  {
+    "word": "circle",
+    "start": 30.377,
+    "end": 30.551
+  },
+  {
+    "word": "ko",
+    "start": 30.604,
+    "end": 30.71
+  },
+  {
+    "word": "apne",
+    "start": 30.763,
+    "end": 31.029
+  },
+  {
+    "word": "hustle",
+    "start": 31.075,
+    "end": 31.351
+  },
+  {
+    "word": "ke",
+    "start": 31.404,
+    "end": 31.51
+  },
+  {
+    "word": "beech",
+    "start": 31.537,
+    "end": 31.75
+  },
+  {
+    "word": "mat",
+    "start": 31.81,
+    "end": 31.99
+  },
+  {
+    "word": "aane",
+    "start": 32.03,
+    "end": 32.229
+  },
+  {
+    "word": "do.",
+    "start": 32.309,
+    "end": 32.629
+  },
+  {
+    "word": "Be",
+    "start": 32.842,
+    "end": 33.268
+  },
+  {
+    "word": "relentless.",
+    "start": 33.341,
+    "end": 34.551
+  },
+  {
+    "word": "Share",
+    "start": 34.631,
+    "end": 35.031
+  },
+  {
+    "word": "this",
+    "start": 35.079,
+    "end": 35.271
+  },
+  {
+    "word": "reel",
+    "start": 35.335,
+    "end": 35.591
+  },
+  {
+    "word": "with",
+    "start": 35.623,
+    "end": 35.751
+  },
+  {
+    "word": "a",
+    "start": 35.791,
+    "end": 35.831
+  },
+  {
+    "word": "friend",
+    "start": 35.888,
+    "end": 36.23
+  },
+  {
+    "word": "who",
+    "start": 36.25,
+    "end": 36.31
+  },
+  {
+    "word": "is",
+    "start": 36.39,
+    "end": 36.55
+  },
+  {
+    "word": "always",
+    "start": 36.607,
+    "end": 36.949
+  },
+  {
+    "word": "complaining",
+    "start": 37.002,
+    "end": 37.585
+  },
+  {
+    "word": "instead",
+    "start": 37.635,
+    "end": 37.985
+  },
+  {
+    "word": "of",
+    "start": 38.012,
+    "end": 38.066
+  },
+  {
+    "word": "hustling.",
+    "start": 38.13,
+    "end": 38.706
+  }
+]

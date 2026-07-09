@@ -1,0 +1,447 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "TRUSTING",
+    "start": 0.56,
+    "end": 1.279
+  },
+  {
+    "word": "GOSSIPERS!",
+    "start": 1.386,
+    "end": 2.321
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.593,
+    "end": 3.921
+  },
+  {
+    "word": "ne",
+    "start": 3.974,
+    "end": 4.08
+  },
+  {
+    "word": "kaha",
+    "start": 4.12,
+    "end": 4.319
+  },
+  {
+    "word": "tha:",
+    "start": 4.379,
+    "end": 5.039
+  },
+  {
+    "word": "Pakshiyon",
+    "start": 5.159,
+    "end": 5.759
+  },
+  {
+    "word": "mein",
+    "start": 5.791,
+    "end": 5.919
+  },
+  {
+    "word": "kauwa",
+    "start": 6.039,
+    "end": 6.399
+  },
+  {
+    "word": "sabse",
+    "start": 6.499,
+    "end": 6.959
+  },
+  {
+    "word": "neech",
+    "start": 6.986,
+    "end": 7.199
+  },
+  {
+    "word": "hai,",
+    "start": 7.239,
+    "end": 7.999
+  },
+  {
+    "word": "janwaron",
+    "start": 8.079,
+    "end": 8.558
+  },
+  {
+    "word": "mein",
+    "start": 8.59,
+    "end": 8.718
+  },
+  {
+    "word": "kutta,",
+    "start": 8.818,
+    "end": 9.838
+  },
+  {
+    "word": "lekin",
+    "start": 9.891,
+    "end": 10.156
+  },
+  {
+    "word": "jo",
+    "start": 10.289,
+    "end": 10.555
+  },
+  {
+    "word": "insaan",
+    "start": 10.635,
+    "end": 11.115
+  },
+  {
+    "word": "hamesha",
+    "start": 11.195,
+    "end": 11.755
+  },
+  {
+    "word": "dusron",
+    "start": 11.815,
+    "end": 12.154
+  },
+  {
+    "word": "ki",
+    "start": 12.207,
+    "end": 12.313
+  },
+  {
+    "word": "peeth",
+    "start": 12.366,
+    "end": 12.631
+  },
+  {
+    "word": "peeche",
+    "start": 12.691,
+    "end": 13.03
+  },
+  {
+    "word": "burayi",
+    "start": 13.09,
+    "end": 13.351
+  },
+  {
+    "word": "karta",
+    "start": 13.391,
+    "end": 13.671
+  },
+  {
+    "word": "hai,",
+    "start": 13.731,
+    "end": 14.551
+  },
+  {
+    "word": "wo",
+    "start": 14.631,
+    "end": 14.791
+  },
+  {
+    "word": "in",
+    "start": 14.898,
+    "end": 15.112
+  },
+  {
+    "word": "sabse",
+    "start": 15.252,
+    "end": 15.752
+  },
+  {
+    "word": "bada",
+    "start": 15.832,
+    "end": 16.071
+  },
+  {
+    "word": "neech",
+    "start": 16.124,
+    "end": 16.389
+  },
+  {
+    "word": "hai.",
+    "start": 16.429,
+    "end": 16.709
+  },
+  {
+    "word": "Listen",
+    "start": 16.903,
+    "end": 18.067
+  },
+  {
+    "word": "up,",
+    "start": 18.12,
+    "end": 18.786
+  },
+  {
+    "word": "agar",
+    "start": 18.834,
+    "end": 19.026
+  },
+  {
+    "word": "tumhare",
+    "start": 19.086,
+    "end": 19.506
+  },
+  {
+    "word": "circle",
+    "start": 19.563,
+    "end": 19.905
+  },
+  {
+    "word": "mein",
+    "start": 19.937,
+    "end": 20.065
+  },
+  {
+    "word": "koi",
+    "start": 20.145,
+    "end": 20.385
+  },
+  {
+    "word": "continuously",
+    "start": 20.453,
+    "end": 21.269
+  },
+  {
+    "word": "dusron",
+    "start": 21.329,
+    "end": 21.668
+  },
+  {
+    "word": "ki",
+    "start": 21.695,
+    "end": 21.749
+  },
+  {
+    "word": "burayi",
+    "start": 21.809,
+    "end": 22.07
+  },
+  {
+    "word": "kar",
+    "start": 22.13,
+    "end": 22.31
+  },
+  {
+    "word": "raha",
+    "start": 22.39,
+    "end": 22.629
+  },
+  {
+    "word": "hai,",
+    "start": 22.669,
+    "end": 22.869
+  },
+  {
+    "word": "toh",
+    "start": 22.989,
+    "end": 23.349
+  },
+  {
+    "word": "yaad",
+    "start": 23.429,
+    "end": 23.669
+  },
+  {
+    "word": "rakhna,",
+    "start": 23.749,
+    "end": 24.71
+  },
+  {
+    "word": "kal",
+    "start": 24.77,
+    "end": 24.95
+  },
+  {
+    "word": "wo",
+    "start": 25.03,
+    "end": 25.19
+  },
+  {
+    "word": "tumhari",
+    "start": 25.23,
+    "end": 25.67
+  },
+  {
+    "word": "bhi",
+    "start": 25.71,
+    "end": 25.83
+  },
+  {
+    "word": "backbiting",
+    "start": 25.894,
+    "end": 26.468
+  },
+  {
+    "word": "karega.",
+    "start": 26.528,
+    "end": 27.028
+  },
+  {
+    "word": "Corporate",
+    "start": 27.132,
+    "end": 28.068
+  },
+  {
+    "word": "politics",
+    "start": 28.13,
+    "end": 28.626
+  },
+  {
+    "word": "ho",
+    "start": 28.706,
+    "end": 28.866
+  },
+  {
+    "word": "ya",
+    "start": 28.919,
+    "end": 29.025
+  },
+  {
+    "word": "personal",
+    "start": 29.078,
+    "end": 29.502
+  },
+  {
+    "word": "life,",
+    "start": 29.582,
+    "end": 30.382
+  },
+  {
+    "word": "'Gossip'",
+    "start": 30.422,
+    "end": 30.942
+  },
+  {
+    "word": "losers",
+    "start": 31.045,
+    "end": 31.663
+  },
+  {
+    "word": "ka",
+    "start": 31.69,
+    "end": 31.744
+  },
+  {
+    "word": "game",
+    "start": 31.808,
+    "end": 32.064
+  },
+  {
+    "word": "hai.",
+    "start": 32.104,
+    "end": 32.944
+  },
+  {
+    "word": "Aise",
+    "start": 32.984,
+    "end": 33.264
+  },
+  {
+    "word": "toxic",
+    "start": 33.344,
+    "end": 33.744
+  },
+  {
+    "word": "logon",
+    "start": 33.804,
+    "end": 34.064
+  },
+  {
+    "word": "ko",
+    "start": 34.144,
+    "end": 34.304
+  },
+  {
+    "word": "cut",
+    "start": 34.384,
+    "end": 34.624
+  },
+  {
+    "word": "off",
+    "start": 34.664,
+    "end": 34.784
+  },
+  {
+    "word": "karo,",
+    "start": 34.824,
+    "end": 35.503
+  },
+  {
+    "word": "warna",
+    "start": 35.535,
+    "end": 35.743
+  },
+  {
+    "word": "tumhari",
+    "start": 35.803,
+    "end": 36.223
+  },
+  {
+    "word": "growth",
+    "start": 36.292,
+    "end": 36.706
+  },
+  {
+    "word": "ruk",
+    "start": 36.786,
+    "end": 37.026
+  },
+  {
+    "word": "jayegi.",
+    "start": 37.066,
+    "end": 38.066
+  },
+  {
+    "word": "Share",
+    "start": 38.159,
+    "end": 38.624
+  },
+  {
+    "word": "this",
+    "start": 38.672,
+    "end": 38.864
+  },
+  {
+    "word": "reel",
+    "start": 38.928,
+    "end": 39.184
+  },
+  {
+    "word": "to",
+    "start": 39.237,
+    "end": 39.343
+  },
+  {
+    "word": "expose",
+    "start": 39.423,
+    "end": 39.903
+  },
+  {
+    "word": "the",
+    "start": 39.923,
+    "end": 39.983
+  },
+  {
+    "word": "backbiters",
+    "start": 40.063,
+    "end": 40.863
+  },
+  {
+    "word": "in",
+    "start": 40.916,
+    "end": 41.022
+  },
+  {
+    "word": "your",
+    "start": 41.07,
+    "end": 41.262
+  },
+  {
+    "word": "group.",
+    "start": 41.329,
+    "end": 41.744
+  }
+]

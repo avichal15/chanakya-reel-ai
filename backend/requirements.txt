@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+google-generativeai
+elevenlabs
+moviepy
+python-dotenv
+python-multipart
+requests

@@ -1,0 +1,452 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "WORDS",
+    "start": 0.224,
+    "end": 0.56
+  },
+  {
+    "word": "ARE",
+    "start": 0.58,
+    "end": 0.64
+  },
+  {
+    "word": "CHEAP!",
+    "start": 0.74,
+    "end": 1.28
+  },
+  {
+    "word": "Chanakya",
+    "start": 1.6,
+    "end": 3.2
+  },
+  {
+    "word": "ne",
+    "start": 3.253,
+    "end": 3.359
+  },
+  {
+    "word": "kaha",
+    "start": 3.399,
+    "end": 3.598
+  },
+  {
+    "word": "tha:",
+    "start": 3.658,
+    "end": 4.358
+  },
+  {
+    "word": "Raja",
+    "start": 4.618,
+    "end": 5.118
+  },
+  {
+    "word": "ka",
+    "start": 5.171,
+    "end": 5.277
+  },
+  {
+    "word": "aadesh,",
+    "start": 5.357,
+    "end": 6.317
+  },
+  {
+    "word": "Gyani",
+    "start": 6.37,
+    "end": 6.797
+  },
+  {
+    "word": "insaan",
+    "start": 6.877,
+    "end": 7.276
+  },
+  {
+    "word": "ke",
+    "start": 7.356,
+    "end": 7.516
+  },
+  {
+    "word": "shabd,",
+    "start": 7.569,
+    "end": 8.314
+  },
+  {
+    "word": "aur",
+    "start": 8.354,
+    "end": 8.474
+  },
+  {
+    "word": "beti",
+    "start": 8.574,
+    "end": 8.954
+  },
+  {
+    "word": "ka",
+    "start": 9.007,
+    "end": 9.113
+  },
+  {
+    "word": "kanyadaan\u2014ye",
+    "start": 9.193,
+    "end": 10.712
+  },
+  {
+    "word": "teeno",
+    "start": 10.776,
+    "end": 11.112
+  },
+  {
+    "word": "duniya",
+    "start": 11.192,
+    "end": 11.511
+  },
+  {
+    "word": "mein",
+    "start": 11.543,
+    "end": 11.671
+  },
+  {
+    "word": "sirf",
+    "start": 11.751,
+    "end": 12.071
+  },
+  {
+    "word": "ek",
+    "start": 12.204,
+    "end": 12.47
+  },
+  {
+    "word": "baar",
+    "start": 12.523,
+    "end": 12.789
+  },
+  {
+    "word": "hote",
+    "start": 12.849,
+    "end": 13.029
+  },
+  {
+    "word": "hain.",
+    "start": 13.069,
+    "end": 13.348
+  },
+  {
+    "word": "Inka",
+    "start": 13.668,
+    "end": 14.388
+  },
+  {
+    "word": "faisla",
+    "start": 14.468,
+    "end": 14.948
+  },
+  {
+    "word": "atal",
+    "start": 15.081,
+    "end": 15.507
+  },
+  {
+    "word": "hota",
+    "start": 15.567,
+    "end": 15.827
+  },
+  {
+    "word": "hai.",
+    "start": 15.867,
+    "end": 16.147
+  },
+  {
+    "word": "Aaj",
+    "start": 16.707,
+    "end": 17.427
+  },
+  {
+    "word": "kal",
+    "start": 17.467,
+    "end": 17.587
+  },
+  {
+    "word": "log",
+    "start": 17.667,
+    "end": 17.907
+  },
+  {
+    "word": "sirf",
+    "start": 17.967,
+    "end": 18.227
+  },
+  {
+    "word": "'yap'",
+    "start": 18.387,
+    "end": 18.787
+  },
+  {
+    "word": "karte",
+    "start": 18.827,
+    "end": 19.107
+  },
+  {
+    "word": "hain.",
+    "start": 19.147,
+    "end": 19.428
+  },
+  {
+    "word": "Corporate",
+    "start": 19.548,
+    "end": 20.628
+  },
+  {
+    "word": "ho",
+    "start": 20.681,
+    "end": 20.787
+  },
+  {
+    "word": "ya",
+    "start": 20.867,
+    "end": 21.027
+  },
+  {
+    "word": "friends",
+    "start": 21.067,
+    "end": 21.347
+  },
+  {
+    "word": "circle,",
+    "start": 21.404,
+    "end": 21.826
+  },
+  {
+    "word": "har",
+    "start": 22.026,
+    "end": 22.626
+  },
+  {
+    "word": "koi",
+    "start": 22.706,
+    "end": 22.946
+  },
+  {
+    "word": "khokhle",
+    "start": 23.026,
+    "end": 23.505
+  },
+  {
+    "word": "promises",
+    "start": 23.567,
+    "end": 24.063
+  },
+  {
+    "word": "karta",
+    "start": 24.143,
+    "end": 24.383
+  },
+  {
+    "word": "hai.",
+    "start": 24.423,
+    "end": 25.503
+  },
+  {
+    "word": "Successful",
+    "start": 25.568,
+    "end": 26.218
+  },
+  {
+    "word": "log",
+    "start": 26.318,
+    "end": 26.618
+  },
+  {
+    "word": "baar-baar",
+    "start": 26.698,
+    "end": 27.337
+  },
+  {
+    "word": "apna",
+    "start": 27.417,
+    "end": 27.737
+  },
+  {
+    "word": "stand",
+    "start": 27.817,
+    "end": 28.217
+  },
+  {
+    "word": "change",
+    "start": 28.274,
+    "end": 28.616
+  },
+  {
+    "word": "nahi",
+    "start": 28.656,
+    "end": 28.855
+  },
+  {
+    "word": "karte.",
+    "start": 28.895,
+    "end": 29.415
+  },
+  {
+    "word": "Unki",
+    "start": 29.762,
+    "end": 30.536
+  },
+  {
+    "word": "ek",
+    "start": 30.669,
+    "end": 30.935
+  },
+  {
+    "word": "baat,",
+    "start": 31.015,
+    "end": 31.815
+  },
+  {
+    "word": "final",
+    "start": 31.882,
+    "end": 32.217
+  },
+  {
+    "word": "baat",
+    "start": 32.27,
+    "end": 32.536
+  },
+  {
+    "word": "hoti",
+    "start": 32.576,
+    "end": 32.776
+  },
+  {
+    "word": "hai.",
+    "start": 32.816,
+    "end": 33.896
+  },
+  {
+    "word": "Apne",
+    "start": 33.949,
+    "end": 34.215
+  },
+  {
+    "word": "shabdon",
+    "start": 34.268,
+    "end": 34.613
+  },
+  {
+    "word": "ko",
+    "start": 34.666,
+    "end": 34.772
+  },
+  {
+    "word": "sasta",
+    "start": 34.852,
+    "end": 35.252
+  },
+  {
+    "word": "mat",
+    "start": 35.292,
+    "end": 35.412
+  },
+  {
+    "word": "banao.",
+    "start": 35.46,
+    "end": 36.372
+  },
+  {
+    "word": "Speak",
+    "start": 36.465,
+    "end": 36.93
+  },
+  {
+    "word": "once,",
+    "start": 37.026,
+    "end": 37.69
+  },
+  {
+    "word": "but",
+    "start": 37.76,
+    "end": 37.97
+  },
+  {
+    "word": "make",
+    "start": 38.034,
+    "end": 38.29
+  },
+  {
+    "word": "it",
+    "start": 38.343,
+    "end": 38.449
+  },
+  {
+    "word": "heavy.",
+    "start": 38.516,
+    "end": 39.011
+  },
+  {
+    "word": "Share",
+    "start": 39.211,
+    "end": 40.211
+  },
+  {
+    "word": "this",
+    "start": 40.275,
+    "end": 40.531
+  },
+  {
+    "word": "with",
+    "start": 40.547,
+    "end": 40.611
+  },
+  {
+    "word": "that",
+    "start": 40.659,
+    "end": 40.851
+  },
+  {
+    "word": "one",
+    "start": 40.931,
+    "end": 41.171
+  },
+  {
+    "word": "friend",
+    "start": 41.24,
+    "end": 41.654
+  },
+  {
+    "word": "who",
+    "start": 41.694,
+    "end": 41.814
+  },
+  {
+    "word": "is",
+    "start": 41.867,
+    "end": 41.973
+  },
+  {
+    "word": "'all",
+    "start": 42.053,
+    "end": 42.373
+  },
+  {
+    "word": "talk",
+    "start": 42.469,
+    "end": 42.853
+  },
+  {
+    "word": "and",
+    "start": 42.953,
+    "end": 43.253
+  },
+  {
+    "word": "no",
+    "start": 43.36,
+    "end": 43.574
+  },
+  {
+    "word": "action'.",
+    "start": 43.643,
+    "end": 44.137
+  }
+]

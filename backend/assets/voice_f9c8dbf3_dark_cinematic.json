@@ -1,0 +1,547 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "BEING",
+    "start": 0.4,
+    "end": 0.719
+  },
+  {
+    "word": "AN",
+    "start": 0.746,
+    "end": 0.8
+  },
+  {
+    "word": "EMOTIONAL",
+    "start": 0.853,
+    "end": 1.359
+  },
+  {
+    "word": "SLAVE!",
+    "start": 1.492,
+    "end": 2.159
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.431,
+    "end": 3.839
+  },
+  {
+    "word": "ne",
+    "start": 3.892,
+    "end": 3.998
+  },
+  {
+    "word": "kaha",
+    "start": 4.038,
+    "end": 4.237
+  },
+  {
+    "word": "tha:",
+    "start": 4.297,
+    "end": 4.557
+  },
+  {
+    "word": "Jo",
+    "start": 4.877,
+    "end": 5.517
+  },
+  {
+    "word": "insaan",
+    "start": 5.617,
+    "end": 6.238
+  },
+  {
+    "word": "apni",
+    "start": 6.318,
+    "end": 6.638
+  },
+  {
+    "word": "indriyon",
+    "start": 6.718,
+    "end": 7.199
+  },
+  {
+    "word": "(senses)",
+    "start": 7.239,
+    "end": 7.399
+  },
+  {
+    "word": "par",
+    "start": 7.409,
+    "end": 7.439
+  },
+  {
+    "word": "niyantran",
+    "start": 7.519,
+    "end": 7.998
+  },
+  {
+    "word": "rakhta",
+    "start": 8.038,
+    "end": 8.398
+  },
+  {
+    "word": "hai,",
+    "start": 8.438,
+    "end": 8.718
+  },
+  {
+    "word": "jo",
+    "start": 8.931,
+    "end": 9.357
+  },
+  {
+    "word": "lagav",
+    "start": 9.437,
+    "end": 9.997
+  },
+  {
+    "word": "(attachment)",
+    "start": 10.157,
+    "end": 10.42
+  },
+  {
+    "word": "aur",
+    "start": 10.433,
+    "end": 10.472
+  },
+  {
+    "word": "nafrat",
+    "start": 10.579,
+    "end": 11.033
+  },
+  {
+    "word": "se",
+    "start": 11.086,
+    "end": 11.192
+  },
+  {
+    "word": "mukt",
+    "start": 11.272,
+    "end": 11.592
+  },
+  {
+    "word": "hai,",
+    "start": 11.632,
+    "end": 11.912
+  },
+  {
+    "word": "aur",
+    "start": 12.072,
+    "end": 12.552
+  },
+  {
+    "word": "jo",
+    "start": 12.632,
+    "end": 12.792
+  },
+  {
+    "word": "sukh-dukh",
+    "start": 12.899,
+    "end": 13.513
+  },
+  {
+    "word": "dono",
+    "start": 13.633,
+    "end": 14.113
+  },
+  {
+    "word": "mein",
+    "start": 14.137,
+    "end": 14.233
+  },
+  {
+    "word": "shant",
+    "start": 14.313,
+    "end": 14.713
+  },
+  {
+    "word": "rehta",
+    "start": 14.766,
+    "end": 15.112
+  },
+  {
+    "word": "hai,",
+    "start": 15.152,
+    "end": 15.432
+  },
+  {
+    "word": "wahi",
+    "start": 15.832,
+    "end": 16.391
+  },
+  {
+    "word": "asli",
+    "start": 16.498,
+    "end": 16.792
+  },
+  {
+    "word": "gyani",
+    "start": 16.872,
+    "end": 17.272
+  },
+  {
+    "word": "aur",
+    "start": 17.412,
+    "end": 17.832
+  },
+  {
+    "word": "shaktishali",
+    "start": 17.912,
+    "end": 18.63
+  },
+  {
+    "word": "hai.",
+    "start": 18.67,
+    "end": 18.95
+  },
+  {
+    "word": "Aaj",
+    "start": 19.59,
+    "end": 20.39
+  },
+  {
+    "word": "kal",
+    "start": 20.45,
+    "end": 20.63
+  },
+  {
+    "word": "tum",
+    "start": 20.67,
+    "end": 20.79
+  },
+  {
+    "word": "ek",
+    "start": 20.843,
+    "end": 20.949
+  },
+  {
+    "word": "text",
+    "start": 21.029,
+    "end": 21.349
+  },
+  {
+    "word": "message",
+    "start": 21.389,
+    "end": 21.669
+  },
+  {
+    "word": "ka",
+    "start": 21.696,
+    "end": 21.75
+  },
+  {
+    "word": "reply",
+    "start": 21.83,
+    "end": 22.23
+  },
+  {
+    "word": "na",
+    "start": 22.337,
+    "end": 22.551
+  },
+  {
+    "word": "aane",
+    "start": 22.631,
+    "end": 22.87
+  },
+  {
+    "word": "pe",
+    "start": 22.95,
+    "end": 23.11
+  },
+  {
+    "word": "trigger",
+    "start": 23.16,
+    "end": 23.51
+  },
+  {
+    "word": "ho",
+    "start": 23.537,
+    "end": 23.591
+  },
+  {
+    "word": "jate",
+    "start": 23.631,
+    "end": 23.992
+  },
+  {
+    "word": "ho.",
+    "start": 24.045,
+    "end": 24.231
+  },
+  {
+    "word": "Corporate",
+    "start": 24.343,
+    "end": 25.351
+  },
+  {
+    "word": "politics",
+    "start": 25.431,
+    "end": 26.071
+  },
+  {
+    "word": "ya",
+    "start": 26.124,
+    "end": 26.23
+  },
+  {
+    "word": "toxic",
+    "start": 26.323,
+    "end": 26.788
+  },
+  {
+    "word": "friends",
+    "start": 26.848,
+    "end": 27.268
+  },
+  {
+    "word": "tumhe",
+    "start": 27.308,
+    "end": 27.588
+  },
+  {
+    "word": "manipulate",
+    "start": 27.646,
+    "end": 28.226
+  },
+  {
+    "word": "karte",
+    "start": 28.266,
+    "end": 28.626
+  },
+  {
+    "word": "hain",
+    "start": 28.666,
+    "end": 28.865
+  },
+  {
+    "word": "kyunki",
+    "start": 29.078,
+    "end": 29.783
+  },
+  {
+    "word": "tumhara",
+    "start": 29.813,
+    "end": 30.223
+  },
+  {
+    "word": "apne",
+    "start": 30.276,
+    "end": 30.542
+  },
+  {
+    "word": "emotions",
+    "start": 30.604,
+    "end": 31.1
+  },
+  {
+    "word": "par",
+    "start": 31.16,
+    "end": 31.34
+  },
+  {
+    "word": "zero",
+    "start": 31.452,
+    "end": 31.9
+  },
+  {
+    "word": "control",
+    "start": 31.96,
+    "end": 32.38
+  },
+  {
+    "word": "hai.",
+    "start": 32.42,
+    "end": 32.62
+  },
+  {
+    "word": "Jab",
+    "start": 32.94,
+    "end": 33.9
+  },
+  {
+    "word": "tak",
+    "start": 33.96,
+    "end": 34.14
+  },
+  {
+    "word": "tum",
+    "start": 34.2,
+    "end": 34.38
+  },
+  {
+    "word": "external",
+    "start": 34.46,
+    "end": 35.1
+  },
+  {
+    "word": "validation",
+    "start": 35.158,
+    "end": 35.738
+  },
+  {
+    "word": "ke",
+    "start": 35.791,
+    "end": 35.897
+  },
+  {
+    "word": "ghulam",
+    "start": 35.95,
+    "end": 36.296
+  },
+  {
+    "word": "rahoge,",
+    "start": 36.336,
+    "end": 36.936
+  },
+  {
+    "word": "tab",
+    "start": 37.136,
+    "end": 37.736
+  },
+  {
+    "word": "tak",
+    "start": 37.796,
+    "end": 37.976
+  },
+  {
+    "word": "log",
+    "start": 38.056,
+    "end": 38.296
+  },
+  {
+    "word": "tumhara",
+    "start": 38.336,
+    "end": 38.695
+  },
+  {
+    "word": "fayda",
+    "start": 38.775,
+    "end": 39.095
+  },
+  {
+    "word": "uthayenge.",
+    "start": 39.175,
+    "end": 40.494
+  },
+  {
+    "word": "Master",
+    "start": 40.603,
+    "end": 41.257
+  },
+  {
+    "word": "the",
+    "start": 41.277,
+    "end": 41.337
+  },
+  {
+    "word": "art",
+    "start": 41.417,
+    "end": 41.657
+  },
+  {
+    "word": "of",
+    "start": 41.684,
+    "end": 41.738
+  },
+  {
+    "word": "detachment",
+    "start": 41.803,
+    "end": 42.453
+  },
+  {
+    "word": "and",
+    "start": 42.513,
+    "end": 42.693
+  },
+  {
+    "word": "become",
+    "start": 42.762,
+    "end": 43.176
+  },
+  {
+    "word": "unbreakable.",
+    "start": 43.309,
+    "end": 44.295
+  },
+  {
+    "word": "Tag",
+    "start": 44.595,
+    "end": 45.495
+  },
+  {
+    "word": "that",
+    "start": 45.543,
+    "end": 45.735
+  },
+  {
+    "word": "one",
+    "start": 45.835,
+    "end": 46.135
+  },
+  {
+    "word": "overthinking",
+    "start": 46.215,
+    "end": 46.855
+  },
+  {
+    "word": "friend",
+    "start": 46.912,
+    "end": 47.254
+  },
+  {
+    "word": "who",
+    "start": 47.274,
+    "end": 47.334
+  },
+  {
+    "word": "gets",
+    "start": 47.382,
+    "end": 47.574
+  },
+  {
+    "word": "triggered",
+    "start": 47.622,
+    "end": 48.054
+  },
+  {
+    "word": "too",
+    "start": 48.134,
+    "end": 48.374
+  },
+  {
+    "word": "easily",
+    "start": 48.454,
+    "end": 48.934
+  },
+  {
+    "word": "and",
+    "start": 49.014,
+    "end": 49.254
+  },
+  {
+    "word": "needs",
+    "start": 49.321,
+    "end": 49.656
+  },
+  {
+    "word": "this",
+    "start": 49.704,
+    "end": 49.896
+  },
+  {
+    "word": "reality",
+    "start": 49.946,
+    "end": 50.296
+  },
+  {
+    "word": "check.",
+    "start": 50.363,
+    "end": 50.858
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "word": "REAL",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "MEN",
+    "start": 0.42,
+    "end": 0.72
+  },
+  {
+    "word": "HAVE",
+    "start": 0.832,
+    "end": 1.28
+  },
+  {
+    "word": "BOUNDARIES!",
+    "start": 1.36,
+    "end": 2.24
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.432,
+    "end": 3.44
+  },
+  {
+    "word": "ne",
+    "start": 3.493,
+    "end": 3.599
+  },
+  {
+    "word": "kaha",
+    "start": 3.639,
+    "end": 3.838
+  },
+  {
+    "word": "tha:",
+    "start": 3.898,
+    "end": 4.158
+  },
+  {
+    "word": "Raja",
+    "start": 4.638,
+    "end": 5.358
+  },
+  {
+    "word": "ki",
+    "start": 5.411,
+    "end": 5.517
+  },
+  {
+    "word": "patni,",
+    "start": 5.577,
+    "end": 6.157
+  },
+  {
+    "word": "Guru",
+    "start": 6.317,
+    "end": 6.957
+  },
+  {
+    "word": "ki",
+    "start": 7.01,
+    "end": 7.116
+  },
+  {
+    "word": "patni,",
+    "start": 7.196,
+    "end": 8.196
+  },
+  {
+    "word": "Dost",
+    "start": 8.316,
+    "end": 8.796
+  },
+  {
+    "word": "ki",
+    "start": 8.823,
+    "end": 8.877
+  },
+  {
+    "word": "patni,",
+    "start": 8.957,
+    "end": 9.517
+  },
+  {
+    "word": "Patni",
+    "start": 9.717,
+    "end": 10.397
+  },
+  {
+    "word": "ki",
+    "start": 10.477,
+    "end": 10.637
+  },
+  {
+    "word": "maa",
+    "start": 10.717,
+    "end": 10.957
+  },
+  {
+    "word": "(Saas),",
+    "start": 11.317,
+    "end": 12.317
+  },
+  {
+    "word": "aur",
+    "start": 12.477,
+    "end": 12.957
+  },
+  {
+    "word": "apni",
+    "start": 13.064,
+    "end": 13.438
+  },
+  {
+    "word": "sagi",
+    "start": 13.538,
+    "end": 13.918
+  },
+  {
+    "word": "Maa...",
+    "start": 13.998,
+    "end": 15.039
+  },
+  {
+    "word": "in",
+    "start": 15.092,
+    "end": 15.198
+  },
+  {
+    "word": "paanchon",
+    "start": 15.278,
+    "end": 15.678
+  },
+  {
+    "word": "ko",
+    "start": 15.731,
+    "end": 15.837
+  },
+  {
+    "word": "hamesha",
+    "start": 15.917,
+    "end": 16.557
+  },
+  {
+    "word": "Maa",
+    "start": 16.677,
+    "end": 16.877
+  },
+  {
+    "word": "ka",
+    "start": 16.93,
+    "end": 17.036
+  },
+  {
+    "word": "darja",
+    "start": 17.096,
+    "end": 17.356
+  },
+  {
+    "word": "dena",
+    "start": 17.416,
+    "end": 17.676
+  },
+  {
+    "word": "chahiye.",
+    "start": 17.729,
+    "end": 18.234
+  },
+  {
+    "word": "Bro,",
+    "start": 18.574,
+    "end": 19.674
+  },
+  {
+    "word": "aaj",
+    "start": 20.034,
+    "end": 20.554
+  },
+  {
+    "word": "kal",
+    "start": 20.614,
+    "end": 20.794
+  },
+  {
+    "word": "log",
+    "start": 20.874,
+    "end": 21.114
+  },
+  {
+    "word": "'modernity'",
+    "start": 21.194,
+    "end": 21.915
+  },
+  {
+    "word": "ke",
+    "start": 21.942,
+    "end": 21.996
+  },
+  {
+    "word": "naam",
+    "start": 22.044,
+    "end": 22.236
+  },
+  {
+    "word": "par",
+    "start": 22.296,
+    "end": 22.476
+  },
+  {
+    "word": "boundaries",
+    "start": 22.534,
+    "end": 23.114
+  },
+  {
+    "word": "cross",
+    "start": 23.154,
+    "end": 23.354
+  },
+  {
+    "word": "kar",
+    "start": 23.394,
+    "end": 23.514
+  },
+  {
+    "word": "dete",
+    "start": 23.574,
+    "end": 23.914
+  },
+  {
+    "word": "hain.",
+    "start": 23.954,
+    "end": 24.155
+  },
+  {
+    "word": "Agar",
+    "start": 24.475,
+    "end": 25.195
+  },
+  {
+    "word": "tum",
+    "start": 25.255,
+    "end": 25.435
+  },
+  {
+    "word": "apne",
+    "start": 25.462,
+    "end": 25.676
+  },
+  {
+    "word": "dost,",
+    "start": 25.772,
+    "end": 26.396
+  },
+  {
+    "word": "mentor",
+    "start": 26.487,
+    "end": 27.033
+  },
+  {
+    "word": "ya",
+    "start": 27.14,
+    "end": 27.354
+  },
+  {
+    "word": "boss",
+    "start": 27.434,
+    "end": 27.754
+  },
+  {
+    "word": "ki",
+    "start": 27.781,
+    "end": 27.835
+  },
+  {
+    "word": "partner",
+    "start": 27.905,
+    "end": 28.395
+  },
+  {
+    "word": "ko",
+    "start": 28.422,
+    "end": 28.476
+  },
+  {
+    "word": "respect",
+    "start": 28.546,
+    "end": 29.036
+  },
+  {
+    "word": "nahi",
+    "start": 29.116,
+    "end": 29.355
+  },
+  {
+    "word": "de",
+    "start": 29.435,
+    "end": 29.595
+  },
+  {
+    "word": "sakte,",
+    "start": 29.675,
+    "end": 30.155
+  },
+  {
+    "word": "toh",
+    "start": 30.315,
+    "end": 30.795
+  },
+  {
+    "word": "tum",
+    "start": 30.835,
+    "end": 30.955
+  },
+  {
+    "word": "'Cool'",
+    "start": 31.035,
+    "end": 31.435
+  },
+  {
+    "word": "nahi,",
+    "start": 31.475,
+    "end": 31.754
+  },
+  {
+    "word": "'Characterless'",
+    "start": 32.034,
+    "end": 32.95
+  },
+  {
+    "word": "ho.",
+    "start": 33.003,
+    "end": 33.269
+  },
+  {
+    "word": "Ek",
+    "start": 33.642,
+    "end": 34.388
+  },
+  {
+    "word": "Sigma",
+    "start": 34.455,
+    "end": 34.79
+  },
+  {
+    "word": "male",
+    "start": 34.87,
+    "end": 35.19
+  },
+  {
+    "word": "hamesha",
+    "start": 35.27,
+    "end": 35.83
+  },
+  {
+    "word": "apni",
+    "start": 35.91,
+    "end": 36.15
+  },
+  {
+    "word": "limits",
+    "start": 36.207,
+    "end": 36.549
+  },
+  {
+    "word": "jaanta",
+    "start": 36.602,
+    "end": 36.948
+  },
+  {
+    "word": "hai.",
+    "start": 36.988,
+    "end": 37.188
+  },
+  {
+    "word": "Share",
+    "start": 37.388,
+    "end": 38.388
+  },
+  {
+    "word": "this",
+    "start": 38.436,
+    "end": 38.628
+  },
+  {
+    "word": "with",
+    "start": 38.66,
+    "end": 38.788
+  },
+  {
+    "word": "your",
+    "start": 38.82,
+    "end": 38.948
+  },
+  {
+    "word": "circle",
+    "start": 39.028,
+    "end": 39.508
+  },
+  {
+    "word": "to",
+    "start": 39.561,
+    "end": 39.667
+  },
+  {
+    "word": "remind",
+    "start": 39.736,
+    "end": 40.15
+  },
+  {
+    "word": "them",
+    "start": 40.182,
+    "end": 40.31
+  },
+  {
+    "word": "what",
+    "start": 40.358,
+    "end": 40.55
+  },
+  {
+    "word": "real",
+    "start": 40.646,
+    "end": 41.03
+  },
+  {
+    "word": "loyalty",
+    "start": 41.1,
+    "end": 41.59
+  },
+  {
+    "word": "and",
+    "start": 41.65,
+    "end": 41.83
+  },
+  {
+    "word": "character",
+    "start": 41.886,
+    "end": 42.39
+  },
+  {
+    "word": "looks",
+    "start": 42.443,
+    "end": 42.708
+  },
+  {
+    "word": "like.",
+    "start": 42.772,
+    "end": 43.188
+  }
+]

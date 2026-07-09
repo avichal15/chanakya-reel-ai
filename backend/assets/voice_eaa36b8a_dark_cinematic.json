@@ -1,0 +1,442 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "WAITING",
+    "start": 0.512,
+    "end": 1.119
+  },
+  {
+    "word": "TO",
+    "start": 1.172,
+    "end": 1.278
+  },
+  {
+    "word": "BE",
+    "start": 1.331,
+    "end": 1.437
+  },
+  {
+    "word": "SAVED!",
+    "start": 1.557,
+    "end": 2.317
+  },
+  {
+    "word": "Insaan",
+    "start": 2.637,
+    "end": 3.677
+  },
+  {
+    "word": "khud",
+    "start": 3.757,
+    "end": 4.077
+  },
+  {
+    "word": "apne",
+    "start": 4.184,
+    "end": 4.558
+  },
+  {
+    "word": "karm",
+    "start": 4.638,
+    "end": 4.958
+  },
+  {
+    "word": "karta",
+    "start": 5.038,
+    "end": 5.438
+  },
+  {
+    "word": "hai,",
+    "start": 5.478,
+    "end": 6.158
+  },
+  {
+    "word": "khud",
+    "start": 6.185,
+    "end": 6.319
+  },
+  {
+    "word": "hi",
+    "start": 6.372,
+    "end": 6.478
+  },
+  {
+    "word": "unka",
+    "start": 6.558,
+    "end": 6.798
+  },
+  {
+    "word": "fal",
+    "start": 6.878,
+    "end": 7.118
+  },
+  {
+    "word": "bhogta",
+    "start": 7.171,
+    "end": 7.597
+  },
+  {
+    "word": "hai,",
+    "start": 7.637,
+    "end": 8.397
+  },
+  {
+    "word": "is",
+    "start": 8.477,
+    "end": 8.637
+  },
+  {
+    "word": "sansaar",
+    "start": 8.717,
+    "end": 9.277
+  },
+  {
+    "word": "mein",
+    "start": 9.309,
+    "end": 9.437
+  },
+  {
+    "word": "akele",
+    "start": 9.597,
+    "end": 10.157
+  },
+  {
+    "word": "bhatakta",
+    "start": 10.21,
+    "end": 10.636
+  },
+  {
+    "word": "hai,",
+    "start": 10.696,
+    "end": 11.516
+  },
+  {
+    "word": "aur",
+    "start": 11.556,
+    "end": 11.676
+  },
+  {
+    "word": "akele",
+    "start": 11.756,
+    "end": 12.236
+  },
+  {
+    "word": "hi",
+    "start": 12.343,
+    "end": 12.557
+  },
+  {
+    "word": "isse",
+    "start": 12.69,
+    "end": 13.116
+  },
+  {
+    "word": "mukt",
+    "start": 13.236,
+    "end": 13.596
+  },
+  {
+    "word": "hota",
+    "start": 13.656,
+    "end": 13.916
+  },
+  {
+    "word": "hai.",
+    "start": 13.956,
+    "end": 14.956
+  },
+  {
+    "word": "Tum",
+    "start": 14.996,
+    "end": 15.116
+  },
+  {
+    "word": "expect",
+    "start": 15.185,
+    "end": 15.599
+  },
+  {
+    "word": "karte",
+    "start": 15.639,
+    "end": 15.999
+  },
+  {
+    "word": "ho",
+    "start": 16.052,
+    "end": 16.158
+  },
+  {
+    "word": "ki",
+    "start": 16.238,
+    "end": 16.398
+  },
+  {
+    "word": "tumhare",
+    "start": 16.438,
+    "end": 16.798
+  },
+  {
+    "word": "'Friends'",
+    "start": 16.918,
+    "end": 17.517
+  },
+  {
+    "word": "ya",
+    "start": 17.65,
+    "end": 17.916
+  },
+  {
+    "word": "toxic",
+    "start": 18.023,
+    "end": 18.558
+  },
+  {
+    "word": "'Corporate'",
+    "start": 18.638,
+    "end": 19.514
+  },
+  {
+    "word": "managers",
+    "start": 19.558,
+    "end": 19.91
+  },
+  {
+    "word": "tumhari",
+    "start": 20.01,
+    "end": 20.55
+  },
+  {
+    "word": "growth",
+    "start": 20.596,
+    "end": 20.872
+  },
+  {
+    "word": "ka",
+    "start": 20.925,
+    "end": 21.031
+  },
+  {
+    "word": "dhyan",
+    "start": 21.084,
+    "end": 21.349
+  },
+  {
+    "word": "rakhenge?",
+    "start": 21.389,
+    "end": 22.508
+  },
+  {
+    "word": "Reality",
+    "start": 22.583,
+    "end": 23.108
+  },
+  {
+    "word": "check",
+    "start": 23.148,
+    "end": 23.348
+  },
+  {
+    "word": "bro!",
+    "start": 23.448,
+    "end": 23.828
+  },
+  {
+    "word": "Tumhara",
+    "start": 24.108,
+    "end": 24.788
+  },
+  {
+    "word": "struggle",
+    "start": 24.85,
+    "end": 25.346
+  },
+  {
+    "word": "aur",
+    "start": 25.426,
+    "end": 25.666
+  },
+  {
+    "word": "tumhari",
+    "start": 25.706,
+    "end": 26.146
+  },
+  {
+    "word": "success,",
+    "start": 26.226,
+    "end": 27.186
+  },
+  {
+    "word": "dono",
+    "start": 27.266,
+    "end": 27.586
+  },
+  {
+    "word": "sirf",
+    "start": 27.686,
+    "end": 28.066
+  },
+  {
+    "word": "tumhari",
+    "start": 28.146,
+    "end": 28.626
+  },
+  {
+    "word": "responsibility",
+    "start": 28.685,
+    "end": 29.511
+  },
+  {
+    "word": "hai.",
+    "start": 29.551,
+    "end": 30.391
+  },
+  {
+    "word": "Apna",
+    "start": 30.471,
+    "end": 30.791
+  },
+  {
+    "word": "circle",
+    "start": 30.86,
+    "end": 31.274
+  },
+  {
+    "word": "filter",
+    "start": 31.343,
+    "end": 31.757
+  },
+  {
+    "word": "karo,",
+    "start": 31.797,
+    "end": 32.477
+  },
+  {
+    "word": "aur",
+    "start": 32.517,
+    "end": 32.637
+  },
+  {
+    "word": "dusron",
+    "start": 32.717,
+    "end": 33.197
+  },
+  {
+    "word": "pe",
+    "start": 33.25,
+    "end": 33.356
+  },
+  {
+    "word": "depend",
+    "start": 33.447,
+    "end": 33.993
+  },
+  {
+    "word": "hona",
+    "start": 34.053,
+    "end": 34.313
+  },
+  {
+    "word": "band",
+    "start": 34.393,
+    "end": 34.713
+  },
+  {
+    "word": "karo.",
+    "start": 34.753,
+    "end": 35.113
+  },
+  {
+    "word": "Share",
+    "start": 35.286,
+    "end": 36.151
+  },
+  {
+    "word": "this",
+    "start": 36.183,
+    "end": 36.311
+  },
+  {
+    "word": "reel",
+    "start": 36.375,
+    "end": 36.631
+  },
+  {
+    "word": "with",
+    "start": 36.663,
+    "end": 36.791
+  },
+  {
+    "word": "that",
+    "start": 36.823,
+    "end": 36.951
+  },
+  {
+    "word": "one",
+    "start": 37.051,
+    "end": 37.351
+  },
+  {
+    "word": "friend",
+    "start": 37.42,
+    "end": 37.834
+  },
+  {
+    "word": "who",
+    "start": 37.854,
+    "end": 37.914
+  },
+  {
+    "word": "is",
+    "start": 38.021,
+    "end": 38.235
+  },
+  {
+    "word": "always",
+    "start": 38.304,
+    "end": 38.718
+  },
+  {
+    "word": "waiting",
+    "start": 38.768,
+    "end": 39.118
+  },
+  {
+    "word": "for",
+    "start": 39.158,
+    "end": 39.278
+  },
+  {
+    "word": "a",
+    "start": 39.318,
+    "end": 39.358
+  },
+  {
+    "word": "miracle",
+    "start": 39.428,
+    "end": 39.918
+  },
+  {
+    "word": "instead",
+    "start": 40.028,
+    "end": 40.798
+  },
+  {
+    "word": "of",
+    "start": 40.825,
+    "end": 40.879
+  },
+  {
+    "word": "taking",
+    "start": 40.936,
+    "end": 41.278
+  },
+  {
+    "word": "action.",
+    "start": 41.335,
+    "end": 41.837
+  }
+]

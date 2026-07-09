@@ -1,0 +1,512 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "WASTING",
+    "start": 0.52,
+    "end": 1.12
+  },
+  {
+    "word": "YOUR",
+    "start": 1.184,
+    "end": 1.44
+  },
+  {
+    "word": "EFFORTS!",
+    "start": 1.52,
+    "end": 2.32
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.544,
+    "end": 3.76
+  },
+  {
+    "word": "ne",
+    "start": 3.787,
+    "end": 3.841
+  },
+  {
+    "word": "kaha",
+    "start": 3.921,
+    "end": 4.16
+  },
+  {
+    "word": "tha:",
+    "start": 4.22,
+    "end": 4.88
+  },
+  {
+    "word": "Samundar",
+    "start": 5.0,
+    "end": 5.599
+  },
+  {
+    "word": "mein",
+    "start": 5.647,
+    "end": 5.839
+  },
+  {
+    "word": "baarish",
+    "start": 5.919,
+    "end": 6.24
+  },
+  {
+    "word": "bekar",
+    "start": 6.32,
+    "end": 6.72
+  },
+  {
+    "word": "hai,",
+    "start": 6.76,
+    "end": 7.04
+  },
+  {
+    "word": "bhare",
+    "start": 7.2,
+    "end": 7.679
+  },
+  {
+    "word": "pet",
+    "start": 7.739,
+    "end": 7.919
+  },
+  {
+    "word": "wale",
+    "start": 7.959,
+    "end": 8.158
+  },
+  {
+    "word": "ko",
+    "start": 8.211,
+    "end": 8.317
+  },
+  {
+    "word": "khana",
+    "start": 8.37,
+    "end": 8.635
+  },
+  {
+    "word": "khilana",
+    "start": 8.688,
+    "end": 9.033
+  },
+  {
+    "word": "bekar",
+    "start": 9.113,
+    "end": 9.432
+  },
+  {
+    "word": "hai,",
+    "start": 9.472,
+    "end": 9.752
+  },
+  {
+    "word": "ameer",
+    "start": 9.965,
+    "end": 10.55
+  },
+  {
+    "word": "ko",
+    "start": 10.63,
+    "end": 10.79
+  },
+  {
+    "word": "daan",
+    "start": 10.87,
+    "end": 11.11
+  },
+  {
+    "word": "dena",
+    "start": 11.17,
+    "end": 11.43
+  },
+  {
+    "word": "bekar",
+    "start": 11.483,
+    "end": 11.829
+  },
+  {
+    "word": "hai,",
+    "start": 11.869,
+    "end": 12.429
+  },
+  {
+    "word": "aur",
+    "start": 12.539,
+    "end": 12.869
+  },
+  {
+    "word": "din",
+    "start": 12.929,
+    "end": 13.109
+  },
+  {
+    "word": "ke",
+    "start": 13.162,
+    "end": 13.268
+  },
+  {
+    "word": "ujaale",
+    "start": 13.348,
+    "end": 13.747
+  },
+  {
+    "word": "mein",
+    "start": 13.779,
+    "end": 13.907
+  },
+  {
+    "word": "diya",
+    "start": 14.014,
+    "end": 14.308
+  },
+  {
+    "word": "jalana",
+    "start": 14.368,
+    "end": 14.788
+  },
+  {
+    "word": "bekar",
+    "start": 14.841,
+    "end": 15.187
+  },
+  {
+    "word": "hai.",
+    "start": 15.247,
+    "end": 15.507
+  },
+  {
+    "word": "Bro,",
+    "start": 15.747,
+    "end": 16.547
+  },
+  {
+    "word": "tum",
+    "start": 16.667,
+    "end": 17.027
+  },
+  {
+    "word": "apna",
+    "start": 17.08,
+    "end": 17.266
+  },
+  {
+    "word": "time",
+    "start": 17.346,
+    "end": 17.666
+  },
+  {
+    "word": "aur",
+    "start": 17.706,
+    "end": 17.826
+  },
+  {
+    "word": "loyalty",
+    "start": 17.886,
+    "end": 18.306
+  },
+  {
+    "word": "un",
+    "start": 18.359,
+    "end": 18.465
+  },
+  {
+    "word": "logo",
+    "start": 18.529,
+    "end": 18.785
+  },
+  {
+    "word": "par",
+    "start": 18.825,
+    "end": 18.945
+  },
+  {
+    "word": "waste",
+    "start": 19.012,
+    "end": 19.347
+  },
+  {
+    "word": "kar",
+    "start": 19.387,
+    "end": 19.507
+  },
+  {
+    "word": "rahe",
+    "start": 19.534,
+    "end": 19.748
+  },
+  {
+    "word": "ho",
+    "start": 19.828,
+    "end": 19.988
+  },
+  {
+    "word": "jinhe",
+    "start": 20.088,
+    "end": 20.468
+  },
+  {
+    "word": "tumhari",
+    "start": 20.508,
+    "end": 20.868
+  },
+  {
+    "word": "kadr",
+    "start": 20.908,
+    "end": 21.188
+  },
+  {
+    "word": "nahi.",
+    "start": 21.268,
+    "end": 21.587
+  },
+  {
+    "word": "Corporate",
+    "start": 21.699,
+    "end": 22.707
+  },
+  {
+    "word": "mein",
+    "start": 22.739,
+    "end": 22.867
+  },
+  {
+    "word": "overwork",
+    "start": 22.947,
+    "end": 23.507
+  },
+  {
+    "word": "karna",
+    "start": 23.547,
+    "end": 23.907
+  },
+  {
+    "word": "ya",
+    "start": 24.014,
+    "end": 24.228
+  },
+  {
+    "word": "un",
+    "start": 24.281,
+    "end": 24.387
+  },
+  {
+    "word": "'friends'",
+    "start": 24.467,
+    "end": 24.949
+  },
+  {
+    "word": "ke",
+    "start": 24.976,
+    "end": 25.03
+  },
+  {
+    "word": "peeche",
+    "start": 25.07,
+    "end": 25.349
+  },
+  {
+    "word": "bhagna",
+    "start": 25.376,
+    "end": 25.83
+  },
+  {
+    "word": "jo",
+    "start": 25.963,
+    "end": 26.229
+  },
+  {
+    "word": "tumhe",
+    "start": 26.269,
+    "end": 26.469
+  },
+  {
+    "word": "taken-for-granted",
+    "start": 26.536,
+    "end": 27.43
+  },
+  {
+    "word": "lete",
+    "start": 27.51,
+    "end": 27.75
+  },
+  {
+    "word": "hain,",
+    "start": 27.79,
+    "end": 27.991
+  },
+  {
+    "word": "is",
+    "start": 28.204,
+    "end": 28.63
+  },
+  {
+    "word": "exactly",
+    "start": 28.71,
+    "end": 29.27
+  },
+  {
+    "word": "like",
+    "start": 29.318,
+    "end": 29.51
+  },
+  {
+    "word": "lighting",
+    "start": 29.563,
+    "end": 29.987
+  },
+  {
+    "word": "a",
+    "start": 30.027,
+    "end": 30.067
+  },
+  {
+    "word": "lamp",
+    "start": 30.131,
+    "end": 30.387
+  },
+  {
+    "word": "in",
+    "start": 30.44,
+    "end": 30.546
+  },
+  {
+    "word": "the",
+    "start": 30.566,
+    "end": 30.626
+  },
+  {
+    "word": "sun.",
+    "start": 30.726,
+    "end": 31.106
+  },
+  {
+    "word": "Apni",
+    "start": 31.399,
+    "end": 32.145
+  },
+  {
+    "word": "energy",
+    "start": 32.214,
+    "end": 32.628
+  },
+  {
+    "word": "wahan",
+    "start": 32.668,
+    "end": 32.868
+  },
+  {
+    "word": "lagao",
+    "start": 32.928,
+    "end": 33.268
+  },
+  {
+    "word": "jahan",
+    "start": 33.508,
+    "end": 33.908
+  },
+  {
+    "word": "tumhari",
+    "start": 33.948,
+    "end": 34.308
+  },
+  {
+    "word": "'Growth'",
+    "start": 34.388,
+    "end": 34.908
+  },
+  {
+    "word": "ho.",
+    "start": 34.948,
+    "end": 35.188
+  },
+  {
+    "word": "Share",
+    "start": 35.348,
+    "end": 36.148
+  },
+  {
+    "word": "this",
+    "start": 36.196,
+    "end": 36.388
+  },
+  {
+    "word": "reel",
+    "start": 36.452,
+    "end": 36.708
+  },
+  {
+    "word": "with",
+    "start": 36.74,
+    "end": 36.868
+  },
+  {
+    "word": "that",
+    "start": 36.916,
+    "end": 37.108
+  },
+  {
+    "word": "one",
+    "start": 37.188,
+    "end": 37.428
+  },
+  {
+    "word": "friend",
+    "start": 37.497,
+    "end": 37.911
+  },
+  {
+    "word": "who",
+    "start": 37.991,
+    "end": 38.231
+  },
+  {
+    "word": "is",
+    "start": 38.284,
+    "end": 38.39
+  },
+  {
+    "word": "always",
+    "start": 38.47,
+    "end": 38.95
+  },
+  {
+    "word": "doing",
+    "start": 39.003,
+    "end": 39.268
+  },
+  {
+    "word": "too",
+    "start": 39.348,
+    "end": 39.588
+  },
+  {
+    "word": "much",
+    "start": 39.668,
+    "end": 39.988
+  },
+  {
+    "word": "for",
+    "start": 40.008,
+    "end": 40.068
+  },
+  {
+    "word": "the",
+    "start": 40.088,
+    "end": 40.148
+  },
+  {
+    "word": "wrong",
+    "start": 40.201,
+    "end": 40.466
+  },
+  {
+    "word": "people.",
+    "start": 40.535,
+    "end": 41.109
+  }
+]

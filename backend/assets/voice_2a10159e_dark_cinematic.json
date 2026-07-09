@@ -1,0 +1,527 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "BOWING",
+    "start": 0.32,
+    "end": 0.641
+  },
+  {
+    "word": "TO",
+    "start": 0.694,
+    "end": 0.8
+  },
+  {
+    "word": "EVERYONE!",
+    "start": 0.867,
+    "end": 2.202
+  },
+  {
+    "word": "Suno,",
+    "start": 2.392,
+    "end": 3.122
+  },
+  {
+    "word": "har",
+    "start": 3.202,
+    "end": 3.442
+  },
+  {
+    "word": "kisi",
+    "start": 3.522,
+    "end": 3.842
+  },
+  {
+    "word": "ke",
+    "start": 3.895,
+    "end": 4.001
+  },
+  {
+    "word": "aage",
+    "start": 4.081,
+    "end": 4.32
+  },
+  {
+    "word": "jhukna",
+    "start": 4.4,
+    "end": 4.8
+  },
+  {
+    "word": "band",
+    "start": 4.848,
+    "end": 5.04
+  },
+  {
+    "word": "karo!",
+    "start": 5.08,
+    "end": 5.44
+  },
+  {
+    "word": "Chanakya",
+    "start": 5.68,
+    "end": 6.88
+  },
+  {
+    "word": "ne",
+    "start": 6.933,
+    "end": 7.039
+  },
+  {
+    "word": "kaha",
+    "start": 7.079,
+    "end": 7.278
+  },
+  {
+    "word": "tha:",
+    "start": 7.338,
+    "end": 7.598
+  },
+  {
+    "word": "Agni",
+    "start": 7.971,
+    "end": 8.877
+  },
+  {
+    "word": "Dwijon",
+    "start": 8.957,
+    "end": 9.357
+  },
+  {
+    "word": "ka",
+    "start": 9.41,
+    "end": 9.516
+  },
+  {
+    "word": "guru",
+    "start": 9.58,
+    "end": 9.836
+  },
+  {
+    "word": "hai,",
+    "start": 9.896,
+    "end": 10.236
+  },
+  {
+    "word": "Brahman",
+    "start": 10.396,
+    "end": 11.195
+  },
+  {
+    "word": "baki",
+    "start": 11.275,
+    "end": 11.595
+  },
+  {
+    "word": "varno",
+    "start": 11.655,
+    "end": 11.995
+  },
+  {
+    "word": "ka,",
+    "start": 12.048,
+    "end": 12.234
+  },
+  {
+    "word": "pati",
+    "start": 12.434,
+    "end": 13.114
+  },
+  {
+    "word": "patni",
+    "start": 13.194,
+    "end": 13.514
+  },
+  {
+    "word": "ka",
+    "start": 13.567,
+    "end": 13.673
+  },
+  {
+    "word": "guru",
+    "start": 13.737,
+    "end": 13.993
+  },
+  {
+    "word": "hai,",
+    "start": 14.033,
+    "end": 14.313
+  },
+  {
+    "word": "parantu",
+    "start": 14.513,
+    "end": 15.513
+  },
+  {
+    "word": "ek",
+    "start": 15.753,
+    "end": 16.233
+  },
+  {
+    "word": "'Atithi'",
+    "start": 16.313,
+    "end": 17.032
+  },
+  {
+    "word": "yaani",
+    "start": 17.219,
+    "end": 17.833
+  },
+  {
+    "word": "achanak",
+    "start": 17.993,
+    "end": 18.553
+  },
+  {
+    "word": "aaya",
+    "start": 18.633,
+    "end": 18.872
+  },
+  {
+    "word": "mehmaan",
+    "start": 18.925,
+    "end": 19.431
+  },
+  {
+    "word": "sabka",
+    "start": 19.591,
+    "end": 20.151
+  },
+  {
+    "word": "guru",
+    "start": 20.199,
+    "end": 20.391
+  },
+  {
+    "word": "hota",
+    "start": 20.451,
+    "end": 20.711
+  },
+  {
+    "word": "hai.",
+    "start": 20.771,
+    "end": 21.511
+  },
+  {
+    "word": "Bro,",
+    "start": 21.651,
+    "end": 22.391
+  },
+  {
+    "word": "iska",
+    "start": 22.498,
+    "end": 22.872
+  },
+  {
+    "word": "modern",
+    "start": 22.929,
+    "end": 23.271
+  },
+  {
+    "word": "rule",
+    "start": 23.319,
+    "end": 23.511
+  },
+  {
+    "word": "samjho.",
+    "start": 23.591,
+    "end": 24.071
+  },
+  {
+    "word": "Corporate",
+    "start": 24.183,
+    "end": 25.191
+  },
+  {
+    "word": "world",
+    "start": 25.244,
+    "end": 25.509
+  },
+  {
+    "word": "mein",
+    "start": 25.573,
+    "end": 25.829
+  },
+  {
+    "word": "har",
+    "start": 25.909,
+    "end": 26.149
+  },
+  {
+    "word": "toxic",
+    "start": 26.242,
+    "end": 26.707
+  },
+  {
+    "word": "boss",
+    "start": 26.803,
+    "end": 27.187
+  },
+  {
+    "word": "ya",
+    "start": 27.32,
+    "end": 27.586
+  },
+  {
+    "word": "fake",
+    "start": 27.682,
+    "end": 28.066
+  },
+  {
+    "word": "authority",
+    "start": 28.122,
+    "end": 28.626
+  },
+  {
+    "word": "figure",
+    "start": 28.672,
+    "end": 28.948
+  },
+  {
+    "word": "ke",
+    "start": 29.001,
+    "end": 29.107
+  },
+  {
+    "word": "aage",
+    "start": 29.187,
+    "end": 29.507
+  },
+  {
+    "word": "respect",
+    "start": 29.577,
+    "end": 30.067
+  },
+  {
+    "word": "dikhana",
+    "start": 30.107,
+    "end": 30.786
+  },
+  {
+    "word": "'Loyalty'",
+    "start": 30.986,
+    "end": 31.666
+  },
+  {
+    "word": "nahi,",
+    "start": 31.706,
+    "end": 32.266
+  },
+  {
+    "word": "'Slavery'",
+    "start": 32.406,
+    "end": 33.226
+  },
+  {
+    "word": "hai.",
+    "start": 33.256,
+    "end": 33.426
+  },
+  {
+    "word": "Tumhara",
+    "start": 33.826,
+    "end": 34.545
+  },
+  {
+    "word": "asli",
+    "start": 34.652,
+    "end": 35.026
+  },
+  {
+    "word": "guru",
+    "start": 35.09,
+    "end": 35.346
+  },
+  {
+    "word": "wo",
+    "start": 35.399,
+    "end": 35.505
+  },
+  {
+    "word": "'Unexpected",
+    "start": 35.625,
+    "end": 36.385
+  },
+  {
+    "word": "Opportunities'",
+    "start": 36.454,
+    "end": 37.471
+  },
+  {
+    "word": "aur",
+    "start": 37.501,
+    "end": 37.591
+  },
+  {
+    "word": "log",
+    "start": 37.691,
+    "end": 37.991
+  },
+  {
+    "word": "hain,",
+    "start": 38.031,
+    "end": 38.312
+  },
+  {
+    "word": "jo",
+    "start": 38.499,
+    "end": 38.873
+  },
+  {
+    "word": "'Guest'",
+    "start": 38.913,
+    "end": 39.433
+  },
+  {
+    "word": "bankar",
+    "start": 39.465,
+    "end": 39.673
+  },
+  {
+    "word": "achanak",
+    "start": 39.833,
+    "end": 40.393
+  },
+  {
+    "word": "life",
+    "start": 40.441,
+    "end": 40.633
+  },
+  {
+    "word": "mein",
+    "start": 40.665,
+    "end": 40.793
+  },
+  {
+    "word": "aate",
+    "start": 40.833,
+    "end": 41.113
+  },
+  {
+    "word": "hain",
+    "start": 41.153,
+    "end": 41.274
+  },
+  {
+    "word": "aur",
+    "start": 41.414,
+    "end": 41.834
+  },
+  {
+    "word": "tumhe",
+    "start": 41.874,
+    "end": 42.154
+  },
+  {
+    "word": "real",
+    "start": 42.25,
+    "end": 42.634
+  },
+  {
+    "word": "growth",
+    "start": 42.691,
+    "end": 43.033
+  },
+  {
+    "word": "sikhate",
+    "start": 43.073,
+    "end": 43.593
+  },
+  {
+    "word": "hain.",
+    "start": 43.633,
+    "end": 43.914
+  },
+  {
+    "word": "Unki",
+    "start": 44.181,
+    "end": 44.795
+  },
+  {
+    "word": "respect",
+    "start": 44.855,
+    "end": 45.275
+  },
+  {
+    "word": "karo,",
+    "start": 45.315,
+    "end": 46.075
+  },
+  {
+    "word": "chatukarita",
+    "start": 46.123,
+    "end": 46.795
+  },
+  {
+    "word": "band",
+    "start": 46.843,
+    "end": 47.035
+  },
+  {
+    "word": "karo.",
+    "start": 47.075,
+    "end": 47.435
+  },
+  {
+    "word": "Share",
+    "start": 47.608,
+    "end": 48.473
+  },
+  {
+    "word": "this",
+    "start": 48.521,
+    "end": 48.713
+  },
+  {
+    "word": "reel",
+    "start": 48.777,
+    "end": 49.033
+  },
+  {
+    "word": "with",
+    "start": 49.065,
+    "end": 49.193
+  },
+  {
+    "word": "that",
+    "start": 49.241,
+    "end": 49.433
+  },
+  {
+    "word": "one",
+    "start": 49.513,
+    "end": 49.753
+  },
+  {
+    "word": "friend",
+    "start": 49.822,
+    "end": 50.236
+  },
+  {
+    "word": "who",
+    "start": 50.356,
+    "end": 50.716
+  },
+  {
+    "word": "respects",
+    "start": 50.787,
+    "end": 51.355
+  },
+  {
+    "word": "the",
+    "start": 51.395,
+    "end": 51.515
+  },
+  {
+    "word": "wrong",
+    "start": 51.582,
+    "end": 51.917
+  },
+  {
+    "word": "people.",
+    "start": 51.986,
+    "end": 52.56
+  }
+]

@@ -1,0 +1,487 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "HANGING",
+    "start": 0.48,
+    "end": 0.8
+  },
+  {
+    "word": "OUT",
+    "start": 0.86,
+    "end": 1.04
+  },
+  {
+    "word": "WITH",
+    "start": 1.088,
+    "end": 1.28
+  },
+  {
+    "word": "LOSERS!",
+    "start": 1.38,
+    "end": 2.239
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.543,
+    "end": 4.079
+  },
+  {
+    "word": "ne",
+    "start": 4.132,
+    "end": 4.238
+  },
+  {
+    "word": "kaha",
+    "start": 4.278,
+    "end": 4.558
+  },
+  {
+    "word": "tha:",
+    "start": 4.598,
+    "end": 4.798
+  },
+  {
+    "word": "Is",
+    "start": 5.118,
+    "end": 5.758
+  },
+  {
+    "word": "jalte",
+    "start": 5.838,
+    "end": 6.238
+  },
+  {
+    "word": "hue",
+    "start": 6.298,
+    "end": 6.478
+  },
+  {
+    "word": "sansaar",
+    "start": 6.558,
+    "end": 7.037
+  },
+  {
+    "word": "ki",
+    "start": 7.09,
+    "end": 7.196
+  },
+  {
+    "word": "tension",
+    "start": 7.246,
+    "end": 7.596
+  },
+  {
+    "word": "se",
+    "start": 7.649,
+    "end": 7.755
+  },
+  {
+    "word": "bachne",
+    "start": 7.819,
+    "end": 8.155
+  },
+  {
+    "word": "ke",
+    "start": 8.208,
+    "end": 8.314
+  },
+  {
+    "word": "sirf",
+    "start": 8.394,
+    "end": 8.714
+  },
+  {
+    "word": "teen",
+    "start": 8.794,
+    "end": 9.114
+  },
+  {
+    "word": "aaraam",
+    "start": 9.194,
+    "end": 9.593
+  },
+  {
+    "word": "hain\u2014ek",
+    "start": 9.633,
+    "end": 10.954
+  },
+  {
+    "word": "samajhdar",
+    "start": 11.014,
+    "end": 11.594
+  },
+  {
+    "word": "jeevan",
+    "start": 11.634,
+    "end": 11.913
+  },
+  {
+    "word": "sathi,",
+    "start": 11.953,
+    "end": 12.473
+  },
+  {
+    "word": "ek",
+    "start": 12.766,
+    "end": 13.352
+  },
+  {
+    "word": "laayak",
+    "start": 13.432,
+    "end": 13.832
+  },
+  {
+    "word": "santaan,",
+    "start": 13.912,
+    "end": 14.872
+  },
+  {
+    "word": "aur",
+    "start": 14.972,
+    "end": 15.272
+  },
+  {
+    "word": "sabse",
+    "start": 15.372,
+    "end": 15.832
+  },
+  {
+    "word": "zaroori,",
+    "start": 15.872,
+    "end": 16.391
+  },
+  {
+    "word": "acche",
+    "start": 16.604,
+    "end": 17.189
+  },
+  {
+    "word": "logon",
+    "start": 17.249,
+    "end": 17.509
+  },
+  {
+    "word": "ki",
+    "start": 17.589,
+    "end": 17.749
+  },
+  {
+    "word": "sangat.",
+    "start": 17.829,
+    "end": 18.389
+  },
+  {
+    "word": "Aaj",
+    "start": 19.029,
+    "end": 19.829
+  },
+  {
+    "word": "tum",
+    "start": 19.889,
+    "end": 20.069
+  },
+  {
+    "word": "'Toxic'",
+    "start": 20.149,
+    "end": 20.869
+  },
+  {
+    "word": "Corporate",
+    "start": 20.893,
+    "end": 21.109
+  },
+  {
+    "word": "culture",
+    "start": 21.169,
+    "end": 21.589
+  },
+  {
+    "word": "aur",
+    "start": 21.729,
+    "end": 22.149
+  },
+  {
+    "word": "fake",
+    "start": 22.229,
+    "end": 22.549
+  },
+  {
+    "word": "'Friends'",
+    "start": 22.629,
+    "end": 23.071
+  },
+  {
+    "word": "ke",
+    "start": 23.084,
+    "end": 23.11
+  },
+  {
+    "word": "beech",
+    "start": 23.163,
+    "end": 23.428
+  },
+  {
+    "word": "mein",
+    "start": 23.46,
+    "end": 23.588
+  },
+  {
+    "word": "phanse",
+    "start": 23.641,
+    "end": 24.067
+  },
+  {
+    "word": "ho.",
+    "start": 24.147,
+    "end": 24.387
+  },
+  {
+    "word": "Agar",
+    "start": 24.707,
+    "end": 25.427
+  },
+  {
+    "word": "tumhara",
+    "start": 25.487,
+    "end": 25.907
+  },
+  {
+    "word": "'Circle'",
+    "start": 25.947,
+    "end": 26.469
+  },
+  {
+    "word": "tumhe",
+    "start": 26.509,
+    "end": 26.709
+  },
+  {
+    "word": "peace",
+    "start": 26.802,
+    "end": 27.267
+  },
+  {
+    "word": "aur",
+    "start": 27.327,
+    "end": 27.507
+  },
+  {
+    "word": "'Growth'",
+    "start": 27.587,
+    "end": 28.067
+  },
+  {
+    "word": "nahi",
+    "start": 28.107,
+    "end": 28.228
+  },
+  {
+    "word": "de",
+    "start": 28.281,
+    "end": 28.387
+  },
+  {
+    "word": "raha,",
+    "start": 28.427,
+    "end": 28.867
+  },
+  {
+    "word": "toh",
+    "start": 28.987,
+    "end": 29.347
+  },
+  {
+    "word": "tum",
+    "start": 29.407,
+    "end": 29.587
+  },
+  {
+    "word": "apna",
+    "start": 29.64,
+    "end": 29.826
+  },
+  {
+    "word": "time",
+    "start": 29.89,
+    "end": 30.146
+  },
+  {
+    "word": "barbaad",
+    "start": 30.226,
+    "end": 30.706
+  },
+  {
+    "word": "kar",
+    "start": 30.746,
+    "end": 30.866
+  },
+  {
+    "word": "rahe",
+    "start": 30.919,
+    "end": 31.105
+  },
+  {
+    "word": "ho.",
+    "start": 31.158,
+    "end": 31.344
+  },
+  {
+    "word": "Choose",
+    "start": 31.515,
+    "end": 32.541
+  },
+  {
+    "word": "your",
+    "start": 32.573,
+    "end": 32.701
+  },
+  {
+    "word": "partner",
+    "start": 32.771,
+    "end": 33.261
+  },
+  {
+    "word": "and",
+    "start": 33.321,
+    "end": 33.501
+  },
+  {
+    "word": "your",
+    "start": 33.533,
+    "end": 33.661
+  },
+  {
+    "word": "friends",
+    "start": 33.721,
+    "end": 34.141
+  },
+  {
+    "word": "wisely,",
+    "start": 34.221,
+    "end": 34.861
+  },
+  {
+    "word": "wahi",
+    "start": 35.181,
+    "end": 35.741
+  },
+  {
+    "word": "tumhara",
+    "start": 35.781,
+    "end": 36.221
+  },
+  {
+    "word": "asli",
+    "start": 36.328,
+    "end": 36.702
+  },
+  {
+    "word": "escape",
+    "start": 36.771,
+    "end": 37.185
+  },
+  {
+    "word": "hain.",
+    "start": 37.225,
+    "end": 37.986
+  },
+  {
+    "word": "Share",
+    "start": 38.093,
+    "end": 38.628
+  },
+  {
+    "word": "this",
+    "start": 38.692,
+    "end": 38.948
+  },
+  {
+    "word": "with",
+    "start": 38.98,
+    "end": 39.108
+  },
+  {
+    "word": "your",
+    "start": 39.14,
+    "end": 39.268
+  },
+  {
+    "word": "core",
+    "start": 39.348,
+    "end": 39.668
+  },
+  {
+    "word": "circle",
+    "start": 39.748,
+    "end": 40.228
+  },
+  {
+    "word": "who",
+    "start": 40.248,
+    "end": 40.308
+  },
+  {
+    "word": "brings",
+    "start": 40.365,
+    "end": 40.707
+  },
+  {
+    "word": "you",
+    "start": 40.727,
+    "end": 40.787
+  },
+  {
+    "word": "peace,",
+    "start": 40.88,
+    "end": 41.425
+  },
+  {
+    "word": "or",
+    "start": 41.638,
+    "end": 42.064
+  },
+  {
+    "word": "tag",
+    "start": 42.164,
+    "end": 42.464
+  },
+  {
+    "word": "someone",
+    "start": 42.514,
+    "end": 42.864
+  },
+  {
+    "word": "who",
+    "start": 42.904,
+    "end": 43.024
+  },
+  {
+    "word": "needs",
+    "start": 43.077,
+    "end": 43.342
+  },
+  {
+    "word": "to",
+    "start": 43.395,
+    "end": 43.501
+  },
+  {
+    "word": "upgrade",
+    "start": 43.571,
+    "end": 44.061
+  },
+  {
+    "word": "their",
+    "start": 44.101,
+    "end": 44.301
+  },
+  {
+    "word": "friends.",
+    "start": 44.371,
+    "end": 44.941
+  }
+]

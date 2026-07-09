@@ -1,0 +1,492 @@
+[
+  {
+    "word": "ISOLATION",
+    "start": 0.0,
+    "end": 0.8
+  },
+  {
+    "word": "IS",
+    "start": 0.88,
+    "end": 1.04
+  },
+  {
+    "word": "YOUR",
+    "start": 1.072,
+    "end": 1.2
+  },
+  {
+    "word": "BIGGEST",
+    "start": 1.28,
+    "end": 1.84
+  },
+  {
+    "word": "WEAPON",
+    "start": 1.947,
+    "end": 2.641
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.929,
+    "end": 4.321
+  },
+  {
+    "word": "ne",
+    "start": 4.374,
+    "end": 4.48
+  },
+  {
+    "word": "kaha",
+    "start": 4.52,
+    "end": 4.8
+  },
+  {
+    "word": "tha:",
+    "start": 4.86,
+    "end": 5.48
+  },
+  {
+    "word": "Tapasya",
+    "start": 5.59,
+    "end": 6.24
+  },
+  {
+    "word": "akele",
+    "start": 6.4,
+    "end": 6.8
+  },
+  {
+    "word": "karni",
+    "start": 6.88,
+    "end": 7.121
+  },
+  {
+    "word": "chahiye,",
+    "start": 7.174,
+    "end": 8.159
+  },
+  {
+    "word": "padhai",
+    "start": 8.199,
+    "end": 8.559
+  },
+  {
+    "word": "do",
+    "start": 8.639,
+    "end": 8.799
+  },
+  {
+    "word": "logon",
+    "start": 8.859,
+    "end": 9.119
+  },
+  {
+    "word": "ke",
+    "start": 9.172,
+    "end": 9.278
+  },
+  {
+    "word": "saath,",
+    "start": 9.358,
+    "end": 9.997
+  },
+  {
+    "word": "gaana",
+    "start": 10.05,
+    "end": 10.396
+  },
+  {
+    "word": "teen",
+    "start": 10.476,
+    "end": 10.796
+  },
+  {
+    "word": "ke",
+    "start": 10.849,
+    "end": 10.955
+  },
+  {
+    "word": "saath,",
+    "start": 11.035,
+    "end": 11.754
+  },
+  {
+    "word": "yatra",
+    "start": 11.834,
+    "end": 12.314
+  },
+  {
+    "word": "chaar",
+    "start": 12.374,
+    "end": 12.634
+  },
+  {
+    "word": "ke",
+    "start": 12.714,
+    "end": 12.874
+  },
+  {
+    "word": "saath",
+    "start": 12.954,
+    "end": 13.354
+  },
+  {
+    "word": "aur",
+    "start": 13.494,
+    "end": 13.914
+  },
+  {
+    "word": "yuddh",
+    "start": 13.994,
+    "end": 14.313
+  },
+  {
+    "word": "hamesha",
+    "start": 14.513,
+    "end": 15.273
+  },
+  {
+    "word": "bahot",
+    "start": 15.333,
+    "end": 15.753
+  },
+  {
+    "word": "logon",
+    "start": 15.793,
+    "end": 15.993
+  },
+  {
+    "word": "ke",
+    "start": 16.046,
+    "end": 16.152
+  },
+  {
+    "word": "saath",
+    "start": 16.232,
+    "end": 16.473
+  },
+  {
+    "word": "milkar",
+    "start": 16.553,
+    "end": 17.033
+  },
+  {
+    "word": "ladna",
+    "start": 17.113,
+    "end": 17.433
+  },
+  {
+    "word": "chahiye.",
+    "start": 17.486,
+    "end": 18.072
+  },
+  {
+    "word": "Bro,",
+    "start": 18.412,
+    "end": 19.512
+  },
+  {
+    "word": "tum",
+    "start": 19.632,
+    "end": 19.992
+  },
+  {
+    "word": "apne",
+    "start": 20.045,
+    "end": 20.231
+  },
+  {
+    "word": "'Growth'",
+    "start": 20.311,
+    "end": 20.831
+  },
+  {
+    "word": "phase",
+    "start": 20.864,
+    "end": 21.029
+  },
+  {
+    "word": "mein",
+    "start": 21.061,
+    "end": 21.189
+  },
+  {
+    "word": "'Friends'",
+    "start": 21.269,
+    "end": 21.751
+  },
+  {
+    "word": "aur",
+    "start": 21.771,
+    "end": 21.831
+  },
+  {
+    "word": "parties",
+    "start": 21.901,
+    "end": 22.391
+  },
+  {
+    "word": "dhoondh",
+    "start": 22.411,
+    "end": 22.632
+  },
+  {
+    "word": "rahe",
+    "start": 22.659,
+    "end": 22.793
+  },
+  {
+    "word": "ho.",
+    "start": 22.873,
+    "end": 23.113
+  },
+  {
+    "word": "Personal",
+    "start": 23.22,
+    "end": 24.076
+  },
+  {
+    "word": "development",
+    "start": 24.129,
+    "end": 24.712
+  },
+  {
+    "word": "aur",
+    "start": 24.772,
+    "end": 24.952
+  },
+  {
+    "word": "corporate",
+    "start": 25.008,
+    "end": 25.512
+  },
+  {
+    "word": "hustle",
+    "start": 25.569,
+    "end": 25.911
+  },
+  {
+    "word": "ek",
+    "start": 26.044,
+    "end": 26.31
+  },
+  {
+    "word": "solo",
+    "start": 26.406,
+    "end": 26.79
+  },
+  {
+    "word": "game",
+    "start": 26.854,
+    "end": 27.11
+  },
+  {
+    "word": "hai.",
+    "start": 27.15,
+    "end": 28.07
+  },
+  {
+    "word": "Apna",
+    "start": 28.123,
+    "end": 28.389
+  },
+  {
+    "word": "'Circle'",
+    "start": 28.429,
+    "end": 28.951
+  },
+  {
+    "word": "chota",
+    "start": 29.004,
+    "end": 29.35
+  },
+  {
+    "word": "rakho.",
+    "start": 29.41,
+    "end": 29.83
+  },
+  {
+    "word": "Jab",
+    "start": 30.07,
+    "end": 30.79
+  },
+  {
+    "word": "khud",
+    "start": 30.817,
+    "end": 30.951
+  },
+  {
+    "word": "ko",
+    "start": 31.004,
+    "end": 31.11
+  },
+  {
+    "word": "better",
+    "start": 31.156,
+    "end": 31.432
+  },
+  {
+    "word": "karna",
+    "start": 31.472,
+    "end": 31.832
+  },
+  {
+    "word": "ho,",
+    "start": 31.885,
+    "end": 32.071
+  },
+  {
+    "word": "toh",
+    "start": 32.171,
+    "end": 32.471
+  },
+  {
+    "word": "akele",
+    "start": 32.551,
+    "end": 32.871
+  },
+  {
+    "word": "raho,",
+    "start": 32.951,
+    "end": 33.35
+  },
+  {
+    "word": "aur",
+    "start": 33.51,
+    "end": 33.99
+  },
+  {
+    "word": "jab",
+    "start": 34.05,
+    "end": 34.23
+  },
+  {
+    "word": "toxic",
+    "start": 34.31,
+    "end": 34.71
+  },
+  {
+    "word": "duniya",
+    "start": 34.75,
+    "end": 35.029
+  },
+  {
+    "word": "se",
+    "start": 35.109,
+    "end": 35.269
+  },
+  {
+    "word": "ladna",
+    "start": 35.329,
+    "end": 35.669
+  },
+  {
+    "word": "ho,",
+    "start": 35.749,
+    "end": 36.069
+  },
+  {
+    "word": "toh",
+    "start": 36.149,
+    "end": 36.389
+  },
+  {
+    "word": "ek",
+    "start": 36.496,
+    "end": 36.71
+  },
+  {
+    "word": "solid",
+    "start": 36.79,
+    "end": 37.19
+  },
+  {
+    "word": "network",
+    "start": 37.26,
+    "end": 37.75
+  },
+  {
+    "word": "banao.",
+    "start": 37.814,
+    "end": 38.23
+  },
+  {
+    "word": "Share",
+    "start": 38.417,
+    "end": 39.352
+  },
+  {
+    "word": "this",
+    "start": 39.4,
+    "end": 39.592
+  },
+  {
+    "word": "reel",
+    "start": 39.656,
+    "end": 39.912
+  },
+  {
+    "word": "with",
+    "start": 39.928,
+    "end": 39.992
+  },
+  {
+    "word": "that",
+    "start": 40.04,
+    "end": 40.232
+  },
+  {
+    "word": "one",
+    "start": 40.332,
+    "end": 40.632
+  },
+  {
+    "word": "friend",
+    "start": 40.701,
+    "end": 41.115
+  },
+  {
+    "word": "who",
+    "start": 41.155,
+    "end": 41.275
+  },
+  {
+    "word": "needs",
+    "start": 41.328,
+    "end": 41.593
+  },
+  {
+    "word": "to",
+    "start": 41.62,
+    "end": 41.674
+  },
+  {
+    "word": "disappear",
+    "start": 41.746,
+    "end": 42.394
+  },
+  {
+    "word": "and",
+    "start": 42.454,
+    "end": 42.634
+  },
+  {
+    "word": "focus",
+    "start": 42.714,
+    "end": 43.114
+  },
+  {
+    "word": "on",
+    "start": 43.194,
+    "end": 43.354
+  },
+  {
+    "word": "their",
+    "start": 43.381,
+    "end": 43.516
+  },
+  {
+    "word": "grind.",
+    "start": 43.609,
+    "end": 44.234
+  }
+]

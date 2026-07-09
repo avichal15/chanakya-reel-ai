@@ -1,0 +1,467 @@
+[
+  {
+    "word": "SHUT",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "UP",
+    "start": 0.267,
+    "end": 0.481
+  },
+  {
+    "word": "AND",
+    "start": 0.541,
+    "end": 0.721
+  },
+  {
+    "word": "LISTEN!",
+    "start": 0.785,
+    "end": 2.041
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.193,
+    "end": 3.041
+  },
+  {
+    "word": "ne",
+    "start": 3.094,
+    "end": 3.2
+  },
+  {
+    "word": "kaha",
+    "start": 3.24,
+    "end": 3.439
+  },
+  {
+    "word": "tha:",
+    "start": 3.499,
+    "end": 3.839
+  },
+  {
+    "word": "Sunkar",
+    "start": 4.199,
+    "end": 4.879
+  },
+  {
+    "word": "hi",
+    "start": 4.932,
+    "end": 5.038
+  },
+  {
+    "word": "insaan",
+    "start": 5.118,
+    "end": 5.598
+  },
+  {
+    "word": "apna",
+    "start": 5.678,
+    "end": 5.998
+  },
+  {
+    "word": "sahi",
+    "start": 6.078,
+    "end": 6.318
+  },
+  {
+    "word": "rasta",
+    "start": 6.398,
+    "end": 6.718
+  },
+  {
+    "word": "samajhta",
+    "start": 6.778,
+    "end": 7.197
+  },
+  {
+    "word": "hai,",
+    "start": 7.257,
+    "end": 8.077
+  },
+  {
+    "word": "sunkar",
+    "start": 8.157,
+    "end": 8.557
+  },
+  {
+    "word": "hi",
+    "start": 8.61,
+    "end": 8.716
+  },
+  {
+    "word": "bure",
+    "start": 8.78,
+    "end": 9.036
+  },
+  {
+    "word": "kaamo",
+    "start": 9.089,
+    "end": 9.354
+  },
+  {
+    "word": "ko",
+    "start": 9.434,
+    "end": 9.594
+  },
+  {
+    "word": "chhodta",
+    "start": 9.621,
+    "end": 9.995
+  },
+  {
+    "word": "hai,",
+    "start": 10.055,
+    "end": 10.315
+  },
+  {
+    "word": "aur",
+    "start": 10.455,
+    "end": 10.875
+  },
+  {
+    "word": "sunkar",
+    "start": 10.955,
+    "end": 11.355
+  },
+  {
+    "word": "hi",
+    "start": 11.408,
+    "end": 11.514
+  },
+  {
+    "word": "usse",
+    "start": 11.567,
+    "end": 11.833
+  },
+  {
+    "word": "saccha",
+    "start": 11.913,
+    "end": 12.312
+  },
+  {
+    "word": "gyan",
+    "start": 12.352,
+    "end": 12.551
+  },
+  {
+    "word": "milta",
+    "start": 12.591,
+    "end": 12.951
+  },
+  {
+    "word": "hai.",
+    "start": 12.991,
+    "end": 13.991
+  },
+  {
+    "word": "Aaj",
+    "start": 14.071,
+    "end": 14.311
+  },
+  {
+    "word": "kal",
+    "start": 14.351,
+    "end": 14.471
+  },
+  {
+    "word": "har",
+    "start": 14.531,
+    "end": 14.711
+  },
+  {
+    "word": "kisi",
+    "start": 14.791,
+    "end": 15.03
+  },
+  {
+    "word": "ko",
+    "start": 15.083,
+    "end": 15.189
+  },
+  {
+    "word": "bolne",
+    "start": 15.249,
+    "end": 15.509
+  },
+  {
+    "word": "ki",
+    "start": 15.562,
+    "end": 15.668
+  },
+  {
+    "word": "jaldi",
+    "start": 15.748,
+    "end": 16.068
+  },
+  {
+    "word": "hai.",
+    "start": 16.108,
+    "end": 16.948
+  },
+  {
+    "word": "Corporate",
+    "start": 16.988,
+    "end": 17.348
+  },
+  {
+    "word": "meeting",
+    "start": 17.398,
+    "end": 17.748
+  },
+  {
+    "word": "ho",
+    "start": 17.828,
+    "end": 17.988
+  },
+  {
+    "word": "ya",
+    "start": 18.041,
+    "end": 18.147
+  },
+  {
+    "word": "dosti,",
+    "start": 18.227,
+    "end": 19.107
+  },
+  {
+    "word": "sabko",
+    "start": 19.187,
+    "end": 19.507
+  },
+  {
+    "word": "bas",
+    "start": 19.567,
+    "end": 19.747
+  },
+  {
+    "word": "apna",
+    "start": 19.827,
+    "end": 20.067
+  },
+  {
+    "word": "point",
+    "start": 20.12,
+    "end": 20.385
+  },
+  {
+    "word": "prove",
+    "start": 20.438,
+    "end": 20.703
+  },
+  {
+    "word": "karna",
+    "start": 20.743,
+    "end": 21.023
+  },
+  {
+    "word": "hai.",
+    "start": 21.063,
+    "end": 21.983
+  },
+  {
+    "word": "Bro,",
+    "start": 22.063,
+    "end": 22.463
+  },
+  {
+    "word": "agar",
+    "start": 22.543,
+    "end": 22.863
+  },
+  {
+    "word": "tum",
+    "start": 22.923,
+    "end": 23.103
+  },
+  {
+    "word": "sunoge",
+    "start": 23.163,
+    "end": 23.583
+  },
+  {
+    "word": "nahi,",
+    "start": 23.623,
+    "end": 23.902
+  },
+  {
+    "word": "toh",
+    "start": 24.002,
+    "end": 24.302
+  },
+  {
+    "word": "grow",
+    "start": 24.35,
+    "end": 24.542
+  },
+  {
+    "word": "kaise",
+    "start": 24.582,
+    "end": 24.862
+  },
+  {
+    "word": "karoge?",
+    "start": 24.902,
+    "end": 25.342
+  },
+  {
+    "word": "The",
+    "start": 25.582,
+    "end": 26.302
+  },
+  {
+    "word": "biggest",
+    "start": 26.352,
+    "end": 26.702
+  },
+  {
+    "word": "flex",
+    "start": 26.782,
+    "end": 27.102
+  },
+  {
+    "word": "in",
+    "start": 27.155,
+    "end": 27.261
+  },
+  {
+    "word": "this",
+    "start": 27.309,
+    "end": 27.501
+  },
+  {
+    "word": "loud",
+    "start": 27.581,
+    "end": 27.901
+  },
+  {
+    "word": "world",
+    "start": 27.968,
+    "end": 28.303
+  },
+  {
+    "word": "is",
+    "start": 28.436,
+    "end": 28.702
+  },
+  {
+    "word": "being",
+    "start": 28.742,
+    "end": 28.942
+  },
+  {
+    "word": "the",
+    "start": 28.982,
+    "end": 29.102
+  },
+  {
+    "word": "silent",
+    "start": 29.182,
+    "end": 29.662
+  },
+  {
+    "word": "observer",
+    "start": 29.733,
+    "end": 30.301
+  },
+  {
+    "word": "who",
+    "start": 30.401,
+    "end": 30.701
+  },
+  {
+    "word": "learns",
+    "start": 30.77,
+    "end": 31.184
+  },
+  {
+    "word": "from",
+    "start": 31.216,
+    "end": 31.344
+  },
+  {
+    "word": "everyone's",
+    "start": 31.415,
+    "end": 32.063
+  },
+  {
+    "word": "mistakes.",
+    "start": 32.134,
+    "end": 32.862
+  },
+  {
+    "word": "Share",
+    "start": 33.022,
+    "end": 33.822
+  },
+  {
+    "word": "this",
+    "start": 33.87,
+    "end": 34.062
+  },
+  {
+    "word": "reel",
+    "start": 34.126,
+    "end": 34.382
+  },
+  {
+    "word": "with",
+    "start": 34.414,
+    "end": 34.542
+  },
+  {
+    "word": "that",
+    "start": 34.59,
+    "end": 34.782
+  },
+  {
+    "word": "one",
+    "start": 34.842,
+    "end": 35.022
+  },
+  {
+    "word": "friend",
+    "start": 35.091,
+    "end": 35.505
+  },
+  {
+    "word": "who",
+    "start": 35.605,
+    "end": 35.905
+  },
+  {
+    "word": "talks",
+    "start": 35.985,
+    "end": 36.385
+  },
+  {
+    "word": "too",
+    "start": 36.425,
+    "end": 36.545
+  },
+  {
+    "word": "much",
+    "start": 36.641,
+    "end": 37.025
+  },
+  {
+    "word": "but",
+    "start": 37.145,
+    "end": 37.505
+  },
+  {
+    "word": "listens",
+    "start": 37.575,
+    "end": 38.065
+  },
+  {
+    "word": "too",
+    "start": 38.165,
+    "end": 38.465
+  },
+  {
+    "word": "little.",
+    "start": 38.522,
+    "end": 39.024
+  }
+]

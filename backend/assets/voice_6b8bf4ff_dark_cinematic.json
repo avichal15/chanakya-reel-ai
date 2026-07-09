@@ -1,0 +1,417 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "TRUSTING",
+    "start": 0.453,
+    "end": 0.958
+  },
+  {
+    "word": "SWEET",
+    "start": 1.038,
+    "end": 1.358
+  },
+  {
+    "word": "TALKERS!",
+    "start": 1.438,
+    "end": 2.156
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.38,
+    "end": 3.516
+  },
+  {
+    "word": "ne",
+    "start": 3.569,
+    "end": 3.675
+  },
+  {
+    "word": "kaha",
+    "start": 3.715,
+    "end": 3.995
+  },
+  {
+    "word": "tha:",
+    "start": 4.055,
+    "end": 4.715
+  },
+  {
+    "word": "Purushon",
+    "start": 4.835,
+    "end": 5.515
+  },
+  {
+    "word": "mein",
+    "start": 5.563,
+    "end": 5.755
+  },
+  {
+    "word": "nai",
+    "start": 5.835,
+    "end": 6.075
+  },
+  {
+    "word": "(barber),",
+    "start": 6.275,
+    "end": 6.873
+  },
+  {
+    "word": "pakshiyon",
+    "start": 7.033,
+    "end": 7.753
+  },
+  {
+    "word": "mein",
+    "start": 7.785,
+    "end": 7.913
+  },
+  {
+    "word": "kauwa,",
+    "start": 7.993,
+    "end": 8.953
+  },
+  {
+    "word": "janwaron",
+    "start": 9.033,
+    "end": 9.512
+  },
+  {
+    "word": "mein",
+    "start": 9.544,
+    "end": 9.672
+  },
+  {
+    "word": "gidar",
+    "start": 9.732,
+    "end": 10.152
+  },
+  {
+    "word": "aur",
+    "start": 10.252,
+    "end": 10.552
+  },
+  {
+    "word": "auraton",
+    "start": 10.652,
+    "end": 11.112
+  },
+  {
+    "word": "mein",
+    "start": 11.144,
+    "end": 11.272
+  },
+  {
+    "word": "malin",
+    "start": 11.352,
+    "end": 11.752
+  },
+  {
+    "word": "sabse",
+    "start": 11.912,
+    "end": 12.552
+  },
+  {
+    "word": "dhurt",
+    "start": 12.605,
+    "end": 13.032
+  },
+  {
+    "word": "aur",
+    "start": 13.072,
+    "end": 13.192
+  },
+  {
+    "word": "chalak",
+    "start": 13.245,
+    "end": 13.591
+  },
+  {
+    "word": "hote",
+    "start": 13.631,
+    "end": 13.83
+  },
+  {
+    "word": "hain.",
+    "start": 13.87,
+    "end": 14.709
+  },
+  {
+    "word": "Bro,",
+    "start": 14.869,
+    "end": 15.509
+  },
+  {
+    "word": "2026",
+    "start": 15.749,
+    "end": 16.788
+  },
+  {
+    "word": "ke",
+    "start": 16.841,
+    "end": 16.947
+  },
+  {
+    "word": "corporate",
+    "start": 16.995,
+    "end": 17.427
+  },
+  {
+    "word": "world",
+    "start": 17.48,
+    "end": 17.745
+  },
+  {
+    "word": "mein",
+    "start": 17.777,
+    "end": 17.905
+  },
+  {
+    "word": "iska",
+    "start": 18.012,
+    "end": 18.306
+  },
+  {
+    "word": "matlab",
+    "start": 18.363,
+    "end": 18.705
+  },
+  {
+    "word": "samjho.",
+    "start": 18.765,
+    "end": 19.185
+  },
+  {
+    "word": "Jo",
+    "start": 19.478,
+    "end": 20.064
+  },
+  {
+    "word": "tumhare",
+    "start": 20.104,
+    "end": 20.544
+  },
+  {
+    "word": "circle",
+    "start": 20.601,
+    "end": 20.943
+  },
+  {
+    "word": "mein",
+    "start": 20.975,
+    "end": 21.103
+  },
+  {
+    "word": "sabse",
+    "start": 21.203,
+    "end": 21.663
+  },
+  {
+    "word": "zyada",
+    "start": 21.703,
+    "end": 21.982
+  },
+  {
+    "word": "sweet",
+    "start": 22.049,
+    "end": 22.384
+  },
+  {
+    "word": "banta",
+    "start": 22.424,
+    "end": 22.704
+  },
+  {
+    "word": "hai,",
+    "start": 22.744,
+    "end": 23.024
+  },
+  {
+    "word": "wahi",
+    "start": 23.304,
+    "end": 23.824
+  },
+  {
+    "word": "tumhara",
+    "start": 23.864,
+    "end": 24.223
+  },
+  {
+    "word": "sabse",
+    "start": 24.323,
+    "end": 24.783
+  },
+  {
+    "word": "bada",
+    "start": 24.823,
+    "end": 25.022
+  },
+  {
+    "word": "downfall",
+    "start": 25.075,
+    "end": 25.499
+  },
+  {
+    "word": "banega.",
+    "start": 25.559,
+    "end": 26.059
+  },
+  {
+    "word": "Ye",
+    "start": 26.379,
+    "end": 27.019
+  },
+  {
+    "word": "toxic",
+    "start": 27.126,
+    "end": 27.661
+  },
+  {
+    "word": "'friends'",
+    "start": 27.821,
+    "end": 28.664
+  },
+  {
+    "word": "tumhari",
+    "start": 28.714,
+    "end": 29.104
+  },
+  {
+    "word": "weakness",
+    "start": 29.157,
+    "end": 29.581
+  },
+  {
+    "word": "nikalte",
+    "start": 29.621,
+    "end": 30.061
+  },
+  {
+    "word": "hain",
+    "start": 30.101,
+    "end": 30.381
+  },
+  {
+    "word": "aur",
+    "start": 30.481,
+    "end": 30.781
+  },
+  {
+    "word": "tumhari",
+    "start": 30.821,
+    "end": 31.181
+  },
+  {
+    "word": "growth",
+    "start": 31.238,
+    "end": 31.58
+  },
+  {
+    "word": "ko",
+    "start": 31.633,
+    "end": 31.739
+  },
+  {
+    "word": "destroy",
+    "start": 31.799,
+    "end": 32.219
+  },
+  {
+    "word": "kar",
+    "start": 32.259,
+    "end": 32.379
+  },
+  {
+    "word": "dete",
+    "start": 32.439,
+    "end": 32.699
+  },
+  {
+    "word": "hain.",
+    "start": 32.739,
+    "end": 33.018
+  },
+  {
+    "word": "Cut",
+    "start": 33.238,
+    "end": 33.898
+  },
+  {
+    "word": "them",
+    "start": 33.946,
+    "end": 34.138
+  },
+  {
+    "word": "off.",
+    "start": 34.218,
+    "end": 34.538
+  },
+  {
+    "word": "Share",
+    "start": 34.685,
+    "end": 35.42
+  },
+  {
+    "word": "this",
+    "start": 35.468,
+    "end": 35.66
+  },
+  {
+    "word": "reel",
+    "start": 35.724,
+    "end": 35.98
+  },
+  {
+    "word": "with",
+    "start": 35.996,
+    "end": 36.06
+  },
+  {
+    "word": "that",
+    "start": 36.108,
+    "end": 36.3
+  },
+  {
+    "word": "one",
+    "start": 36.38,
+    "end": 36.62
+  },
+  {
+    "word": "friend",
+    "start": 36.689,
+    "end": 37.103
+  },
+  {
+    "word": "who",
+    "start": 37.123,
+    "end": 37.183
+  },
+  {
+    "word": "trusts",
+    "start": 37.252,
+    "end": 37.666
+  },
+  {
+    "word": "fake",
+    "start": 37.746,
+    "end": 38.066
+  },
+  {
+    "word": "people",
+    "start": 38.112,
+    "end": 38.388
+  },
+  {
+    "word": "too",
+    "start": 38.448,
+    "end": 38.628
+  },
+  {
+    "word": "quickly.",
+    "start": 38.698,
+    "end": 39.268
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "word": "BLOOD",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "DOES",
+    "start": 0.512,
+    "end": 0.96
+  },
+  {
+    "word": "NOT",
+    "start": 1.1,
+    "end": 1.52
+  },
+  {
+    "word": "MEAN",
+    "start": 1.68,
+    "end": 2.16
+  },
+  {
+    "word": "LOYALTY!",
+    "start": 2.347,
+    "end": 3.801
+  },
+  {
+    "word": "Chanakya",
+    "start": 3.937,
+    "end": 4.721
+  },
+  {
+    "word": "ne",
+    "start": 4.748,
+    "end": 4.802
+  },
+  {
+    "word": "kaha",
+    "start": 4.842,
+    "end": 5.122
+  },
+  {
+    "word": "tha:",
+    "start": 5.182,
+    "end": 5.442
+  },
+  {
+    "word": "Ek",
+    "start": 5.735,
+    "end": 6.321
+  },
+  {
+    "word": "hi",
+    "start": 6.374,
+    "end": 6.48
+  },
+  {
+    "word": "maa",
+    "start": 6.52,
+    "end": 6.64
+  },
+  {
+    "word": "ke",
+    "start": 6.72,
+    "end": 6.88
+  },
+  {
+    "word": "garbh",
+    "start": 6.94,
+    "end": 7.2
+  },
+  {
+    "word": "se",
+    "start": 7.253,
+    "end": 7.359
+  },
+  {
+    "word": "paida",
+    "start": 7.407,
+    "end": 7.679
+  },
+  {
+    "word": "hue",
+    "start": 7.739,
+    "end": 7.919
+  },
+  {
+    "word": "log",
+    "start": 8.019,
+    "end": 8.319
+  },
+  {
+    "word": "swabhav",
+    "start": 8.479,
+    "end": 9.198
+  },
+  {
+    "word": "mein",
+    "start": 9.23,
+    "end": 9.358
+  },
+  {
+    "word": "ek",
+    "start": 9.491,
+    "end": 9.757
+  },
+  {
+    "word": "jaise",
+    "start": 9.837,
+    "end": 10.157
+  },
+  {
+    "word": "nahi",
+    "start": 10.197,
+    "end": 10.396
+  },
+  {
+    "word": "hote,",
+    "start": 10.436,
+    "end": 11.437
+  },
+  {
+    "word": "bilkul",
+    "start": 11.497,
+    "end": 11.998
+  },
+  {
+    "word": "waise",
+    "start": 12.038,
+    "end": 12.398
+  },
+  {
+    "word": "jaise",
+    "start": 12.478,
+    "end": 12.798
+  },
+  {
+    "word": "ek",
+    "start": 12.985,
+    "end": 13.359
+  },
+  {
+    "word": "hi",
+    "start": 13.386,
+    "end": 13.44
+  },
+  {
+    "word": "ped",
+    "start": 13.52,
+    "end": 13.76
+  },
+  {
+    "word": "par",
+    "start": 13.84,
+    "end": 14.08
+  },
+  {
+    "word": "meetha",
+    "start": 14.24,
+    "end": 14.88
+  },
+  {
+    "word": "ber",
+    "start": 15.0,
+    "end": 15.36
+  },
+  {
+    "word": "aur",
+    "start": 15.42,
+    "end": 15.6
+  },
+  {
+    "word": "chubhne",
+    "start": 15.653,
+    "end": 16.079
+  },
+  {
+    "word": "waale",
+    "start": 16.106,
+    "end": 16.319
+  },
+  {
+    "word": "kaante",
+    "start": 16.399,
+    "end": 16.799
+  },
+  {
+    "word": "dono",
+    "start": 16.919,
+    "end": 17.359
+  },
+  {
+    "word": "hote",
+    "start": 17.399,
+    "end": 17.679
+  },
+  {
+    "word": "hain.",
+    "start": 17.719,
+    "end": 18.52
+  },
+  {
+    "word": "Corporate",
+    "start": 18.588,
+    "end": 19.2
+  },
+  {
+    "word": "ho",
+    "start": 19.253,
+    "end": 19.359
+  },
+  {
+    "word": "ya",
+    "start": 19.412,
+    "end": 19.518
+  },
+  {
+    "word": "personal",
+    "start": 19.571,
+    "end": 19.995
+  },
+  {
+    "word": "life,",
+    "start": 20.075,
+    "end": 20.875
+  },
+  {
+    "word": "tum",
+    "start": 20.915,
+    "end": 21.035
+  },
+  {
+    "word": "sochte",
+    "start": 21.142,
+    "end": 21.676
+  },
+  {
+    "word": "ho",
+    "start": 21.729,
+    "end": 21.835
+  },
+  {
+    "word": "same",
+    "start": 21.931,
+    "end": 22.315
+  },
+  {
+    "word": "background",
+    "start": 22.366,
+    "end": 22.876
+  },
+  {
+    "word": "ya",
+    "start": 22.903,
+    "end": 22.957
+  },
+  {
+    "word": "family",
+    "start": 23.026,
+    "end": 23.44
+  },
+  {
+    "word": "se",
+    "start": 23.493,
+    "end": 23.599
+  },
+  {
+    "word": "aaye",
+    "start": 23.679,
+    "end": 23.84
+  },
+  {
+    "word": "log",
+    "start": 23.94,
+    "end": 24.24
+  },
+  {
+    "word": "tumhare",
+    "start": 24.34,
+    "end": 24.96
+  },
+  {
+    "word": "loyal",
+    "start": 25.027,
+    "end": 25.362
+  },
+  {
+    "word": "Friends",
+    "start": 25.412,
+    "end": 25.762
+  },
+  {
+    "word": "banenge?",
+    "start": 25.802,
+    "end": 26.242
+  },
+  {
+    "word": "No",
+    "start": 26.589,
+    "end": 27.283
+  },
+  {
+    "word": "bro.",
+    "start": 27.363,
+    "end": 27.683
+  },
+  {
+    "word": "Tumhare",
+    "start": 28.003,
+    "end": 28.643
+  },
+  {
+    "word": "Circle",
+    "start": 28.712,
+    "end": 29.126
+  },
+  {
+    "word": "mein",
+    "start": 29.158,
+    "end": 29.286
+  },
+  {
+    "word": "kuch",
+    "start": 29.366,
+    "end": 29.605
+  },
+  {
+    "word": "log",
+    "start": 29.685,
+    "end": 29.925
+  },
+  {
+    "word": "'Fruit'",
+    "start": 30.085,
+    "end": 30.565
+  },
+  {
+    "word": "hain,",
+    "start": 30.605,
+    "end": 30.806
+  },
+  {
+    "word": "aur",
+    "start": 30.966,
+    "end": 31.446
+  },
+  {
+    "word": "kuch",
+    "start": 31.566,
+    "end": 31.845
+  },
+  {
+    "word": "un",
+    "start": 32.032,
+    "end": 32.406
+  },
+  {
+    "word": "kaanton",
+    "start": 32.486,
+    "end": 32.966
+  },
+  {
+    "word": "ki",
+    "start": 33.019,
+    "end": 33.125
+  },
+  {
+    "word": "tarah",
+    "start": 33.165,
+    "end": 33.365
+  },
+  {
+    "word": "Toxic",
+    "start": 33.472,
+    "end": 34.007
+  },
+  {
+    "word": "hain",
+    "start": 34.047,
+    "end": 34.168
+  },
+  {
+    "word": "jo",
+    "start": 34.328,
+    "end": 34.648
+  },
+  {
+    "word": "tumhari",
+    "start": 34.688,
+    "end": 35.048
+  },
+  {
+    "word": "Growth",
+    "start": 35.117,
+    "end": 35.531
+  },
+  {
+    "word": "ko",
+    "start": 35.584,
+    "end": 35.69
+  },
+  {
+    "word": "rokte",
+    "start": 35.77,
+    "end": 36.17
+  },
+  {
+    "word": "hain.",
+    "start": 36.21,
+    "end": 36.411
+  },
+  {
+    "word": "Stop",
+    "start": 36.635,
+    "end": 37.531
+  },
+  {
+    "word": "trusting",
+    "start": 37.584,
+    "end": 38.008
+  },
+  {
+    "word": "people",
+    "start": 38.077,
+    "end": 38.491
+  },
+  {
+    "word": "just",
+    "start": 38.571,
+    "end": 38.891
+  },
+  {
+    "word": "because",
+    "start": 38.931,
+    "end": 39.211
+  },
+  {
+    "word": "of",
+    "start": 39.238,
+    "end": 39.292
+  },
+  {
+    "word": "their",
+    "start": 39.319,
+    "end": 39.454
+  },
+  {
+    "word": "roots.",
+    "start": 39.534,
+    "end": 40.014
+  },
+  {
+    "word": "Share",
+    "start": 40.187,
+    "end": 41.052
+  },
+  {
+    "word": "this",
+    "start": 41.1,
+    "end": 41.292
+  },
+  {
+    "word": "reel",
+    "start": 41.34,
+    "end": 41.532
+  },
+  {
+    "word": "with",
+    "start": 41.564,
+    "end": 41.692
+  },
+  {
+    "word": "someone",
+    "start": 41.742,
+    "end": 42.092
+  },
+  {
+    "word": "who",
+    "start": 42.132,
+    "end": 42.252
+  },
+  {
+    "word": "needs",
+    "start": 42.305,
+    "end": 42.57
+  },
+  {
+    "word": "to",
+    "start": 42.597,
+    "end": 42.651
+  },
+  {
+    "word": "cut",
+    "start": 42.731,
+    "end": 42.971
+  },
+  {
+    "word": "off",
+    "start": 43.031,
+    "end": 43.211
+  },
+  {
+    "word": "toxic",
+    "start": 43.291,
+    "end": 43.691
+  },
+  {
+    "word": "people",
+    "start": 43.737,
+    "end": 44.013
+  },
+  {
+    "word": "from",
+    "start": 44.061,
+    "end": 44.253
+  },
+  {
+    "word": "their",
+    "start": 44.28,
+    "end": 44.415
+  },
+  {
+    "word": "life.",
+    "start": 44.495,
+    "end": 44.975
+  }
+]

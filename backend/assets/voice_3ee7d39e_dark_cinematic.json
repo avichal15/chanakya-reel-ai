@@ -1,0 +1,487 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "BEGGING",
+    "start": 0.533,
+    "end": 1.118
+  },
+  {
+    "word": "FOR",
+    "start": 1.178,
+    "end": 1.358
+  },
+  {
+    "word": "FAKE",
+    "start": 1.491,
+    "end": 1.917
+  },
+  {
+    "word": "COMPANY!",
+    "start": 2.017,
+    "end": 2.797
+  },
+  {
+    "word": "Kisi",
+    "start": 3.237,
+    "end": 3.998
+  },
+  {
+    "word": "bure",
+    "start": 4.094,
+    "end": 4.478
+  },
+  {
+    "word": "raja",
+    "start": 4.558,
+    "end": 4.959
+  },
+  {
+    "word": "ke",
+    "start": 5.039,
+    "end": 5.199
+  },
+  {
+    "word": "rajya",
+    "start": 5.279,
+    "end": 5.599
+  },
+  {
+    "word": "mein",
+    "start": 5.631,
+    "end": 5.759
+  },
+  {
+    "word": "rehne",
+    "start": 5.819,
+    "end": 6.079
+  },
+  {
+    "word": "se",
+    "start": 6.159,
+    "end": 6.319
+  },
+  {
+    "word": "behtar",
+    "start": 6.372,
+    "end": 6.718
+  },
+  {
+    "word": "hai",
+    "start": 6.798,
+    "end": 7.038
+  },
+  {
+    "word": "bina",
+    "start": 7.198,
+    "end": 7.598
+  },
+  {
+    "word": "rajya",
+    "start": 7.678,
+    "end": 7.998
+  },
+  {
+    "word": "ke",
+    "start": 8.025,
+    "end": 8.079
+  },
+  {
+    "word": "jeena,",
+    "start": 8.159,
+    "end": 8.999
+  },
+  {
+    "word": "aur",
+    "start": 9.109,
+    "end": 9.439
+  },
+  {
+    "word": "ek",
+    "start": 9.546,
+    "end": 9.76
+  },
+  {
+    "word": "dhokhebaaz",
+    "start": 9.84,
+    "end": 10.64
+  },
+  {
+    "word": "dost",
+    "start": 10.736,
+    "end": 11.12
+  },
+  {
+    "word": "ya",
+    "start": 11.253,
+    "end": 11.519
+  },
+  {
+    "word": "toxic",
+    "start": 11.626,
+    "end": 12.161
+  },
+  {
+    "word": "partner",
+    "start": 12.221,
+    "end": 12.641
+  },
+  {
+    "word": "hone",
+    "start": 12.689,
+    "end": 12.881
+  },
+  {
+    "word": "se",
+    "start": 12.988,
+    "end": 13.202
+  },
+  {
+    "word": "lakh",
+    "start": 13.378,
+    "end": 14.082
+  },
+  {
+    "word": "guna",
+    "start": 14.142,
+    "end": 14.402
+  },
+  {
+    "word": "behtar",
+    "start": 14.455,
+    "end": 14.801
+  },
+  {
+    "word": "hai",
+    "start": 14.841,
+    "end": 14.961
+  },
+  {
+    "word": "akele",
+    "start": 15.161,
+    "end": 15.681
+  },
+  {
+    "word": "rehna.",
+    "start": 15.721,
+    "end": 16.161
+  },
+  {
+    "word": "Bro,",
+    "start": 16.461,
+    "end": 17.761
+  },
+  {
+    "word": "ek",
+    "start": 17.894,
+    "end": 18.16
+  },
+  {
+    "word": "toxic",
+    "start": 18.24,
+    "end": 18.64
+  },
+  {
+    "word": "boss",
+    "start": 18.704,
+    "end": 18.96
+  },
+  {
+    "word": "ke",
+    "start": 18.987,
+    "end": 19.041
+  },
+  {
+    "word": "under",
+    "start": 19.081,
+    "end": 19.281
+  },
+  {
+    "word": "kaam",
+    "start": 19.361,
+    "end": 19.601
+  },
+  {
+    "word": "karna",
+    "start": 19.641,
+    "end": 20.161
+  },
+  {
+    "word": "ya",
+    "start": 20.294,
+    "end": 20.56
+  },
+  {
+    "word": "'Fake",
+    "start": 20.68,
+    "end": 21.04
+  },
+  {
+    "word": "Friends'",
+    "start": 21.09,
+    "end": 21.52
+  },
+  {
+    "word": "ke",
+    "start": 21.547,
+    "end": 21.601
+  },
+  {
+    "word": "circle",
+    "start": 21.658,
+    "end": 22.0
+  },
+  {
+    "word": "mein",
+    "start": 22.048,
+    "end": 22.24
+  },
+  {
+    "word": "fit",
+    "start": 22.32,
+    "end": 22.56
+  },
+  {
+    "word": "hone",
+    "start": 22.608,
+    "end": 22.8
+  },
+  {
+    "word": "ki",
+    "start": 22.853,
+    "end": 22.959
+  },
+  {
+    "word": "koshish",
+    "start": 23.079,
+    "end": 23.517
+  },
+  {
+    "word": "karna",
+    "start": 23.557,
+    "end": 23.997
+  },
+  {
+    "word": "tumhari",
+    "start": 24.097,
+    "end": 24.717
+  },
+  {
+    "word": "growth",
+    "start": 24.786,
+    "end": 25.2
+  },
+  {
+    "word": "rok",
+    "start": 25.34,
+    "end": 25.76
+  },
+  {
+    "word": "dega.",
+    "start": 25.84,
+    "end": 26.32
+  },
+  {
+    "word": "It's",
+    "start": 26.64,
+    "end": 27.36
+  },
+  {
+    "word": "not",
+    "start": 27.42,
+    "end": 27.6
+  },
+  {
+    "word": "about",
+    "start": 27.653,
+    "end": 27.918
+  },
+  {
+    "word": "how",
+    "start": 27.978,
+    "end": 28.158
+  },
+  {
+    "word": "big",
+    "start": 28.238,
+    "end": 28.478
+  },
+  {
+    "word": "your",
+    "start": 28.51,
+    "end": 28.638
+  },
+  {
+    "word": "circle",
+    "start": 28.707,
+    "end": 29.121
+  },
+  {
+    "word": "is,",
+    "start": 29.201,
+    "end": 29.761
+  },
+  {
+    "word": "it's",
+    "start": 29.814,
+    "end": 30.0
+  },
+  {
+    "word": "about",
+    "start": 30.04,
+    "end": 30.24
+  },
+  {
+    "word": "the",
+    "start": 30.28,
+    "end": 30.4
+  },
+  {
+    "word": "value",
+    "start": 30.493,
+    "end": 30.958
+  },
+  {
+    "word": "they",
+    "start": 30.99,
+    "end": 31.118
+  },
+  {
+    "word": "bring.",
+    "start": 31.185,
+    "end": 31.6
+  },
+  {
+    "word": "Cut",
+    "start": 31.84,
+    "end": 32.56
+  },
+  {
+    "word": "off",
+    "start": 32.64,
+    "end": 32.88
+  },
+  {
+    "word": "the",
+    "start": 32.92,
+    "end": 33.04
+  },
+  {
+    "word": "toxicity",
+    "start": 33.12,
+    "end": 33.76
+  },
+  {
+    "word": "and",
+    "start": 33.86,
+    "end": 34.16
+  },
+  {
+    "word": "embrace",
+    "start": 34.24,
+    "end": 34.8
+  },
+  {
+    "word": "solitude.",
+    "start": 34.898,
+    "end": 35.762
+  },
+  {
+    "word": "Share",
+    "start": 35.962,
+    "end": 36.962
+  },
+  {
+    "word": "this",
+    "start": 37.01,
+    "end": 37.202
+  },
+  {
+    "word": "reel",
+    "start": 37.266,
+    "end": 37.522
+  },
+  {
+    "word": "with",
+    "start": 37.554,
+    "end": 37.682
+  },
+  {
+    "word": "that",
+    "start": 37.73,
+    "end": 37.922
+  },
+  {
+    "word": "one",
+    "start": 38.002,
+    "end": 38.242
+  },
+  {
+    "word": "friend",
+    "start": 38.299,
+    "end": 38.641
+  },
+  {
+    "word": "who",
+    "start": 38.681,
+    "end": 38.801
+  },
+  {
+    "word": "is",
+    "start": 38.854,
+    "end": 38.96
+  },
+  {
+    "word": "stuck",
+    "start": 39.027,
+    "end": 39.362
+  },
+  {
+    "word": "in",
+    "start": 39.415,
+    "end": 39.521
+  },
+  {
+    "word": "a",
+    "start": 39.561,
+    "end": 39.601
+  },
+  {
+    "word": "toxic",
+    "start": 39.681,
+    "end": 40.081
+  },
+  {
+    "word": "circle",
+    "start": 40.15,
+    "end": 40.564
+  },
+  {
+    "word": "and",
+    "start": 40.704,
+    "end": 41.124
+  },
+  {
+    "word": "needs",
+    "start": 41.191,
+    "end": 41.526
+  },
+  {
+    "word": "a",
+    "start": 41.606,
+    "end": 41.686
+  },
+  {
+    "word": "reality",
+    "start": 41.756,
+    "end": 42.246
+  },
+  {
+    "word": "check.",
+    "start": 42.313,
+    "end": 42.728
+  }
+]

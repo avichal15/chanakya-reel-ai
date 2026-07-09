@@ -1,0 +1,472 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "CHASING",
+    "start": 0.533,
+    "end": 1.118
+  },
+  {
+    "word": "FAKE",
+    "start": 1.251,
+    "end": 1.677
+  },
+  {
+    "word": "PEACE!",
+    "start": 1.81,
+    "end": 2.476
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.732,
+    "end": 3.996
+  },
+  {
+    "word": "ne",
+    "start": 4.049,
+    "end": 4.155
+  },
+  {
+    "word": "kaha",
+    "start": 4.235,
+    "end": 4.474
+  },
+  {
+    "word": "tha:",
+    "start": 4.514,
+    "end": 4.714
+  },
+  {
+    "word": "Is",
+    "start": 5.007,
+    "end": 5.593
+  },
+  {
+    "word": "duniya",
+    "start": 5.633,
+    "end": 5.912
+  },
+  {
+    "word": "ke",
+    "start": 5.965,
+    "end": 6.071
+  },
+  {
+    "word": "dukhon",
+    "start": 6.131,
+    "end": 6.551
+  },
+  {
+    "word": "aur",
+    "start": 6.631,
+    "end": 6.871
+  },
+  {
+    "word": "stress",
+    "start": 6.928,
+    "end": 7.27
+  },
+  {
+    "word": "ki",
+    "start": 7.35,
+    "end": 7.51
+  },
+  {
+    "word": "aag",
+    "start": 7.55,
+    "end": 7.75
+  },
+  {
+    "word": "mein",
+    "start": 7.782,
+    "end": 7.91
+  },
+  {
+    "word": "jalte",
+    "start": 7.97,
+    "end": 8.31
+  },
+  {
+    "word": "hue",
+    "start": 8.37,
+    "end": 8.55
+  },
+  {
+    "word": "insaan",
+    "start": 8.63,
+    "end": 9.029
+  },
+  {
+    "word": "ko",
+    "start": 9.162,
+    "end": 9.428
+  },
+  {
+    "word": "sirf",
+    "start": 9.548,
+    "end": 9.988
+  },
+  {
+    "word": "teen",
+    "start": 10.068,
+    "end": 10.388
+  },
+  {
+    "word": "cheezon",
+    "start": 10.448,
+    "end": 10.788
+  },
+  {
+    "word": "se",
+    "start": 10.868,
+    "end": 11.028
+  },
+  {
+    "word": "shanti",
+    "start": 11.081,
+    "end": 11.427
+  },
+  {
+    "word": "milti",
+    "start": 11.467,
+    "end": 11.746
+  },
+  {
+    "word": "hai\u2014acchi",
+    "start": 11.786,
+    "end": 13.105
+  },
+  {
+    "word": "family,",
+    "start": 13.174,
+    "end": 13.668
+  },
+  {
+    "word": "ek",
+    "start": 13.935,
+    "end": 14.469
+  },
+  {
+    "word": "loyal",
+    "start": 14.536,
+    "end": 14.871
+  },
+  {
+    "word": "partner,",
+    "start": 14.941,
+    "end": 15.511
+  },
+  {
+    "word": "aur",
+    "start": 15.671,
+    "end": 16.151
+  },
+  {
+    "word": "achhe",
+    "start": 16.251,
+    "end": 16.631
+  },
+  {
+    "word": "logon",
+    "start": 16.691,
+    "end": 16.951
+  },
+  {
+    "word": "ki",
+    "start": 17.031,
+    "end": 17.191
+  },
+  {
+    "word": "sangat.",
+    "start": 17.271,
+    "end": 17.831
+  },
+  {
+    "word": "Tum",
+    "start": 18.271,
+    "end": 18.871
+  },
+  {
+    "word": "roz",
+    "start": 18.971,
+    "end": 19.271
+  },
+  {
+    "word": "corporate",
+    "start": 19.319,
+    "end": 19.751
+  },
+  {
+    "word": "rat",
+    "start": 19.811,
+    "end": 19.991
+  },
+  {
+    "word": "race",
+    "start": 20.039,
+    "end": 20.231
+  },
+  {
+    "word": "mein",
+    "start": 20.263,
+    "end": 20.391
+  },
+  {
+    "word": "bhag",
+    "start": 20.471,
+    "end": 20.711
+  },
+  {
+    "word": "rahe",
+    "start": 20.764,
+    "end": 20.95
+  },
+  {
+    "word": "ho,",
+    "start": 21.03,
+    "end": 21.27
+  },
+  {
+    "word": "aur",
+    "start": 21.45,
+    "end": 21.99
+  },
+  {
+    "word": "toxic",
+    "start": 22.07,
+    "end": 22.47
+  },
+  {
+    "word": "friends",
+    "start": 22.52,
+    "end": 22.87
+  },
+  {
+    "word": "pe",
+    "start": 22.923,
+    "end": 23.029
+  },
+  {
+    "word": "time",
+    "start": 23.109,
+    "end": 23.429
+  },
+  {
+    "word": "waste",
+    "start": 23.482,
+    "end": 23.747
+  },
+  {
+    "word": "kar",
+    "start": 23.767,
+    "end": 23.827
+  },
+  {
+    "word": "rahe",
+    "start": 23.88,
+    "end": 24.066
+  },
+  {
+    "word": "ho.",
+    "start": 24.146,
+    "end": 24.386
+  },
+  {
+    "word": "Asli",
+    "start": 24.786,
+    "end": 25.746
+  },
+  {
+    "word": "peace",
+    "start": 25.839,
+    "end": 26.304
+  },
+  {
+    "word": "weekend",
+    "start": 26.404,
+    "end": 27.104
+  },
+  {
+    "word": "clubbing",
+    "start": 27.168,
+    "end": 27.504
+  },
+  {
+    "word": "mein",
+    "start": 27.536,
+    "end": 27.664
+  },
+  {
+    "word": "nahi",
+    "start": 27.744,
+    "end": 27.983
+  },
+  {
+    "word": "hai.",
+    "start": 28.043,
+    "end": 28.303
+  },
+  {
+    "word": "Apna",
+    "start": 28.65,
+    "end": 29.504
+  },
+  {
+    "word": "'Circle'",
+    "start": 29.584,
+    "end": 30.266
+  },
+  {
+    "word": "filter",
+    "start": 30.295,
+    "end": 30.469
+  },
+  {
+    "word": "karo",
+    "start": 30.509,
+    "end": 30.789
+  },
+  {
+    "word": "aur",
+    "start": 30.969,
+    "end": 31.509
+  },
+  {
+    "word": "growth",
+    "start": 31.566,
+    "end": 31.908
+  },
+  {
+    "word": "pe",
+    "start": 31.961,
+    "end": 32.067
+  },
+  {
+    "word": "focus",
+    "start": 32.16,
+    "end": 32.625
+  },
+  {
+    "word": "karo.",
+    "start": 32.665,
+    "end": 33.025
+  },
+  {
+    "word": "Varna",
+    "start": 33.385,
+    "end": 34.065
+  },
+  {
+    "word": "sari",
+    "start": 34.185,
+    "end": 34.626
+  },
+  {
+    "word": "zindagi",
+    "start": 34.706,
+    "end": 35.185
+  },
+  {
+    "word": "is",
+    "start": 35.292,
+    "end": 35.506
+  },
+  {
+    "word": "burnout",
+    "start": 35.586,
+    "end": 36.065
+  },
+  {
+    "word": "mein",
+    "start": 36.097,
+    "end": 36.225
+  },
+  {
+    "word": "jalte",
+    "start": 36.305,
+    "end": 36.625
+  },
+  {
+    "word": "rahoge.",
+    "start": 36.665,
+    "end": 37.185
+  },
+  {
+    "word": "Share",
+    "start": 37.398,
+    "end": 38.463
+  },
+  {
+    "word": "this",
+    "start": 38.511,
+    "end": 38.703
+  },
+  {
+    "word": "reel",
+    "start": 38.767,
+    "end": 39.023
+  },
+  {
+    "word": "with",
+    "start": 39.055,
+    "end": 39.183
+  },
+  {
+    "word": "your",
+    "start": 39.231,
+    "end": 39.423
+  },
+  {
+    "word": "Day-1",
+    "start": 39.483,
+    "end": 39.903
+  },
+  {
+    "word": "circle",
+    "start": 39.994,
+    "end": 40.54
+  },
+  {
+    "word": "who",
+    "start": 40.62,
+    "end": 40.86
+  },
+  {
+    "word": "keeps",
+    "start": 40.927,
+    "end": 41.262
+  },
+  {
+    "word": "you",
+    "start": 41.282,
+    "end": 41.342
+  },
+  {
+    "word": "sane",
+    "start": 41.454,
+    "end": 41.902
+  },
+  {
+    "word": "in",
+    "start": 41.955,
+    "end": 42.061
+  },
+  {
+    "word": "this",
+    "start": 42.093,
+    "end": 42.221
+  },
+  {
+    "word": "toxic",
+    "start": 42.328,
+    "end": 42.863
+  },
+  {
+    "word": "world.",
+    "start": 42.943,
+    "end": 43.423
+  }
+]

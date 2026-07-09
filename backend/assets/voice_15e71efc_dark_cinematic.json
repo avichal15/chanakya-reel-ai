@@ -1,0 +1,517 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "ACTING",
+    "start": 0.34,
+    "end": 0.721
+  },
+  {
+    "word": "LIKE",
+    "start": 0.769,
+    "end": 0.961
+  },
+  {
+    "word": "A",
+    "start": 1.001,
+    "end": 1.041
+  },
+  {
+    "word": "SHEEP!",
+    "start": 1.121,
+    "end": 1.681
+  },
+  {
+    "word": "Chanakya",
+    "start": 1.969,
+    "end": 3.361
+  },
+  {
+    "word": "ne",
+    "start": 3.414,
+    "end": 3.52
+  },
+  {
+    "word": "kaha",
+    "start": 3.56,
+    "end": 3.759
+  },
+  {
+    "word": "tha:",
+    "start": 3.819,
+    "end": 4.079
+  },
+  {
+    "word": "Ek",
+    "start": 4.426,
+    "end": 5.12
+  },
+  {
+    "word": "sher",
+    "start": 5.184,
+    "end": 5.44
+  },
+  {
+    "word": "se",
+    "start": 5.493,
+    "end": 5.599
+  },
+  {
+    "word": "apna",
+    "start": 5.652,
+    "end": 5.838
+  },
+  {
+    "word": "target",
+    "start": 5.907,
+    "end": 6.321
+  },
+  {
+    "word": "ek",
+    "start": 6.454,
+    "end": 6.72
+  },
+  {
+    "word": "baar",
+    "start": 6.773,
+    "end": 6.959
+  },
+  {
+    "word": "mein",
+    "start": 6.991,
+    "end": 7.119
+  },
+  {
+    "word": "achieve",
+    "start": 7.179,
+    "end": 7.599
+  },
+  {
+    "word": "karna",
+    "start": 7.639,
+    "end": 7.919
+  },
+  {
+    "word": "seekho,",
+    "start": 7.983,
+    "end": 8.879
+  },
+  {
+    "word": "bagule",
+    "start": 8.939,
+    "end": 9.359
+  },
+  {
+    "word": "se",
+    "start": 9.412,
+    "end": 9.518
+  },
+  {
+    "word": "focus,",
+    "start": 9.611,
+    "end": 10.476
+  },
+  {
+    "word": "murge",
+    "start": 10.536,
+    "end": 10.876
+  },
+  {
+    "word": "se",
+    "start": 10.956,
+    "end": 11.116
+  },
+  {
+    "word": "jaldi",
+    "start": 11.196,
+    "end": 11.516
+  },
+  {
+    "word": "uthna",
+    "start": 11.596,
+    "end": 11.915
+  },
+  {
+    "word": "aur",
+    "start": 11.975,
+    "end": 12.155
+  },
+  {
+    "word": "ladna,",
+    "start": 12.195,
+    "end": 13.035
+  },
+  {
+    "word": "kauwe",
+    "start": 13.075,
+    "end": 13.355
+  },
+  {
+    "word": "se",
+    "start": 13.435,
+    "end": 13.595
+  },
+  {
+    "word": "chaukanna",
+    "start": 13.675,
+    "end": 14.235
+  },
+  {
+    "word": "rehna,",
+    "start": 14.275,
+    "end": 15.115
+  },
+  {
+    "word": "kutte",
+    "start": 15.175,
+    "end": 15.515
+  },
+  {
+    "word": "se",
+    "start": 15.595,
+    "end": 15.755
+  },
+  {
+    "word": "wafadari,",
+    "start": 15.795,
+    "end": 16.556
+  },
+  {
+    "word": "aur",
+    "start": 16.676,
+    "end": 17.036
+  },
+  {
+    "word": "gadhe",
+    "start": 17.096,
+    "end": 17.436
+  },
+  {
+    "word": "se",
+    "start": 17.516,
+    "end": 17.676
+  },
+  {
+    "word": "bina",
+    "start": 17.796,
+    "end": 18.156
+  },
+  {
+    "word": "thake",
+    "start": 18.209,
+    "end": 18.555
+  },
+  {
+    "word": "mehnat",
+    "start": 18.635,
+    "end": 19.035
+  },
+  {
+    "word": "karna.",
+    "start": 19.075,
+    "end": 19.435
+  },
+  {
+    "word": "Aaj",
+    "start": 20.035,
+    "end": 20.795
+  },
+  {
+    "word": "ki",
+    "start": 20.848,
+    "end": 20.954
+  },
+  {
+    "word": "generation",
+    "start": 21.012,
+    "end": 21.592
+  },
+  {
+    "word": "choti",
+    "start": 21.672,
+    "end": 22.153
+  },
+  {
+    "word": "choti",
+    "start": 22.206,
+    "end": 22.552
+  },
+  {
+    "word": "discomforts",
+    "start": 22.617,
+    "end": 23.347
+  },
+  {
+    "word": "pe",
+    "start": 23.374,
+    "end": 23.428
+  },
+  {
+    "word": "rone",
+    "start": 23.548,
+    "end": 23.908
+  },
+  {
+    "word": "lagti",
+    "start": 23.968,
+    "end": 24.228
+  },
+  {
+    "word": "hai.",
+    "start": 24.268,
+    "end": 25.268
+  },
+  {
+    "word": "Corporate",
+    "start": 25.316,
+    "end": 25.748
+  },
+  {
+    "word": "life",
+    "start": 25.812,
+    "end": 26.068
+  },
+  {
+    "word": "ya",
+    "start": 26.121,
+    "end": 26.227
+  },
+  {
+    "word": "business",
+    "start": 26.271,
+    "end": 26.623
+  },
+  {
+    "word": "mein",
+    "start": 26.655,
+    "end": 26.783
+  },
+  {
+    "word": "survive",
+    "start": 26.843,
+    "end": 27.263
+  },
+  {
+    "word": "karna",
+    "start": 27.303,
+    "end": 27.583
+  },
+  {
+    "word": "hai",
+    "start": 27.683,
+    "end": 27.983
+  },
+  {
+    "word": "toh",
+    "start": 28.063,
+    "end": 28.303
+  },
+  {
+    "word": "apne",
+    "start": 28.383,
+    "end": 28.703
+  },
+  {
+    "word": "andar",
+    "start": 28.783,
+    "end": 29.103
+  },
+  {
+    "word": "ka",
+    "start": 29.183,
+    "end": 29.343
+  },
+  {
+    "word": "survival",
+    "start": 29.405,
+    "end": 29.901
+  },
+  {
+    "word": "instinct",
+    "start": 29.963,
+    "end": 30.459
+  },
+  {
+    "word": "jagao.",
+    "start": 30.519,
+    "end": 31.659
+  },
+  {
+    "word": "Sher",
+    "start": 31.739,
+    "end": 32.059
+  },
+  {
+    "word": "ki",
+    "start": 32.086,
+    "end": 32.14
+  },
+  {
+    "word": "tarah",
+    "start": 32.2,
+    "end": 32.46
+  },
+  {
+    "word": "goals",
+    "start": 32.527,
+    "end": 32.862
+  },
+  {
+    "word": "pe",
+    "start": 32.915,
+    "end": 33.021
+  },
+  {
+    "word": "attack",
+    "start": 33.09,
+    "end": 33.504
+  },
+  {
+    "word": "karo",
+    "start": 33.584,
+    "end": 33.823
+  },
+  {
+    "word": "aur",
+    "start": 33.943,
+    "end": 34.303
+  },
+  {
+    "word": "bina",
+    "start": 34.383,
+    "end": 34.703
+  },
+  {
+    "word": "excuses",
+    "start": 34.783,
+    "end": 35.343
+  },
+  {
+    "word": "ke",
+    "start": 35.396,
+    "end": 35.502
+  },
+  {
+    "word": "grind",
+    "start": 35.582,
+    "end": 35.982
+  },
+  {
+    "word": "karo.",
+    "start": 36.062,
+    "end": 37.181
+  },
+  {
+    "word": "Zero",
+    "start": 37.277,
+    "end": 37.661
+  },
+  {
+    "word": "complaints,",
+    "start": 37.734,
+    "end": 38.944
+  },
+  {
+    "word": "only",
+    "start": 39.024,
+    "end": 39.344
+  },
+  {
+    "word": "results.",
+    "start": 39.424,
+    "end": 40.064
+  },
+  {
+    "word": "Yahi",
+    "start": 40.504,
+    "end": 41.184
+  },
+  {
+    "word": "asli",
+    "start": 41.291,
+    "end": 41.665
+  },
+  {
+    "word": "Sigma",
+    "start": 41.745,
+    "end": 42.145
+  },
+  {
+    "word": "grindset",
+    "start": 42.225,
+    "end": 42.784
+  },
+  {
+    "word": "hai.",
+    "start": 42.844,
+    "end": 43.104
+  },
+  {
+    "word": "Share",
+    "start": 43.304,
+    "end": 44.304
+  },
+  {
+    "word": "this",
+    "start": 44.352,
+    "end": 44.544
+  },
+  {
+    "word": "with",
+    "start": 44.56,
+    "end": 44.624
+  },
+  {
+    "word": "your",
+    "start": 44.672,
+    "end": 44.864
+  },
+  {
+    "word": "circle",
+    "start": 44.933,
+    "end": 45.347
+  },
+  {
+    "word": "who",
+    "start": 45.387,
+    "end": 45.507
+  },
+  {
+    "word": "needs",
+    "start": 45.56,
+    "end": 45.825
+  },
+  {
+    "word": "to",
+    "start": 45.852,
+    "end": 45.906
+  },
+  {
+    "word": "activate",
+    "start": 45.977,
+    "end": 46.545
+  },
+  {
+    "word": "their",
+    "start": 46.572,
+    "end": 46.707
+  },
+  {
+    "word": "BEAST",
+    "start": 46.787,
+    "end": 47.187
+  },
+  {
+    "word": "MODE",
+    "start": 47.251,
+    "end": 47.507
+  },
+  {
+    "word": "today.",
+    "start": 47.574,
+    "end": 48.069
+  }
+]

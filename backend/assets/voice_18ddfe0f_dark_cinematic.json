@@ -1,0 +1,517 @@
+[
+  {
+    "word": "BROKE?",
+    "start": 0.0,
+    "end": 1.08
+  },
+  {
+    "word": "GOOD.",
+    "start": 1.184,
+    "end": 1.68
+  },
+  {
+    "word": "Chanakya",
+    "start": 1.872,
+    "end": 2.96
+  },
+  {
+    "word": "ne",
+    "start": 3.013,
+    "end": 3.12
+  },
+  {
+    "word": "kaha",
+    "start": 3.16,
+    "end": 3.36
+  },
+  {
+    "word": "tha:",
+    "start": 3.42,
+    "end": 4.12
+  },
+  {
+    "word": "Jo",
+    "start": 4.293,
+    "end": 4.64
+  },
+  {
+    "word": "insaan",
+    "start": 4.74,
+    "end": 5.36
+  },
+  {
+    "word": "apna",
+    "start": 5.44,
+    "end": 5.76
+  },
+  {
+    "word": "dhan",
+    "start": 5.84,
+    "end": 6.08
+  },
+  {
+    "word": "kho",
+    "start": 6.14,
+    "end": 6.32
+  },
+  {
+    "word": "deta",
+    "start": 6.36,
+    "end": 6.72
+  },
+  {
+    "word": "hai,",
+    "start": 6.78,
+    "end": 7.28
+  },
+  {
+    "word": "par",
+    "start": 7.32,
+    "end": 7.44
+  },
+  {
+    "word": "apne",
+    "start": 7.52,
+    "end": 7.84
+  },
+  {
+    "word": "gunn",
+    "start": 7.94,
+    "end": 8.36
+  },
+  {
+    "word": "aur",
+    "start": 8.39,
+    "end": 8.48
+  },
+  {
+    "word": "charitra",
+    "start": 8.544,
+    "end": 9.04
+  },
+  {
+    "word": "ko",
+    "start": 9.093,
+    "end": 9.2
+  },
+  {
+    "word": "bachaye",
+    "start": 9.248,
+    "end": 9.6
+  },
+  {
+    "word": "rakhta",
+    "start": 9.64,
+    "end": 9.92
+  },
+  {
+    "word": "hai,",
+    "start": 9.98,
+    "end": 10.56
+  },
+  {
+    "word": "wo",
+    "start": 10.64,
+    "end": 10.8
+  },
+  {
+    "word": "jeevan",
+    "start": 10.88,
+    "end": 11.28
+  },
+  {
+    "word": "ke",
+    "start": 11.36,
+    "end": 11.52
+  },
+  {
+    "word": "har",
+    "start": 11.62,
+    "end": 11.92
+  },
+  {
+    "word": "mod",
+    "start": 12.0,
+    "end": 12.24
+  },
+  {
+    "word": "par",
+    "start": 12.3,
+    "end": 12.48
+  },
+  {
+    "word": "safal",
+    "start": 12.56,
+    "end": 12.88
+  },
+  {
+    "word": "hota",
+    "start": 12.94,
+    "end": 13.2
+  },
+  {
+    "word": "hai.",
+    "start": 13.26,
+    "end": 13.52
+  },
+  {
+    "word": "Suno,",
+    "start": 13.8,
+    "end": 14.72
+  },
+  {
+    "word": "bank",
+    "start": 14.88,
+    "end": 15.52
+  },
+  {
+    "word": "balance",
+    "start": 15.58,
+    "end": 16.0
+  },
+  {
+    "word": "zero",
+    "start": 16.112,
+    "end": 16.56
+  },
+  {
+    "word": "ho",
+    "start": 16.613,
+    "end": 16.72
+  },
+  {
+    "word": "sakta",
+    "start": 16.78,
+    "end": 17.12
+  },
+  {
+    "word": "hai,",
+    "start": 17.16,
+    "end": 17.84
+  },
+  {
+    "word": "par",
+    "start": 17.88,
+    "end": 18.0
+  },
+  {
+    "word": "tumhari",
+    "start": 18.04,
+    "end": 18.4
+  },
+  {
+    "word": "skills",
+    "start": 18.48,
+    "end": 18.96
+  },
+  {
+    "word": "aur",
+    "start": 19.04,
+    "end": 19.28
+  },
+  {
+    "word": "tumhara",
+    "start": 19.32,
+    "end": 19.6
+  },
+  {
+    "word": "character",
+    "start": 19.68,
+    "end": 20.4
+  },
+  {
+    "word": "zero",
+    "start": 20.496,
+    "end": 20.88
+  },
+  {
+    "word": "nahi",
+    "start": 20.92,
+    "end": 21.12
+  },
+  {
+    "word": "hona",
+    "start": 21.18,
+    "end": 21.44
+  },
+  {
+    "word": "chahiye.",
+    "start": 21.493,
+    "end": 22.56
+  },
+  {
+    "word": "Aaj",
+    "start": 22.64,
+    "end": 22.88
+  },
+  {
+    "word": "kal",
+    "start": 22.94,
+    "end": 23.12
+  },
+  {
+    "word": "log",
+    "start": 23.2,
+    "end": 23.44
+  },
+  {
+    "word": "'Salary'",
+    "start": 23.64,
+    "end": 24.52
+  },
+  {
+    "word": "aur",
+    "start": 24.57,
+    "end": 24.72
+  },
+  {
+    "word": "'Status'",
+    "start": 24.8,
+    "end": 25.44
+  },
+  {
+    "word": "ke",
+    "start": 25.467,
+    "end": 25.52
+  },
+  {
+    "word": "liye",
+    "start": 25.573,
+    "end": 25.76
+  },
+  {
+    "word": "apni",
+    "start": 25.867,
+    "end": 26.24
+  },
+  {
+    "word": "integrity",
+    "start": 26.312,
+    "end": 26.96
+  },
+  {
+    "word": "bech",
+    "start": 27.013,
+    "end": 27.28
+  },
+  {
+    "word": "dete",
+    "start": 27.34,
+    "end": 27.6
+  },
+  {
+    "word": "hain.",
+    "start": 27.64,
+    "end": 27.92
+  },
+  {
+    "word": "Remember,",
+    "start": 28.053,
+    "end": 29.48
+  },
+  {
+    "word": "if",
+    "start": 29.6,
+    "end": 29.84
+  },
+  {
+    "word": "you",
+    "start": 29.88,
+    "end": 30.0
+  },
+  {
+    "word": "have",
+    "start": 30.048,
+    "end": 30.24
+  },
+  {
+    "word": "the",
+    "start": 30.26,
+    "end": 30.32
+  },
+  {
+    "word": "right",
+    "start": 30.387,
+    "end": 30.72
+  },
+  {
+    "word": "mindset",
+    "start": 30.8,
+    "end": 31.36
+  },
+  {
+    "word": "and",
+    "start": 31.4,
+    "end": 31.52
+  },
+  {
+    "word": "values,",
+    "start": 31.623,
+    "end": 32.32
+  },
+  {
+    "word": "you",
+    "start": 32.44,
+    "end": 32.8
+  },
+  {
+    "word": "can",
+    "start": 32.86,
+    "end": 33.04
+  },
+  {
+    "word": "build",
+    "start": 33.093,
+    "end": 33.36
+  },
+  {
+    "word": "an",
+    "start": 33.44,
+    "end": 33.6
+  },
+  {
+    "word": "empire",
+    "start": 33.703,
+    "end": 34.32
+  },
+  {
+    "word": "from",
+    "start": 34.352,
+    "end": 34.48
+  },
+  {
+    "word": "scratch.",
+    "start": 34.56,
+    "end": 35.2
+  },
+  {
+    "word": "Paisa",
+    "start": 35.376,
+    "end": 36.16
+  },
+  {
+    "word": "wapas",
+    "start": 36.2,
+    "end": 36.56
+  },
+  {
+    "word": "aa",
+    "start": 36.587,
+    "end": 36.64
+  },
+  {
+    "word": "jayega,",
+    "start": 36.72,
+    "end": 37.6
+  },
+  {
+    "word": "par",
+    "start": 37.64,
+    "end": 37.76
+  },
+  {
+    "word": "khoya",
+    "start": 37.84,
+    "end": 38.24
+  },
+  {
+    "word": "hua",
+    "start": 38.32,
+    "end": 38.56
+  },
+  {
+    "word": "character",
+    "start": 38.616,
+    "end": 39.12
+  },
+  {
+    "word": "kabhi",
+    "start": 39.24,
+    "end": 39.68
+  },
+  {
+    "word": "nahi.",
+    "start": 39.72,
+    "end": 40.08
+  },
+  {
+    "word": "Share",
+    "start": 40.227,
+    "end": 40.96
+  },
+  {
+    "word": "this",
+    "start": 41.008,
+    "end": 41.2
+  },
+  {
+    "word": "with",
+    "start": 41.232,
+    "end": 41.36
+  },
+  {
+    "word": "someone",
+    "start": 41.41,
+    "end": 41.76
+  },
+  {
+    "word": "who",
+    "start": 41.8,
+    "end": 41.92
+  },
+  {
+    "word": "is",
+    "start": 41.973,
+    "end": 42.08
+  },
+  {
+    "word": "struggling",
+    "start": 42.124,
+    "end": 42.56
+  },
+  {
+    "word": "right",
+    "start": 42.613,
+    "end": 42.88
+  },
+  {
+    "word": "now",
+    "start": 42.96,
+    "end": 43.2
+  },
+  {
+    "word": "and",
+    "start": 43.32,
+    "end": 43.68
+  },
+  {
+    "word": "needs",
+    "start": 43.733,
+    "end": 44.0
+  },
+  {
+    "word": "a",
+    "start": 44.04,
+    "end": 44.08
+  },
+  {
+    "word": "reminder",
+    "start": 44.142,
+    "end": 44.64
+  },
+  {
+    "word": "of",
+    "start": 44.72,
+    "end": 44.88
+  },
+  {
+    "word": "their",
+    "start": 44.907,
+    "end": 45.04
+  },
+  {
+    "word": "worth.",
+    "start": 45.133,
+    "end": 45.76
+  }
+]

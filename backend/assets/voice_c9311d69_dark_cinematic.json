@@ -1,0 +1,502 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "BRINGING",
+    "start": 0.48,
+    "end": 0.802
+  },
+  {
+    "word": "A",
+    "start": 0.842,
+    "end": 0.882
+  },
+  {
+    "word": "CROWD",
+    "start": 0.962,
+    "end": 1.362
+  },
+  {
+    "word": "TO",
+    "start": 1.415,
+    "end": 1.521
+  },
+  {
+    "word": "YOUR",
+    "start": 1.553,
+    "end": 1.681
+  },
+  {
+    "word": "GOALS!",
+    "start": 1.788,
+    "end": 2.561
+  },
+  {
+    "word": "Tapasya",
+    "start": 2.861,
+    "end": 4.162
+  },
+  {
+    "word": "aur",
+    "start": 4.222,
+    "end": 4.402
+  },
+  {
+    "word": "dhyan",
+    "start": 4.455,
+    "end": 4.801
+  },
+  {
+    "word": "hamesha",
+    "start": 4.881,
+    "end": 5.441
+  },
+  {
+    "word": "akele",
+    "start": 5.521,
+    "end": 5.921
+  },
+  {
+    "word": "karna",
+    "start": 5.961,
+    "end": 6.241
+  },
+  {
+    "word": "chahiye,",
+    "start": 6.268,
+    "end": 7.202
+  },
+  {
+    "word": "padhai",
+    "start": 7.242,
+    "end": 7.602
+  },
+  {
+    "word": "do",
+    "start": 7.682,
+    "end": 7.842
+  },
+  {
+    "word": "logon",
+    "start": 7.902,
+    "end": 8.162
+  },
+  {
+    "word": "ke",
+    "start": 8.215,
+    "end": 8.321
+  },
+  {
+    "word": "sath,",
+    "start": 8.401,
+    "end": 9.121
+  },
+  {
+    "word": "manoranjan",
+    "start": 9.161,
+    "end": 9.76
+  },
+  {
+    "word": "teen",
+    "start": 9.824,
+    "end": 10.08
+  },
+  {
+    "word": "ke",
+    "start": 10.133,
+    "end": 10.239
+  },
+  {
+    "word": "sath,",
+    "start": 10.319,
+    "end": 11.119
+  },
+  {
+    "word": "safar",
+    "start": 11.199,
+    "end": 11.599
+  },
+  {
+    "word": "chaar",
+    "start": 11.659,
+    "end": 11.919
+  },
+  {
+    "word": "ke",
+    "start": 11.972,
+    "end": 12.078
+  },
+  {
+    "word": "sath,",
+    "start": 12.198,
+    "end": 12.877
+  },
+  {
+    "word": "aur",
+    "start": 12.917,
+    "end": 13.037
+  },
+  {
+    "word": "yuddh",
+    "start": 13.117,
+    "end": 13.436
+  },
+  {
+    "word": "hamesha",
+    "start": 13.516,
+    "end": 14.076
+  },
+  {
+    "word": "ek",
+    "start": 14.209,
+    "end": 14.475
+  },
+  {
+    "word": "badi",
+    "start": 14.515,
+    "end": 14.714
+  },
+  {
+    "word": "fauj",
+    "start": 14.794,
+    "end": 15.114
+  },
+  {
+    "word": "ke",
+    "start": 15.167,
+    "end": 15.273
+  },
+  {
+    "word": "sath.",
+    "start": 15.353,
+    "end": 15.753
+  },
+  {
+    "word": "Bro,",
+    "start": 16.073,
+    "end": 17.113
+  },
+  {
+    "word": "aaj",
+    "start": 17.313,
+    "end": 17.673
+  },
+  {
+    "word": "kal",
+    "start": 17.713,
+    "end": 17.833
+  },
+  {
+    "word": "log",
+    "start": 17.913,
+    "end": 18.153
+  },
+  {
+    "word": "apne",
+    "start": 18.233,
+    "end": 18.553
+  },
+  {
+    "word": "'Growth'",
+    "start": 18.593,
+    "end": 19.113
+  },
+  {
+    "word": "aur",
+    "start": 19.173,
+    "end": 19.353
+  },
+  {
+    "word": "'Grind'",
+    "start": 19.393,
+    "end": 19.913
+  },
+  {
+    "word": "mein",
+    "start": 19.945,
+    "end": 20.073
+  },
+  {
+    "word": "bhi",
+    "start": 20.113,
+    "end": 20.233
+  },
+  {
+    "word": "poore",
+    "start": 20.313,
+    "end": 20.713
+  },
+  {
+    "word": "toxic",
+    "start": 20.806,
+    "end": 21.271
+  },
+  {
+    "word": "circle",
+    "start": 21.328,
+    "end": 21.67
+  },
+  {
+    "word": "ko",
+    "start": 21.723,
+    "end": 21.829
+  },
+  {
+    "word": "ghusana",
+    "start": 21.869,
+    "end": 22.308
+  },
+  {
+    "word": "chahte",
+    "start": 22.348,
+    "end": 22.708
+  },
+  {
+    "word": "hain.",
+    "start": 22.748,
+    "end": 22.949
+  },
+  {
+    "word": "Deep",
+    "start": 23.157,
+    "end": 23.989
+  },
+  {
+    "word": "work",
+    "start": 24.069,
+    "end": 24.389
+  },
+  {
+    "word": "aur",
+    "start": 24.449,
+    "end": 24.629
+  },
+  {
+    "word": "self-improvement",
+    "start": 24.709,
+    "end": 25.749
+  },
+  {
+    "word": "akele",
+    "start": 25.869,
+    "end": 26.309
+  },
+  {
+    "word": "kiye",
+    "start": 26.362,
+    "end": 26.548
+  },
+  {
+    "word": "jaate",
+    "start": 26.601,
+    "end": 26.866
+  },
+  {
+    "word": "hain.",
+    "start": 26.906,
+    "end": 27.185
+  },
+  {
+    "word": "Jab",
+    "start": 27.425,
+    "end": 28.145
+  },
+  {
+    "word": "corporate",
+    "start": 28.193,
+    "end": 28.625
+  },
+  {
+    "word": "battle",
+    "start": 28.671,
+    "end": 28.947
+  },
+  {
+    "word": "ladni",
+    "start": 29.007,
+    "end": 29.267
+  },
+  {
+    "word": "ho",
+    "start": 29.347,
+    "end": 29.507
+  },
+  {
+    "word": "tab",
+    "start": 29.647,
+    "end": 30.067
+  },
+  {
+    "word": "bada",
+    "start": 30.147,
+    "end": 30.386
+  },
+  {
+    "word": "network",
+    "start": 30.456,
+    "end": 30.946
+  },
+  {
+    "word": "use",
+    "start": 31.006,
+    "end": 31.186
+  },
+  {
+    "word": "karo,",
+    "start": 31.226,
+    "end": 32.066
+  },
+  {
+    "word": "par",
+    "start": 32.106,
+    "end": 32.226
+  },
+  {
+    "word": "akele",
+    "start": 32.306,
+    "end": 32.706
+  },
+  {
+    "word": "baith",
+    "start": 32.759,
+    "end": 32.946
+  },
+  {
+    "word": "kar",
+    "start": 33.006,
+    "end": 33.186
+  },
+  {
+    "word": "mehnat",
+    "start": 33.266,
+    "end": 33.666
+  },
+  {
+    "word": "karne",
+    "start": 33.706,
+    "end": 33.986
+  },
+  {
+    "word": "se",
+    "start": 34.066,
+    "end": 34.226
+  },
+  {
+    "word": "darna",
+    "start": 34.306,
+    "end": 34.706
+  },
+  {
+    "word": "band",
+    "start": 34.77,
+    "end": 35.026
+  },
+  {
+    "word": "karo.",
+    "start": 35.066,
+    "end": 35.506
+  },
+  {
+    "word": "Share",
+    "start": 35.666,
+    "end": 36.466
+  },
+  {
+    "word": "this",
+    "start": 36.514,
+    "end": 36.706
+  },
+  {
+    "word": "reel",
+    "start": 36.77,
+    "end": 37.026
+  },
+  {
+    "word": "with",
+    "start": 37.058,
+    "end": 37.186
+  },
+  {
+    "word": "that",
+    "start": 37.234,
+    "end": 37.426
+  },
+  {
+    "word": "one",
+    "start": 37.506,
+    "end": 37.746
+  },
+  {
+    "word": "friend",
+    "start": 37.803,
+    "end": 38.145
+  },
+  {
+    "word": "who",
+    "start": 38.185,
+    "end": 38.305
+  },
+  {
+    "word": "wastes",
+    "start": 38.385,
+    "end": 38.865
+  },
+  {
+    "word": "time",
+    "start": 38.945,
+    "end": 39.265
+  },
+  {
+    "word": "hanging",
+    "start": 39.305,
+    "end": 39.585
+  },
+  {
+    "word": "out",
+    "start": 39.665,
+    "end": 39.905
+  },
+  {
+    "word": "in",
+    "start": 39.958,
+    "end": 40.064
+  },
+  {
+    "word": "large",
+    "start": 40.117,
+    "end": 40.382
+  },
+  {
+    "word": "groups",
+    "start": 40.451,
+    "end": 40.865
+  },
+  {
+    "word": "instead",
+    "start": 40.955,
+    "end": 41.585
+  },
+  {
+    "word": "of",
+    "start": 41.638,
+    "end": 41.744
+  },
+  {
+    "word": "building",
+    "start": 41.78,
+    "end": 42.068
+  },
+  {
+    "word": "their",
+    "start": 42.108,
+    "end": 42.308
+  },
+  {
+    "word": "empire.",
+    "start": 42.377,
+    "end": 42.951
+  }
+]

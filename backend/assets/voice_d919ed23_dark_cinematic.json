@@ -1,0 +1,497 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "DEGREES",
+    "start": 0.213,
+    "end": 0.799
+  },
+  {
+    "word": "MEAN",
+    "start": 0.959,
+    "end": 1.439
+  },
+  {
+    "word": "NOTHING!",
+    "start": 1.559,
+    "end": 2.479
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.767,
+    "end": 4.159
+  },
+  {
+    "word": "ne",
+    "start": 4.212,
+    "end": 4.318
+  },
+  {
+    "word": "kaha",
+    "start": 4.398,
+    "end": 4.637
+  },
+  {
+    "word": "tha:",
+    "start": 4.677,
+    "end": 4.877
+  },
+  {
+    "word": "Vidya",
+    "start": 5.157,
+    "end": 6.157
+  },
+  {
+    "word": "sirf",
+    "start": 6.257,
+    "end": 6.637
+  },
+  {
+    "word": "lagataar",
+    "start": 6.717,
+    "end": 7.277
+  },
+  {
+    "word": "abhyas",
+    "start": 7.357,
+    "end": 7.997
+  },
+  {
+    "word": "(practice)",
+    "start": 8.157,
+    "end": 8.797
+  },
+  {
+    "word": "se",
+    "start": 8.824,
+    "end": 8.878
+  },
+  {
+    "word": "tikti",
+    "start": 8.938,
+    "end": 9.198
+  },
+  {
+    "word": "hai,",
+    "start": 9.238,
+    "end": 10.238
+  },
+  {
+    "word": "khandaan",
+    "start": 10.291,
+    "end": 10.877
+  },
+  {
+    "word": "ache",
+    "start": 10.973,
+    "end": 11.357
+  },
+  {
+    "word": "aacharan",
+    "start": 11.437,
+    "end": 11.997
+  },
+  {
+    "word": "se",
+    "start": 12.05,
+    "end": 12.156
+  },
+  {
+    "word": "jana",
+    "start": 12.236,
+    "end": 12.475
+  },
+  {
+    "word": "jata",
+    "start": 12.555,
+    "end": 12.875
+  },
+  {
+    "word": "hai,",
+    "start": 12.915,
+    "end": 13.755
+  },
+  {
+    "word": "ek",
+    "start": 13.835,
+    "end": 13.995
+  },
+  {
+    "word": "acha",
+    "start": 14.035,
+    "end": 14.234
+  },
+  {
+    "word": "insaan",
+    "start": 14.314,
+    "end": 14.794
+  },
+  {
+    "word": "apne",
+    "start": 14.901,
+    "end": 15.275
+  },
+  {
+    "word": "gunon",
+    "start": 15.355,
+    "end": 15.835
+  },
+  {
+    "word": "(qualities)",
+    "start": 16.075,
+    "end": 16.872
+  },
+  {
+    "word": "se",
+    "start": 16.899,
+    "end": 16.953
+  },
+  {
+    "word": "pehchana",
+    "start": 17.033,
+    "end": 17.512
+  },
+  {
+    "word": "jata",
+    "start": 17.552,
+    "end": 17.913
+  },
+  {
+    "word": "hai,",
+    "start": 17.953,
+    "end": 18.793
+  },
+  {
+    "word": "aur",
+    "start": 18.833,
+    "end": 18.953
+  },
+  {
+    "word": "gussa",
+    "start": 19.073,
+    "end": 19.513
+  },
+  {
+    "word": "seedha",
+    "start": 19.609,
+    "end": 20.233
+  },
+  {
+    "word": "aankhon",
+    "start": 20.353,
+    "end": 20.791
+  },
+  {
+    "word": "se",
+    "start": 20.818,
+    "end": 20.872
+  },
+  {
+    "word": "dikh",
+    "start": 20.952,
+    "end": 21.113
+  },
+  {
+    "word": "jata",
+    "start": 21.153,
+    "end": 21.433
+  },
+  {
+    "word": "hai.",
+    "start": 21.473,
+    "end": 22.353
+  },
+  {
+    "word": "Bro,",
+    "start": 22.543,
+    "end": 23.313
+  },
+  {
+    "word": "tumhari",
+    "start": 23.363,
+    "end": 23.753
+  },
+  {
+    "word": "fancy",
+    "start": 23.82,
+    "end": 24.155
+  },
+  {
+    "word": "degrees",
+    "start": 24.235,
+    "end": 24.795
+  },
+  {
+    "word": "aur",
+    "start": 24.835,
+    "end": 24.955
+  },
+  {
+    "word": "corporate",
+    "start": 25.003,
+    "end": 25.435
+  },
+  {
+    "word": "titles",
+    "start": 25.492,
+    "end": 25.834
+  },
+  {
+    "word": "ka",
+    "start": 25.887,
+    "end": 25.993
+  },
+  {
+    "word": "koi",
+    "start": 26.073,
+    "end": 26.393
+  },
+  {
+    "word": "mol",
+    "start": 26.473,
+    "end": 26.713
+  },
+  {
+    "word": "nahi",
+    "start": 26.753,
+    "end": 27.114
+  },
+  {
+    "word": "agar",
+    "start": 27.226,
+    "end": 27.674
+  },
+  {
+    "word": "daily",
+    "start": 27.754,
+    "end": 28.154
+  },
+  {
+    "word": "'Hustle'",
+    "start": 28.234,
+    "end": 28.834
+  },
+  {
+    "word": "aur",
+    "start": 28.864,
+    "end": 28.954
+  },
+  {
+    "word": "practice",
+    "start": 29.034,
+    "end": 29.674
+  },
+  {
+    "word": "zero",
+    "start": 29.818,
+    "end": 30.394
+  },
+  {
+    "word": "hai.",
+    "start": 30.454,
+    "end": 30.714
+  },
+  {
+    "word": "Fake",
+    "start": 30.906,
+    "end": 31.674
+  },
+  {
+    "word": "persona",
+    "start": 31.734,
+    "end": 32.154
+  },
+  {
+    "word": "banake",
+    "start": 32.194,
+    "end": 32.554
+  },
+  {
+    "word": "ghoomna",
+    "start": 32.607,
+    "end": 33.032
+  },
+  {
+    "word": "band",
+    "start": 33.08,
+    "end": 33.272
+  },
+  {
+    "word": "karo.",
+    "start": 33.312,
+    "end": 33.672
+  },
+  {
+    "word": "Tumhari",
+    "start": 33.952,
+    "end": 34.552
+  },
+  {
+    "word": "aankhein",
+    "start": 34.672,
+    "end": 35.111
+  },
+  {
+    "word": "tumhari",
+    "start": 35.171,
+    "end": 35.591
+  },
+  {
+    "word": "asli",
+    "start": 35.698,
+    "end": 36.072
+  },
+  {
+    "word": "intentions",
+    "start": 36.152,
+    "end": 36.952
+  },
+  {
+    "word": "aur",
+    "start": 37.052,
+    "end": 37.352
+  },
+  {
+    "word": "toxic",
+    "start": 37.459,
+    "end": 37.994
+  },
+  {
+    "word": "vibe",
+    "start": 38.074,
+    "end": 38.394
+  },
+  {
+    "word": "reveal",
+    "start": 38.463,
+    "end": 38.877
+  },
+  {
+    "word": "kar",
+    "start": 38.957,
+    "end": 39.197
+  },
+  {
+    "word": "hi",
+    "start": 39.25,
+    "end": 39.356
+  },
+  {
+    "word": "deti",
+    "start": 39.416,
+    "end": 39.676
+  },
+  {
+    "word": "hain.",
+    "start": 39.716,
+    "end": 39.917
+  },
+  {
+    "word": "Build",
+    "start": 40.104,
+    "end": 41.039
+  },
+  {
+    "word": "your",
+    "start": 41.071,
+    "end": 41.199
+  },
+  {
+    "word": "character,",
+    "start": 41.271,
+    "end": 42.399
+  },
+  {
+    "word": "not",
+    "start": 42.459,
+    "end": 42.639
+  },
+  {
+    "word": "just",
+    "start": 42.703,
+    "end": 42.959
+  },
+  {
+    "word": "your",
+    "start": 42.975,
+    "end": 43.039
+  },
+  {
+    "word": "resume.",
+    "start": 43.119,
+    "end": 43.759
+  },
+  {
+    "word": "Tag",
+    "start": 44.059,
+    "end": 44.959
+  },
+  {
+    "word": "that",
+    "start": 45.007,
+    "end": 45.199
+  },
+  {
+    "word": "friend",
+    "start": 45.256,
+    "end": 45.598
+  },
+  {
+    "word": "who",
+    "start": 45.618,
+    "end": 45.678
+  },
+  {
+    "word": "relies",
+    "start": 45.747,
+    "end": 46.161
+  },
+  {
+    "word": "on",
+    "start": 46.214,
+    "end": 46.32
+  },
+  {
+    "word": "talent",
+    "start": 46.389,
+    "end": 46.803
+  },
+  {
+    "word": "but",
+    "start": 46.863,
+    "end": 47.043
+  },
+  {
+    "word": "runs",
+    "start": 47.123,
+    "end": 47.443
+  },
+  {
+    "word": "away",
+    "start": 47.523,
+    "end": 47.843
+  },
+  {
+    "word": "from",
+    "start": 47.875,
+    "end": 48.003
+  },
+  {
+    "word": "the",
+    "start": 48.043,
+    "end": 48.163
+  },
+  {
+    "word": "daily",
+    "start": 48.23,
+    "end": 48.565
+  },
+  {
+    "word": "grind.",
+    "start": 48.645,
+    "end": 49.205
+  }
+]

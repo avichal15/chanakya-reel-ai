@@ -1,0 +1,427 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.48
+  },
+  {
+    "word": "REPEATING",
+    "start": 0.64,
+    "end": 1.36
+  },
+  {
+    "word": "YOURSELF!",
+    "start": 1.408,
+    "end": 2.08
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.368,
+    "end": 3.76
+  },
+  {
+    "word": "ne",
+    "start": 3.813,
+    "end": 3.919
+  },
+  {
+    "word": "kaha",
+    "start": 3.959,
+    "end": 4.158
+  },
+  {
+    "word": "tha:",
+    "start": 4.218,
+    "end": 4.478
+  },
+  {
+    "word": "Raja",
+    "start": 4.918,
+    "end": 5.757
+  },
+  {
+    "word": "ek",
+    "start": 5.864,
+    "end": 6.078
+  },
+  {
+    "word": "baar",
+    "start": 6.158,
+    "end": 6.478
+  },
+  {
+    "word": "aadesh",
+    "start": 6.558,
+    "end": 6.958
+  },
+  {
+    "word": "deta",
+    "start": 6.998,
+    "end": 7.359
+  },
+  {
+    "word": "hai,",
+    "start": 7.399,
+    "end": 8.159
+  },
+  {
+    "word": "vidwan",
+    "start": 8.219,
+    "end": 8.72
+  },
+  {
+    "word": "ek",
+    "start": 8.827,
+    "end": 9.041
+  },
+  {
+    "word": "baar",
+    "start": 9.094,
+    "end": 9.28
+  },
+  {
+    "word": "bolta",
+    "start": 9.34,
+    "end": 9.68
+  },
+  {
+    "word": "hai,",
+    "start": 9.74,
+    "end": 10.0
+  },
+  {
+    "word": "aur",
+    "start": 10.18,
+    "end": 10.72
+  },
+  {
+    "word": "kanya",
+    "start": 10.8,
+    "end": 11.2
+  },
+  {
+    "word": "ka",
+    "start": 11.253,
+    "end": 11.359
+  },
+  {
+    "word": "daan",
+    "start": 11.439,
+    "end": 11.759
+  },
+  {
+    "word": "ek",
+    "start": 11.892,
+    "end": 12.158
+  },
+  {
+    "word": "baar",
+    "start": 12.211,
+    "end": 12.397
+  },
+  {
+    "word": "hota",
+    "start": 12.457,
+    "end": 12.717
+  },
+  {
+    "word": "hai.",
+    "start": 12.757,
+    "end": 12.957
+  },
+  {
+    "word": "Inka",
+    "start": 13.277,
+    "end": 14.157
+  },
+  {
+    "word": "faisla",
+    "start": 14.237,
+    "end": 14.797
+  },
+  {
+    "word": "aakhiri",
+    "start": 14.997,
+    "end": 15.437
+  },
+  {
+    "word": "hota",
+    "start": 15.497,
+    "end": 15.757
+  },
+  {
+    "word": "hai.",
+    "start": 15.817,
+    "end": 16.077
+  },
+  {
+    "word": "Bro,",
+    "start": 16.397,
+    "end": 17.437
+  },
+  {
+    "word": "aaj",
+    "start": 17.677,
+    "end": 17.997
+  },
+  {
+    "word": "ke",
+    "start": 18.05,
+    "end": 18.156
+  },
+  {
+    "word": "corporate",
+    "start": 18.22,
+    "end": 18.796
+  },
+  {
+    "word": "aur",
+    "start": 18.836,
+    "end": 18.956
+  },
+  {
+    "word": "toxic",
+    "start": 19.049,
+    "end": 19.514
+  },
+  {
+    "word": "circles",
+    "start": 19.574,
+    "end": 19.994
+  },
+  {
+    "word": "mein",
+    "start": 20.042,
+    "end": 20.234
+  },
+  {
+    "word": "agar",
+    "start": 20.298,
+    "end": 20.554
+  },
+  {
+    "word": "tum",
+    "start": 20.614,
+    "end": 20.794
+  },
+  {
+    "word": "baar-baar",
+    "start": 20.874,
+    "end": 21.433
+  },
+  {
+    "word": "apni",
+    "start": 21.486,
+    "end": 21.672
+  },
+  {
+    "word": "boundaries",
+    "start": 21.73,
+    "end": 22.31
+  },
+  {
+    "word": "explain",
+    "start": 22.37,
+    "end": 22.79
+  },
+  {
+    "word": "kar",
+    "start": 22.83,
+    "end": 22.95
+  },
+  {
+    "word": "rahe",
+    "start": 23.003,
+    "end": 23.189
+  },
+  {
+    "word": "ho,",
+    "start": 23.242,
+    "end": 23.428
+  },
+  {
+    "word": "toh",
+    "start": 23.568,
+    "end": 23.988
+  },
+  {
+    "word": "tum",
+    "start": 24.048,
+    "end": 24.228
+  },
+  {
+    "word": "apni",
+    "start": 24.281,
+    "end": 24.547
+  },
+  {
+    "word": "'Value'",
+    "start": 24.627,
+    "end": 25.107
+  },
+  {
+    "word": "gira",
+    "start": 25.147,
+    "end": 25.346
+  },
+  {
+    "word": "rahe",
+    "start": 25.399,
+    "end": 25.585
+  },
+  {
+    "word": "ho.",
+    "start": 25.665,
+    "end": 26.385
+  },
+  {
+    "word": "High-value",
+    "start": 26.497,
+    "end": 27.347
+  },
+  {
+    "word": "log",
+    "start": 27.427,
+    "end": 27.667
+  },
+  {
+    "word": "ek",
+    "start": 27.8,
+    "end": 28.066
+  },
+  {
+    "word": "baar",
+    "start": 28.119,
+    "end": 28.305
+  },
+  {
+    "word": "bolte",
+    "start": 28.365,
+    "end": 28.705
+  },
+  {
+    "word": "hain.",
+    "start": 28.745,
+    "end": 28.946
+  },
+  {
+    "word": "Agar",
+    "start": 29.186,
+    "end": 29.746
+  },
+  {
+    "word": "saamne",
+    "start": 29.826,
+    "end": 30.146
+  },
+  {
+    "word": "wala",
+    "start": 30.186,
+    "end": 30.385
+  },
+  {
+    "word": "nahi",
+    "start": 30.425,
+    "end": 30.624
+  },
+  {
+    "word": "samajh",
+    "start": 30.684,
+    "end": 31.024
+  },
+  {
+    "word": "raha?",
+    "start": 31.064,
+    "end": 31.343
+  },
+  {
+    "word": "Cut",
+    "start": 31.543,
+    "end": 32.143
+  },
+  {
+    "word": "them",
+    "start": 32.175,
+    "end": 32.303
+  },
+  {
+    "word": "off.",
+    "start": 32.383,
+    "end": 32.703
+  },
+  {
+    "word": "Never",
+    "start": 32.903,
+    "end": 33.903
+  },
+  {
+    "word": "over-explain.",
+    "start": 33.999,
+    "end": 35.544
+  },
+  {
+    "word": "Share",
+    "start": 35.631,
+    "end": 36.066
+  },
+  {
+    "word": "this",
+    "start": 36.114,
+    "end": 36.306
+  },
+  {
+    "word": "reel",
+    "start": 36.37,
+    "end": 36.626
+  },
+  {
+    "word": "with",
+    "start": 36.658,
+    "end": 36.786
+  },
+  {
+    "word": "that",
+    "start": 36.834,
+    "end": 37.026
+  },
+  {
+    "word": "one",
+    "start": 37.086,
+    "end": 37.266
+  },
+  {
+    "word": "friend",
+    "start": 37.335,
+    "end": 37.749
+  },
+  {
+    "word": "who",
+    "start": 37.829,
+    "end": 38.069
+  },
+  {
+    "word": "always",
+    "start": 38.149,
+    "end": 38.629
+  },
+  {
+    "word": "over-explains",
+    "start": 38.725,
+    "end": 39.83
+  },
+  {
+    "word": "to",
+    "start": 39.963,
+    "end": 40.229
+  },
+  {
+    "word": "toxic",
+    "start": 40.322,
+    "end": 40.787
+  },
+  {
+    "word": "people.",
+    "start": 40.844,
+    "end": 41.346
+  }
+]

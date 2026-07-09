@@ -1,0 +1,462 @@
+[
+  {
+    "word": "YOU",
+    "start": 0.0,
+    "end": 0.321
+  },
+  {
+    "word": "ARE",
+    "start": 0.401,
+    "end": 0.641
+  },
+  {
+    "word": "LOSING",
+    "start": 0.741,
+    "end": 1.362
+  },
+  {
+    "word": "EVERYTHING.",
+    "start": 1.482,
+    "end": 2.482
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.674,
+    "end": 3.682
+  },
+  {
+    "word": "ne",
+    "start": 3.735,
+    "end": 3.841
+  },
+  {
+    "word": "kaha",
+    "start": 3.881,
+    "end": 4.08
+  },
+  {
+    "word": "tha:",
+    "start": 4.14,
+    "end": 4.4
+  },
+  {
+    "word": "Aalasya",
+    "start": 4.72,
+    "end": 5.681
+  },
+  {
+    "word": "se",
+    "start": 5.734,
+    "end": 5.84
+  },
+  {
+    "word": "gyaan",
+    "start": 5.92,
+    "end": 6.24
+  },
+  {
+    "word": "nasht",
+    "start": 6.32,
+    "end": 6.64
+  },
+  {
+    "word": "hota",
+    "start": 6.68,
+    "end": 6.88
+  },
+  {
+    "word": "hai,",
+    "start": 6.94,
+    "end": 7.6
+  },
+  {
+    "word": "dusron",
+    "start": 7.66,
+    "end": 7.999
+  },
+  {
+    "word": "ke",
+    "start": 8.052,
+    "end": 8.158
+  },
+  {
+    "word": "haath",
+    "start": 8.211,
+    "end": 8.398
+  },
+  {
+    "word": "mein",
+    "start": 8.43,
+    "end": 8.558
+  },
+  {
+    "word": "gaya",
+    "start": 8.598,
+    "end": 8.798
+  },
+  {
+    "word": "paisa",
+    "start": 8.878,
+    "end": 9.358
+  },
+  {
+    "word": "barbaad",
+    "start": 9.438,
+    "end": 9.918
+  },
+  {
+    "word": "hota",
+    "start": 9.958,
+    "end": 10.238
+  },
+  {
+    "word": "hai,",
+    "start": 10.278,
+    "end": 10.478
+  },
+  {
+    "word": "aur",
+    "start": 10.658,
+    "end": 11.198
+  },
+  {
+    "word": "bina",
+    "start": 11.278,
+    "end": 11.598
+  },
+  {
+    "word": "leader",
+    "start": 11.644,
+    "end": 11.92
+  },
+  {
+    "word": "ke",
+    "start": 12.0,
+    "end": 12.16
+  },
+  {
+    "word": "sena",
+    "start": 12.24,
+    "end": 12.64
+  },
+  {
+    "word": "bilkul",
+    "start": 12.84,
+    "end": 13.761
+  },
+  {
+    "word": "khatam",
+    "start": 13.841,
+    "end": 14.16
+  },
+  {
+    "word": "ho",
+    "start": 14.213,
+    "end": 14.319
+  },
+  {
+    "word": "jati",
+    "start": 14.359,
+    "end": 14.639
+  },
+  {
+    "word": "hai.",
+    "start": 14.679,
+    "end": 14.959
+  },
+  {
+    "word": "Bro,",
+    "start": 15.279,
+    "end": 16.639
+  },
+  {
+    "word": "agar",
+    "start": 16.719,
+    "end": 17.039
+  },
+  {
+    "word": "tum",
+    "start": 17.099,
+    "end": 17.279
+  },
+  {
+    "word": "daily",
+    "start": 17.346,
+    "end": 17.681
+  },
+  {
+    "word": "upskill",
+    "start": 17.788,
+    "end": 18.242
+  },
+  {
+    "word": "nahi",
+    "start": 18.282,
+    "end": 18.481
+  },
+  {
+    "word": "kar",
+    "start": 18.521,
+    "end": 18.641
+  },
+  {
+    "word": "rahe,",
+    "start": 18.694,
+    "end": 19.04
+  },
+  {
+    "word": "toh",
+    "start": 19.14,
+    "end": 19.44
+  },
+  {
+    "word": "tumhara",
+    "start": 19.48,
+    "end": 19.839
+  },
+  {
+    "word": "career",
+    "start": 19.908,
+    "end": 20.322
+  },
+  {
+    "word": "dead",
+    "start": 20.45,
+    "end": 20.962
+  },
+  {
+    "word": "hai.",
+    "start": 21.002,
+    "end": 21.202
+  },
+  {
+    "word": "Apni",
+    "start": 21.575,
+    "end": 22.481
+  },
+  {
+    "word": "financial",
+    "start": 22.545,
+    "end": 23.121
+  },
+  {
+    "word": "power",
+    "start": 23.188,
+    "end": 23.523
+  },
+  {
+    "word": "kisi",
+    "start": 23.563,
+    "end": 23.843
+  },
+  {
+    "word": "aur",
+    "start": 23.943,
+    "end": 24.243
+  },
+  {
+    "word": "ke",
+    "start": 24.296,
+    "end": 24.402
+  },
+  {
+    "word": "control",
+    "start": 24.452,
+    "end": 24.802
+  },
+  {
+    "word": "mein",
+    "start": 24.834,
+    "end": 24.962
+  },
+  {
+    "word": "rakhna,",
+    "start": 25.002,
+    "end": 25.441
+  },
+  {
+    "word": "ya",
+    "start": 25.628,
+    "end": 26.002
+  },
+  {
+    "word": "bina",
+    "start": 26.042,
+    "end": 26.322
+  },
+  {
+    "word": "clear",
+    "start": 26.402,
+    "end": 26.802
+  },
+  {
+    "word": "'Leadership'",
+    "start": 26.882,
+    "end": 27.563
+  },
+  {
+    "word": "ke",
+    "start": 27.603,
+    "end": 27.683
+  },
+  {
+    "word": "corporate",
+    "start": 27.771,
+    "end": 28.563
+  },
+  {
+    "word": "rat-race",
+    "start": 28.663,
+    "end": 29.283
+  },
+  {
+    "word": "mein",
+    "start": 29.299,
+    "end": 29.363
+  },
+  {
+    "word": "daudna",
+    "start": 29.443,
+    "end": 30.083
+  },
+  {
+    "word": "tumhe",
+    "start": 30.223,
+    "end": 30.803
+  },
+  {
+    "word": "zero",
+    "start": 30.899,
+    "end": 31.283
+  },
+  {
+    "word": "bana",
+    "start": 31.331,
+    "end": 31.523
+  },
+  {
+    "word": "dega.",
+    "start": 31.603,
+    "end": 32.483
+  },
+  {
+    "word": "Take",
+    "start": 32.595,
+    "end": 33.043
+  },
+  {
+    "word": "charge",
+    "start": 33.1,
+    "end": 33.442
+  },
+  {
+    "word": "of",
+    "start": 33.495,
+    "end": 33.601
+  },
+  {
+    "word": "your",
+    "start": 33.633,
+    "end": 33.761
+  },
+  {
+    "word": "growth.",
+    "start": 33.818,
+    "end": 34.32
+  },
+  {
+    "word": "Share",
+    "start": 34.453,
+    "end": 35.118
+  },
+  {
+    "word": "this",
+    "start": 35.15,
+    "end": 35.278
+  },
+  {
+    "word": "reel",
+    "start": 35.342,
+    "end": 35.598
+  },
+  {
+    "word": "with",
+    "start": 35.63,
+    "end": 35.758
+  },
+  {
+    "word": "that",
+    "start": 35.822,
+    "end": 36.078
+  },
+  {
+    "word": "one",
+    "start": 36.138,
+    "end": 36.318
+  },
+  {
+    "word": "friend",
+    "start": 36.387,
+    "end": 36.801
+  },
+  {
+    "word": "who",
+    "start": 36.921,
+    "end": 37.281
+  },
+  {
+    "word": "needs",
+    "start": 37.321,
+    "end": 37.521
+  },
+  {
+    "word": "to",
+    "start": 37.601,
+    "end": 37.761
+  },
+  {
+    "word": "stop",
+    "start": 37.825,
+    "end": 38.081
+  },
+  {
+    "word": "making",
+    "start": 38.127,
+    "end": 38.403
+  },
+  {
+    "word": "excuses",
+    "start": 38.523,
+    "end": 39.363
+  },
+  {
+    "word": "and",
+    "start": 39.463,
+    "end": 39.763
+  },
+  {
+    "word": "take",
+    "start": 39.827,
+    "end": 40.083
+  },
+  {
+    "word": "control",
+    "start": 40.173,
+    "end": 40.803
+  },
+  {
+    "word": "of",
+    "start": 40.883,
+    "end": 41.043
+  },
+  {
+    "word": "their",
+    "start": 41.096,
+    "end": 41.361
+  },
+  {
+    "word": "life.",
+    "start": 41.457,
+    "end": 41.921
+  }
+]

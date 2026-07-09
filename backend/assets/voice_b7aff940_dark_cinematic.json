@@ -1,0 +1,497 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "ARGUING",
+    "start": 0.46,
+    "end": 1.041
+  },
+  {
+    "word": "WITH",
+    "start": 1.073,
+    "end": 1.201
+  },
+  {
+    "word": "FOOLS!",
+    "start": 1.308,
+    "end": 2.081
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.337,
+    "end": 3.601
+  },
+  {
+    "word": "ne",
+    "start": 3.654,
+    "end": 3.76
+  },
+  {
+    "word": "kaha",
+    "start": 3.8,
+    "end": 3.999
+  },
+  {
+    "word": "tha:",
+    "start": 4.059,
+    "end": 4.319
+  },
+  {
+    "word": "Lalchi",
+    "start": 4.559,
+    "end": 5.438
+  },
+  {
+    "word": "insaan",
+    "start": 5.498,
+    "end": 5.837
+  },
+  {
+    "word": "ko",
+    "start": 5.89,
+    "end": 5.996
+  },
+  {
+    "word": "paise",
+    "start": 6.076,
+    "end": 6.476
+  },
+  {
+    "word": "se,",
+    "start": 6.556,
+    "end": 7.276
+  },
+  {
+    "word": "ghamandi",
+    "start": 7.316,
+    "end": 7.755
+  },
+  {
+    "word": "ko",
+    "start": 7.808,
+    "end": 7.914
+  },
+  {
+    "word": "jhuthi",
+    "start": 7.994,
+    "end": 8.394
+  },
+  {
+    "word": "izzat",
+    "start": 8.554,
+    "end": 8.954
+  },
+  {
+    "word": "se,",
+    "start": 9.034,
+    "end": 9.274
+  },
+  {
+    "word": "bewakoof",
+    "start": 9.494,
+    "end": 10.554
+  },
+  {
+    "word": "ko",
+    "start": 10.607,
+    "end": 10.713
+  },
+  {
+    "word": "uski",
+    "start": 10.82,
+    "end": 11.114
+  },
+  {
+    "word": "haan",
+    "start": 11.194,
+    "end": 11.434
+  },
+  {
+    "word": "mein",
+    "start": 11.482,
+    "end": 11.674
+  },
+  {
+    "word": "haan",
+    "start": 11.754,
+    "end": 11.994
+  },
+  {
+    "word": "milakar,",
+    "start": 12.034,
+    "end": 12.634
+  },
+  {
+    "word": "aur",
+    "start": 12.774,
+    "end": 13.194
+  },
+  {
+    "word": "ek",
+    "start": 13.247,
+    "end": 13.353
+  },
+  {
+    "word": "samajhdar",
+    "start": 13.413,
+    "end": 13.993
+  },
+  {
+    "word": "ko",
+    "start": 14.046,
+    "end": 14.152
+  },
+  {
+    "word": "sirf",
+    "start": 14.232,
+    "end": 14.552
+  },
+  {
+    "word": "sach",
+    "start": 14.664,
+    "end": 15.112
+  },
+  {
+    "word": "bolkar",
+    "start": 15.172,
+    "end": 15.592
+  },
+  {
+    "word": "apne",
+    "start": 15.725,
+    "end": 16.071
+  },
+  {
+    "word": "vash",
+    "start": 16.191,
+    "end": 16.47
+  },
+  {
+    "word": "mein",
+    "start": 16.502,
+    "end": 16.63
+  },
+  {
+    "word": "karo.",
+    "start": 16.67,
+    "end": 16.949
+  },
+  {
+    "word": "Bro,",
+    "start": 17.269,
+    "end": 18.309
+  },
+  {
+    "word": "har",
+    "start": 18.429,
+    "end": 18.789
+  },
+  {
+    "word": "kisi",
+    "start": 18.869,
+    "end": 19.108
+  },
+  {
+    "word": "se",
+    "start": 19.188,
+    "end": 19.348
+  },
+  {
+    "word": "behes",
+    "start": 19.428,
+    "end": 19.828
+  },
+  {
+    "word": "karna",
+    "start": 19.868,
+    "end": 20.148
+  },
+  {
+    "word": "band",
+    "start": 20.212,
+    "end": 20.468
+  },
+  {
+    "word": "karo.",
+    "start": 20.508,
+    "end": 20.867
+  },
+  {
+    "word": "Corporate",
+    "start": 20.979,
+    "end": 21.987
+  },
+  {
+    "word": "office",
+    "start": 22.044,
+    "end": 22.386
+  },
+  {
+    "word": "ho",
+    "start": 22.466,
+    "end": 22.626
+  },
+  {
+    "word": "ya",
+    "start": 22.679,
+    "end": 22.785
+  },
+  {
+    "word": "tumhara",
+    "start": 22.845,
+    "end": 23.186
+  },
+  {
+    "word": "circle,",
+    "start": 23.255,
+    "end": 24.229
+  },
+  {
+    "word": "agar",
+    "start": 24.277,
+    "end": 24.469
+  },
+  {
+    "word": "koi",
+    "start": 24.549,
+    "end": 24.709
+  },
+  {
+    "word": "toxic",
+    "start": 24.829,
+    "end": 25.429
+  },
+  {
+    "word": "aur",
+    "start": 25.469,
+    "end": 25.589
+  },
+  {
+    "word": "egoistic",
+    "start": 25.709,
+    "end": 26.469
+  },
+  {
+    "word": "hai,",
+    "start": 26.509,
+    "end": 26.709
+  },
+  {
+    "word": "toh",
+    "start": 26.829,
+    "end": 27.189
+  },
+  {
+    "word": "usko",
+    "start": 27.296,
+    "end": 27.59
+  },
+  {
+    "word": "'Respect'",
+    "start": 27.63,
+    "end": 28.311
+  },
+  {
+    "word": "ka",
+    "start": 28.364,
+    "end": 28.47
+  },
+  {
+    "word": "fake",
+    "start": 28.55,
+    "end": 28.87
+  },
+  {
+    "word": "validation",
+    "start": 28.928,
+    "end": 29.508
+  },
+  {
+    "word": "dekar",
+    "start": 29.588,
+    "end": 29.907
+  },
+  {
+    "word": "side",
+    "start": 30.003,
+    "end": 30.387
+  },
+  {
+    "word": "karo.",
+    "start": 30.427,
+    "end": 30.706
+  },
+  {
+    "word": "Bewakoof",
+    "start": 30.946,
+    "end": 31.986
+  },
+  {
+    "word": "ko",
+    "start": 32.039,
+    "end": 32.145
+  },
+  {
+    "word": "lagne",
+    "start": 32.225,
+    "end": 32.625
+  },
+  {
+    "word": "do",
+    "start": 32.678,
+    "end": 32.784
+  },
+  {
+    "word": "ki",
+    "start": 32.837,
+    "end": 32.943
+  },
+  {
+    "word": "wo",
+    "start": 32.996,
+    "end": 33.102
+  },
+  {
+    "word": "jeet",
+    "start": 33.182,
+    "end": 33.502
+  },
+  {
+    "word": "gaya.",
+    "start": 33.542,
+    "end": 34.542
+  },
+  {
+    "word": "Apni",
+    "start": 34.595,
+    "end": 34.861
+  },
+  {
+    "word": "mental",
+    "start": 34.918,
+    "end": 35.26
+  },
+  {
+    "word": "peace",
+    "start": 35.353,
+    "end": 35.818
+  },
+  {
+    "word": "aur",
+    "start": 35.878,
+    "end": 36.058
+  },
+  {
+    "word": "apna",
+    "start": 36.111,
+    "end": 36.377
+  },
+  {
+    "word": "'Truth'",
+    "start": 36.457,
+    "end": 37.097
+  },
+  {
+    "word": "sirf",
+    "start": 37.217,
+    "end": 37.737
+  },
+  {
+    "word": "wise",
+    "start": 37.849,
+    "end": 38.297
+  },
+  {
+    "word": "logon",
+    "start": 38.357,
+    "end": 38.617
+  },
+  {
+    "word": "ke",
+    "start": 38.644,
+    "end": 38.698
+  },
+  {
+    "word": "liye",
+    "start": 38.751,
+    "end": 39.017
+  },
+  {
+    "word": "bachao.",
+    "start": 39.049,
+    "end": 39.417
+  },
+  {
+    "word": "Share",
+    "start": 39.59,
+    "end": 40.455
+  },
+  {
+    "word": "this",
+    "start": 40.503,
+    "end": 40.695
+  },
+  {
+    "word": "reel",
+    "start": 40.759,
+    "end": 41.015
+  },
+  {
+    "word": "with",
+    "start": 41.047,
+    "end": 41.175
+  },
+  {
+    "word": "that",
+    "start": 41.223,
+    "end": 41.415
+  },
+  {
+    "word": "one",
+    "start": 41.515,
+    "end": 41.815
+  },
+  {
+    "word": "friend",
+    "start": 41.872,
+    "end": 42.214
+  },
+  {
+    "word": "who",
+    "start": 42.274,
+    "end": 42.454
+  },
+  {
+    "word": "wastes",
+    "start": 42.545,
+    "end": 43.091
+  },
+  {
+    "word": "their",
+    "start": 43.118,
+    "end": 43.253
+  },
+  {
+    "word": "energy",
+    "start": 43.333,
+    "end": 43.813
+  },
+  {
+    "word": "arguing",
+    "start": 43.903,
+    "end": 44.533
+  },
+  {
+    "word": "with",
+    "start": 44.549,
+    "end": 44.613
+  },
+  {
+    "word": "everyone.",
+    "start": 44.684,
+    "end": 45.332
+  }
+]

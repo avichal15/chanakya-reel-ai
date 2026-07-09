@@ -1,0 +1,462 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "WORSHIPPING",
+    "start": 0.52,
+    "end": 1.2
+  },
+  {
+    "word": "FAKE",
+    "start": 1.307,
+    "end": 1.681
+  },
+  {
+    "word": "HEROES!",
+    "start": 1.809,
+    "end": 2.641
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.833,
+    "end": 3.841
+  },
+  {
+    "word": "ne",
+    "start": 3.894,
+    "end": 4.0
+  },
+  {
+    "word": "kaha",
+    "start": 4.08,
+    "end": 4.319
+  },
+  {
+    "word": "tha:",
+    "start": 4.379,
+    "end": 5.119
+  },
+  {
+    "word": "Kam",
+    "start": 5.259,
+    "end": 5.679
+  },
+  {
+    "word": "buddhi",
+    "start": 5.727,
+    "end": 5.999
+  },
+  {
+    "word": "wale",
+    "start": 6.039,
+    "end": 6.238
+  },
+  {
+    "word": "log",
+    "start": 6.338,
+    "end": 6.638
+  },
+  {
+    "word": "murtiyon",
+    "start": 6.718,
+    "end": 7.118
+  },
+  {
+    "word": "mein",
+    "start": 7.166,
+    "end": 7.358
+  },
+  {
+    "word": "shakti",
+    "start": 7.411,
+    "end": 7.756
+  },
+  {
+    "word": "dhoondhte",
+    "start": 7.796,
+    "end": 8.237
+  },
+  {
+    "word": "hain,",
+    "start": 8.277,
+    "end": 8.558
+  },
+  {
+    "word": "muniyon",
+    "start": 8.878,
+    "end": 9.516
+  },
+  {
+    "word": "ke",
+    "start": 9.569,
+    "end": 9.675
+  },
+  {
+    "word": "liye",
+    "start": 9.728,
+    "end": 9.914
+  },
+  {
+    "word": "unki",
+    "start": 10.047,
+    "end": 10.393
+  },
+  {
+    "word": "shakti",
+    "start": 10.473,
+    "end": 10.952
+  },
+  {
+    "word": "unke",
+    "start": 11.085,
+    "end": 11.431
+  },
+  {
+    "word": "andar",
+    "start": 11.491,
+    "end": 11.751
+  },
+  {
+    "word": "hai,",
+    "start": 11.811,
+    "end": 12.151
+  },
+  {
+    "word": "aur",
+    "start": 12.331,
+    "end": 12.871
+  },
+  {
+    "word": "samajhdar",
+    "start": 12.931,
+    "end": 13.511
+  },
+  {
+    "word": "logon",
+    "start": 13.571,
+    "end": 13.831
+  },
+  {
+    "word": "ko",
+    "start": 13.911,
+    "end": 14.071
+  },
+  {
+    "word": "har",
+    "start": 14.231,
+    "end": 14.711
+  },
+  {
+    "word": "jagah",
+    "start": 14.771,
+    "end": 15.111
+  },
+  {
+    "word": "asliyat",
+    "start": 15.218,
+    "end": 15.751
+  },
+  {
+    "word": "dikhti",
+    "start": 15.791,
+    "end": 16.07
+  },
+  {
+    "word": "hai.",
+    "start": 16.13,
+    "end": 16.39
+  },
+  {
+    "word": "Bro,",
+    "start": 16.67,
+    "end": 17.83
+  },
+  {
+    "word": "aaj",
+    "start": 17.99,
+    "end": 18.31
+  },
+  {
+    "word": "ki",
+    "start": 18.363,
+    "end": 18.469
+  },
+  {
+    "word": "generation",
+    "start": 18.527,
+    "end": 19.107
+  },
+  {
+    "word": "influencers",
+    "start": 19.194,
+    "end": 20.151
+  },
+  {
+    "word": "aur",
+    "start": 20.211,
+    "end": 20.391
+  },
+  {
+    "word": "fake",
+    "start": 20.471,
+    "end": 20.791
+  },
+  {
+    "word": "billionaires",
+    "start": 20.84,
+    "end": 21.428
+  },
+  {
+    "word": "ko",
+    "start": 21.481,
+    "end": 21.587
+  },
+  {
+    "word": "apna",
+    "start": 21.694,
+    "end": 21.988
+  },
+  {
+    "word": "'God'",
+    "start": 22.108,
+    "end": 22.548
+  },
+  {
+    "word": "maan",
+    "start": 22.575,
+    "end": 22.709
+  },
+  {
+    "word": "baithi",
+    "start": 22.762,
+    "end": 23.188
+  },
+  {
+    "word": "hai.",
+    "start": 23.208,
+    "end": 23.428
+  },
+  {
+    "word": "Ye",
+    "start": 23.721,
+    "end": 24.307
+  },
+  {
+    "word": "toxic",
+    "start": 24.4,
+    "end": 24.865
+  },
+  {
+    "word": "idol-worship",
+    "start": 24.961,
+    "end": 25.905
+  },
+  {
+    "word": "tumhe",
+    "start": 25.985,
+    "end": 26.385
+  },
+  {
+    "word": "mentally",
+    "start": 26.438,
+    "end": 26.862
+  },
+  {
+    "word": "weak",
+    "start": 26.942,
+    "end": 27.262
+  },
+  {
+    "word": "bana",
+    "start": 27.31,
+    "end": 27.502
+  },
+  {
+    "word": "rahi",
+    "start": 27.582,
+    "end": 27.743
+  },
+  {
+    "word": "hai.",
+    "start": 27.803,
+    "end": 28.143
+  },
+  {
+    "word": "Stop",
+    "start": 28.335,
+    "end": 29.103
+  },
+  {
+    "word": "being",
+    "start": 29.156,
+    "end": 29.421
+  },
+  {
+    "word": "a",
+    "start": 29.461,
+    "end": 29.501
+  },
+  {
+    "word": "fan.",
+    "start": 29.661,
+    "end": 30.541
+  },
+  {
+    "word": "Asli",
+    "start": 30.674,
+    "end": 31.02
+  },
+  {
+    "word": "power",
+    "start": 31.087,
+    "end": 31.422
+  },
+  {
+    "word": "tumhare",
+    "start": 31.482,
+    "end": 31.902
+  },
+  {
+    "word": "andar",
+    "start": 31.982,
+    "end": 32.302
+  },
+  {
+    "word": "hai,",
+    "start": 32.362,
+    "end": 32.702
+  },
+  {
+    "word": "usko",
+    "start": 32.969,
+    "end": 33.583
+  },
+  {
+    "word": "pehchano",
+    "start": 33.636,
+    "end": 34.222
+  },
+  {
+    "word": "aur",
+    "start": 34.382,
+    "end": 34.862
+  },
+  {
+    "word": "apna",
+    "start": 34.969,
+    "end": 35.343
+  },
+  {
+    "word": "khud",
+    "start": 35.423,
+    "end": 35.663
+  },
+  {
+    "word": "ka",
+    "start": 35.743,
+    "end": 35.903
+  },
+  {
+    "word": "growth",
+    "start": 35.949,
+    "end": 36.225
+  },
+  {
+    "word": "circle",
+    "start": 36.282,
+    "end": 36.624
+  },
+  {
+    "word": "build",
+    "start": 36.677,
+    "end": 36.942
+  },
+  {
+    "word": "karo.",
+    "start": 36.982,
+    "end": 37.422
+  },
+  {
+    "word": "Share",
+    "start": 37.622,
+    "end": 38.622
+  },
+  {
+    "word": "this",
+    "start": 38.67,
+    "end": 38.862
+  },
+  {
+    "word": "reel",
+    "start": 38.926,
+    "end": 39.182
+  },
+  {
+    "word": "with",
+    "start": 39.214,
+    "end": 39.342
+  },
+  {
+    "word": "that",
+    "start": 39.39,
+    "end": 39.582
+  },
+  {
+    "word": "one",
+    "start": 39.682,
+    "end": 39.982
+  },
+  {
+    "word": "friend",
+    "start": 40.051,
+    "end": 40.465
+  },
+  {
+    "word": "who",
+    "start": 40.565,
+    "end": 40.865
+  },
+  {
+    "word": "blindly",
+    "start": 40.945,
+    "end": 41.505
+  },
+  {
+    "word": "follows",
+    "start": 41.565,
+    "end": 41.985
+  },
+  {
+    "word": "others",
+    "start": 42.054,
+    "end": 42.468
+  },
+  {
+    "word": "and",
+    "start": 42.628,
+    "end": 43.108
+  },
+  {
+    "word": "needs",
+    "start": 43.188,
+    "end": 43.588
+  },
+  {
+    "word": "to",
+    "start": 43.641,
+    "end": 43.747
+  },
+  {
+    "word": "wake",
+    "start": 43.811,
+    "end": 44.067
+  },
+  {
+    "word": "up.",
+    "start": 44.147,
+    "end": 44.467
+  }
+]

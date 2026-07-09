@@ -1,0 +1,502 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "TRUSTING",
+    "start": 0.507,
+    "end": 1.042
+  },
+  {
+    "word": "BLINDLY!",
+    "start": 1.122,
+    "end": 1.923
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.179,
+    "end": 3.523
+  },
+  {
+    "word": "ne",
+    "start": 3.576,
+    "end": 3.682
+  },
+  {
+    "word": "kaha",
+    "start": 3.722,
+    "end": 3.921
+  },
+  {
+    "word": "tha:",
+    "start": 3.981,
+    "end": 4.641
+  },
+  {
+    "word": "Ek",
+    "start": 4.801,
+    "end": 5.121
+  },
+  {
+    "word": "hi",
+    "start": 5.148,
+    "end": 5.202
+  },
+  {
+    "word": "maa",
+    "start": 5.282,
+    "end": 5.442
+  },
+  {
+    "word": "ki",
+    "start": 5.495,
+    "end": 5.601
+  },
+  {
+    "word": "kokh",
+    "start": 5.681,
+    "end": 6.041
+  },
+  {
+    "word": "se",
+    "start": 6.081,
+    "end": 6.161
+  },
+  {
+    "word": "paida",
+    "start": 6.193,
+    "end": 6.481
+  },
+  {
+    "word": "hue",
+    "start": 6.561,
+    "end": 6.801
+  },
+  {
+    "word": "aur",
+    "start": 6.941,
+    "end": 7.361
+  },
+  {
+    "word": "ek",
+    "start": 7.494,
+    "end": 7.76
+  },
+  {
+    "word": "hi",
+    "start": 7.813,
+    "end": 7.919
+  },
+  {
+    "word": "halaat",
+    "start": 7.983,
+    "end": 8.399
+  },
+  {
+    "word": "mein",
+    "start": 8.431,
+    "end": 8.559
+  },
+  {
+    "word": "bade",
+    "start": 8.639,
+    "end": 8.878
+  },
+  {
+    "word": "hue",
+    "start": 8.938,
+    "end": 9.118
+  },
+  {
+    "word": "log",
+    "start": 9.198,
+    "end": 9.438
+  },
+  {
+    "word": "bhi",
+    "start": 9.478,
+    "end": 9.758
+  },
+  {
+    "word": "swabhav",
+    "start": 9.918,
+    "end": 10.637
+  },
+  {
+    "word": "mein",
+    "start": 10.669,
+    "end": 10.797
+  },
+  {
+    "word": "ek",
+    "start": 10.904,
+    "end": 11.118
+  },
+  {
+    "word": "jaise",
+    "start": 11.198,
+    "end": 11.518
+  },
+  {
+    "word": "nahi",
+    "start": 11.558,
+    "end": 11.757
+  },
+  {
+    "word": "hote.",
+    "start": 11.797,
+    "end": 12.318
+  },
+  {
+    "word": "Jaise",
+    "start": 12.678,
+    "end": 13.278
+  },
+  {
+    "word": "ek",
+    "start": 13.411,
+    "end": 13.677
+  },
+  {
+    "word": "hi",
+    "start": 13.73,
+    "end": 13.836
+  },
+  {
+    "word": "ber",
+    "start": 13.896,
+    "end": 14.076
+  },
+  {
+    "word": "ke",
+    "start": 14.156,
+    "end": 14.316
+  },
+  {
+    "word": "ped",
+    "start": 14.376,
+    "end": 14.556
+  },
+  {
+    "word": "par",
+    "start": 14.616,
+    "end": 14.796
+  },
+  {
+    "word": "meethe",
+    "start": 14.86,
+    "end": 15.276
+  },
+  {
+    "word": "fal",
+    "start": 15.396,
+    "end": 15.756
+  },
+  {
+    "word": "aur",
+    "start": 15.856,
+    "end": 16.156
+  },
+  {
+    "word": "chubhne",
+    "start": 16.209,
+    "end": 16.635
+  },
+  {
+    "word": "wale",
+    "start": 16.675,
+    "end": 16.874
+  },
+  {
+    "word": "kaante,",
+    "start": 16.954,
+    "end": 17.434
+  },
+  {
+    "word": "dono",
+    "start": 17.574,
+    "end": 18.074
+  },
+  {
+    "word": "hote",
+    "start": 18.114,
+    "end": 18.394
+  },
+  {
+    "word": "hain.",
+    "start": 18.434,
+    "end": 18.715
+  },
+  {
+    "word": "Bro,",
+    "start": 18.955,
+    "end": 19.755
+  },
+  {
+    "word": "tum",
+    "start": 19.895,
+    "end": 20.315
+  },
+  {
+    "word": "sochte",
+    "start": 20.422,
+    "end": 20.876
+  },
+  {
+    "word": "ho",
+    "start": 20.929,
+    "end": 21.035
+  },
+  {
+    "word": "ki",
+    "start": 21.115,
+    "end": 21.275
+  },
+  {
+    "word": "same",
+    "start": 21.371,
+    "end": 21.755
+  },
+  {
+    "word": "bloodline",
+    "start": 21.808,
+    "end": 22.393
+  },
+  {
+    "word": "ya",
+    "start": 22.5,
+    "end": 22.714
+  },
+  {
+    "word": "same",
+    "start": 22.81,
+    "end": 23.194
+  },
+  {
+    "word": "Corporate",
+    "start": 23.242,
+    "end": 23.674
+  },
+  {
+    "word": "background",
+    "start": 23.718,
+    "end": 24.158
+  },
+  {
+    "word": "se",
+    "start": 24.238,
+    "end": 24.398
+  },
+  {
+    "word": "aane",
+    "start": 24.438,
+    "end": 24.637
+  },
+  {
+    "word": "wale",
+    "start": 24.717,
+    "end": 24.956
+  },
+  {
+    "word": "log",
+    "start": 25.036,
+    "end": 25.276
+  },
+  {
+    "word": "tumhare",
+    "start": 25.356,
+    "end": 25.836
+  },
+  {
+    "word": "jaise",
+    "start": 25.876,
+    "end": 26.156
+  },
+  {
+    "word": "honge?",
+    "start": 26.196,
+    "end": 26.635
+  },
+  {
+    "word": "Big",
+    "start": 26.875,
+    "end": 27.595
+  },
+  {
+    "word": "mistake.",
+    "start": 27.665,
+    "end": 28.235
+  },
+  {
+    "word": "Tumhare",
+    "start": 28.515,
+    "end": 29.115
+  },
+  {
+    "word": "circle",
+    "start": 29.172,
+    "end": 29.514
+  },
+  {
+    "word": "mein",
+    "start": 29.546,
+    "end": 29.674
+  },
+  {
+    "word": "kuch",
+    "start": 29.754,
+    "end": 29.915
+  },
+  {
+    "word": "log",
+    "start": 29.995,
+    "end": 30.235
+  },
+  {
+    "word": "fruit",
+    "start": 30.302,
+    "end": 30.637
+  },
+  {
+    "word": "hain",
+    "start": 30.677,
+    "end": 30.957
+  },
+  {
+    "word": "jo",
+    "start": 31.09,
+    "end": 31.356
+  },
+  {
+    "word": "'Growth'",
+    "start": 31.436,
+    "end": 31.956
+  },
+  {
+    "word": "denge,",
+    "start": 31.986,
+    "end": 32.516
+  },
+  {
+    "word": "aur",
+    "start": 32.586,
+    "end": 32.796
+  },
+  {
+    "word": "kuch",
+    "start": 32.876,
+    "end": 33.037
+  },
+  {
+    "word": "'thorns'",
+    "start": 33.117,
+    "end": 33.637
+  },
+  {
+    "word": "hain",
+    "start": 33.657,
+    "end": 33.917
+  },
+  {
+    "word": "jo",
+    "start": 34.024,
+    "end": 34.238
+  },
+  {
+    "word": "sirf",
+    "start": 34.298,
+    "end": 34.558
+  },
+  {
+    "word": "'Toxic'",
+    "start": 34.638,
+    "end": 35.358
+  },
+  {
+    "word": "politics",
+    "start": 35.385,
+    "end": 35.601
+  },
+  {
+    "word": "khelenge.",
+    "start": 35.628,
+    "end": 36.762
+  },
+  {
+    "word": "Share",
+    "start": 36.862,
+    "end": 37.362
+  },
+  {
+    "word": "this",
+    "start": 37.426,
+    "end": 37.682
+  },
+  {
+    "word": "reel",
+    "start": 37.746,
+    "end": 38.002
+  },
+  {
+    "word": "with",
+    "start": 38.034,
+    "end": 38.162
+  },
+  {
+    "word": "your",
+    "start": 38.194,
+    "end": 38.322
+  },
+  {
+    "word": "real",
+    "start": 38.386,
+    "end": 38.642
+  },
+  {
+    "word": "brothers",
+    "start": 38.695,
+    "end": 39.119
+  },
+  {
+    "word": "to",
+    "start": 39.226,
+    "end": 39.44
+  },
+  {
+    "word": "remind",
+    "start": 39.509,
+    "end": 39.923
+  },
+  {
+    "word": "them",
+    "start": 39.971,
+    "end": 40.163
+  },
+  {
+    "word": "who",
+    "start": 40.223,
+    "end": 40.403
+  },
+  {
+    "word": "the",
+    "start": 40.443,
+    "end": 40.563
+  },
+  {
+    "word": "actual",
+    "start": 40.654,
+    "end": 41.2
+  },
+  {
+    "word": "thorns",
+    "start": 41.253,
+    "end": 41.679
+  },
+  {
+    "word": "are.",
+    "start": 41.739,
+    "end": 42.079
+  }
+]

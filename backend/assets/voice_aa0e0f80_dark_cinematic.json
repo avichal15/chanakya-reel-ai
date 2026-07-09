@@ -1,0 +1,467 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "BEGGING,",
+    "start": 0.4,
+    "end": 1.279
+  },
+  {
+    "word": "START",
+    "start": 1.359,
+    "end": 1.759
+  },
+  {
+    "word": "HUNTING!",
+    "start": 1.799,
+    "end": 2.399
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.639,
+    "end": 3.919
+  },
+  {
+    "word": "ne",
+    "start": 3.972,
+    "end": 4.078
+  },
+  {
+    "word": "kaha",
+    "start": 4.118,
+    "end": 4.317
+  },
+  {
+    "word": "tha:",
+    "start": 4.377,
+    "end": 4.997
+  },
+  {
+    "word": "Ek",
+    "start": 5.144,
+    "end": 5.438
+  },
+  {
+    "word": "murge",
+    "start": 5.498,
+    "end": 5.838
+  },
+  {
+    "word": "se",
+    "start": 5.918,
+    "end": 6.078
+  },
+  {
+    "word": "chaar",
+    "start": 6.138,
+    "end": 6.398
+  },
+  {
+    "word": "baatein",
+    "start": 6.451,
+    "end": 6.877
+  },
+  {
+    "word": "zaroor",
+    "start": 6.937,
+    "end": 7.276
+  },
+  {
+    "word": "seekho\u2014sahi",
+    "start": 7.34,
+    "end": 8.716
+  },
+  {
+    "word": "waqt",
+    "start": 8.743,
+    "end": 8.957
+  },
+  {
+    "word": "par",
+    "start": 8.997,
+    "end": 9.117
+  },
+  {
+    "word": "uthna,",
+    "start": 9.197,
+    "end": 9.996
+  },
+  {
+    "word": "apne",
+    "start": 10.076,
+    "end": 10.316
+  },
+  {
+    "word": "haq",
+    "start": 10.396,
+    "end": 10.636
+  },
+  {
+    "word": "ke",
+    "start": 10.689,
+    "end": 10.795
+  },
+  {
+    "word": "liye",
+    "start": 10.848,
+    "end": 11.034
+  },
+  {
+    "word": "nidar",
+    "start": 11.114,
+    "end": 11.434
+  },
+  {
+    "word": "hokar",
+    "start": 11.514,
+    "end": 11.834
+  },
+  {
+    "word": "ladna,",
+    "start": 11.894,
+    "end": 12.954
+  },
+  {
+    "word": "apno",
+    "start": 13.034,
+    "end": 13.274
+  },
+  {
+    "word": "ke",
+    "start": 13.327,
+    "end": 13.433
+  },
+  {
+    "word": "sath",
+    "start": 13.513,
+    "end": 13.833
+  },
+  {
+    "word": "baant",
+    "start": 13.913,
+    "end": 14.232
+  },
+  {
+    "word": "kar",
+    "start": 14.272,
+    "end": 14.392
+  },
+  {
+    "word": "khana,",
+    "start": 14.445,
+    "end": 15.351
+  },
+  {
+    "word": "aur",
+    "start": 15.391,
+    "end": 15.511
+  },
+  {
+    "word": "apni",
+    "start": 15.564,
+    "end": 15.83
+  },
+  {
+    "word": "mehnat",
+    "start": 15.883,
+    "end": 16.229
+  },
+  {
+    "word": "se",
+    "start": 16.309,
+    "end": 16.469
+  },
+  {
+    "word": "apna",
+    "start": 16.549,
+    "end": 16.789
+  },
+  {
+    "word": "nivala",
+    "start": 16.829,
+    "end": 17.269
+  },
+  {
+    "word": "khud",
+    "start": 17.376,
+    "end": 17.67
+  },
+  {
+    "word": "hasil",
+    "start": 17.737,
+    "end": 18.072
+  },
+  {
+    "word": "karna.",
+    "start": 18.112,
+    "end": 18.552
+  },
+  {
+    "word": "Bro,",
+    "start": 18.832,
+    "end": 19.952
+  },
+  {
+    "word": "aaj",
+    "start": 20.092,
+    "end": 20.392
+  },
+  {
+    "word": "ke",
+    "start": 20.445,
+    "end": 20.551
+  },
+  {
+    "word": "ruthless",
+    "start": 20.613,
+    "end": 21.109
+  },
+  {
+    "word": "Corporate",
+    "start": 21.157,
+    "end": 21.589
+  },
+  {
+    "word": "world",
+    "start": 21.642,
+    "end": 21.907
+  },
+  {
+    "word": "mein",
+    "start": 21.939,
+    "end": 22.067
+  },
+  {
+    "word": "koi",
+    "start": 22.187,
+    "end": 22.387
+  },
+  {
+    "word": "tumhe",
+    "start": 22.447,
+    "end": 22.707
+  },
+  {
+    "word": "success",
+    "start": 22.787,
+    "end": 23.347
+  },
+  {
+    "word": "thali",
+    "start": 23.374,
+    "end": 23.668
+  },
+  {
+    "word": "mein",
+    "start": 23.684,
+    "end": 23.748
+  },
+  {
+    "word": "sajakar",
+    "start": 23.828,
+    "end": 24.227
+  },
+  {
+    "word": "nahi",
+    "start": 24.267,
+    "end": 24.388
+  },
+  {
+    "word": "dega.",
+    "start": 24.468,
+    "end": 25.588
+  },
+  {
+    "word": "Wake",
+    "start": 25.636,
+    "end": 25.828
+  },
+  {
+    "word": "up",
+    "start": 25.881,
+    "end": 25.987
+  },
+  {
+    "word": "early,",
+    "start": 26.067,
+    "end": 26.867
+  },
+  {
+    "word": "fight",
+    "start": 26.92,
+    "end": 27.185
+  },
+  {
+    "word": "for",
+    "start": 27.205,
+    "end": 27.265
+  },
+  {
+    "word": "your",
+    "start": 27.297,
+    "end": 27.425
+  },
+  {
+    "word": "Growth,",
+    "start": 27.494,
+    "end": 27.988
+  },
+  {
+    "word": "support",
+    "start": 28.078,
+    "end": 28.708
+  },
+  {
+    "word": "your",
+    "start": 28.74,
+    "end": 28.868
+  },
+  {
+    "word": "Circle,",
+    "start": 28.937,
+    "end": 29.431
+  },
+  {
+    "word": "aur",
+    "start": 29.551,
+    "end": 29.911
+  },
+  {
+    "word": "apna",
+    "start": 29.991,
+    "end": 30.231
+  },
+  {
+    "word": "haq",
+    "start": 30.284,
+    "end": 30.55
+  },
+  {
+    "word": "khud",
+    "start": 30.657,
+    "end": 31.031
+  },
+  {
+    "word": "chheen",
+    "start": 31.084,
+    "end": 31.35
+  },
+  {
+    "word": "lo.",
+    "start": 31.43,
+    "end": 31.67
+  },
+  {
+    "word": "Stop",
+    "start": 31.862,
+    "end": 32.63
+  },
+  {
+    "word": "playing",
+    "start": 32.67,
+    "end": 32.95
+  },
+  {
+    "word": "the",
+    "start": 32.97,
+    "end": 33.03
+  },
+  {
+    "word": "victim",
+    "start": 33.087,
+    "end": 33.429
+  },
+  {
+    "word": "and",
+    "start": 33.469,
+    "end": 33.589
+  },
+  {
+    "word": "start",
+    "start": 33.656,
+    "end": 33.991
+  },
+  {
+    "word": "hunting.",
+    "start": 34.061,
+    "end": 34.631
+  },
+  {
+    "word": "Share",
+    "start": 34.791,
+    "end": 35.591
+  },
+  {
+    "word": "this",
+    "start": 35.639,
+    "end": 35.831
+  },
+  {
+    "word": "reel",
+    "start": 35.895,
+    "end": 36.151
+  },
+  {
+    "word": "with",
+    "start": 36.183,
+    "end": 36.311
+  },
+  {
+    "word": "your",
+    "start": 36.343,
+    "end": 36.471
+  },
+  {
+    "word": "hustle",
+    "start": 36.528,
+    "end": 36.87
+  },
+  {
+    "word": "buddy",
+    "start": 36.923,
+    "end": 37.188
+  },
+  {
+    "word": "jinhe",
+    "start": 37.328,
+    "end": 37.908
+  },
+  {
+    "word": "ek",
+    "start": 37.988,
+    "end": 38.148
+  },
+  {
+    "word": "massive",
+    "start": 38.238,
+    "end": 38.868
+  },
+  {
+    "word": "reality",
+    "start": 38.928,
+    "end": 39.348
+  },
+  {
+    "word": "check",
+    "start": 39.401,
+    "end": 39.666
+  },
+  {
+    "word": "ki",
+    "start": 39.719,
+    "end": 39.825
+  },
+  {
+    "word": "zaroorat",
+    "start": 39.885,
+    "end": 40.306
+  },
+  {
+    "word": "hai.",
+    "start": 40.366,
+    "end": 40.626
+  }
+]

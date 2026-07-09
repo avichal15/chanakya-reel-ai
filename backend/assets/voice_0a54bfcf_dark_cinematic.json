@@ -1,0 +1,417 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "WORDS",
+    "start": 0.24,
+    "end": 0.64
+  },
+  {
+    "word": "MEAN",
+    "start": 0.72,
+    "end": 1.04
+  },
+  {
+    "word": "NOTHING!",
+    "start": 1.13,
+    "end": 1.84
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.16,
+    "end": 3.76
+  },
+  {
+    "word": "ne",
+    "start": 3.813,
+    "end": 3.919
+  },
+  {
+    "word": "kaha",
+    "start": 3.959,
+    "end": 4.158
+  },
+  {
+    "word": "tha:",
+    "start": 4.218,
+    "end": 4.478
+  },
+  {
+    "word": "'Raja",
+    "start": 4.958,
+    "end": 5.758
+  },
+  {
+    "word": "ka",
+    "start": 5.811,
+    "end": 5.917
+  },
+  {
+    "word": "aadesh,",
+    "start": 5.997,
+    "end": 6.637
+  },
+  {
+    "word": "vidwan",
+    "start": 6.797,
+    "end": 7.517
+  },
+  {
+    "word": "ki",
+    "start": 7.57,
+    "end": 7.676
+  },
+  {
+    "word": "baat,",
+    "start": 7.756,
+    "end": 8.156
+  },
+  {
+    "word": "aur",
+    "start": 8.296,
+    "end": 8.716
+  },
+  {
+    "word": "kanyadaan...",
+    "start": 8.796,
+    "end": 9.516
+  },
+  {
+    "word": "ye",
+    "start": 9.756,
+    "end": 10.236
+  },
+  {
+    "word": "teeno",
+    "start": 10.316,
+    "end": 10.716
+  },
+  {
+    "word": "zindagi",
+    "start": 10.796,
+    "end": 11.194
+  },
+  {
+    "word": "mein",
+    "start": 11.226,
+    "end": 11.354
+  },
+  {
+    "word": "bas",
+    "start": 11.414,
+    "end": 11.594
+  },
+  {
+    "word": "ek",
+    "start": 11.701,
+    "end": 11.915
+  },
+  {
+    "word": "baar",
+    "start": 11.968,
+    "end": 12.154
+  },
+  {
+    "word": "hote",
+    "start": 12.194,
+    "end": 12.474
+  },
+  {
+    "word": "hain.'",
+    "start": 12.514,
+    "end": 12.795
+  },
+  {
+    "word": "Aaj",
+    "start": 13.395,
+    "end": 14.155
+  },
+  {
+    "word": "kal",
+    "start": 14.195,
+    "end": 14.315
+  },
+  {
+    "word": "log",
+    "start": 14.395,
+    "end": 14.635
+  },
+  {
+    "word": "commitments",
+    "start": 14.682,
+    "end": 15.199
+  },
+  {
+    "word": "toh",
+    "start": 15.239,
+    "end": 15.359
+  },
+  {
+    "word": "aise",
+    "start": 15.399,
+    "end": 15.598
+  },
+  {
+    "word": "karte",
+    "start": 15.638,
+    "end": 15.918
+  },
+  {
+    "word": "hain",
+    "start": 15.958,
+    "end": 16.238
+  },
+  {
+    "word": "jaise",
+    "start": 16.398,
+    "end": 16.798
+  },
+  {
+    "word": "mazaak",
+    "start": 16.838,
+    "end": 17.278
+  },
+  {
+    "word": "ho.",
+    "start": 17.331,
+    "end": 17.517
+  },
+  {
+    "word": "Corporate",
+    "start": 17.645,
+    "end": 18.797
+  },
+  {
+    "word": "ho",
+    "start": 18.877,
+    "end": 19.037
+  },
+  {
+    "word": "ya",
+    "start": 19.09,
+    "end": 19.196
+  },
+  {
+    "word": "friends",
+    "start": 19.246,
+    "end": 19.596
+  },
+  {
+    "word": "circle,",
+    "start": 19.653,
+    "end": 20.155
+  },
+  {
+    "word": "agar",
+    "start": 20.283,
+    "end": 20.795
+  },
+  {
+    "word": "tum",
+    "start": 20.855,
+    "end": 21.035
+  },
+  {
+    "word": "baar-baar",
+    "start": 21.115,
+    "end": 21.594
+  },
+  {
+    "word": "apni",
+    "start": 21.647,
+    "end": 21.833
+  },
+  {
+    "word": "baat",
+    "start": 21.913,
+    "end": 22.153
+  },
+  {
+    "word": "se",
+    "start": 22.206,
+    "end": 22.312
+  },
+  {
+    "word": "palat",
+    "start": 22.372,
+    "end": 22.632
+  },
+  {
+    "word": "rahe",
+    "start": 22.685,
+    "end": 22.871
+  },
+  {
+    "word": "ho,",
+    "start": 22.924,
+    "end": 23.19
+  },
+  {
+    "word": "toh",
+    "start": 23.29,
+    "end": 23.59
+  },
+  {
+    "word": "tumhari",
+    "start": 23.63,
+    "end": 23.99
+  },
+  {
+    "word": "koi",
+    "start": 24.07,
+    "end": 24.31
+  },
+  {
+    "word": "aukaat",
+    "start": 24.39,
+    "end": 24.87
+  },
+  {
+    "word": "nahi",
+    "start": 24.91,
+    "end": 25.109
+  },
+  {
+    "word": "hai.",
+    "start": 25.169,
+    "end": 25.909
+  },
+  {
+    "word": "Treat",
+    "start": 26.002,
+    "end": 26.467
+  },
+  {
+    "word": "your",
+    "start": 26.499,
+    "end": 26.627
+  },
+  {
+    "word": "word",
+    "start": 26.691,
+    "end": 26.947
+  },
+  {
+    "word": "like",
+    "start": 26.979,
+    "end": 27.107
+  },
+  {
+    "word": "a",
+    "start": 27.147,
+    "end": 27.187
+  },
+  {
+    "word": "King's",
+    "start": 27.251,
+    "end": 27.587
+  },
+  {
+    "word": "decree.",
+    "start": 27.644,
+    "end": 28.146
+  },
+  {
+    "word": "Speak",
+    "start": 28.279,
+    "end": 28.944
+  },
+  {
+    "word": "once,",
+    "start": 29.04,
+    "end": 29.504
+  },
+  {
+    "word": "and",
+    "start": 29.584,
+    "end": 29.824
+  },
+  {
+    "word": "make",
+    "start": 29.872,
+    "end": 30.064
+  },
+  {
+    "word": "it",
+    "start": 30.091,
+    "end": 30.145
+  },
+  {
+    "word": "happen.",
+    "start": 30.202,
+    "end": 30.624
+  },
+  {
+    "word": "Share",
+    "start": 30.811,
+    "end": 31.746
+  },
+  {
+    "word": "this",
+    "start": 31.794,
+    "end": 31.986
+  },
+  {
+    "word": "with",
+    "start": 32.018,
+    "end": 32.146
+  },
+  {
+    "word": "that",
+    "start": 32.194,
+    "end": 32.386
+  },
+  {
+    "word": "'all",
+    "start": 32.466,
+    "end": 32.786
+  },
+  {
+    "word": "talk,",
+    "start": 32.866,
+    "end": 33.266
+  },
+  {
+    "word": "no",
+    "start": 33.319,
+    "end": 33.425
+  },
+  {
+    "word": "action'",
+    "start": 33.482,
+    "end": 34.024
+  },
+  {
+    "word": "friend",
+    "start": 34.053,
+    "end": 34.227
+  },
+  {
+    "word": "who",
+    "start": 34.267,
+    "end": 34.387
+  },
+  {
+    "word": "needs",
+    "start": 34.427,
+    "end": 34.627
+  },
+  {
+    "word": "a",
+    "start": 34.667,
+    "end": 34.707
+  },
+  {
+    "word": "reality",
+    "start": 34.767,
+    "end": 35.187
+  },
+  {
+    "word": "check.",
+    "start": 35.254,
+    "end": 35.749
+  }
+]

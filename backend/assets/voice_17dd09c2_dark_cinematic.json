@@ -1,0 +1,492 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.48
+  },
+  {
+    "word": "DESTROYING",
+    "start": 0.544,
+    "end": 1.121
+  },
+  {
+    "word": "YOUR",
+    "start": 1.153,
+    "end": 1.281
+  },
+  {
+    "word": "VALUE!",
+    "start": 1.401,
+    "end": 2.081
+  },
+  {
+    "word": "Lamba",
+    "start": 2.369,
+    "end": 3.601
+  },
+  {
+    "word": "safar",
+    "start": 3.681,
+    "end": 4.081
+  },
+  {
+    "word": "shareer",
+    "start": 4.134,
+    "end": 4.479
+  },
+  {
+    "word": "ko",
+    "start": 4.532,
+    "end": 4.638
+  },
+  {
+    "word": "budha",
+    "start": 4.698,
+    "end": 4.958
+  },
+  {
+    "word": "karta",
+    "start": 4.998,
+    "end": 5.358
+  },
+  {
+    "word": "hai,",
+    "start": 5.398,
+    "end": 5.998
+  },
+  {
+    "word": "lagataar",
+    "start": 6.058,
+    "end": 6.638
+  },
+  {
+    "word": "behne",
+    "start": 6.698,
+    "end": 6.958
+  },
+  {
+    "word": "wala",
+    "start": 7.038,
+    "end": 7.277
+  },
+  {
+    "word": "paani",
+    "start": 7.33,
+    "end": 7.676
+  },
+  {
+    "word": "pahadon",
+    "start": 7.796,
+    "end": 8.236
+  },
+  {
+    "word": "ko",
+    "start": 8.289,
+    "end": 8.395
+  },
+  {
+    "word": "gisa",
+    "start": 8.475,
+    "end": 8.876
+  },
+  {
+    "word": "deta",
+    "start": 8.916,
+    "end": 9.196
+  },
+  {
+    "word": "hai,",
+    "start": 9.236,
+    "end": 9.916
+  },
+  {
+    "word": "prem",
+    "start": 9.996,
+    "end": 10.316
+  },
+  {
+    "word": "aur",
+    "start": 10.376,
+    "end": 10.556
+  },
+  {
+    "word": "dhyan",
+    "start": 10.609,
+    "end": 10.955
+  },
+  {
+    "word": "ka",
+    "start": 11.008,
+    "end": 11.114
+  },
+  {
+    "word": "abhaav",
+    "start": 11.167,
+    "end": 11.673
+  },
+  {
+    "word": "rishton",
+    "start": 11.793,
+    "end": 12.313
+  },
+  {
+    "word": "ko",
+    "start": 12.393,
+    "end": 12.553
+  },
+  {
+    "word": "tod",
+    "start": 12.633,
+    "end": 12.873
+  },
+  {
+    "word": "deta",
+    "start": 12.913,
+    "end": 13.193
+  },
+  {
+    "word": "hai,",
+    "start": 13.253,
+    "end": 13.913
+  },
+  {
+    "word": "aur",
+    "start": 13.953,
+    "end": 14.073
+  },
+  {
+    "word": "tez",
+    "start": 14.213,
+    "end": 14.633
+  },
+  {
+    "word": "dhoop",
+    "start": 14.713,
+    "end": 15.113
+  },
+  {
+    "word": "kapdon",
+    "start": 15.253,
+    "end": 15.832
+  },
+  {
+    "word": "ki",
+    "start": 15.885,
+    "end": 15.991
+  },
+  {
+    "word": "chamak",
+    "start": 16.071,
+    "end": 16.471
+  },
+  {
+    "word": "cheen",
+    "start": 16.531,
+    "end": 16.791
+  },
+  {
+    "word": "leti",
+    "start": 16.851,
+    "end": 17.111
+  },
+  {
+    "word": "hai.",
+    "start": 17.151,
+    "end": 17.351
+  },
+  {
+    "word": "Bro,",
+    "start": 17.651,
+    "end": 18.631
+  },
+  {
+    "word": "toxic",
+    "start": 18.804,
+    "end": 19.669
+  },
+  {
+    "word": "corporate",
+    "start": 19.709,
+    "end": 20.069
+  },
+  {
+    "word": "culture",
+    "start": 20.119,
+    "end": 20.469
+  },
+  {
+    "word": "mein",
+    "start": 20.501,
+    "end": 20.629
+  },
+  {
+    "word": "tum",
+    "start": 20.709,
+    "end": 20.949
+  },
+  {
+    "word": "apna",
+    "start": 21.056,
+    "end": 21.43
+  },
+  {
+    "word": "hi",
+    "start": 21.51,
+    "end": 21.67
+  },
+  {
+    "word": "'Self-Destruction'",
+    "start": 21.79,
+    "end": 22.87
+  },
+  {
+    "word": "kar",
+    "start": 22.89,
+    "end": 22.95
+  },
+  {
+    "word": "rahe",
+    "start": 23.003,
+    "end": 23.189
+  },
+  {
+    "word": "ho.",
+    "start": 23.269,
+    "end": 23.509
+  },
+  {
+    "word": "Tumhari",
+    "start": 23.829,
+    "end": 24.549
+  },
+  {
+    "word": "over-availability",
+    "start": 24.645,
+    "end": 25.913
+  },
+  {
+    "word": "tumhari",
+    "start": 26.033,
+    "end": 26.633
+  },
+  {
+    "word": "value",
+    "start": 26.713,
+    "end": 27.113
+  },
+  {
+    "word": "gira",
+    "start": 27.153,
+    "end": 27.352
+  },
+  {
+    "word": "rahi",
+    "start": 27.392,
+    "end": 27.672
+  },
+  {
+    "word": "hai,",
+    "start": 27.712,
+    "end": 28.392
+  },
+  {
+    "word": "jaise",
+    "start": 28.432,
+    "end": 28.792
+  },
+  {
+    "word": "dhoop",
+    "start": 28.872,
+    "end": 29.272
+  },
+  {
+    "word": "kapde",
+    "start": 29.412,
+    "end": 29.912
+  },
+  {
+    "word": "ka",
+    "start": 29.965,
+    "end": 30.071
+  },
+  {
+    "word": "rang",
+    "start": 30.135,
+    "end": 30.391
+  },
+  {
+    "word": "uda",
+    "start": 30.431,
+    "end": 30.631
+  },
+  {
+    "word": "deti",
+    "start": 30.711,
+    "end": 31.071
+  },
+  {
+    "word": "hai.",
+    "start": 31.101,
+    "end": 31.831
+  },
+  {
+    "word": "Apne",
+    "start": 31.911,
+    "end": 32.151
+  },
+  {
+    "word": "circle",
+    "start": 32.22,
+    "end": 32.634
+  },
+  {
+    "word": "mein",
+    "start": 32.682,
+    "end": 32.874
+  },
+  {
+    "word": "har",
+    "start": 32.954,
+    "end": 33.194
+  },
+  {
+    "word": "kisi",
+    "start": 33.274,
+    "end": 33.513
+  },
+  {
+    "word": "ke",
+    "start": 33.566,
+    "end": 33.672
+  },
+  {
+    "word": "liye",
+    "start": 33.699,
+    "end": 33.913
+  },
+  {
+    "word": "24/7",
+    "start": 34.073,
+    "end": 35.113
+  },
+  {
+    "word": "available",
+    "start": 35.177,
+    "end": 35.753
+  },
+  {
+    "word": "rehna",
+    "start": 35.793,
+    "end": 36.073
+  },
+  {
+    "word": "band",
+    "start": 36.153,
+    "end": 36.473
+  },
+  {
+    "word": "karo.",
+    "start": 36.513,
+    "end": 37.512
+  },
+  {
+    "word": "Protect",
+    "start": 37.572,
+    "end": 37.992
+  },
+  {
+    "word": "your",
+    "start": 38.024,
+    "end": 38.152
+  },
+  {
+    "word": "energy",
+    "start": 38.221,
+    "end": 38.635
+  },
+  {
+    "word": "for",
+    "start": 38.675,
+    "end": 38.795
+  },
+  {
+    "word": "actual",
+    "start": 38.875,
+    "end": 39.355
+  },
+  {
+    "word": "growth.",
+    "start": 39.435,
+    "end": 40.435
+  },
+  {
+    "word": "Share",
+    "start": 40.522,
+    "end": 40.957
+  },
+  {
+    "word": "this",
+    "start": 41.005,
+    "end": 41.197
+  },
+  {
+    "word": "reel",
+    "start": 41.261,
+    "end": 41.517
+  },
+  {
+    "word": "with",
+    "start": 41.549,
+    "end": 41.677
+  },
+  {
+    "word": "that",
+    "start": 41.725,
+    "end": 41.917
+  },
+  {
+    "word": "one",
+    "start": 41.997,
+    "end": 42.237
+  },
+  {
+    "word": "friend",
+    "start": 42.294,
+    "end": 42.636
+  },
+  {
+    "word": "who",
+    "start": 42.736,
+    "end": 43.036
+  },
+  {
+    "word": "is",
+    "start": 43.089,
+    "end": 43.195
+  },
+  {
+    "word": "always",
+    "start": 43.264,
+    "end": 43.678
+  },
+  {
+    "word": "over-available",
+    "start": 43.774,
+    "end": 44.798
+  },
+  {
+    "word": "and",
+    "start": 44.858,
+    "end": 45.038
+  },
+  {
+    "word": "burning",
+    "start": 45.098,
+    "end": 45.518
+  },
+  {
+    "word": "out.",
+    "start": 45.598,
+    "end": 45.998
+  }
+]

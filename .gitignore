@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Output files
+backend/output/
+backend/bot_profile/
+*.mp4
+*.mp3
+*.jpg
+*.png
+__pycache__/
+*.pyc
+backend/.env
+backend/playwright_youtube_profile/
+backend/playwright_instagram_profile/
+*.wav
+database.db
+database.db-wal
+database.db-shm
+.venv/
+node_modules/
+backend/temp_upload_data.json
+backend/last_quote_id.txt
+backend/scheduler_runs.json
+backend/assets/voice_*.wav

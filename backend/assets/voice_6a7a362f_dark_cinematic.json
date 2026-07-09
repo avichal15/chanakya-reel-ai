@@ -1,0 +1,412 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "FEELINGS",
+    "start": 0.347,
+    "end": 1.041
+  },
+  {
+    "word": "ARE",
+    "start": 1.141,
+    "end": 1.441
+  },
+  {
+    "word": "DESTROYING",
+    "start": 1.553,
+    "end": 2.4
+  },
+  {
+    "word": "YOU!",
+    "start": 2.48,
+    "end": 2.8
+  },
+  {
+    "word": "Chanakya",
+    "start": 3.056,
+    "end": 4.4
+  },
+  {
+    "word": "ne",
+    "start": 4.453,
+    "end": 4.559
+  },
+  {
+    "word": "kaha",
+    "start": 4.599,
+    "end": 4.798
+  },
+  {
+    "word": "tha:",
+    "start": 4.858,
+    "end": 5.118
+  },
+  {
+    "word": "Kaam",
+    "start": 5.411,
+    "end": 6.317
+  },
+  {
+    "word": "(lust/desire)",
+    "start": 6.477,
+    "end": 7.918
+  },
+  {
+    "word": "jaisi",
+    "start": 8.038,
+    "end": 8.478
+  },
+  {
+    "word": "koi",
+    "start": 8.558,
+    "end": 8.798
+  },
+  {
+    "word": "bimari",
+    "start": 8.838,
+    "end": 9.197
+  },
+  {
+    "word": "nahi,",
+    "start": 9.237,
+    "end": 10.077
+  },
+  {
+    "word": "Moh",
+    "start": 10.217,
+    "end": 10.637
+  },
+  {
+    "word": "(attachment)",
+    "start": 10.837,
+    "end": 12.037
+  },
+  {
+    "word": "jaisa",
+    "start": 12.177,
+    "end": 12.637
+  },
+  {
+    "word": "koi",
+    "start": 12.717,
+    "end": 12.957
+  },
+  {
+    "word": "dushman",
+    "start": 13.037,
+    "end": 13.435
+  },
+  {
+    "word": "nahi,",
+    "start": 13.475,
+    "end": 14.395
+  },
+  {
+    "word": "Krodh",
+    "start": 14.475,
+    "end": 15.154
+  },
+  {
+    "word": "(anger)",
+    "start": 15.254,
+    "end": 15.834
+  },
+  {
+    "word": "jaisi",
+    "start": 16.114,
+    "end": 16.714
+  },
+  {
+    "word": "koi",
+    "start": 16.834,
+    "end": 17.194
+  },
+  {
+    "word": "aag",
+    "start": 17.314,
+    "end": 17.594
+  },
+  {
+    "word": "nahi,",
+    "start": 17.634,
+    "end": 17.994
+  },
+  {
+    "word": "aur",
+    "start": 18.154,
+    "end": 18.634
+  },
+  {
+    "word": "Gyaan",
+    "start": 18.714,
+    "end": 19.194
+  },
+  {
+    "word": "(knowledge)",
+    "start": 19.434,
+    "end": 20.231
+  },
+  {
+    "word": "jaisa",
+    "start": 20.471,
+    "end": 20.95
+  },
+  {
+    "word": "koi",
+    "start": 21.07,
+    "end": 21.35
+  },
+  {
+    "word": "sukh",
+    "start": 21.457,
+    "end": 21.751
+  },
+  {
+    "word": "nahi.",
+    "start": 21.831,
+    "end": 22.231
+  },
+  {
+    "word": "Bro,",
+    "start": 22.511,
+    "end": 23.431
+  },
+  {
+    "word": "aaj",
+    "start": 23.551,
+    "end": 23.831
+  },
+  {
+    "word": "ki",
+    "start": 23.858,
+    "end": 23.912
+  },
+  {
+    "word": "generation",
+    "start": 23.97,
+    "end": 24.55
+  },
+  {
+    "word": "cheap",
+    "start": 24.63,
+    "end": 25.03
+  },
+  {
+    "word": "dopamine,",
+    "start": 25.101,
+    "end": 26.069
+  },
+  {
+    "word": "toxic",
+    "start": 26.149,
+    "end": 26.549
+  },
+  {
+    "word": "attachments,",
+    "start": 26.616,
+    "end": 27.673
+  },
+  {
+    "word": "aur",
+    "start": 27.713,
+    "end": 27.833
+  },
+  {
+    "word": "faltu",
+    "start": 27.913,
+    "end": 28.394
+  },
+  {
+    "word": "ke",
+    "start": 28.447,
+    "end": 28.553
+  },
+  {
+    "word": "ego",
+    "start": 28.653,
+    "end": 28.953
+  },
+  {
+    "word": "clashes",
+    "start": 29.013,
+    "end": 29.433
+  },
+  {
+    "word": "mein",
+    "start": 29.465,
+    "end": 29.593
+  },
+  {
+    "word": "fassi",
+    "start": 29.673,
+    "end": 30.073
+  },
+  {
+    "word": "hai.",
+    "start": 30.113,
+    "end": 30.313
+  },
+  {
+    "word": "Tumhara",
+    "start": 30.633,
+    "end": 31.272
+  },
+  {
+    "word": "gussa",
+    "start": 31.352,
+    "end": 31.751
+  },
+  {
+    "word": "aur",
+    "start": 31.811,
+    "end": 31.991
+  },
+  {
+    "word": "desperation",
+    "start": 32.064,
+    "end": 32.867
+  },
+  {
+    "word": "tumhari",
+    "start": 32.907,
+    "end": 33.267
+  },
+  {
+    "word": "growth",
+    "start": 33.324,
+    "end": 33.666
+  },
+  {
+    "word": "kha",
+    "start": 33.706,
+    "end": 33.826
+  },
+  {
+    "word": "rahe",
+    "start": 33.879,
+    "end": 34.145
+  },
+  {
+    "word": "hain.",
+    "start": 34.185,
+    "end": 34.386
+  },
+  {
+    "word": "Focus",
+    "start": 34.586,
+    "end": 35.586
+  },
+  {
+    "word": "on",
+    "start": 35.639,
+    "end": 35.745
+  },
+  {
+    "word": "building",
+    "start": 35.789,
+    "end": 36.141
+  },
+  {
+    "word": "knowledge,",
+    "start": 36.197,
+    "end": 37.181
+  },
+  {
+    "word": "wahi",
+    "start": 37.261,
+    "end": 37.581
+  },
+  {
+    "word": "tumhara",
+    "start": 37.641,
+    "end": 38.06
+  },
+  {
+    "word": "ultimate",
+    "start": 38.131,
+    "end": 38.699
+  },
+  {
+    "word": "weapon",
+    "start": 38.756,
+    "end": 39.098
+  },
+  {
+    "word": "hai.",
+    "start": 39.158,
+    "end": 39.498
+  },
+  {
+    "word": "Share",
+    "start": 39.671,
+    "end": 40.536
+  },
+  {
+    "word": "this",
+    "start": 40.584,
+    "end": 40.776
+  },
+  {
+    "word": "reel",
+    "start": 40.84,
+    "end": 41.096
+  },
+  {
+    "word": "with",
+    "start": 41.128,
+    "end": 41.256
+  },
+  {
+    "word": "your",
+    "start": 41.272,
+    "end": 41.336
+  },
+  {
+    "word": "circle",
+    "start": 41.427,
+    "end": 41.973
+  },
+  {
+    "word": "and",
+    "start": 42.093,
+    "end": 42.453
+  },
+  {
+    "word": "remind",
+    "start": 42.51,
+    "end": 42.852
+  },
+  {
+    "word": "them",
+    "start": 42.884,
+    "end": 43.012
+  },
+  {
+    "word": "what",
+    "start": 43.06,
+    "end": 43.252
+  },
+  {
+    "word": "real",
+    "start": 43.332,
+    "end": 43.652
+  },
+  {
+    "word": "power",
+    "start": 43.719,
+    "end": 44.054
+  },
+  {
+    "word": "looks",
+    "start": 44.121,
+    "end": 44.456
+  },
+  {
+    "word": "like.",
+    "start": 44.52,
+    "end": 44.856
+  }
+]

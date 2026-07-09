@@ -1,0 +1,517 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.48
+  },
+  {
+    "word": "RUNNING",
+    "start": 0.54,
+    "end": 0.96
+  },
+  {
+    "word": "AWAY!",
+    "start": 1.04,
+    "end": 1.68
+  },
+  {
+    "word": "Darr",
+    "start": 2.32,
+    "end": 3.119
+  },
+  {
+    "word": "tumhe",
+    "start": 3.179,
+    "end": 3.519
+  },
+  {
+    "word": "tab",
+    "start": 3.599,
+    "end": 3.839
+  },
+  {
+    "word": "tak",
+    "start": 3.899,
+    "end": 4.079
+  },
+  {
+    "word": "kamzor",
+    "start": 4.139,
+    "end": 4.479
+  },
+  {
+    "word": "banata",
+    "start": 4.519,
+    "end": 4.879
+  },
+  {
+    "word": "hai,",
+    "start": 4.939,
+    "end": 5.599
+  },
+  {
+    "word": "jab",
+    "start": 5.659,
+    "end": 5.839
+  },
+  {
+    "word": "tak",
+    "start": 5.899,
+    "end": 6.079
+  },
+  {
+    "word": "tum",
+    "start": 6.119,
+    "end": 6.239
+  },
+  {
+    "word": "usse",
+    "start": 6.319,
+    "end": 6.559
+  },
+  {
+    "word": "bhagte",
+    "start": 6.639,
+    "end": 7.199
+  },
+  {
+    "word": "ho.",
+    "start": 7.252,
+    "end": 8.158
+  },
+  {
+    "word": "Chanakya",
+    "start": 8.206,
+    "end": 8.638
+  },
+  {
+    "word": "ne",
+    "start": 8.691,
+    "end": 8.797
+  },
+  {
+    "word": "kaha",
+    "start": 8.837,
+    "end": 9.117
+  },
+  {
+    "word": "tha:",
+    "start": 9.157,
+    "end": 9.357
+  },
+  {
+    "word": "Dar",
+    "start": 9.577,
+    "end": 10.237
+  },
+  {
+    "word": "se",
+    "start": 10.317,
+    "end": 10.477
+  },
+  {
+    "word": "tab",
+    "start": 10.537,
+    "end": 10.717
+  },
+  {
+    "word": "tak",
+    "start": 10.777,
+    "end": 10.957
+  },
+  {
+    "word": "hi",
+    "start": 10.984,
+    "end": 11.038
+  },
+  {
+    "word": "daro",
+    "start": 11.118,
+    "end": 11.438
+  },
+  {
+    "word": "jab",
+    "start": 11.598,
+    "end": 12.078
+  },
+  {
+    "word": "tak",
+    "start": 12.138,
+    "end": 12.318
+  },
+  {
+    "word": "wo",
+    "start": 12.345,
+    "end": 12.399
+  },
+  {
+    "word": "door",
+    "start": 12.463,
+    "end": 12.719
+  },
+  {
+    "word": "hai.",
+    "start": 12.779,
+    "end": 13.679
+  },
+  {
+    "word": "Lekin",
+    "start": 13.719,
+    "end": 13.919
+  },
+  {
+    "word": "jaise",
+    "start": 13.999,
+    "end": 14.399
+  },
+  {
+    "word": "hi",
+    "start": 14.452,
+    "end": 14.558
+  },
+  {
+    "word": "dar",
+    "start": 14.638,
+    "end": 14.878
+  },
+  {
+    "word": "saamne",
+    "start": 14.958,
+    "end": 15.358
+  },
+  {
+    "word": "aa",
+    "start": 15.411,
+    "end": 15.517
+  },
+  {
+    "word": "jaye,",
+    "start": 15.597,
+    "end": 15.838
+  },
+  {
+    "word": "toh",
+    "start": 15.958,
+    "end": 16.318
+  },
+  {
+    "word": "bina",
+    "start": 16.358,
+    "end": 16.638
+  },
+  {
+    "word": "kisi",
+    "start": 16.678,
+    "end": 16.877
+  },
+  {
+    "word": "sankoch",
+    "start": 16.973,
+    "end": 17.597
+  },
+  {
+    "word": "ke",
+    "start": 17.65,
+    "end": 17.756
+  },
+  {
+    "word": "us",
+    "start": 17.863,
+    "end": 18.077
+  },
+  {
+    "word": "par",
+    "start": 18.117,
+    "end": 18.237
+  },
+  {
+    "word": "prahaar",
+    "start": 18.29,
+    "end": 18.716
+  },
+  {
+    "word": "karke",
+    "start": 18.796,
+    "end": 19.116
+  },
+  {
+    "word": "use",
+    "start": 19.216,
+    "end": 19.516
+  },
+  {
+    "word": "nasht",
+    "start": 19.596,
+    "end": 19.916
+  },
+  {
+    "word": "kar",
+    "start": 19.956,
+    "end": 20.076
+  },
+  {
+    "word": "do.",
+    "start": 20.156,
+    "end": 20.396
+  },
+  {
+    "word": "Bro,",
+    "start": 20.696,
+    "end": 21.676
+  },
+  {
+    "word": "'Overthinking'",
+    "start": 21.916,
+    "end": 23.236
+  },
+  {
+    "word": "aur",
+    "start": 23.286,
+    "end": 23.436
+  },
+  {
+    "word": "'Anxiety'",
+    "start": 23.476,
+    "end": 24.276
+  },
+  {
+    "word": "mein",
+    "start": 24.3,
+    "end": 24.396
+  },
+  {
+    "word": "time",
+    "start": 24.476,
+    "end": 24.796
+  },
+  {
+    "word": "waste",
+    "start": 24.849,
+    "end": 25.114
+  },
+  {
+    "word": "karna",
+    "start": 25.154,
+    "end": 25.434
+  },
+  {
+    "word": "chhod",
+    "start": 25.487,
+    "end": 25.752
+  },
+  {
+    "word": "do.",
+    "start": 25.805,
+    "end": 25.991
+  },
+  {
+    "word": "Chaahe",
+    "start": 26.231,
+    "end": 26.951
+  },
+  {
+    "word": "toxic",
+    "start": 27.031,
+    "end": 27.431
+  },
+  {
+    "word": "boss",
+    "start": 27.511,
+    "end": 27.831
+  },
+  {
+    "word": "ko",
+    "start": 27.858,
+    "end": 27.912
+  },
+  {
+    "word": "confront",
+    "start": 27.974,
+    "end": 28.47
+  },
+  {
+    "word": "karna",
+    "start": 28.51,
+    "end": 28.79
+  },
+  {
+    "word": "ho",
+    "start": 28.897,
+    "end": 29.111
+  },
+  {
+    "word": "ya",
+    "start": 29.271,
+    "end": 29.591
+  },
+  {
+    "word": "apna",
+    "start": 29.671,
+    "end": 29.911
+  },
+  {
+    "word": "growth",
+    "start": 29.98,
+    "end": 30.394
+  },
+  {
+    "word": "rokne",
+    "start": 30.454,
+    "end": 30.794
+  },
+  {
+    "word": "wale",
+    "start": 30.834,
+    "end": 31.033
+  },
+  {
+    "word": "circle",
+    "start": 31.09,
+    "end": 31.432
+  },
+  {
+    "word": "se",
+    "start": 31.485,
+    "end": 31.591
+  },
+  {
+    "word": "nikalna",
+    "start": 31.651,
+    "end": 32.071
+  },
+  {
+    "word": "ho.",
+    "start": 32.124,
+    "end": 32.31
+  },
+  {
+    "word": "Jab",
+    "start": 32.55,
+    "end": 33.27
+  },
+  {
+    "word": "challenge",
+    "start": 33.31,
+    "end": 33.67
+  },
+  {
+    "word": "saamne",
+    "start": 33.75,
+    "end": 34.07
+  },
+  {
+    "word": "ho,",
+    "start": 34.15,
+    "end": 34.55
+  },
+  {
+    "word": "toh",
+    "start": 34.61,
+    "end": 34.79
+  },
+  {
+    "word": "Sigma",
+    "start": 34.857,
+    "end": 35.192
+  },
+  {
+    "word": "ki",
+    "start": 35.245,
+    "end": 35.351
+  },
+  {
+    "word": "tarah",
+    "start": 35.411,
+    "end": 35.671
+  },
+  {
+    "word": "use",
+    "start": 35.751,
+    "end": 35.991
+  },
+  {
+    "word": "crush",
+    "start": 36.058,
+    "end": 36.393
+  },
+  {
+    "word": "karo,",
+    "start": 36.433,
+    "end": 36.952
+  },
+  {
+    "word": "bhago",
+    "start": 37.005,
+    "end": 37.351
+  },
+  {
+    "word": "mat.",
+    "start": 37.411,
+    "end": 37.671
+  },
+  {
+    "word": "Share",
+    "start": 37.844,
+    "end": 38.709
+  },
+  {
+    "word": "this",
+    "start": 38.757,
+    "end": 38.949
+  },
+  {
+    "word": "with",
+    "start": 38.981,
+    "end": 39.109
+  },
+  {
+    "word": "that",
+    "start": 39.141,
+    "end": 39.269
+  },
+  {
+    "word": "one",
+    "start": 39.369,
+    "end": 39.669
+  },
+  {
+    "word": "friend",
+    "start": 39.726,
+    "end": 40.068
+  },
+  {
+    "word": "who",
+    "start": 40.128,
+    "end": 40.308
+  },
+  {
+    "word": "is",
+    "start": 40.361,
+    "end": 40.467
+  },
+  {
+    "word": "overthinking",
+    "start": 40.563,
+    "end": 41.347
+  },
+  {
+    "word": "instead",
+    "start": 41.407,
+    "end": 41.827
+  },
+  {
+    "word": "of",
+    "start": 41.854,
+    "end": 41.908
+  },
+  {
+    "word": "taking",
+    "start": 41.965,
+    "end": 42.307
+  },
+  {
+    "word": "action.",
+    "start": 42.387,
+    "end": 42.947
+  }
+]

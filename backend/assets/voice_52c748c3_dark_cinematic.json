@@ -1,0 +1,557 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "ATTACHMENTS",
+    "start": 0.24,
+    "end": 0.96
+  },
+  {
+    "word": "ARE",
+    "start": 1.02,
+    "end": 1.2
+  },
+  {
+    "word": "DESTROYING",
+    "start": 1.312,
+    "end": 2.078
+  },
+  {
+    "word": "YOU!",
+    "start": 2.138,
+    "end": 2.478
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.718,
+    "end": 3.918
+  },
+  {
+    "word": "ne",
+    "start": 3.971,
+    "end": 4.077
+  },
+  {
+    "word": "kaha",
+    "start": 4.117,
+    "end": 4.316
+  },
+  {
+    "word": "tha:",
+    "start": 4.376,
+    "end": 4.636
+  },
+  {
+    "word": "Ek",
+    "start": 4.956,
+    "end": 5.596
+  },
+  {
+    "word": "sachhe",
+    "start": 5.66,
+    "end": 5.996
+  },
+  {
+    "word": "gyaani",
+    "start": 6.076,
+    "end": 6.395
+  },
+  {
+    "word": "ke",
+    "start": 6.448,
+    "end": 6.554
+  },
+  {
+    "word": "liye",
+    "start": 6.607,
+    "end": 6.793
+  },
+  {
+    "word": "swarg",
+    "start": 6.9,
+    "end": 7.354
+  },
+  {
+    "word": "tinke",
+    "start": 7.434,
+    "end": 7.754
+  },
+  {
+    "word": "ke",
+    "start": 7.807,
+    "end": 7.913
+  },
+  {
+    "word": "barabar",
+    "start": 7.953,
+    "end": 8.313
+  },
+  {
+    "word": "hai,",
+    "start": 8.353,
+    "end": 9.113
+  },
+  {
+    "word": "ek",
+    "start": 9.166,
+    "end": 9.272
+  },
+  {
+    "word": "shurveer",
+    "start": 9.325,
+    "end": 9.751
+  },
+  {
+    "word": "ke",
+    "start": 9.804,
+    "end": 9.91
+  },
+  {
+    "word": "liye",
+    "start": 9.963,
+    "end": 10.229
+  },
+  {
+    "word": "uska",
+    "start": 10.362,
+    "end": 10.788
+  },
+  {
+    "word": "jeevan",
+    "start": 10.868,
+    "end": 11.267
+  },
+  {
+    "word": "tinke",
+    "start": 11.347,
+    "end": 11.747
+  },
+  {
+    "word": "jaisa",
+    "start": 11.787,
+    "end": 12.066
+  },
+  {
+    "word": "hai,",
+    "start": 12.126,
+    "end": 12.466
+  },
+  {
+    "word": "jisne",
+    "start": 12.786,
+    "end": 13.346
+  },
+  {
+    "word": "khud",
+    "start": 13.399,
+    "end": 13.585
+  },
+  {
+    "word": "par",
+    "start": 13.645,
+    "end": 13.825
+  },
+  {
+    "word": "kaabu",
+    "start": 13.905,
+    "end": 14.225
+  },
+  {
+    "word": "pa",
+    "start": 14.278,
+    "end": 14.384
+  },
+  {
+    "word": "liya",
+    "start": 14.437,
+    "end": 14.703
+  },
+  {
+    "word": "uske",
+    "start": 14.916,
+    "end": 15.422
+  },
+  {
+    "word": "liye",
+    "start": 15.449,
+    "end": 15.583
+  },
+  {
+    "word": "vasna",
+    "start": 15.683,
+    "end": 16.143
+  },
+  {
+    "word": "tinke",
+    "start": 16.223,
+    "end": 16.623
+  },
+  {
+    "word": "ke",
+    "start": 16.676,
+    "end": 16.782
+  },
+  {
+    "word": "barabar",
+    "start": 16.822,
+    "end": 17.102
+  },
+  {
+    "word": "hai,",
+    "start": 17.162,
+    "end": 17.422
+  },
+  {
+    "word": "aur",
+    "start": 17.642,
+    "end": 18.302
+  },
+  {
+    "word": "jise",
+    "start": 18.342,
+    "end": 18.622
+  },
+  {
+    "word": "koi",
+    "start": 18.742,
+    "end": 19.022
+  },
+  {
+    "word": "lalach",
+    "start": 19.102,
+    "end": 19.502
+  },
+  {
+    "word": "nahi,",
+    "start": 19.542,
+    "end": 20.302
+  },
+  {
+    "word": "uske",
+    "start": 20.409,
+    "end": 20.703
+  },
+  {
+    "word": "liye",
+    "start": 20.73,
+    "end": 20.944
+  },
+  {
+    "word": "ye",
+    "start": 20.997,
+    "end": 21.103
+  },
+  {
+    "word": "poori",
+    "start": 21.199,
+    "end": 21.663
+  },
+  {
+    "word": "duniya",
+    "start": 21.743,
+    "end": 22.062
+  },
+  {
+    "word": "ek",
+    "start": 22.169,
+    "end": 22.383
+  },
+  {
+    "word": "tinke",
+    "start": 22.463,
+    "end": 22.863
+  },
+  {
+    "word": "ke",
+    "start": 22.916,
+    "end": 23.022
+  },
+  {
+    "word": "samaan",
+    "start": 23.086,
+    "end": 23.422
+  },
+  {
+    "word": "hai.",
+    "start": 23.482,
+    "end": 23.742
+  },
+  {
+    "word": "Bro,",
+    "start": 24.042,
+    "end": 25.022
+  },
+  {
+    "word": "jab",
+    "start": 25.162,
+    "end": 25.582
+  },
+  {
+    "word": "tak",
+    "start": 25.642,
+    "end": 25.822
+  },
+  {
+    "word": "tum",
+    "start": 25.882,
+    "end": 26.062
+  },
+  {
+    "word": "cheap",
+    "start": 26.129,
+    "end": 26.464
+  },
+  {
+    "word": "dopamine,",
+    "start": 26.535,
+    "end": 27.503
+  },
+  {
+    "word": "toxic",
+    "start": 27.583,
+    "end": 27.983
+  },
+  {
+    "word": "relationships,",
+    "start": 28.04,
+    "end": 28.941
+  },
+  {
+    "word": "aur",
+    "start": 29.021,
+    "end": 29.261
+  },
+  {
+    "word": "society",
+    "start": 29.341,
+    "end": 29.901
+  },
+  {
+    "word": "ke",
+    "start": 29.954,
+    "end": 30.06
+  },
+  {
+    "word": "validation",
+    "start": 30.118,
+    "end": 30.698
+  },
+  {
+    "word": "ke",
+    "start": 30.751,
+    "end": 30.857
+  },
+  {
+    "word": "peeche",
+    "start": 30.917,
+    "end": 31.178
+  },
+  {
+    "word": "bhagoge,",
+    "start": 31.231,
+    "end": 31.898
+  },
+  {
+    "word": "tum",
+    "start": 32.078,
+    "end": 32.618
+  },
+  {
+    "word": "easily",
+    "start": 32.687,
+    "end": 33.101
+  },
+  {
+    "word": "manipulate",
+    "start": 33.159,
+    "end": 33.739
+  },
+  {
+    "word": "ho",
+    "start": 33.792,
+    "end": 33.898
+  },
+  {
+    "word": "jaoge.",
+    "start": 33.951,
+    "end": 34.457
+  },
+  {
+    "word": "Apne",
+    "start": 34.75,
+    "end": 35.496
+  },
+  {
+    "word": "growth",
+    "start": 35.553,
+    "end": 35.895
+  },
+  {
+    "word": "par",
+    "start": 35.935,
+    "end": 36.055
+  },
+  {
+    "word": "itna",
+    "start": 36.162,
+    "end": 36.536
+  },
+  {
+    "word": "focus",
+    "start": 36.616,
+    "end": 37.016
+  },
+  {
+    "word": "karo",
+    "start": 37.056,
+    "end": 37.417
+  },
+  {
+    "word": "ki",
+    "start": 37.524,
+    "end": 37.738
+  },
+  {
+    "word": "koi",
+    "start": 37.858,
+    "end": 38.218
+  },
+  {
+    "word": "bhi",
+    "start": 38.258,
+    "end": 38.378
+  },
+  {
+    "word": "modern",
+    "start": 38.424,
+    "end": 38.7
+  },
+  {
+    "word": "distraction",
+    "start": 38.753,
+    "end": 39.336
+  },
+  {
+    "word": "tumhe",
+    "start": 39.376,
+    "end": 39.576
+  },
+  {
+    "word": "hila",
+    "start": 39.656,
+    "end": 39.976
+  },
+  {
+    "word": "na",
+    "start": 40.029,
+    "end": 40.135
+  },
+  {
+    "word": "sake.",
+    "start": 40.199,
+    "end": 40.615
+  },
+  {
+    "word": "Detachment",
+    "start": 40.855,
+    "end": 42.058
+  },
+  {
+    "word": "is",
+    "start": 42.138,
+    "end": 42.298
+  },
+  {
+    "word": "your",
+    "start": 42.33,
+    "end": 42.458
+  },
+  {
+    "word": "biggest",
+    "start": 42.518,
+    "end": 42.938
+  },
+  {
+    "word": "superpower.",
+    "start": 43.005,
+    "end": 43.74
+  },
+  {
+    "word": "Share",
+    "start": 43.927,
+    "end": 44.862
+  },
+  {
+    "word": "this",
+    "start": 44.894,
+    "end": 45.022
+  },
+  {
+    "word": "reel",
+    "start": 45.086,
+    "end": 45.342
+  },
+  {
+    "word": "with",
+    "start": 45.374,
+    "end": 45.502
+  },
+  {
+    "word": "a",
+    "start": 45.542,
+    "end": 45.582
+  },
+  {
+    "word": "brother",
+    "start": 45.622,
+    "end": 45.902
+  },
+  {
+    "word": "who",
+    "start": 45.942,
+    "end": 46.062
+  },
+  {
+    "word": "needs",
+    "start": 46.115,
+    "end": 46.38
+  },
+  {
+    "word": "to",
+    "start": 46.407,
+    "end": 46.461
+  },
+  {
+    "word": "drop",
+    "start": 46.541,
+    "end": 46.861
+  },
+  {
+    "word": "the",
+    "start": 46.881,
+    "end": 46.941
+  },
+  {
+    "word": "distractions",
+    "start": 47.003,
+    "end": 47.747
+  },
+  {
+    "word": "and",
+    "start": 47.827,
+    "end": 48.067
+  },
+  {
+    "word": "level",
+    "start": 48.134,
+    "end": 48.469
+  },
+  {
+    "word": "up.",
+    "start": 48.549,
+    "end": 48.869
+  }
+]

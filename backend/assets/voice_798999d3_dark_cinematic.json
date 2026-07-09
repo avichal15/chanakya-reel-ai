@@ -1,0 +1,577 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "FAKING",
+    "start": 0.4,
+    "end": 0.799
+  },
+  {
+    "word": "YOUR",
+    "start": 0.831,
+    "end": 0.959
+  },
+  {
+    "word": "AURA!",
+    "start": 1.079,
+    "end": 1.519
+  },
+  {
+    "word": "Chanakya",
+    "start": 1.839,
+    "end": 3.439
+  },
+  {
+    "word": "ne",
+    "start": 3.492,
+    "end": 3.598
+  },
+  {
+    "word": "kaha",
+    "start": 3.638,
+    "end": 3.837
+  },
+  {
+    "word": "tha:",
+    "start": 3.897,
+    "end": 4.237
+  },
+  {
+    "word": "Vidya",
+    "start": 4.397,
+    "end": 5.037
+  },
+  {
+    "word": "lagataar",
+    "start": 5.097,
+    "end": 5.677
+  },
+  {
+    "word": "abhyaas",
+    "start": 5.757,
+    "end": 6.237
+  },
+  {
+    "word": "se",
+    "start": 6.29,
+    "end": 6.396
+  },
+  {
+    "word": "tikti",
+    "start": 6.436,
+    "end": 6.796
+  },
+  {
+    "word": "hai,",
+    "start": 6.836,
+    "end": 7.516
+  },
+  {
+    "word": "parivar",
+    "start": 7.556,
+    "end": 7.996
+  },
+  {
+    "word": "ki",
+    "start": 8.049,
+    "end": 8.155
+  },
+  {
+    "word": "izzat",
+    "start": 8.235,
+    "end": 8.635
+  },
+  {
+    "word": "acche",
+    "start": 8.768,
+    "end": 9.193
+  },
+  {
+    "word": "aacharan",
+    "start": 9.233,
+    "end": 9.672
+  },
+  {
+    "word": "se",
+    "start": 9.725,
+    "end": 9.831
+  },
+  {
+    "word": "hoti",
+    "start": 9.891,
+    "end": 10.151
+  },
+  {
+    "word": "hai,",
+    "start": 10.211,
+    "end": 10.951
+  },
+  {
+    "word": "ek",
+    "start": 11.031,
+    "end": 11.191
+  },
+  {
+    "word": "shreshth",
+    "start": 11.244,
+    "end": 11.67
+  },
+  {
+    "word": "insaan",
+    "start": 11.77,
+    "end": 12.391
+  },
+  {
+    "word": "uske",
+    "start": 12.498,
+    "end": 12.792
+  },
+  {
+    "word": "gunon",
+    "start": 12.852,
+    "end": 13.112
+  },
+  {
+    "word": "se",
+    "start": 13.192,
+    "end": 13.352
+  },
+  {
+    "word": "pehchana",
+    "start": 13.405,
+    "end": 13.911
+  },
+  {
+    "word": "jata",
+    "start": 13.991,
+    "end": 14.23
+  },
+  {
+    "word": "hai,",
+    "start": 14.29,
+    "end": 15.03
+  },
+  {
+    "word": "aur",
+    "start": 15.07,
+    "end": 15.19
+  },
+  {
+    "word": "insaan",
+    "start": 15.27,
+    "end": 15.669
+  },
+  {
+    "word": "ka",
+    "start": 15.722,
+    "end": 15.828
+  },
+  {
+    "word": "gussa",
+    "start": 15.908,
+    "end": 16.387
+  },
+  {
+    "word": "uski",
+    "start": 16.574,
+    "end": 17.028
+  },
+  {
+    "word": "aankhon",
+    "start": 17.108,
+    "end": 17.509
+  },
+  {
+    "word": "se",
+    "start": 17.562,
+    "end": 17.668
+  },
+  {
+    "word": "dikh",
+    "start": 17.708,
+    "end": 17.829
+  },
+  {
+    "word": "jata",
+    "start": 17.909,
+    "end": 18.229
+  },
+  {
+    "word": "hai.",
+    "start": 18.269,
+    "end": 18.469
+  },
+  {
+    "word": "Bro,",
+    "start": 18.709,
+    "end": 19.509
+  },
+  {
+    "word": "social",
+    "start": 19.6,
+    "end": 20.146
+  },
+  {
+    "word": "media",
+    "start": 20.199,
+    "end": 20.464
+  },
+  {
+    "word": "par",
+    "start": 20.524,
+    "end": 20.704
+  },
+  {
+    "word": "fake",
+    "start": 20.784,
+    "end": 21.104
+  },
+  {
+    "word": "aesthetic",
+    "start": 21.16,
+    "end": 21.664
+  },
+  {
+    "word": "dikhana",
+    "start": 21.704,
+    "end": 22.143
+  },
+  {
+    "word": "aasan",
+    "start": 22.223,
+    "end": 22.623
+  },
+  {
+    "word": "hai,",
+    "start": 22.683,
+    "end": 23.423
+  },
+  {
+    "word": "par",
+    "start": 23.463,
+    "end": 23.583
+  },
+  {
+    "word": "real",
+    "start": 23.631,
+    "end": 23.823
+  },
+  {
+    "word": "life",
+    "start": 23.903,
+    "end": 24.223
+  },
+  {
+    "word": "mein",
+    "start": 24.255,
+    "end": 24.383
+  },
+  {
+    "word": "tumhara",
+    "start": 24.423,
+    "end": 24.782
+  },
+  {
+    "word": "character",
+    "start": 24.83,
+    "end": 25.262
+  },
+  {
+    "word": "sab",
+    "start": 25.362,
+    "end": 25.662
+  },
+  {
+    "word": "reveal",
+    "start": 25.708,
+    "end": 25.984
+  },
+  {
+    "word": "kar",
+    "start": 26.024,
+    "end": 26.144
+  },
+  {
+    "word": "deta",
+    "start": 26.184,
+    "end": 26.464
+  },
+  {
+    "word": "hai.",
+    "start": 26.524,
+    "end": 26.784
+  },
+  {
+    "word": "Bina",
+    "start": 27.224,
+    "end": 27.904
+  },
+  {
+    "word": "daily",
+    "start": 27.957,
+    "end": 28.222
+  },
+  {
+    "word": "grind",
+    "start": 28.289,
+    "end": 28.624
+  },
+  {
+    "word": "ke",
+    "start": 28.677,
+    "end": 28.783
+  },
+  {
+    "word": "tumhara",
+    "start": 28.823,
+    "end": 29.182
+  },
+  {
+    "word": "talent",
+    "start": 29.239,
+    "end": 29.581
+  },
+  {
+    "word": "useless",
+    "start": 29.651,
+    "end": 30.141
+  },
+  {
+    "word": "hai,",
+    "start": 30.181,
+    "end": 30.461
+  },
+  {
+    "word": "aur",
+    "start": 30.581,
+    "end": 30.941
+  },
+  {
+    "word": "tumhara",
+    "start": 30.981,
+    "end": 31.34
+  },
+  {
+    "word": "toxic",
+    "start": 31.42,
+    "end": 31.82
+  },
+  {
+    "word": "behavior",
+    "start": 31.882,
+    "end": 32.378
+  },
+  {
+    "word": "tumhari",
+    "start": 32.438,
+    "end": 32.858
+  },
+  {
+    "word": "family",
+    "start": 32.927,
+    "end": 33.341
+  },
+  {
+    "word": "aur",
+    "start": 33.401,
+    "end": 33.581
+  },
+  {
+    "word": "circle",
+    "start": 33.65,
+    "end": 34.064
+  },
+  {
+    "word": "ko",
+    "start": 34.117,
+    "end": 34.223
+  },
+  {
+    "word": "expose",
+    "start": 34.314,
+    "end": 34.86
+  },
+  {
+    "word": "karta",
+    "start": 34.9,
+    "end": 35.18
+  },
+  {
+    "word": "hai.",
+    "start": 35.24,
+    "end": 35.5
+  },
+  {
+    "word": "Fake",
+    "start": 35.724,
+    "end": 36.62
+  },
+  {
+    "word": "nice",
+    "start": 36.7,
+    "end": 37.02
+  },
+  {
+    "word": "banna",
+    "start": 37.06,
+    "end": 37.34
+  },
+  {
+    "word": "band",
+    "start": 37.388,
+    "end": 37.58
+  },
+  {
+    "word": "karo,",
+    "start": 37.62,
+    "end": 38.3
+  },
+  {
+    "word": "tumhari",
+    "start": 38.34,
+    "end": 38.62
+  },
+  {
+    "word": "jealousy",
+    "start": 38.682,
+    "end": 39.178
+  },
+  {
+    "word": "aur",
+    "start": 39.238,
+    "end": 39.418
+  },
+  {
+    "word": "anger",
+    "start": 39.498,
+    "end": 39.898
+  },
+  {
+    "word": "tumhari",
+    "start": 39.958,
+    "end": 40.298
+  },
+  {
+    "word": "aankhon",
+    "start": 40.378,
+    "end": 40.698
+  },
+  {
+    "word": "mein",
+    "start": 40.73,
+    "end": 40.858
+  },
+  {
+    "word": "dikh",
+    "start": 40.938,
+    "end": 41.177
+  },
+  {
+    "word": "hi",
+    "start": 41.204,
+    "end": 41.258
+  },
+  {
+    "word": "jata",
+    "start": 41.298,
+    "end": 41.578
+  },
+  {
+    "word": "hai.",
+    "start": 41.638,
+    "end": 42.538
+  },
+  {
+    "word": "Share",
+    "start": 42.578,
+    "end": 42.778
+  },
+  {
+    "word": "this",
+    "start": 42.826,
+    "end": 43.018
+  },
+  {
+    "word": "reel",
+    "start": 43.082,
+    "end": 43.338
+  },
+  {
+    "word": "with",
+    "start": 43.37,
+    "end": 43.498
+  },
+  {
+    "word": "that",
+    "start": 43.53,
+    "end": 43.658
+  },
+  {
+    "word": "one",
+    "start": 43.758,
+    "end": 44.058
+  },
+  {
+    "word": "friend",
+    "start": 44.115,
+    "end": 44.457
+  },
+  {
+    "word": "who",
+    "start": 44.497,
+    "end": 44.617
+  },
+  {
+    "word": "needs",
+    "start": 44.67,
+    "end": 44.935
+  },
+  {
+    "word": "to",
+    "start": 44.962,
+    "end": 45.016
+  },
+  {
+    "word": "stop",
+    "start": 45.08,
+    "end": 45.336
+  },
+  {
+    "word": "faking",
+    "start": 45.416,
+    "end": 45.896
+  },
+  {
+    "word": "and",
+    "start": 45.976,
+    "end": 46.216
+  },
+  {
+    "word": "start",
+    "start": 46.269,
+    "end": 46.534
+  },
+  {
+    "word": "doing",
+    "start": 46.587,
+    "end": 46.852
+  },
+  {
+    "word": "the",
+    "start": 46.872,
+    "end": 46.932
+  },
+  {
+    "word": "real",
+    "start": 47.012,
+    "end": 47.332
+  },
+  {
+    "word": "work.",
+    "start": 47.428,
+    "end": 47.972
+  }
+]

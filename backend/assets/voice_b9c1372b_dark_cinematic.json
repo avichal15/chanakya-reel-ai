@@ -1,0 +1,552 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "CHASING",
+    "start": 0.4,
+    "end": 0.879
+  },
+  {
+    "word": "CHEAP",
+    "start": 0.959,
+    "end": 1.359
+  },
+  {
+    "word": "THRILLS!",
+    "start": 1.439,
+    "end": 2.319
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.591,
+    "end": 3.919
+  },
+  {
+    "word": "ne",
+    "start": 3.972,
+    "end": 4.078
+  },
+  {
+    "word": "kaha",
+    "start": 4.118,
+    "end": 4.317
+  },
+  {
+    "word": "tha:",
+    "start": 4.377,
+    "end": 4.637
+  },
+  {
+    "word": "Ek",
+    "start": 4.957,
+    "end": 5.597
+  },
+  {
+    "word": "sachche",
+    "start": 5.661,
+    "end": 6.076
+  },
+  {
+    "word": "gyani",
+    "start": 6.129,
+    "end": 6.394
+  },
+  {
+    "word": "ke",
+    "start": 6.447,
+    "end": 6.553
+  },
+  {
+    "word": "liye",
+    "start": 6.606,
+    "end": 6.792
+  },
+  {
+    "word": "swarg",
+    "start": 6.899,
+    "end": 7.353
+  },
+  {
+    "word": "tinke",
+    "start": 7.413,
+    "end": 7.753
+  },
+  {
+    "word": "jaisa",
+    "start": 7.793,
+    "end": 8.072
+  },
+  {
+    "word": "hai,",
+    "start": 8.112,
+    "end": 8.952
+  },
+  {
+    "word": "ek",
+    "start": 9.032,
+    "end": 9.192
+  },
+  {
+    "word": "yoddha",
+    "start": 9.272,
+    "end": 9.591
+  },
+  {
+    "word": "ke",
+    "start": 9.644,
+    "end": 9.75
+  },
+  {
+    "word": "liye",
+    "start": 9.803,
+    "end": 10.069
+  },
+  {
+    "word": "uski",
+    "start": 10.202,
+    "end": 10.548
+  },
+  {
+    "word": "jaan",
+    "start": 10.655,
+    "end": 11.029
+  },
+  {
+    "word": "tinke",
+    "start": 11.069,
+    "end": 11.349
+  },
+  {
+    "word": "jaisi",
+    "start": 11.389,
+    "end": 11.749
+  },
+  {
+    "word": "hai,",
+    "start": 11.789,
+    "end": 12.069
+  },
+  {
+    "word": "aur",
+    "start": 12.229,
+    "end": 12.709
+  },
+  {
+    "word": "jis",
+    "start": 12.829,
+    "end": 13.029
+  },
+  {
+    "word": "insaan",
+    "start": 13.129,
+    "end": 13.588
+  },
+  {
+    "word": "ne",
+    "start": 13.668,
+    "end": 13.828
+  },
+  {
+    "word": "apni",
+    "start": 13.881,
+    "end": 14.147
+  },
+  {
+    "word": "desires",
+    "start": 14.217,
+    "end": 14.707
+  },
+  {
+    "word": "ko",
+    "start": 14.76,
+    "end": 14.866
+  },
+  {
+    "word": "jeet",
+    "start": 14.919,
+    "end": 15.185
+  },
+  {
+    "word": "liya",
+    "start": 15.238,
+    "end": 15.424
+  },
+  {
+    "word": "hai,",
+    "start": 15.484,
+    "end": 16.224
+  },
+  {
+    "word": "uske",
+    "start": 16.331,
+    "end": 16.625
+  },
+  {
+    "word": "liye",
+    "start": 16.678,
+    "end": 16.864
+  },
+  {
+    "word": "ye",
+    "start": 16.944,
+    "end": 17.104
+  },
+  {
+    "word": "poori",
+    "start": 17.168,
+    "end": 17.504
+  },
+  {
+    "word": "duniya",
+    "start": 17.584,
+    "end": 17.903
+  },
+  {
+    "word": "ek",
+    "start": 18.01,
+    "end": 18.224
+  },
+  {
+    "word": "tinke",
+    "start": 18.304,
+    "end": 18.704
+  },
+  {
+    "word": "ke",
+    "start": 18.757,
+    "end": 18.863
+  },
+  {
+    "word": "saman",
+    "start": 18.923,
+    "end": 19.263
+  },
+  {
+    "word": "hai.",
+    "start": 19.323,
+    "end": 19.583
+  },
+  {
+    "word": "Aaj",
+    "start": 20.103,
+    "end": 20.783
+  },
+  {
+    "word": "tum",
+    "start": 20.843,
+    "end": 21.023
+  },
+  {
+    "word": "cheap",
+    "start": 21.09,
+    "end": 21.425
+  },
+  {
+    "word": "dopamine,",
+    "start": 21.487,
+    "end": 22.383
+  },
+  {
+    "word": "fake",
+    "start": 22.447,
+    "end": 22.703
+  },
+  {
+    "word": "friends",
+    "start": 22.783,
+    "end": 23.343
+  },
+  {
+    "word": "aur",
+    "start": 23.443,
+    "end": 23.743
+  },
+  {
+    "word": "toxic",
+    "start": 23.823,
+    "end": 24.223
+  },
+  {
+    "word": "circles",
+    "start": 24.283,
+    "end": 24.703
+  },
+  {
+    "word": "se",
+    "start": 24.756,
+    "end": 24.862
+  },
+  {
+    "word": "validation",
+    "start": 24.913,
+    "end": 25.423
+  },
+  {
+    "word": "maang",
+    "start": 25.476,
+    "end": 25.663
+  },
+  {
+    "word": "rahe",
+    "start": 25.716,
+    "end": 25.902
+  },
+  {
+    "word": "ho.",
+    "start": 25.982,
+    "end": 26.222
+  },
+  {
+    "word": "Jis",
+    "start": 26.662,
+    "end": 27.262
+  },
+  {
+    "word": "din",
+    "start": 27.302,
+    "end": 27.422
+  },
+  {
+    "word": "tumne",
+    "start": 27.482,
+    "end": 27.742
+  },
+  {
+    "word": "apni",
+    "start": 27.795,
+    "end": 27.981
+  },
+  {
+    "word": "desires",
+    "start": 28.071,
+    "end": 28.701
+  },
+  {
+    "word": "aur",
+    "start": 28.741,
+    "end": 28.861
+  },
+  {
+    "word": "attachments",
+    "start": 28.914,
+    "end": 29.497
+  },
+  {
+    "word": "pe",
+    "start": 29.524,
+    "end": 29.578
+  },
+  {
+    "word": "control",
+    "start": 29.638,
+    "end": 30.058
+  },
+  {
+    "word": "pa",
+    "start": 30.138,
+    "end": 30.298
+  },
+  {
+    "word": "liya,",
+    "start": 30.351,
+    "end": 30.617
+  },
+  {
+    "word": "us",
+    "start": 30.83,
+    "end": 31.256
+  },
+  {
+    "word": "din",
+    "start": 31.336,
+    "end": 31.576
+  },
+  {
+    "word": "ye",
+    "start": 31.629,
+    "end": 31.735
+  },
+  {
+    "word": "materialistic",
+    "start": 31.788,
+    "end": 32.532
+  },
+  {
+    "word": "duniya",
+    "start": 32.572,
+    "end": 32.932
+  },
+  {
+    "word": "aur",
+    "start": 33.032,
+    "end": 33.332
+  },
+  {
+    "word": "iski",
+    "start": 33.412,
+    "end": 33.652
+  },
+  {
+    "word": "'Growth'",
+    "start": 33.732,
+    "end": 34.212
+  },
+  {
+    "word": "tumhare",
+    "start": 34.272,
+    "end": 34.692
+  },
+  {
+    "word": "aage",
+    "start": 34.732,
+    "end": 35.012
+  },
+  {
+    "word": "ghutne",
+    "start": 35.065,
+    "end": 35.411
+  },
+  {
+    "word": "tek",
+    "start": 35.471,
+    "end": 35.651
+  },
+  {
+    "word": "degi.",
+    "start": 35.731,
+    "end": 36.211
+  },
+  {
+    "word": "Be",
+    "start": 36.504,
+    "end": 37.09
+  },
+  {
+    "word": "the",
+    "start": 37.13,
+    "end": 37.25
+  },
+  {
+    "word": "master",
+    "start": 37.319,
+    "end": 37.733
+  },
+  {
+    "word": "of",
+    "start": 37.76,
+    "end": 37.814
+  },
+  {
+    "word": "your",
+    "start": 37.846,
+    "end": 37.974
+  },
+  {
+    "word": "mind,",
+    "start": 38.07,
+    "end": 38.934
+  },
+  {
+    "word": "not",
+    "start": 38.974,
+    "end": 39.094
+  },
+  {
+    "word": "a",
+    "start": 39.134,
+    "end": 39.174
+  },
+  {
+    "word": "slave",
+    "start": 39.254,
+    "end": 39.654
+  },
+  {
+    "word": "to",
+    "start": 39.707,
+    "end": 39.813
+  },
+  {
+    "word": "the",
+    "start": 39.833,
+    "end": 39.893
+  },
+  {
+    "word": "matrix.",
+    "start": 39.996,
+    "end": 40.694
+  },
+  {
+    "word": "Share",
+    "start": 40.867,
+    "end": 41.732
+  },
+  {
+    "word": "this",
+    "start": 41.78,
+    "end": 41.972
+  },
+  {
+    "word": "with",
+    "start": 42.004,
+    "end": 42.132
+  },
+  {
+    "word": "a",
+    "start": 42.172,
+    "end": 42.212
+  },
+  {
+    "word": "brother",
+    "start": 42.252,
+    "end": 42.532
+  },
+  {
+    "word": "who",
+    "start": 42.572,
+    "end": 42.692
+  },
+  {
+    "word": "needs",
+    "start": 42.732,
+    "end": 42.932
+  },
+  {
+    "word": "to",
+    "start": 42.985,
+    "end": 43.091
+  },
+  {
+    "word": "level",
+    "start": 43.144,
+    "end": 43.409
+  },
+  {
+    "word": "up",
+    "start": 43.516,
+    "end": 43.73
+  },
+  {
+    "word": "and",
+    "start": 43.77,
+    "end": 43.89
+  },
+  {
+    "word": "beat",
+    "start": 43.97,
+    "end": 44.29
+  },
+  {
+    "word": "his",
+    "start": 44.35,
+    "end": 44.53
+  },
+  {
+    "word": "distractions.",
+    "start": 44.598,
+    "end": 45.574
+  }
+]

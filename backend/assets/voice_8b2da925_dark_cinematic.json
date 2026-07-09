@@ -1,0 +1,522 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "CHASING",
+    "start": 0.4,
+    "end": 0.96
+  },
+  {
+    "word": "FAKE",
+    "start": 1.067,
+    "end": 1.441
+  },
+  {
+    "word": "FRIENDS!",
+    "start": 1.51,
+    "end": 2.244
+  },
+  {
+    "word": "Safar",
+    "start": 2.564,
+    "end": 3.604
+  },
+  {
+    "word": "mein",
+    "start": 3.652,
+    "end": 3.844
+  },
+  {
+    "word": "gyaan",
+    "start": 3.924,
+    "end": 4.404
+  },
+  {
+    "word": "(knowledge)",
+    "start": 4.684,
+    "end": 5.085
+  },
+  {
+    "word": "tumhara",
+    "start": 5.095,
+    "end": 5.364
+  },
+  {
+    "word": "sabse",
+    "start": 5.484,
+    "end": 5.924
+  },
+  {
+    "word": "bada",
+    "start": 5.964,
+    "end": 6.163
+  },
+  {
+    "word": "dost",
+    "start": 6.259,
+    "end": 6.643
+  },
+  {
+    "word": "hai,",
+    "start": 6.683,
+    "end": 7.683
+  },
+  {
+    "word": "ghar",
+    "start": 7.723,
+    "end": 7.922
+  },
+  {
+    "word": "mein",
+    "start": 7.954,
+    "end": 8.082
+  },
+  {
+    "word": "tumhara",
+    "start": 8.142,
+    "end": 8.561
+  },
+  {
+    "word": "jeevan",
+    "start": 8.641,
+    "end": 9.04
+  },
+  {
+    "word": "sathi,",
+    "start": 9.12,
+    "end": 10.24
+  },
+  {
+    "word": "bimari",
+    "start": 10.28,
+    "end": 10.72
+  },
+  {
+    "word": "mein",
+    "start": 10.752,
+    "end": 10.88
+  },
+  {
+    "word": "dawai,",
+    "start": 10.92,
+    "end": 11.52
+  },
+  {
+    "word": "aur",
+    "start": 11.68,
+    "end": 12.16
+  },
+  {
+    "word": "marne",
+    "start": 12.26,
+    "end": 12.64
+  },
+  {
+    "word": "ke",
+    "start": 12.693,
+    "end": 12.799
+  },
+  {
+    "word": "baad",
+    "start": 12.879,
+    "end": 13.199
+  },
+  {
+    "word": "tumhara",
+    "start": 13.339,
+    "end": 14.079
+  },
+  {
+    "word": "Dharma",
+    "start": 14.119,
+    "end": 14.639
+  },
+  {
+    "word": "yani",
+    "start": 14.799,
+    "end": 15.439
+  },
+  {
+    "word": "achhe",
+    "start": 15.519,
+    "end": 15.839
+  },
+  {
+    "word": "karm",
+    "start": 15.959,
+    "end": 16.238
+  },
+  {
+    "word": "hi",
+    "start": 16.291,
+    "end": 16.397
+  },
+  {
+    "word": "tumhare",
+    "start": 16.457,
+    "end": 16.877
+  },
+  {
+    "word": "asli",
+    "start": 17.01,
+    "end": 17.436
+  },
+  {
+    "word": "dost",
+    "start": 17.516,
+    "end": 17.836
+  },
+  {
+    "word": "hote",
+    "start": 17.876,
+    "end": 18.156
+  },
+  {
+    "word": "hain.",
+    "start": 18.196,
+    "end": 18.475
+  },
+  {
+    "word": "Bro,",
+    "start": 18.795,
+    "end": 19.835
+  },
+  {
+    "word": "in",
+    "start": 19.968,
+    "end": 20.234
+  },
+  {
+    "word": "temporary",
+    "start": 20.298,
+    "end": 20.874
+  },
+  {
+    "word": "doston",
+    "start": 20.954,
+    "end": 21.514
+  },
+  {
+    "word": "aur",
+    "start": 21.554,
+    "end": 21.674
+  },
+  {
+    "word": "fake",
+    "start": 21.754,
+    "end": 22.074
+  },
+  {
+    "word": "'circle'",
+    "start": 22.274,
+    "end": 22.956
+  },
+  {
+    "word": "ke",
+    "start": 22.983,
+    "end": 23.037
+  },
+  {
+    "word": "chakkar",
+    "start": 23.117,
+    "end": 23.438
+  },
+  {
+    "word": "mein",
+    "start": 23.486,
+    "end": 23.678
+  },
+  {
+    "word": "time",
+    "start": 23.838,
+    "end": 24.478
+  },
+  {
+    "word": "waste",
+    "start": 24.531,
+    "end": 24.796
+  },
+  {
+    "word": "karna",
+    "start": 24.836,
+    "end": 25.196
+  },
+  {
+    "word": "band",
+    "start": 25.26,
+    "end": 25.516
+  },
+  {
+    "word": "karo.",
+    "start": 25.556,
+    "end": 25.915
+  },
+  {
+    "word": "Tumhari",
+    "start": 26.355,
+    "end": 27.115
+  },
+  {
+    "word": "skills,",
+    "start": 27.195,
+    "end": 27.995
+  },
+  {
+    "word": "tumhara",
+    "start": 28.035,
+    "end": 28.394
+  },
+  {
+    "word": "loyal",
+    "start": 28.461,
+    "end": 28.796
+  },
+  {
+    "word": "partner,",
+    "start": 28.866,
+    "end": 29.436
+  },
+  {
+    "word": "aur",
+    "start": 29.556,
+    "end": 29.916
+  },
+  {
+    "word": "tumhara",
+    "start": 29.976,
+    "end": 30.395
+  },
+  {
+    "word": "character\u2014bas",
+    "start": 30.459,
+    "end": 31.916
+  },
+  {
+    "word": "yahi",
+    "start": 31.956,
+    "end": 32.236
+  },
+  {
+    "word": "aakhiri",
+    "start": 32.356,
+    "end": 32.794
+  },
+  {
+    "word": "tak",
+    "start": 32.854,
+    "end": 33.034
+  },
+  {
+    "word": "saath",
+    "start": 33.141,
+    "end": 33.514
+  },
+  {
+    "word": "nibhayenge.",
+    "start": 33.574,
+    "end": 34.235
+  },
+  {
+    "word": "Corporate",
+    "start": 34.371,
+    "end": 35.595
+  },
+  {
+    "word": "world",
+    "start": 35.662,
+    "end": 35.997
+  },
+  {
+    "word": "ho",
+    "start": 36.077,
+    "end": 36.237
+  },
+  {
+    "word": "ya",
+    "start": 36.317,
+    "end": 36.477
+  },
+  {
+    "word": "personal",
+    "start": 36.53,
+    "end": 36.954
+  },
+  {
+    "word": "life,",
+    "start": 37.05,
+    "end": 37.514
+  },
+  {
+    "word": "log",
+    "start": 37.694,
+    "end": 38.234
+  },
+  {
+    "word": "leave",
+    "start": 38.287,
+    "end": 38.552
+  },
+  {
+    "word": "kar",
+    "start": 38.592,
+    "end": 38.712
+  },
+  {
+    "word": "denge,",
+    "start": 38.772,
+    "end": 39.592
+  },
+  {
+    "word": "par",
+    "start": 39.632,
+    "end": 39.752
+  },
+  {
+    "word": "tumhara",
+    "start": 39.792,
+    "end": 40.231
+  },
+  {
+    "word": "'Knowledge'",
+    "start": 40.311,
+    "end": 40.987
+  },
+  {
+    "word": "aur",
+    "start": 41.037,
+    "end": 41.187
+  },
+  {
+    "word": "'Karma'",
+    "start": 41.267,
+    "end": 41.827
+  },
+  {
+    "word": "kabhi",
+    "start": 41.927,
+    "end": 42.307
+  },
+  {
+    "word": "nahi.",
+    "start": 42.347,
+    "end": 43.307
+  },
+  {
+    "word": "Focus",
+    "start": 43.42,
+    "end": 43.985
+  },
+  {
+    "word": "on",
+    "start": 44.065,
+    "end": 44.225
+  },
+  {
+    "word": "your",
+    "start": 44.257,
+    "end": 44.385
+  },
+  {
+    "word": "own",
+    "start": 44.505,
+    "end": 44.865
+  },
+  {
+    "word": "growth.",
+    "start": 44.956,
+    "end": 45.582
+  },
+  {
+    "word": "Share",
+    "start": 45.782,
+    "end": 46.782
+  },
+  {
+    "word": "this",
+    "start": 46.814,
+    "end": 46.942
+  },
+  {
+    "word": "reel",
+    "start": 47.006,
+    "end": 47.262
+  },
+  {
+    "word": "with",
+    "start": 47.294,
+    "end": 47.422
+  },
+  {
+    "word": "that",
+    "start": 47.47,
+    "end": 47.662
+  },
+  {
+    "word": "one",
+    "start": 47.742,
+    "end": 47.982
+  },
+  {
+    "word": "friend",
+    "start": 48.051,
+    "end": 48.465
+  },
+  {
+    "word": "who",
+    "start": 48.565,
+    "end": 48.865
+  },
+  {
+    "word": "needs",
+    "start": 48.918,
+    "end": 49.183
+  },
+  {
+    "word": "to",
+    "start": 49.21,
+    "end": 49.264
+  },
+  {
+    "word": "stop",
+    "start": 49.344,
+    "end": 49.664
+  },
+  {
+    "word": "chasing",
+    "start": 49.724,
+    "end": 50.144
+  },
+  {
+    "word": "fake",
+    "start": 50.224,
+    "end": 50.544
+  },
+  {
+    "word": "people",
+    "start": 50.635,
+    "end": 51.181
+  },
+  {
+    "word": "and",
+    "start": 51.281,
+    "end": 51.581
+  },
+  {
+    "word": "start",
+    "start": 51.648,
+    "end": 51.983
+  },
+  {
+    "word": "building",
+    "start": 52.045,
+    "end": 52.541
+  },
+  {
+    "word": "themselves.",
+    "start": 52.606,
+    "end": 53.336
+  }
+]

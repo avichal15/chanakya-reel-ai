@@ -1,0 +1,492 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "WANDERING",
+    "start": 0.52,
+    "end": 1.2
+  },
+  {
+    "word": "AIMLESSLY!",
+    "start": 1.3,
+    "end": 2.24
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.48,
+    "end": 3.68
+  },
+  {
+    "word": "ne",
+    "start": 3.733,
+    "end": 3.839
+  },
+  {
+    "word": "kaha",
+    "start": 3.879,
+    "end": 4.159
+  },
+  {
+    "word": "tha:",
+    "start": 4.199,
+    "end": 4.399
+  },
+  {
+    "word": "Ek",
+    "start": 4.719,
+    "end": 5.359
+  },
+  {
+    "word": "raja,",
+    "start": 5.399,
+    "end": 6.398
+  },
+  {
+    "word": "ek",
+    "start": 6.478,
+    "end": 6.638
+  },
+  {
+    "word": "vidwan",
+    "start": 6.698,
+    "end": 7.439
+  },
+  {
+    "word": "aur",
+    "start": 7.539,
+    "end": 7.839
+  },
+  {
+    "word": "ek",
+    "start": 7.972,
+    "end": 8.238
+  },
+  {
+    "word": "yogi",
+    "start": 8.318,
+    "end": 8.718
+  },
+  {
+    "word": "jab",
+    "start": 8.858,
+    "end": 9.278
+  },
+  {
+    "word": "bhraman",
+    "start": 9.305,
+    "end": 9.679
+  },
+  {
+    "word": "(travel)",
+    "start": 9.799,
+    "end": 10.277
+  },
+  {
+    "word": "karte",
+    "start": 10.297,
+    "end": 10.557
+  },
+  {
+    "word": "hain",
+    "start": 10.597,
+    "end": 10.877
+  },
+  {
+    "word": "toh",
+    "start": 10.977,
+    "end": 11.277
+  },
+  {
+    "word": "unki",
+    "start": 11.357,
+    "end": 11.597
+  },
+  {
+    "word": "pooja",
+    "start": 11.657,
+    "end": 11.997
+  },
+  {
+    "word": "hoti",
+    "start": 12.057,
+    "end": 12.317
+  },
+  {
+    "word": "hai,",
+    "start": 12.357,
+    "end": 13.117
+  },
+  {
+    "word": "parantu",
+    "start": 13.157,
+    "end": 13.597
+  },
+  {
+    "word": "ek",
+    "start": 13.677,
+    "end": 13.837
+  },
+  {
+    "word": "stri",
+    "start": 13.965,
+    "end": 14.477
+  },
+  {
+    "word": "jab",
+    "start": 14.577,
+    "end": 14.877
+  },
+  {
+    "word": "bina",
+    "start": 14.917,
+    "end": 15.197
+  },
+  {
+    "word": "lakshya",
+    "start": 15.257,
+    "end": 15.597
+  },
+  {
+    "word": "ke",
+    "start": 15.65,
+    "end": 15.756
+  },
+  {
+    "word": "ghoomti",
+    "start": 15.809,
+    "end": 16.234
+  },
+  {
+    "word": "hai",
+    "start": 16.294,
+    "end": 16.474
+  },
+  {
+    "word": "toh",
+    "start": 16.594,
+    "end": 16.954
+  },
+  {
+    "word": "uska",
+    "start": 17.061,
+    "end": 17.355
+  },
+  {
+    "word": "vinaash",
+    "start": 17.395,
+    "end": 17.756
+  },
+  {
+    "word": "ho",
+    "start": 17.783,
+    "end": 17.837
+  },
+  {
+    "word": "jata",
+    "start": 17.917,
+    "end": 18.237
+  },
+  {
+    "word": "hai.",
+    "start": 18.277,
+    "end": 18.477
+  },
+  {
+    "word": "Bro,",
+    "start": 18.777,
+    "end": 20.037
+  },
+  {
+    "word": "isko",
+    "start": 20.157,
+    "end": 20.477
+  },
+  {
+    "word": "2026",
+    "start": 20.557,
+    "end": 21.516
+  },
+  {
+    "word": "ke",
+    "start": 21.543,
+    "end": 21.597
+  },
+  {
+    "word": "lens",
+    "start": 21.661,
+    "end": 21.917
+  },
+  {
+    "word": "se",
+    "start": 21.944,
+    "end": 21.998
+  },
+  {
+    "word": "dekho.",
+    "start": 22.058,
+    "end": 22.478
+  },
+  {
+    "word": "Leaders",
+    "start": 22.628,
+    "end": 23.678
+  },
+  {
+    "word": "aur",
+    "start": 23.718,
+    "end": 23.838
+  },
+  {
+    "word": "hustlers",
+    "start": 23.902,
+    "end": 24.478
+  },
+  {
+    "word": "jab",
+    "start": 24.538,
+    "end": 24.718
+  },
+  {
+    "word": "travel",
+    "start": 24.764,
+    "end": 25.04
+  },
+  {
+    "word": "karte",
+    "start": 25.08,
+    "end": 25.36
+  },
+  {
+    "word": "hain,",
+    "start": 25.4,
+    "end": 25.999
+  },
+  {
+    "word": "unki",
+    "start": 26.079,
+    "end": 26.319
+  },
+  {
+    "word": "growth",
+    "start": 26.376,
+    "end": 26.718
+  },
+  {
+    "word": "hoti",
+    "start": 26.778,
+    "end": 27.038
+  },
+  {
+    "word": "hai.",
+    "start": 27.078,
+    "end": 27.278
+  },
+  {
+    "word": "Par",
+    "start": 27.498,
+    "end": 28.158
+  },
+  {
+    "word": "agar",
+    "start": 28.206,
+    "end": 28.398
+  },
+  {
+    "word": "tum",
+    "start": 28.458,
+    "end": 28.638
+  },
+  {
+    "word": "bina",
+    "start": 28.678,
+    "end": 28.958
+  },
+  {
+    "word": "kisi",
+    "start": 29.038,
+    "end": 29.277
+  },
+  {
+    "word": "purpose",
+    "start": 29.337,
+    "end": 29.757
+  },
+  {
+    "word": "ke",
+    "start": 29.81,
+    "end": 29.916
+  },
+  {
+    "word": "bas",
+    "start": 30.016,
+    "end": 30.316
+  },
+  {
+    "word": "toxic",
+    "start": 30.423,
+    "end": 30.958
+  },
+  {
+    "word": "circles",
+    "start": 31.038,
+    "end": 31.598
+  },
+  {
+    "word": "aur",
+    "start": 31.638,
+    "end": 31.758
+  },
+  {
+    "word": "clubs",
+    "start": 31.825,
+    "end": 32.16
+  },
+  {
+    "word": "mein",
+    "start": 32.192,
+    "end": 32.32
+  },
+  {
+    "word": "'wander'",
+    "start": 32.36,
+    "end": 32.8
+  },
+  {
+    "word": "kar",
+    "start": 32.82,
+    "end": 32.88
+  },
+  {
+    "word": "rahe",
+    "start": 32.933,
+    "end": 33.199
+  },
+  {
+    "word": "ho,",
+    "start": 33.252,
+    "end": 33.518
+  },
+  {
+    "word": "toh",
+    "start": 33.598,
+    "end": 33.838
+  },
+  {
+    "word": "tumhara",
+    "start": 33.898,
+    "end": 34.239
+  },
+  {
+    "word": "downfall",
+    "start": 34.301,
+    "end": 34.797
+  },
+  {
+    "word": "pakka",
+    "start": 34.877,
+    "end": 35.197
+  },
+  {
+    "word": "hai.",
+    "start": 35.257,
+    "end": 35.517
+  },
+  {
+    "word": "Stop",
+    "start": 35.709,
+    "end": 36.477
+  },
+  {
+    "word": "escaping",
+    "start": 36.53,
+    "end": 36.954
+  },
+  {
+    "word": "reality.",
+    "start": 37.034,
+    "end": 37.754
+  },
+  {
+    "word": "Build",
+    "start": 37.861,
+    "end": 38.396
+  },
+  {
+    "word": "your",
+    "start": 38.428,
+    "end": 38.556
+  },
+  {
+    "word": "foundation.",
+    "start": 38.621,
+    "end": 39.791
+  },
+  {
+    "word": "Share",
+    "start": 39.878,
+    "end": 40.313
+  },
+  {
+    "word": "this",
+    "start": 40.361,
+    "end": 40.553
+  },
+  {
+    "word": "reel",
+    "start": 40.617,
+    "end": 40.873
+  },
+  {
+    "word": "with",
+    "start": 40.905,
+    "end": 41.033
+  },
+  {
+    "word": "someone",
+    "start": 41.083,
+    "end": 41.433
+  },
+  {
+    "word": "who",
+    "start": 41.453,
+    "end": 41.513
+  },
+  {
+    "word": "is",
+    "start": 41.566,
+    "end": 41.672
+  },
+  {
+    "word": "wasting",
+    "start": 41.732,
+    "end": 42.152
+  },
+  {
+    "word": "their",
+    "start": 42.179,
+    "end": 42.314
+  },
+  {
+    "word": "potential",
+    "start": 42.378,
+    "end": 42.954
+  },
+  {
+    "word": "in",
+    "start": 43.034,
+    "end": 43.194
+  },
+  {
+    "word": "aimless",
+    "start": 43.314,
+    "end": 43.914
+  },
+  {
+    "word": "distractions.",
+    "start": 43.988,
+    "end": 45.036
+  }
+]

@@ -1,0 +1,477 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "CHASING",
+    "start": 0.32,
+    "end": 0.799
+  },
+  {
+    "word": "FAKE",
+    "start": 0.906,
+    "end": 1.28
+  },
+  {
+    "word": "SUCCESS!",
+    "start": 1.38,
+    "end": 2.16
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.464,
+    "end": 3.92
+  },
+  {
+    "word": "ne",
+    "start": 3.973,
+    "end": 4.079
+  },
+  {
+    "word": "kaha",
+    "start": 4.119,
+    "end": 4.318
+  },
+  {
+    "word": "tha:",
+    "start": 4.398,
+    "end": 4.958
+  },
+  {
+    "word": "Dhan",
+    "start": 5.118,
+    "end": 5.518
+  },
+  {
+    "word": "(paisa)",
+    "start": 5.598,
+    "end": 6.238
+  },
+  {
+    "word": "chanchal",
+    "start": 6.291,
+    "end": 6.717
+  },
+  {
+    "word": "hai,",
+    "start": 6.777,
+    "end": 7.357
+  },
+  {
+    "word": "pran",
+    "start": 7.41,
+    "end": 7.756
+  },
+  {
+    "word": "chanchal",
+    "start": 7.809,
+    "end": 8.235
+  },
+  {
+    "word": "hain,",
+    "start": 8.275,
+    "end": 8.954
+  },
+  {
+    "word": "aur",
+    "start": 8.994,
+    "end": 9.114
+  },
+  {
+    "word": "ye",
+    "start": 9.167,
+    "end": 9.273
+  },
+  {
+    "word": "poora",
+    "start": 9.353,
+    "end": 9.834
+  },
+  {
+    "word": "jeevan",
+    "start": 9.914,
+    "end": 10.313
+  },
+  {
+    "word": "chanchal",
+    "start": 10.34,
+    "end": 10.714
+  },
+  {
+    "word": "hai.",
+    "start": 10.774,
+    "end": 11.834
+  },
+  {
+    "word": "Is",
+    "start": 11.914,
+    "end": 12.074
+  },
+  {
+    "word": "badalte",
+    "start": 12.114,
+    "end": 12.554
+  },
+  {
+    "word": "hue",
+    "start": 12.594,
+    "end": 12.714
+  },
+  {
+    "word": "sansar",
+    "start": 12.794,
+    "end": 13.354
+  },
+  {
+    "word": "mein",
+    "start": 13.386,
+    "end": 13.514
+  },
+  {
+    "word": "sirf",
+    "start": 13.594,
+    "end": 13.914
+  },
+  {
+    "word": "tumhara",
+    "start": 13.954,
+    "end": 14.393
+  },
+  {
+    "word": "'Dharma'",
+    "start": 14.433,
+    "end": 14.953
+  },
+  {
+    "word": "aur",
+    "start": 15.053,
+    "end": 15.353
+  },
+  {
+    "word": "karm",
+    "start": 15.433,
+    "end": 15.753
+  },
+  {
+    "word": "hi",
+    "start": 15.78,
+    "end": 15.834
+  },
+  {
+    "word": "sthayi",
+    "start": 15.887,
+    "end": 16.232
+  },
+  {
+    "word": "hai.",
+    "start": 16.252,
+    "end": 16.392
+  },
+  {
+    "word": "Bro,",
+    "start": 16.632,
+    "end": 17.512
+  },
+  {
+    "word": "tum",
+    "start": 17.612,
+    "end": 17.912
+  },
+  {
+    "word": "us",
+    "start": 17.965,
+    "end": 18.071
+  },
+  {
+    "word": "Corporate",
+    "start": 18.111,
+    "end": 18.471
+  },
+  {
+    "word": "promotion",
+    "start": 18.535,
+    "end": 19.111
+  },
+  {
+    "word": "aur",
+    "start": 19.151,
+    "end": 19.271
+  },
+  {
+    "word": "luxury",
+    "start": 19.34,
+    "end": 19.754
+  },
+  {
+    "word": "lifestyle",
+    "start": 19.81,
+    "end": 20.314
+  },
+  {
+    "word": "ke",
+    "start": 20.367,
+    "end": 20.473
+  },
+  {
+    "word": "liye",
+    "start": 20.5,
+    "end": 20.634
+  },
+  {
+    "word": "apni",
+    "start": 20.714,
+    "end": 20.954
+  },
+  {
+    "word": "peace",
+    "start": 21.021,
+    "end": 21.356
+  },
+  {
+    "word": "of",
+    "start": 21.409,
+    "end": 21.515
+  },
+  {
+    "word": "mind",
+    "start": 21.579,
+    "end": 21.835
+  },
+  {
+    "word": "sacrifice",
+    "start": 21.899,
+    "end": 22.475
+  },
+  {
+    "word": "kar",
+    "start": 22.515,
+    "end": 22.635
+  },
+  {
+    "word": "rahe",
+    "start": 22.688,
+    "end": 22.874
+  },
+  {
+    "word": "ho,",
+    "start": 22.927,
+    "end": 23.673
+  },
+  {
+    "word": "par",
+    "start": 23.713,
+    "end": 23.833
+  },
+  {
+    "word": "ye",
+    "start": 23.913,
+    "end": 24.073
+  },
+  {
+    "word": "sab",
+    "start": 24.153,
+    "end": 24.393
+  },
+  {
+    "word": "temporary",
+    "start": 24.441,
+    "end": 24.873
+  },
+  {
+    "word": "hai.",
+    "start": 24.933,
+    "end": 25.753
+  },
+  {
+    "word": "Wealth",
+    "start": 25.799,
+    "end": 26.075
+  },
+  {
+    "word": "chali",
+    "start": 26.128,
+    "end": 26.393
+  },
+  {
+    "word": "jayegi,",
+    "start": 26.433,
+    "end": 27.273
+  },
+  {
+    "word": "toxic",
+    "start": 27.353,
+    "end": 27.753
+  },
+  {
+    "word": "circle",
+    "start": 27.81,
+    "end": 28.152
+  },
+  {
+    "word": "badal",
+    "start": 28.192,
+    "end": 28.392
+  },
+  {
+    "word": "jayega.",
+    "start": 28.472,
+    "end": 29.032
+  },
+  {
+    "word": "Jo",
+    "start": 29.272,
+    "end": 29.752
+  },
+  {
+    "word": "hamesha",
+    "start": 29.792,
+    "end": 30.152
+  },
+  {
+    "word": "rahega",
+    "start": 30.205,
+    "end": 30.631
+  },
+  {
+    "word": "wo",
+    "start": 30.791,
+    "end": 31.111
+  },
+  {
+    "word": "hai",
+    "start": 31.151,
+    "end": 31.271
+  },
+  {
+    "word": "tumhara",
+    "start": 31.311,
+    "end": 31.592
+  },
+  {
+    "word": "character",
+    "start": 31.672,
+    "end": 32.392
+  },
+  {
+    "word": "aur",
+    "start": 32.472,
+    "end": 32.712
+  },
+  {
+    "word": "tumhare",
+    "start": 32.772,
+    "end": 33.112
+  },
+  {
+    "word": "principles.",
+    "start": 33.185,
+    "end": 33.995
+  },
+  {
+    "word": "Stop",
+    "start": 34.203,
+    "end": 35.035
+  },
+  {
+    "word": "selling",
+    "start": 35.075,
+    "end": 35.355
+  },
+  {
+    "word": "your",
+    "start": 35.387,
+    "end": 35.515
+  },
+  {
+    "word": "soul",
+    "start": 35.611,
+    "end": 35.995
+  },
+  {
+    "word": "for",
+    "start": 36.035,
+    "end": 36.155
+  },
+  {
+    "word": "temporary",
+    "start": 36.203,
+    "end": 36.635
+  },
+  {
+    "word": "gains.",
+    "start": 36.742,
+    "end": 37.357
+  },
+  {
+    "word": "Share",
+    "start": 37.517,
+    "end": 38.317
+  },
+  {
+    "word": "this",
+    "start": 38.365,
+    "end": 38.557
+  },
+  {
+    "word": "reel",
+    "start": 38.621,
+    "end": 38.877
+  },
+  {
+    "word": "with",
+    "start": 38.909,
+    "end": 39.037
+  },
+  {
+    "word": "that",
+    "start": 39.085,
+    "end": 39.277
+  },
+  {
+    "word": "one",
+    "start": 39.357,
+    "end": 39.597
+  },
+  {
+    "word": "friend",
+    "start": 39.666,
+    "end": 40.08
+  },
+  {
+    "word": "who",
+    "start": 40.18,
+    "end": 40.48
+  },
+  {
+    "word": "needs",
+    "start": 40.52,
+    "end": 40.72
+  },
+  {
+    "word": "a",
+    "start": 40.76,
+    "end": 40.8
+  },
+  {
+    "word": "reality",
+    "start": 40.86,
+    "end": 41.28
+  },
+  {
+    "word": "check",
+    "start": 41.333,
+    "end": 41.598
+  },
+  {
+    "word": "about",
+    "start": 41.638,
+    "end": 41.838
+  },
+  {
+    "word": "life.",
+    "start": 41.934,
+    "end": 42.398
+  }
+]

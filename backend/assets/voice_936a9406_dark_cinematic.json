@@ -1,0 +1,462 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "TRUSTING",
+    "start": 0.533,
+    "end": 1.279
+  },
+  {
+    "word": "BLINDLY!",
+    "start": 1.466,
+    "end": 2.481
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.737,
+    "end": 4.001
+  },
+  {
+    "word": "ne",
+    "start": 4.054,
+    "end": 4.16
+  },
+  {
+    "word": "kaha",
+    "start": 4.2,
+    "end": 4.399
+  },
+  {
+    "word": "tha:",
+    "start": 4.459,
+    "end": 5.039
+  },
+  {
+    "word": "Jis",
+    "start": 5.239,
+    "end": 5.599
+  },
+  {
+    "word": "tarah",
+    "start": 5.659,
+    "end": 5.919
+  },
+  {
+    "word": "sone",
+    "start": 5.999,
+    "end": 6.319
+  },
+  {
+    "word": "ko",
+    "start": 6.372,
+    "end": 6.478
+  },
+  {
+    "word": "ghis",
+    "start": 6.558,
+    "end": 6.878
+  },
+  {
+    "word": "kar,",
+    "start": 6.918,
+    "end": 7.438
+  },
+  {
+    "word": "kaat",
+    "start": 7.491,
+    "end": 7.757
+  },
+  {
+    "word": "kar,",
+    "start": 7.837,
+    "end": 8.397
+  },
+  {
+    "word": "aag",
+    "start": 8.477,
+    "end": 8.797
+  },
+  {
+    "word": "mein",
+    "start": 8.829,
+    "end": 8.957
+  },
+  {
+    "word": "tapakar",
+    "start": 9.037,
+    "end": 9.677
+  },
+  {
+    "word": "aur",
+    "start": 9.757,
+    "end": 9.997
+  },
+  {
+    "word": "peet",
+    "start": 10.104,
+    "end": 10.478
+  },
+  {
+    "word": "kar",
+    "start": 10.538,
+    "end": 10.718
+  },
+  {
+    "word": "parka",
+    "start": 10.782,
+    "end": 11.118
+  },
+  {
+    "word": "jata",
+    "start": 11.158,
+    "end": 11.519
+  },
+  {
+    "word": "hai,",
+    "start": 11.559,
+    "end": 12.159
+  },
+  {
+    "word": "usi",
+    "start": 12.239,
+    "end": 12.479
+  },
+  {
+    "word": "tarah",
+    "start": 12.539,
+    "end": 12.879
+  },
+  {
+    "word": "ek",
+    "start": 12.959,
+    "end": 13.119
+  },
+  {
+    "word": "insaan",
+    "start": 13.199,
+    "end": 13.679
+  },
+  {
+    "word": "ki",
+    "start": 13.759,
+    "end": 13.919
+  },
+  {
+    "word": "asli",
+    "start": 14.026,
+    "end": 14.4
+  },
+  {
+    "word": "pehchaan",
+    "start": 14.48,
+    "end": 15.119
+  },
+  {
+    "word": "uske",
+    "start": 15.306,
+    "end": 15.8
+  },
+  {
+    "word": "tyaag,",
+    "start": 15.86,
+    "end": 16.64
+  },
+  {
+    "word": "uske",
+    "start": 16.72,
+    "end": 16.96
+  },
+  {
+    "word": "charitra,",
+    "start": 17.008,
+    "end": 17.92
+  },
+  {
+    "word": "uske",
+    "start": 18.027,
+    "end": 18.321
+  },
+  {
+    "word": "gunn",
+    "start": 18.421,
+    "end": 18.881
+  },
+  {
+    "word": "aur",
+    "start": 18.981,
+    "end": 19.281
+  },
+  {
+    "word": "uske",
+    "start": 19.388,
+    "end": 19.682
+  },
+  {
+    "word": "karmon",
+    "start": 19.762,
+    "end": 20.161
+  },
+  {
+    "word": "se",
+    "start": 20.214,
+    "end": 20.32
+  },
+  {
+    "word": "hoti",
+    "start": 20.38,
+    "end": 20.64
+  },
+  {
+    "word": "hai.",
+    "start": 20.68,
+    "end": 21.44
+  },
+  {
+    "word": "Bro,",
+    "start": 21.6,
+    "end": 22.24
+  },
+  {
+    "word": "aaj",
+    "start": 22.48,
+    "end": 22.88
+  },
+  {
+    "word": "kal",
+    "start": 22.94,
+    "end": 23.12
+  },
+  {
+    "word": "log",
+    "start": 23.22,
+    "end": 23.52
+  },
+  {
+    "word": "meethi",
+    "start": 23.627,
+    "end": 24.161
+  },
+  {
+    "word": "baaton",
+    "start": 24.214,
+    "end": 24.64
+  },
+  {
+    "word": "aur",
+    "start": 24.72,
+    "end": 24.96
+  },
+  {
+    "word": "fake",
+    "start": 25.056,
+    "end": 25.44
+  },
+  {
+    "word": "lifestyle",
+    "start": 25.496,
+    "end": 26.0
+  },
+  {
+    "word": "se",
+    "start": 26.08,
+    "end": 26.24
+  },
+  {
+    "word": "impress",
+    "start": 26.3,
+    "end": 26.72
+  },
+  {
+    "word": "ho",
+    "start": 26.747,
+    "end": 26.801
+  },
+  {
+    "word": "jate",
+    "start": 26.841,
+    "end": 27.121
+  },
+  {
+    "word": "hain.",
+    "start": 27.161,
+    "end": 27.362
+  },
+  {
+    "word": "Toxic",
+    "start": 27.575,
+    "end": 28.64
+  },
+  {
+    "word": "corporate",
+    "start": 28.688,
+    "end": 29.12
+  },
+  {
+    "word": "colleagues",
+    "start": 29.171,
+    "end": 29.681
+  },
+  {
+    "word": "aur",
+    "start": 29.721,
+    "end": 29.841
+  },
+  {
+    "word": "fake",
+    "start": 29.921,
+    "end": 30.241
+  },
+  {
+    "word": "friends",
+    "start": 30.321,
+    "end": 30.881
+  },
+  {
+    "word": "kabhi",
+    "start": 30.981,
+    "end": 31.361
+  },
+  {
+    "word": "tumhare",
+    "start": 31.421,
+    "end": 31.841
+  },
+  {
+    "word": "liye",
+    "start": 31.868,
+    "end": 32.002
+  },
+  {
+    "word": "sacrifice",
+    "start": 32.074,
+    "end": 32.722
+  },
+  {
+    "word": "nahi",
+    "start": 32.802,
+    "end": 33.041
+  },
+  {
+    "word": "karenge.",
+    "start": 33.081,
+    "end": 34.241
+  },
+  {
+    "word": "Unke",
+    "start": 34.321,
+    "end": 34.561
+  },
+  {
+    "word": "actions",
+    "start": 34.651,
+    "end": 35.281
+  },
+  {
+    "word": "aur",
+    "start": 35.321,
+    "end": 35.441
+  },
+  {
+    "word": "character",
+    "start": 35.497,
+    "end": 36.001
+  },
+  {
+    "word": "ko",
+    "start": 36.054,
+    "end": 36.16
+  },
+  {
+    "word": "test",
+    "start": 36.224,
+    "end": 36.48
+  },
+  {
+    "word": "karo,",
+    "start": 36.52,
+    "end": 37.199
+  },
+  {
+    "word": "unke",
+    "start": 37.279,
+    "end": 37.519
+  },
+  {
+    "word": "words",
+    "start": 37.626,
+    "end": 38.161
+  },
+  {
+    "word": "ko",
+    "start": 38.241,
+    "end": 38.401
+  },
+  {
+    "word": "nahi.",
+    "start": 38.441,
+    "end": 39.521
+  },
+  {
+    "word": "Share",
+    "start": 39.574,
+    "end": 39.839
+  },
+  {
+    "word": "this",
+    "start": 39.887,
+    "end": 40.079
+  },
+  {
+    "word": "reel",
+    "start": 40.143,
+    "end": 40.399
+  },
+  {
+    "word": "with",
+    "start": 40.431,
+    "end": 40.559
+  },
+  {
+    "word": "that",
+    "start": 40.591,
+    "end": 40.719
+  },
+  {
+    "word": "friend",
+    "start": 40.776,
+    "end": 41.118
+  },
+  {
+    "word": "who",
+    "start": 41.198,
+    "end": 41.438
+  },
+  {
+    "word": "always",
+    "start": 41.529,
+    "end": 42.075
+  },
+  {
+    "word": "trusts",
+    "start": 42.166,
+    "end": 42.712
+  },
+  {
+    "word": "the",
+    "start": 42.772,
+    "end": 42.952
+  },
+  {
+    "word": "wrong",
+    "start": 43.019,
+    "end": 43.354
+  },
+  {
+    "word": "people.",
+    "start": 43.423,
+    "end": 43.997
+  }
+]

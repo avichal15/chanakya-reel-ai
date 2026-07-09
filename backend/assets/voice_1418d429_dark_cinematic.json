@@ -1,0 +1,492 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "WAITING",
+    "start": 0.384,
+    "end": 0.799
+  },
+  {
+    "word": "FOR",
+    "start": 0.839,
+    "end": 0.959
+  },
+  {
+    "word": "A",
+    "start": 0.999,
+    "end": 1.039
+  },
+  {
+    "word": "SAVIOR!",
+    "start": 1.159,
+    "end": 1.759
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.031,
+    "end": 3.439
+  },
+  {
+    "word": "ne",
+    "start": 3.492,
+    "end": 3.598
+  },
+  {
+    "word": "kaha",
+    "start": 3.638,
+    "end": 3.837
+  },
+  {
+    "word": "tha:",
+    "start": 3.897,
+    "end": 4.157
+  },
+  {
+    "word": "Insaan",
+    "start": 4.477,
+    "end": 5.437
+  },
+  {
+    "word": "akela",
+    "start": 5.517,
+    "end": 5.917
+  },
+  {
+    "word": "hi",
+    "start": 5.97,
+    "end": 6.076
+  },
+  {
+    "word": "paida",
+    "start": 6.108,
+    "end": 6.316
+  },
+  {
+    "word": "hota",
+    "start": 6.376,
+    "end": 6.636
+  },
+  {
+    "word": "hai,",
+    "start": 6.676,
+    "end": 7.436
+  },
+  {
+    "word": "akela",
+    "start": 7.516,
+    "end": 7.916
+  },
+  {
+    "word": "hi",
+    "start": 7.943,
+    "end": 7.997
+  },
+  {
+    "word": "marta",
+    "start": 8.037,
+    "end": 8.397
+  },
+  {
+    "word": "hai,",
+    "start": 8.437,
+    "end": 9.277
+  },
+  {
+    "word": "apne",
+    "start": 9.33,
+    "end": 9.596
+  },
+  {
+    "word": "ache-bure",
+    "start": 9.676,
+    "end": 10.316
+  },
+  {
+    "word": "karmon",
+    "start": 10.376,
+    "end": 10.715
+  },
+  {
+    "word": "ka",
+    "start": 10.742,
+    "end": 10.796
+  },
+  {
+    "word": "fal",
+    "start": 10.876,
+    "end": 11.116
+  },
+  {
+    "word": "bhi",
+    "start": 11.156,
+    "end": 11.516
+  },
+  {
+    "word": "wo",
+    "start": 11.649,
+    "end": 11.915
+  },
+  {
+    "word": "akela",
+    "start": 12.022,
+    "end": 12.476
+  },
+  {
+    "word": "hi",
+    "start": 12.503,
+    "end": 12.557
+  },
+  {
+    "word": "bhogta",
+    "start": 12.61,
+    "end": 13.036
+  },
+  {
+    "word": "hai,",
+    "start": 13.076,
+    "end": 13.916
+  },
+  {
+    "word": "aur",
+    "start": 13.976,
+    "end": 14.156
+  },
+  {
+    "word": "narak",
+    "start": 14.236,
+    "end": 14.556
+  },
+  {
+    "word": "ya",
+    "start": 14.609,
+    "end": 14.715
+  },
+  {
+    "word": "moksha",
+    "start": 14.795,
+    "end": 15.116
+  },
+  {
+    "word": "bhi",
+    "start": 15.156,
+    "end": 15.436
+  },
+  {
+    "word": "akela",
+    "start": 15.649,
+    "end": 16.315
+  },
+  {
+    "word": "hi",
+    "start": 16.342,
+    "end": 16.396
+  },
+  {
+    "word": "jata",
+    "start": 16.436,
+    "end": 16.797
+  },
+  {
+    "word": "hai.",
+    "start": 16.837,
+    "end": 17.037
+  },
+  {
+    "word": "Aaj",
+    "start": 17.637,
+    "end": 18.397
+  },
+  {
+    "word": "tum",
+    "start": 18.437,
+    "end": 18.557
+  },
+  {
+    "word": "apne",
+    "start": 18.61,
+    "end": 18.876
+  },
+  {
+    "word": "'Friends'",
+    "start": 18.956,
+    "end": 19.555
+  },
+  {
+    "word": "aur",
+    "start": 19.585,
+    "end": 19.675
+  },
+  {
+    "word": "'Toxic'",
+    "start": 19.755,
+    "end": 20.316
+  },
+  {
+    "word": "corporate",
+    "start": 20.364,
+    "end": 20.796
+  },
+  {
+    "word": "'Circle'",
+    "start": 20.836,
+    "end": 21.274
+  },
+  {
+    "word": "ko",
+    "start": 21.301,
+    "end": 21.355
+  },
+  {
+    "word": "khush",
+    "start": 21.435,
+    "end": 21.754
+  },
+  {
+    "word": "karne",
+    "start": 21.794,
+    "end": 21.994
+  },
+  {
+    "word": "ke",
+    "start": 22.047,
+    "end": 22.153
+  },
+  {
+    "word": "liye",
+    "start": 22.206,
+    "end": 22.472
+  },
+  {
+    "word": "apna",
+    "start": 22.605,
+    "end": 23.031
+  },
+  {
+    "word": "time",
+    "start": 23.095,
+    "end": 23.351
+  },
+  {
+    "word": "waste",
+    "start": 23.404,
+    "end": 23.669
+  },
+  {
+    "word": "kar",
+    "start": 23.709,
+    "end": 23.829
+  },
+  {
+    "word": "rahe",
+    "start": 23.882,
+    "end": 24.068
+  },
+  {
+    "word": "ho.",
+    "start": 24.121,
+    "end": 24.307
+  },
+  {
+    "word": "Par",
+    "start": 24.527,
+    "end": 25.187
+  },
+  {
+    "word": "yaad",
+    "start": 25.267,
+    "end": 25.507
+  },
+  {
+    "word": "rakhna,",
+    "start": 25.547,
+    "end": 26.386
+  },
+  {
+    "word": "jab",
+    "start": 26.446,
+    "end": 26.626
+  },
+  {
+    "word": "downfall",
+    "start": 26.679,
+    "end": 27.103
+  },
+  {
+    "word": "aayega,",
+    "start": 27.183,
+    "end": 28.062
+  },
+  {
+    "word": "koi",
+    "start": 28.102,
+    "end": 28.302
+  },
+  {
+    "word": "tumhe",
+    "start": 28.362,
+    "end": 28.622
+  },
+  {
+    "word": "bachane",
+    "start": 28.654,
+    "end": 29.022
+  },
+  {
+    "word": "nahi",
+    "start": 29.062,
+    "end": 29.261
+  },
+  {
+    "word": "aayega.",
+    "start": 29.301,
+    "end": 29.821
+  },
+  {
+    "word": "You",
+    "start": 30.021,
+    "end": 30.621
+  },
+  {
+    "word": "are",
+    "start": 30.661,
+    "end": 30.781
+  },
+  {
+    "word": "the",
+    "start": 30.801,
+    "end": 30.861
+  },
+  {
+    "word": "only",
+    "start": 30.941,
+    "end": 31.261
+  },
+  {
+    "word": "one",
+    "start": 31.321,
+    "end": 31.501
+  },
+  {
+    "word": "responsible",
+    "start": 31.554,
+    "end": 32.137
+  },
+  {
+    "word": "for",
+    "start": 32.177,
+    "end": 32.297
+  },
+  {
+    "word": "your",
+    "start": 32.329,
+    "end": 32.457
+  },
+  {
+    "word": "'Growth'.",
+    "start": 32.497,
+    "end": 33.017
+  },
+  {
+    "word": "Stop",
+    "start": 33.193,
+    "end": 33.897
+  },
+  {
+    "word": "expecting",
+    "start": 33.953,
+    "end": 34.457
+  },
+  {
+    "word": "loyalty",
+    "start": 34.517,
+    "end": 34.937
+  },
+  {
+    "word": "from",
+    "start": 34.985,
+    "end": 35.177
+  },
+  {
+    "word": "everyone.",
+    "start": 35.23,
+    "end": 35.814
+  },
+  {
+    "word": "Share",
+    "start": 35.934,
+    "end": 36.534
+  },
+  {
+    "word": "this",
+    "start": 36.582,
+    "end": 36.774
+  },
+  {
+    "word": "reel",
+    "start": 36.822,
+    "end": 37.014
+  },
+  {
+    "word": "with",
+    "start": 37.046,
+    "end": 37.174
+  },
+  {
+    "word": "someone",
+    "start": 37.224,
+    "end": 37.574
+  },
+  {
+    "word": "who",
+    "start": 37.594,
+    "end": 37.654
+  },
+  {
+    "word": "is",
+    "start": 37.707,
+    "end": 37.813
+  },
+  {
+    "word": "over-dependent",
+    "start": 37.893,
+    "end": 38.693
+  },
+  {
+    "word": "on",
+    "start": 38.746,
+    "end": 38.852
+  },
+  {
+    "word": "people",
+    "start": 38.909,
+    "end": 39.251
+  },
+  {
+    "word": "and",
+    "start": 39.311,
+    "end": 39.491
+  },
+  {
+    "word": "needs",
+    "start": 39.584,
+    "end": 40.049
+  },
+  {
+    "word": "this",
+    "start": 40.097,
+    "end": 40.289
+  },
+  {
+    "word": "reality",
+    "start": 40.359,
+    "end": 40.849
+  },
+  {
+    "word": "check.",
+    "start": 40.929,
+    "end": 41.489
+  }
+]

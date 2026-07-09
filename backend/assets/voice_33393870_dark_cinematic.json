@@ -1,0 +1,472 @@
+[
+  {
+    "word": "YOU",
+    "start": 0.0,
+    "end": 0.399
+  },
+  {
+    "word": "ARE",
+    "start": 0.479,
+    "end": 0.719
+  },
+  {
+    "word": "BECOMING",
+    "start": 0.799,
+    "end": 1.439
+  },
+  {
+    "word": "OBSOLETE!",
+    "start": 1.619,
+    "end": 2.719
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.991,
+    "end": 4.319
+  },
+  {
+    "word": "ne",
+    "start": 4.372,
+    "end": 4.478
+  },
+  {
+    "word": "kaha",
+    "start": 4.518,
+    "end": 4.717
+  },
+  {
+    "word": "tha:",
+    "start": 4.777,
+    "end": 5.477
+  },
+  {
+    "word": "Paisa",
+    "start": 5.581,
+    "end": 6.157
+  },
+  {
+    "word": "dharam",
+    "start": 6.237,
+    "end": 6.557
+  },
+  {
+    "word": "ki",
+    "start": 6.61,
+    "end": 6.716
+  },
+  {
+    "word": "raksha",
+    "start": 6.776,
+    "end": 7.037
+  },
+  {
+    "word": "karta",
+    "start": 7.117,
+    "end": 7.437
+  },
+  {
+    "word": "hai,",
+    "start": 7.477,
+    "end": 8.237
+  },
+  {
+    "word": "lagatar",
+    "start": 8.297,
+    "end": 8.797
+  },
+  {
+    "word": "abhyaas",
+    "start": 8.877,
+    "end": 9.437
+  },
+  {
+    "word": "se",
+    "start": 9.49,
+    "end": 9.596
+  },
+  {
+    "word": "vidya",
+    "start": 9.676,
+    "end": 9.996
+  },
+  {
+    "word": "ki",
+    "start": 10.049,
+    "end": 10.155
+  },
+  {
+    "word": "raksha",
+    "start": 10.215,
+    "end": 10.476
+  },
+  {
+    "word": "hoti",
+    "start": 10.556,
+    "end": 10.876
+  },
+  {
+    "word": "hai,",
+    "start": 10.916,
+    "end": 11.756
+  },
+  {
+    "word": "vinamrata",
+    "start": 11.816,
+    "end": 12.396
+  },
+  {
+    "word": "se",
+    "start": 12.476,
+    "end": 12.636
+  },
+  {
+    "word": "ek",
+    "start": 12.689,
+    "end": 12.795
+  },
+  {
+    "word": "leader",
+    "start": 12.852,
+    "end": 13.194
+  },
+  {
+    "word": "ki,",
+    "start": 13.274,
+    "end": 13.594
+  },
+  {
+    "word": "aur",
+    "start": 13.734,
+    "end": 14.154
+  },
+  {
+    "word": "ek",
+    "start": 14.207,
+    "end": 14.313
+  },
+  {
+    "word": "samajhdar",
+    "start": 14.393,
+    "end": 15.033
+  },
+  {
+    "word": "aurat",
+    "start": 15.093,
+    "end": 15.433
+  },
+  {
+    "word": "se",
+    "start": 15.486,
+    "end": 15.592
+  },
+  {
+    "word": "ghar",
+    "start": 15.672,
+    "end": 15.833
+  },
+  {
+    "word": "ki.",
+    "start": 15.94,
+    "end": 16.234
+  },
+  {
+    "word": "Bro,",
+    "start": 16.494,
+    "end": 17.594
+  },
+  {
+    "word": "tumhari",
+    "start": 17.674,
+    "end": 18.234
+  },
+  {
+    "word": "degree",
+    "start": 18.291,
+    "end": 18.633
+  },
+  {
+    "word": "aaj",
+    "start": 18.793,
+    "end": 19.033
+  },
+  {
+    "word": "ke",
+    "start": 19.086,
+    "end": 19.192
+  },
+  {
+    "word": "corporate",
+    "start": 19.232,
+    "end": 19.592
+  },
+  {
+    "word": "world",
+    "start": 19.645,
+    "end": 19.91
+  },
+  {
+    "word": "mein",
+    "start": 19.942,
+    "end": 20.07
+  },
+  {
+    "word": "kachra",
+    "start": 20.15,
+    "end": 20.549
+  },
+  {
+    "word": "hai",
+    "start": 20.629,
+    "end": 20.869
+  },
+  {
+    "word": "agar",
+    "start": 20.981,
+    "end": 21.429
+  },
+  {
+    "word": "tum",
+    "start": 21.489,
+    "end": 21.669
+  },
+  {
+    "word": "use",
+    "start": 21.749,
+    "end": 21.989
+  },
+  {
+    "word": "roz",
+    "start": 22.089,
+    "end": 22.389
+  },
+  {
+    "word": "'Upgrade'",
+    "start": 22.509,
+    "end": 23.068
+  },
+  {
+    "word": "nahi",
+    "start": 23.088,
+    "end": 23.189
+  },
+  {
+    "word": "kar",
+    "start": 23.249,
+    "end": 23.429
+  },
+  {
+    "word": "rahe.",
+    "start": 23.456,
+    "end": 23.75
+  },
+  {
+    "word": "Bina",
+    "start": 24.23,
+    "end": 24.95
+  },
+  {
+    "word": "'Growth'",
+    "start": 25.03,
+    "end": 25.63
+  },
+  {
+    "word": "aur",
+    "start": 25.66,
+    "end": 25.75
+  },
+  {
+    "word": "practice",
+    "start": 25.803,
+    "end": 26.227
+  },
+  {
+    "word": "ke",
+    "start": 26.28,
+    "end": 26.386
+  },
+  {
+    "word": "tumhara",
+    "start": 26.446,
+    "end": 26.866
+  },
+  {
+    "word": "skill",
+    "start": 26.933,
+    "end": 27.268
+  },
+  {
+    "word": "zero",
+    "start": 27.396,
+    "end": 27.908
+  },
+  {
+    "word": "hai,",
+    "start": 27.968,
+    "end": 28.508
+  },
+  {
+    "word": "aur",
+    "start": 28.598,
+    "end": 28.868
+  },
+  {
+    "word": "tumhara",
+    "start": 28.928,
+    "end": 29.348
+  },
+  {
+    "word": "toxic",
+    "start": 29.441,
+    "end": 29.906
+  },
+  {
+    "word": "ego",
+    "start": 30.026,
+    "end": 30.386
+  },
+  {
+    "word": "tumhara",
+    "start": 30.426,
+    "end": 30.785
+  },
+  {
+    "word": "career",
+    "start": 30.854,
+    "end": 31.268
+  },
+  {
+    "word": "kha",
+    "start": 31.308,
+    "end": 31.428
+  },
+  {
+    "word": "jayega.",
+    "start": 31.468,
+    "end": 31.987
+  },
+  {
+    "word": "Build",
+    "start": 32.187,
+    "end": 33.187
+  },
+  {
+    "word": "your",
+    "start": 33.219,
+    "end": 33.347
+  },
+  {
+    "word": "skills,",
+    "start": 33.427,
+    "end": 34.227
+  },
+  {
+    "word": "secure",
+    "start": 34.307,
+    "end": 34.787
+  },
+  {
+    "word": "your",
+    "start": 34.835,
+    "end": 35.027
+  },
+  {
+    "word": "wealth,",
+    "start": 35.096,
+    "end": 35.91
+  },
+  {
+    "word": "and",
+    "start": 35.93,
+    "end": 35.99
+  },
+  {
+    "word": "protect",
+    "start": 36.08,
+    "end": 36.71
+  },
+  {
+    "word": "your",
+    "start": 36.758,
+    "end": 36.95
+  },
+  {
+    "word": "inner",
+    "start": 37.017,
+    "end": 37.352
+  },
+  {
+    "word": "circle.",
+    "start": 37.432,
+    "end": 38.072
+  },
+  {
+    "word": "Tag",
+    "start": 38.312,
+    "end": 39.032
+  },
+  {
+    "word": "that",
+    "start": 39.08,
+    "end": 39.272
+  },
+  {
+    "word": "one",
+    "start": 39.372,
+    "end": 39.672
+  },
+  {
+    "word": "friend",
+    "start": 39.741,
+    "end": 40.155
+  },
+  {
+    "word": "who",
+    "start": 40.175,
+    "end": 40.235
+  },
+  {
+    "word": "needs",
+    "start": 40.288,
+    "end": 40.553
+  },
+  {
+    "word": "to",
+    "start": 40.58,
+    "end": 40.634
+  },
+  {
+    "word": "stop",
+    "start": 40.714,
+    "end": 41.034
+  },
+  {
+    "word": "being",
+    "start": 41.087,
+    "end": 41.352
+  },
+  {
+    "word": "lazy",
+    "start": 41.448,
+    "end": 41.832
+  },
+  {
+    "word": "and",
+    "start": 41.972,
+    "end": 42.392
+  },
+  {
+    "word": "start",
+    "start": 42.472,
+    "end": 42.872
+  },
+  {
+    "word": "hustling",
+    "start": 42.936,
+    "end": 43.352
+  },
+  {
+    "word": "again.",
+    "start": 43.419,
+    "end": 43.834
+  }
+]

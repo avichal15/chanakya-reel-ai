@@ -1,0 +1,97 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "FIXING",
+    "start": 0.54,
+    "end": 1.2
+  },
+  {
+    "word": "DUMB",
+    "start": 1.4,
+    "end": 1.759
+  },
+  {
+    "word": "PEOPLE!",
+    "start": 1.85,
+    "end": 2.556
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.78,
+    "end": 3.996
+  },
+  {
+    "word": "ne",
+    "start": 4.049,
+    "end": 4.155
+  },
+  {
+    "word": "kaha",
+    "start": 4.195,
+    "end": 4.394
+  },
+  {
+    "word": "tha:",
+    "start": 4.454,
+    "end": 4.981
+  },
+  {
+    "word": "Bro,",
+    "start": 5.415,
+    "end": 5.756
+  },
+  {
+    "word": "tumhara",
+    "start": 5.856,
+    "end": 6.396
+  },
+  {
+    "word": "kaam",
+    "start": 6.449,
+    "end": 6.635
+  },
+  {
+    "word": "sabko",
+    "start": 6.735,
+    "end": 7.195
+  },
+  {
+    "word": "Share",
+    "start": 7.395,
+    "end": 8.395
+  },
+  {
+    "word": "this",
+    "start": 8.443,
+    "end": 8.635
+  },
+  {
+    "word": "reel",
+    "start": 8.699,
+    "end": 8.955
+  },
+  {
+    "word": "with",
+    "start": 8.987,
+    "end": 9.115
+  },
+  {
+    "word": "that",
+    "start": 9.163,
+    "end": 9.355
+  },
+  {
+    "word": "one",
+    "start": 9.455,
+    "end": 9.755
+  },
+  {
+    "word": "friend",
+    "start": 9.835,
+    "end": 10.395
+  }
+]

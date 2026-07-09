@@ -1,0 +1,87 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "EATING",
+    "start": 0.52,
+    "end": 1.04
+  },
+  {
+    "word": "GARBAGE!",
+    "start": 1.2,
+    "end": 2.16
+  },
+  {
+    "word": "Share",
+    "start": 2.373,
+    "end": 3.038
+  },
+  {
+    "word": "this",
+    "start": 3.086,
+    "end": 3.278
+  },
+  {
+    "word": "reel",
+    "start": 3.342,
+    "end": 3.598
+  },
+  {
+    "word": "with",
+    "start": 3.63,
+    "end": 3.758
+  },
+  {
+    "word": "your",
+    "start": 3.79,
+    "end": 3.918
+  },
+  {
+    "word": "gym",
+    "start": 3.998,
+    "end": 4.238
+  },
+  {
+    "word": "bro",
+    "start": 4.338,
+    "end": 4.638
+  },
+  {
+    "word": "or",
+    "start": 4.771,
+    "end": 5.037
+  },
+  {
+    "word": "that",
+    "start": 5.085,
+    "end": 5.277
+  },
+  {
+    "word": "friend",
+    "start": 5.334,
+    "end": 5.676
+  },
+  {
+    "word": "who",
+    "start": 5.716,
+    "end": 5.836
+  },
+  {
+    "word": "eats",
+    "start": 5.916,
+    "end": 6.236
+  },
+  {
+    "word": "like",
+    "start": 6.3,
+    "end": 6.556
+  },
+  {
+    "word": "trash.",
+    "start": 6.663,
+    "end": 7.358
+  }
+]

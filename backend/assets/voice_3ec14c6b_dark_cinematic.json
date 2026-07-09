@@ -1,0 +1,452 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "FRIENDS",
+    "start": 0.24,
+    "end": 0.8
+  },
+  {
+    "word": "WILL",
+    "start": 0.88,
+    "end": 1.2
+  },
+  {
+    "word": "LEAVE",
+    "start": 1.28,
+    "end": 1.599
+  },
+  {
+    "word": "YOU!",
+    "start": 1.659,
+    "end": 1.919
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.239,
+    "end": 3.759
+  },
+  {
+    "word": "ne",
+    "start": 3.812,
+    "end": 3.918
+  },
+  {
+    "word": "kaha",
+    "start": 3.998,
+    "end": 4.237
+  },
+  {
+    "word": "tha:",
+    "start": 4.277,
+    "end": 4.477
+  },
+  {
+    "word": "Safar",
+    "start": 4.777,
+    "end": 5.757
+  },
+  {
+    "word": "mein",
+    "start": 5.789,
+    "end": 5.917
+  },
+  {
+    "word": "tumhara",
+    "start": 5.977,
+    "end": 6.397
+  },
+  {
+    "word": "gyaan",
+    "start": 6.477,
+    "end": 6.877
+  },
+  {
+    "word": "(knowledge)",
+    "start": 7.157,
+    "end": 8.274
+  },
+  {
+    "word": "tumhara",
+    "start": 8.364,
+    "end": 8.874
+  },
+  {
+    "word": "dost",
+    "start": 8.97,
+    "end": 9.354
+  },
+  {
+    "word": "hai,",
+    "start": 9.394,
+    "end": 10.314
+  },
+  {
+    "word": "ghar",
+    "start": 10.354,
+    "end": 10.553
+  },
+  {
+    "word": "mein",
+    "start": 10.585,
+    "end": 10.713
+  },
+  {
+    "word": "tumhara",
+    "start": 10.773,
+    "end": 11.193
+  },
+  {
+    "word": "jeevan",
+    "start": 11.273,
+    "end": 11.672
+  },
+  {
+    "word": "sathi,",
+    "start": 11.792,
+    "end": 13.032
+  },
+  {
+    "word": "beemari",
+    "start": 13.085,
+    "end": 13.591
+  },
+  {
+    "word": "mein",
+    "start": 13.623,
+    "end": 13.751
+  },
+  {
+    "word": "dawai,",
+    "start": 13.831,
+    "end": 14.391
+  },
+  {
+    "word": "aur",
+    "start": 14.611,
+    "end": 15.271
+  },
+  {
+    "word": "marne",
+    "start": 15.351,
+    "end": 15.751
+  },
+  {
+    "word": "ke",
+    "start": 15.804,
+    "end": 15.91
+  },
+  {
+    "word": "baad",
+    "start": 15.99,
+    "end": 16.31
+  },
+  {
+    "word": "tumhara",
+    "start": 16.49,
+    "end": 17.35
+  },
+  {
+    "word": "karm",
+    "start": 17.43,
+    "end": 17.75
+  },
+  {
+    "word": "hi",
+    "start": 17.803,
+    "end": 17.909
+  },
+  {
+    "word": "tumhara",
+    "start": 17.949,
+    "end": 18.389
+  },
+  {
+    "word": "akela",
+    "start": 18.496,
+    "end": 18.95
+  },
+  {
+    "word": "dost",
+    "start": 19.03,
+    "end": 19.35
+  },
+  {
+    "word": "hai.",
+    "start": 19.39,
+    "end": 19.67
+  },
+  {
+    "word": "Bro,",
+    "start": 19.97,
+    "end": 21.19
+  },
+  {
+    "word": "tumhara",
+    "start": 21.27,
+    "end": 21.749
+  },
+  {
+    "word": "toxic",
+    "start": 21.856,
+    "end": 22.391
+  },
+  {
+    "word": "'Circle'",
+    "start": 22.511,
+    "end": 23.193
+  },
+  {
+    "word": "tumhe",
+    "start": 23.293,
+    "end": 23.673
+  },
+  {
+    "word": "corporate",
+    "start": 23.721,
+    "end": 24.153
+  },
+  {
+    "word": "world",
+    "start": 24.206,
+    "end": 24.471
+  },
+  {
+    "word": "mein",
+    "start": 24.503,
+    "end": 24.631
+  },
+  {
+    "word": "bacha",
+    "start": 24.695,
+    "end": 25.031
+  },
+  {
+    "word": "nahi",
+    "start": 25.111,
+    "end": 25.35
+  },
+  {
+    "word": "payega,",
+    "start": 25.41,
+    "end": 25.91
+  },
+  {
+    "word": "tumhari",
+    "start": 26.11,
+    "end": 27.03
+  },
+  {
+    "word": "'Skills'",
+    "start": 27.11,
+    "end": 27.832
+  },
+  {
+    "word": "bachayengi.",
+    "start": 27.88,
+    "end": 28.712
+  },
+  {
+    "word": "In",
+    "start": 28.952,
+    "end": 29.432
+  },
+  {
+    "word": "fake",
+    "start": 29.512,
+    "end": 29.832
+  },
+  {
+    "word": "friends",
+    "start": 29.882,
+    "end": 30.232
+  },
+  {
+    "word": "se",
+    "start": 30.285,
+    "end": 30.391
+  },
+  {
+    "word": "validation",
+    "start": 30.449,
+    "end": 31.029
+  },
+  {
+    "word": "lena",
+    "start": 31.089,
+    "end": 31.349
+  },
+  {
+    "word": "band",
+    "start": 31.413,
+    "end": 31.669
+  },
+  {
+    "word": "karo.",
+    "start": 31.709,
+    "end": 32.149
+  },
+  {
+    "word": "Apni",
+    "start": 32.389,
+    "end": 32.949
+  },
+  {
+    "word": "knowledge",
+    "start": 32.989,
+    "end": 33.349
+  },
+  {
+    "word": "badhao,",
+    "start": 33.389,
+    "end": 33.909
+  },
+  {
+    "word": "real",
+    "start": 34.085,
+    "end": 34.789
+  },
+  {
+    "word": "growth",
+    "start": 34.846,
+    "end": 35.188
+  },
+  {
+    "word": "par",
+    "start": 35.248,
+    "end": 35.428
+  },
+  {
+    "word": "dhyan",
+    "start": 35.481,
+    "end": 35.827
+  },
+  {
+    "word": "do,",
+    "start": 35.907,
+    "end": 36.147
+  },
+  {
+    "word": "aur",
+    "start": 36.287,
+    "end": 36.707
+  },
+  {
+    "word": "apne",
+    "start": 36.76,
+    "end": 36.946
+  },
+  {
+    "word": "karma",
+    "start": 37.013,
+    "end": 37.348
+  },
+  {
+    "word": "ko",
+    "start": 37.428,
+    "end": 37.588
+  },
+  {
+    "word": "strong",
+    "start": 37.657,
+    "end": 38.071
+  },
+  {
+    "word": "karo.",
+    "start": 38.111,
+    "end": 38.831
+  },
+  {
+    "word": "Baki",
+    "start": 39.051,
+    "end": 39.511
+  },
+  {
+    "word": "sab",
+    "start": 39.611,
+    "end": 39.911
+  },
+  {
+    "word": "illusion",
+    "start": 39.973,
+    "end": 40.469
+  },
+  {
+    "word": "hai.",
+    "start": 40.529,
+    "end": 40.789
+  },
+  {
+    "word": "Share",
+    "start": 40.949,
+    "end": 41.749
+  },
+  {
+    "word": "this",
+    "start": 41.797,
+    "end": 41.989
+  },
+  {
+    "word": "reel",
+    "start": 42.053,
+    "end": 42.309
+  },
+  {
+    "word": "with",
+    "start": 42.341,
+    "end": 42.469
+  },
+  {
+    "word": "that",
+    "start": 42.517,
+    "end": 42.709
+  },
+  {
+    "word": "one",
+    "start": 42.809,
+    "end": 43.109
+  },
+  {
+    "word": "friend",
+    "start": 43.178,
+    "end": 43.592
+  },
+  {
+    "word": "who",
+    "start": 43.632,
+    "end": 43.752
+  },
+  {
+    "word": "prioritizes",
+    "start": 43.822,
+    "end": 44.712
+  },
+  {
+    "word": "fake",
+    "start": 44.792,
+    "end": 45.112
+  },
+  {
+    "word": "friends",
+    "start": 45.172,
+    "end": 45.592
+  },
+  {
+    "word": "over",
+    "start": 45.672,
+    "end": 45.992
+  },
+  {
+    "word": "real",
+    "start": 46.088,
+    "end": 46.472
+  },
+  {
+    "word": "growth.",
+    "start": 46.552,
+    "end": 47.192
+  }
+]

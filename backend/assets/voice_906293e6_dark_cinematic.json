@@ -1,0 +1,592 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.48
+  },
+  {
+    "word": "CHASING",
+    "start": 0.587,
+    "end": 1.2
+  },
+  {
+    "word": "ONLY",
+    "start": 1.36,
+    "end": 2.0
+  },
+  {
+    "word": "MONEY!",
+    "start": 2.107,
+    "end": 2.802
+  },
+  {
+    "word": "Chanakya",
+    "start": 3.042,
+    "end": 4.242
+  },
+  {
+    "word": "ne",
+    "start": 4.295,
+    "end": 4.401
+  },
+  {
+    "word": "kaha",
+    "start": 4.441,
+    "end": 4.64
+  },
+  {
+    "word": "tha:",
+    "start": 4.7,
+    "end": 4.96
+  },
+  {
+    "word": "Chhoti",
+    "start": 5.227,
+    "end": 6.081
+  },
+  {
+    "word": "soch",
+    "start": 6.188,
+    "end": 6.482
+  },
+  {
+    "word": "wale",
+    "start": 6.522,
+    "end": 6.802
+  },
+  {
+    "word": "log",
+    "start": 6.882,
+    "end": 7.122
+  },
+  {
+    "word": "sirf",
+    "start": 7.202,
+    "end": 7.522
+  },
+  {
+    "word": "paise",
+    "start": 7.602,
+    "end": 7.922
+  },
+  {
+    "word": "ke",
+    "start": 7.975,
+    "end": 8.081
+  },
+  {
+    "word": "peeche",
+    "start": 8.121,
+    "end": 8.4
+  },
+  {
+    "word": "bhaagte",
+    "start": 8.44,
+    "end": 8.88
+  },
+  {
+    "word": "hain,",
+    "start": 8.9,
+    "end": 9.679
+  },
+  {
+    "word": "par",
+    "start": 9.719,
+    "end": 9.839
+  },
+  {
+    "word": "mahan",
+    "start": 9.879,
+    "end": 10.319
+  },
+  {
+    "word": "log",
+    "start": 10.439,
+    "end": 10.799
+  },
+  {
+    "word": "izzat",
+    "start": 11.119,
+    "end": 11.519
+  },
+  {
+    "word": "ko",
+    "start": 11.599,
+    "end": 11.759
+  },
+  {
+    "word": "sabse",
+    "start": 11.859,
+    "end": 12.319
+  },
+  {
+    "word": "upar",
+    "start": 12.372,
+    "end": 12.558
+  },
+  {
+    "word": "rakhte",
+    "start": 12.598,
+    "end": 12.958
+  },
+  {
+    "word": "hain.",
+    "start": 12.998,
+    "end": 13.999
+  },
+  {
+    "word": "Aam",
+    "start": 14.079,
+    "end": 14.319
+  },
+  {
+    "word": "insaan",
+    "start": 14.379,
+    "end": 14.88
+  },
+  {
+    "word": "sirf",
+    "start": 14.96,
+    "end": 15.28
+  },
+  {
+    "word": "duniya",
+    "start": 15.36,
+    "end": 15.679
+  },
+  {
+    "word": "ke",
+    "start": 15.732,
+    "end": 15.838
+  },
+  {
+    "word": "bhog-vilas",
+    "start": 15.918,
+    "end": 16.718
+  },
+  {
+    "word": "chahta",
+    "start": 16.738,
+    "end": 17.038
+  },
+  {
+    "word": "hai,",
+    "start": 17.098,
+    "end": 17.838
+  },
+  {
+    "word": "jabki",
+    "start": 17.898,
+    "end": 18.158
+  },
+  {
+    "word": "ek",
+    "start": 18.211,
+    "end": 18.317
+  },
+  {
+    "word": "superior",
+    "start": 18.388,
+    "end": 18.956
+  },
+  {
+    "word": "mind",
+    "start": 19.036,
+    "end": 19.356
+  },
+  {
+    "word": "ultimate",
+    "start": 19.427,
+    "end": 19.995
+  },
+  {
+    "word": "freedom",
+    "start": 20.075,
+    "end": 20.635
+  },
+  {
+    "word": "(moksha)",
+    "start": 20.835,
+    "end": 21.675
+  },
+  {
+    "word": "chahta",
+    "start": 21.715,
+    "end": 22.075
+  },
+  {
+    "word": "hai.",
+    "start": 22.135,
+    "end": 22.955
+  },
+  {
+    "word": "Bro,",
+    "start": 23.115,
+    "end": 23.675
+  },
+  {
+    "word": "agar",
+    "start": 23.819,
+    "end": 24.395
+  },
+  {
+    "word": "tumhara",
+    "start": 24.455,
+    "end": 24.875
+  },
+  {
+    "word": "goal",
+    "start": 24.955,
+    "end": 25.275
+  },
+  {
+    "word": "sirf",
+    "start": 25.375,
+    "end": 25.755
+  },
+  {
+    "word": "ek",
+    "start": 25.808,
+    "end": 25.914
+  },
+  {
+    "word": "badi",
+    "start": 25.954,
+    "end": 26.153
+  },
+  {
+    "word": "'Salary'",
+    "start": 26.273,
+    "end": 27.033
+  },
+  {
+    "word": "aur",
+    "start": 27.073,
+    "end": 27.193
+  },
+  {
+    "word": "brand",
+    "start": 27.273,
+    "end": 27.673
+  },
+  {
+    "word": "logos",
+    "start": 27.753,
+    "end": 28.153
+  },
+  {
+    "word": "flaunt",
+    "start": 28.213,
+    "end": 28.552
+  },
+  {
+    "word": "karna",
+    "start": 28.592,
+    "end": 28.952
+  },
+  {
+    "word": "hai,",
+    "start": 28.992,
+    "end": 29.272
+  },
+  {
+    "word": "toh",
+    "start": 29.412,
+    "end": 29.832
+  },
+  {
+    "word": "tum",
+    "start": 29.872,
+    "end": 29.992
+  },
+  {
+    "word": "abhi",
+    "start": 30.072,
+    "end": 30.392
+  },
+  {
+    "word": "bhi",
+    "start": 30.432,
+    "end": 30.552
+  },
+  {
+    "word": "basic",
+    "start": 30.632,
+    "end": 31.032
+  },
+  {
+    "word": "level",
+    "start": 31.072,
+    "end": 31.272
+  },
+  {
+    "word": "par",
+    "start": 31.332,
+    "end": 31.512
+  },
+  {
+    "word": "ho.",
+    "start": 31.565,
+    "end": 31.751
+  },
+  {
+    "word": "Corporate",
+    "start": 31.879,
+    "end": 33.031
+  },
+  {
+    "word": "race",
+    "start": 33.095,
+    "end": 33.351
+  },
+  {
+    "word": "mein",
+    "start": 33.383,
+    "end": 33.511
+  },
+  {
+    "word": "bhagna",
+    "start": 33.564,
+    "end": 33.99
+  },
+  {
+    "word": "achha",
+    "start": 34.07,
+    "end": 34.47
+  },
+  {
+    "word": "hai,",
+    "start": 34.51,
+    "end": 35.27
+  },
+  {
+    "word": "par",
+    "start": 35.29,
+    "end": 35.35
+  },
+  {
+    "word": "apni",
+    "start": 35.403,
+    "end": 35.669
+  },
+  {
+    "word": "Self-Respect",
+    "start": 35.749,
+    "end": 36.548
+  },
+  {
+    "word": "ko",
+    "start": 36.628,
+    "end": 36.788
+  },
+  {
+    "word": "bech",
+    "start": 36.868,
+    "end": 37.188
+  },
+  {
+    "word": "kar",
+    "start": 37.228,
+    "end": 37.348
+  },
+  {
+    "word": "nahi.",
+    "start": 37.388,
+    "end": 37.748
+  },
+  {
+    "word": "Real",
+    "start": 37.972,
+    "end": 38.868
+  },
+  {
+    "word": "growth",
+    "start": 38.937,
+    "end": 39.351
+  },
+  {
+    "word": "is",
+    "start": 39.431,
+    "end": 39.591
+  },
+  {
+    "word": "when",
+    "start": 39.623,
+    "end": 39.751
+  },
+  {
+    "word": "you",
+    "start": 39.791,
+    "end": 39.911
+  },
+  {
+    "word": "build",
+    "start": 39.978,
+    "end": 40.313
+  },
+  {
+    "word": "a",
+    "start": 40.353,
+    "end": 40.393
+  },
+  {
+    "word": "circle",
+    "start": 40.462,
+    "end": 40.876
+  },
+  {
+    "word": "that",
+    "start": 40.924,
+    "end": 41.116
+  },
+  {
+    "word": "values",
+    "start": 41.207,
+    "end": 41.753
+  },
+  {
+    "word": "your",
+    "start": 41.769,
+    "end": 41.833
+  },
+  {
+    "word": "character,",
+    "start": 41.897,
+    "end": 42.633
+  },
+  {
+    "word": "giving",
+    "start": 42.724,
+    "end": 43.27
+  },
+  {
+    "word": "you",
+    "start": 43.29,
+    "end": 43.35
+  },
+  {
+    "word": "ultimate",
+    "start": 43.421,
+    "end": 43.989
+  },
+  {
+    "word": "freedom,",
+    "start": 44.049,
+    "end": 44.549
+  },
+  {
+    "word": "not",
+    "start": 44.749,
+    "end": 45.349
+  },
+  {
+    "word": "just",
+    "start": 45.413,
+    "end": 45.669
+  },
+  {
+    "word": "a",
+    "start": 45.709,
+    "end": 45.749
+  },
+  {
+    "word": "toxic",
+    "start": 45.829,
+    "end": 46.229
+  },
+  {
+    "word": "paycheck.",
+    "start": 46.291,
+    "end": 46.947
+  },
+  {
+    "word": "Share",
+    "start": 47.134,
+    "end": 48.069
+  },
+  {
+    "word": "this",
+    "start": 48.117,
+    "end": 48.309
+  },
+  {
+    "word": "reel",
+    "start": 48.373,
+    "end": 48.629
+  },
+  {
+    "word": "with",
+    "start": 48.661,
+    "end": 48.789
+  },
+  {
+    "word": "that",
+    "start": 48.837,
+    "end": 49.029
+  },
+  {
+    "word": "one",
+    "start": 49.109,
+    "end": 49.349
+  },
+  {
+    "word": "friend",
+    "start": 49.418,
+    "end": 49.832
+  },
+  {
+    "word": "who",
+    "start": 49.872,
+    "end": 49.992
+  },
+  {
+    "word": "is",
+    "start": 50.019,
+    "end": 50.073
+  },
+  {
+    "word": "running",
+    "start": 50.123,
+    "end": 50.473
+  },
+  {
+    "word": "blindly",
+    "start": 50.553,
+    "end": 51.113
+  },
+  {
+    "word": "after",
+    "start": 51.166,
+    "end": 51.431
+  },
+  {
+    "word": "money",
+    "start": 51.484,
+    "end": 51.749
+  },
+  {
+    "word": "and",
+    "start": 51.889,
+    "end": 52.309
+  },
+  {
+    "word": "needs",
+    "start": 52.362,
+    "end": 52.627
+  },
+  {
+    "word": "a",
+    "start": 52.667,
+    "end": 52.707
+  },
+  {
+    "word": "reality",
+    "start": 52.777,
+    "end": 53.267
+  },
+  {
+    "word": "check.",
+    "start": 53.334,
+    "end": 53.749
+  }
+]

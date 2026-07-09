@@ -1,0 +1,482 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "CIRCLE",
+    "start": 0.24,
+    "end": 0.72
+  },
+  {
+    "word": "IS",
+    "start": 0.8,
+    "end": 0.96
+  },
+  {
+    "word": "DESTROYING",
+    "start": 1.04,
+    "end": 1.759
+  },
+  {
+    "word": "YOU!",
+    "start": 1.839,
+    "end": 2.159
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.415,
+    "end": 3.679
+  },
+  {
+    "word": "ne",
+    "start": 3.732,
+    "end": 3.838
+  },
+  {
+    "word": "kaha",
+    "start": 3.878,
+    "end": 4.077
+  },
+  {
+    "word": "tha:",
+    "start": 4.137,
+    "end": 4.397
+  },
+  {
+    "word": "Jaisi",
+    "start": 4.917,
+    "end": 5.757
+  },
+  {
+    "word": "insaan",
+    "start": 5.857,
+    "end": 6.316
+  },
+  {
+    "word": "ki",
+    "start": 6.369,
+    "end": 6.475
+  },
+  {
+    "word": "kismat",
+    "start": 6.555,
+    "end": 7.195
+  },
+  {
+    "word": "ya",
+    "start": 7.382,
+    "end": 7.756
+  },
+  {
+    "word": "bhavishya",
+    "start": 7.809,
+    "end": 8.395
+  },
+  {
+    "word": "hone",
+    "start": 8.443,
+    "end": 8.635
+  },
+  {
+    "word": "wala",
+    "start": 8.675,
+    "end": 8.955
+  },
+  {
+    "word": "hota",
+    "start": 9.015,
+    "end": 9.275
+  },
+  {
+    "word": "hai,",
+    "start": 9.315,
+    "end": 9.515
+  },
+  {
+    "word": "waisi",
+    "start": 9.955,
+    "end": 10.715
+  },
+  {
+    "word": "hi",
+    "start": 10.768,
+    "end": 10.874
+  },
+  {
+    "word": "uski",
+    "start": 10.954,
+    "end": 11.194
+  },
+  {
+    "word": "buddhi",
+    "start": 11.258,
+    "end": 11.594
+  },
+  {
+    "word": "ho",
+    "start": 11.647,
+    "end": 11.753
+  },
+  {
+    "word": "jati",
+    "start": 11.793,
+    "end": 12.154
+  },
+  {
+    "word": "hai,",
+    "start": 12.194,
+    "end": 13.194
+  },
+  {
+    "word": "waise",
+    "start": 13.274,
+    "end": 13.674
+  },
+  {
+    "word": "hi",
+    "start": 13.754,
+    "end": 13.914
+  },
+  {
+    "word": "uske",
+    "start": 13.994,
+    "end": 14.234
+  },
+  {
+    "word": "karam",
+    "start": 14.314,
+    "end": 14.634
+  },
+  {
+    "word": "ho",
+    "start": 14.661,
+    "end": 14.715
+  },
+  {
+    "word": "jate",
+    "start": 14.795,
+    "end": 15.115
+  },
+  {
+    "word": "hain,",
+    "start": 15.155,
+    "end": 16.076
+  },
+  {
+    "word": "aur",
+    "start": 16.116,
+    "end": 16.236
+  },
+  {
+    "word": "waise",
+    "start": 16.356,
+    "end": 16.796
+  },
+  {
+    "word": "hi",
+    "start": 16.849,
+    "end": 16.955
+  },
+  {
+    "word": "dost",
+    "start": 17.099,
+    "end": 17.675
+  },
+  {
+    "word": "ya",
+    "start": 17.862,
+    "end": 18.236
+  },
+  {
+    "word": "sahayogi",
+    "start": 18.316,
+    "end": 19.037
+  },
+  {
+    "word": "usse",
+    "start": 19.197,
+    "end": 19.677
+  },
+  {
+    "word": "aakar",
+    "start": 19.757,
+    "end": 20.157
+  },
+  {
+    "word": "judte",
+    "start": 20.197,
+    "end": 20.557
+  },
+  {
+    "word": "hain.",
+    "start": 20.597,
+    "end": 20.798
+  },
+  {
+    "word": "Bro,",
+    "start": 21.158,
+    "end": 22.718
+  },
+  {
+    "word": "agar",
+    "start": 22.814,
+    "end": 23.198
+  },
+  {
+    "word": "tumhara",
+    "start": 23.258,
+    "end": 23.678
+  },
+  {
+    "word": "downfall",
+    "start": 23.749,
+    "end": 24.317
+  },
+  {
+    "word": "aane",
+    "start": 24.357,
+    "end": 24.556
+  },
+  {
+    "word": "wala",
+    "start": 24.596,
+    "end": 24.876
+  },
+  {
+    "word": "hai,",
+    "start": 24.916,
+    "end": 25.116
+  },
+  {
+    "word": "toh",
+    "start": 25.256,
+    "end": 25.676
+  },
+  {
+    "word": "sabse",
+    "start": 25.796,
+    "end": 26.236
+  },
+  {
+    "word": "pehle",
+    "start": 26.316,
+    "end": 26.635
+  },
+  {
+    "word": "tumhari",
+    "start": 26.695,
+    "end": 27.115
+  },
+  {
+    "word": "soch",
+    "start": 27.222,
+    "end": 27.596
+  },
+  {
+    "word": "giregi",
+    "start": 27.636,
+    "end": 28.075
+  },
+  {
+    "word": "aur",
+    "start": 28.235,
+    "end": 28.715
+  },
+  {
+    "word": "tumhara",
+    "start": 28.755,
+    "end": 29.114
+  },
+  {
+    "word": "circle",
+    "start": 29.194,
+    "end": 29.674
+  },
+  {
+    "word": "toxic",
+    "start": 29.781,
+    "end": 30.316
+  },
+  {
+    "word": "ho",
+    "start": 30.343,
+    "end": 30.397
+  },
+  {
+    "word": "jayega.",
+    "start": 30.477,
+    "end": 30.957
+  },
+  {
+    "word": "Losers",
+    "start": 31.277,
+    "end": 32.396
+  },
+  {
+    "word": "ke",
+    "start": 32.449,
+    "end": 32.555
+  },
+  {
+    "word": "saath",
+    "start": 32.608,
+    "end": 32.873
+  },
+  {
+    "word": "baithoge",
+    "start": 32.926,
+    "end": 33.431
+  },
+  {
+    "word": "toh",
+    "start": 33.571,
+    "end": 33.991
+  },
+  {
+    "word": "growth",
+    "start": 34.048,
+    "end": 34.39
+  },
+  {
+    "word": "bhool",
+    "start": 34.47,
+    "end": 34.789
+  },
+  {
+    "word": "jao.",
+    "start": 34.829,
+    "end": 35.109
+  },
+  {
+    "word": "Upgrade",
+    "start": 35.259,
+    "end": 36.309
+  },
+  {
+    "word": "your",
+    "start": 36.341,
+    "end": 36.469
+  },
+  {
+    "word": "circle",
+    "start": 36.538,
+    "end": 36.952
+  },
+  {
+    "word": "and",
+    "start": 37.012,
+    "end": 37.192
+  },
+  {
+    "word": "mindset",
+    "start": 37.272,
+    "end": 37.832
+  },
+  {
+    "word": "before",
+    "start": 37.912,
+    "end": 38.392
+  },
+  {
+    "word": "it's",
+    "start": 38.445,
+    "end": 38.631
+  },
+  {
+    "word": "too",
+    "start": 38.691,
+    "end": 38.871
+  },
+  {
+    "word": "late.",
+    "start": 38.935,
+    "end": 39.351
+  },
+  {
+    "word": "Share",
+    "start": 39.511,
+    "end": 40.311
+  },
+  {
+    "word": "this",
+    "start": 40.359,
+    "end": 40.551
+  },
+  {
+    "word": "reel",
+    "start": 40.615,
+    "end": 40.871
+  },
+  {
+    "word": "with",
+    "start": 40.903,
+    "end": 41.031
+  },
+  {
+    "word": "that",
+    "start": 41.079,
+    "end": 41.271
+  },
+  {
+    "word": "one",
+    "start": 41.351,
+    "end": 41.591
+  },
+  {
+    "word": "friend",
+    "start": 41.66,
+    "end": 42.074
+  },
+  {
+    "word": "who",
+    "start": 42.094,
+    "end": 42.154
+  },
+  {
+    "word": "needs",
+    "start": 42.207,
+    "end": 42.472
+  },
+  {
+    "word": "to",
+    "start": 42.499,
+    "end": 42.553
+  },
+  {
+    "word": "cut",
+    "start": 42.633,
+    "end": 42.873
+  },
+  {
+    "word": "off",
+    "start": 42.913,
+    "end": 43.033
+  },
+  {
+    "word": "toxic",
+    "start": 43.126,
+    "end": 43.591
+  },
+  {
+    "word": "people",
+    "start": 43.66,
+    "end": 44.074
+  },
+  {
+    "word": "and",
+    "start": 44.194,
+    "end": 44.554
+  },
+  {
+    "word": "level",
+    "start": 44.621,
+    "end": 44.956
+  },
+  {
+    "word": "up.",
+    "start": 45.036,
+    "end": 45.356
+  }
+]

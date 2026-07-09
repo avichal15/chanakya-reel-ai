@@ -1,0 +1,427 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "CHASING",
+    "start": 0.427,
+    "end": 1.04
+  },
+  {
+    "word": "THE",
+    "start": 1.08,
+    "end": 1.2
+  },
+  {
+    "word": "WRONG",
+    "start": 1.28,
+    "end": 1.68
+  },
+  {
+    "word": "THINGS!",
+    "start": 1.787,
+    "end": 2.481
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.737,
+    "end": 4.001
+  },
+  {
+    "word": "ne",
+    "start": 4.054,
+    "end": 4.16
+  },
+  {
+    "word": "kaha",
+    "start": 4.2,
+    "end": 4.399
+  },
+  {
+    "word": "tha:",
+    "start": 4.459,
+    "end": 4.719
+  },
+  {
+    "word": "Garib",
+    "start": 4.979,
+    "end": 5.919
+  },
+  {
+    "word": "insaan",
+    "start": 6.019,
+    "end": 6.559
+  },
+  {
+    "word": "dhan",
+    "start": 6.639,
+    "end": 6.878
+  },
+  {
+    "word": "chahta",
+    "start": 6.918,
+    "end": 7.278
+  },
+  {
+    "word": "hai,",
+    "start": 7.318,
+    "end": 8.078
+  },
+  {
+    "word": "bejubaan",
+    "start": 8.131,
+    "end": 8.717
+  },
+  {
+    "word": "janwar",
+    "start": 8.777,
+    "end": 9.197
+  },
+  {
+    "word": "awaaz",
+    "start": 9.33,
+    "end": 9.836
+  },
+  {
+    "word": "chahte",
+    "start": 9.876,
+    "end": 10.236
+  },
+  {
+    "word": "hain,",
+    "start": 10.276,
+    "end": 11.117
+  },
+  {
+    "word": "aam",
+    "start": 11.197,
+    "end": 11.437
+  },
+  {
+    "word": "insaan",
+    "start": 11.517,
+    "end": 12.078
+  },
+  {
+    "word": "swarg",
+    "start": 12.185,
+    "end": 12.558
+  },
+  {
+    "word": "chahta",
+    "start": 12.598,
+    "end": 12.958
+  },
+  {
+    "word": "hai,",
+    "start": 13.018,
+    "end": 13.838
+  },
+  {
+    "word": "aur",
+    "start": 13.878,
+    "end": 13.998
+  },
+  {
+    "word": "devta",
+    "start": 14.078,
+    "end": 14.718
+  },
+  {
+    "word": "moksha",
+    "start": 14.958,
+    "end": 15.597
+  },
+  {
+    "word": "yani",
+    "start": 15.725,
+    "end": 16.237
+  },
+  {
+    "word": "mukti",
+    "start": 16.357,
+    "end": 16.797
+  },
+  {
+    "word": "chahte",
+    "start": 16.837,
+    "end": 17.197
+  },
+  {
+    "word": "hain.",
+    "start": 17.237,
+    "end": 17.438
+  },
+  {
+    "word": "Bro,",
+    "start": 17.758,
+    "end": 18.798
+  },
+  {
+    "word": "aaj",
+    "start": 19.078,
+    "end": 19.518
+  },
+  {
+    "word": "kal",
+    "start": 19.558,
+    "end": 19.678
+  },
+  {
+    "word": "log",
+    "start": 19.778,
+    "end": 20.078
+  },
+  {
+    "word": "corporate",
+    "start": 20.126,
+    "end": 20.558
+  },
+  {
+    "word": "race",
+    "start": 20.622,
+    "end": 20.878
+  },
+  {
+    "word": "mein",
+    "start": 20.926,
+    "end": 21.118
+  },
+  {
+    "word": "'Swarg'",
+    "start": 21.278,
+    "end": 21.918
+  },
+  {
+    "word": "yani",
+    "start": 22.03,
+    "end": 22.478
+  },
+  {
+    "word": "fake",
+    "start": 22.558,
+    "end": 22.878
+  },
+  {
+    "word": "status",
+    "start": 22.958,
+    "end": 23.438
+  },
+  {
+    "word": "aur",
+    "start": 23.498,
+    "end": 23.678
+  },
+  {
+    "word": "luxury",
+    "start": 23.758,
+    "end": 24.238
+  },
+  {
+    "word": "chase",
+    "start": 24.305,
+    "end": 24.64
+  },
+  {
+    "word": "kar",
+    "start": 24.68,
+    "end": 24.8
+  },
+  {
+    "word": "rahe",
+    "start": 24.827,
+    "end": 25.041
+  },
+  {
+    "word": "hain.",
+    "start": 25.081,
+    "end": 25.282
+  },
+  {
+    "word": "Par",
+    "start": 25.522,
+    "end": 26.242
+  },
+  {
+    "word": "asli",
+    "start": 26.349,
+    "end": 26.723
+  },
+  {
+    "word": "Sigma",
+    "start": 26.803,
+    "end": 27.203
+  },
+  {
+    "word": "mindset",
+    "start": 27.283,
+    "end": 27.843
+  },
+  {
+    "word": "'Moksha'",
+    "start": 28.043,
+    "end": 28.642
+  },
+  {
+    "word": "mein",
+    "start": 28.658,
+    "end": 28.722
+  },
+  {
+    "word": "hai\u2014ultimate",
+    "start": 28.762,
+    "end": 30.162
+  },
+  {
+    "word": "financial",
+    "start": 30.234,
+    "end": 30.882
+  },
+  {
+    "word": "aur",
+    "start": 30.962,
+    "end": 31.202
+  },
+  {
+    "word": "mental",
+    "start": 31.259,
+    "end": 31.601
+  },
+  {
+    "word": "freedom.",
+    "start": 31.671,
+    "end": 32.321
+  },
+  {
+    "word": "Ek",
+    "start": 32.641,
+    "end": 33.281
+  },
+  {
+    "word": "toxic",
+    "start": 33.361,
+    "end": 33.761
+  },
+  {
+    "word": "system",
+    "start": 33.818,
+    "end": 34.16
+  },
+  {
+    "word": "ka",
+    "start": 34.24,
+    "end": 34.4
+  },
+  {
+    "word": "slave",
+    "start": 34.48,
+    "end": 34.88
+  },
+  {
+    "word": "banna",
+    "start": 34.96,
+    "end": 35.28
+  },
+  {
+    "word": "band",
+    "start": 35.328,
+    "end": 35.52
+  },
+  {
+    "word": "karo",
+    "start": 35.56,
+    "end": 35.999
+  },
+  {
+    "word": "aur",
+    "start": 36.119,
+    "end": 36.479
+  },
+  {
+    "word": "apni",
+    "start": 36.532,
+    "end": 36.798
+  },
+  {
+    "word": "freedom",
+    "start": 36.858,
+    "end": 37.278
+  },
+  {
+    "word": "khud",
+    "start": 37.331,
+    "end": 37.597
+  },
+  {
+    "word": "build",
+    "start": 37.637,
+    "end": 37.837
+  },
+  {
+    "word": "karo.",
+    "start": 37.877,
+    "end": 38.757
+  },
+  {
+    "word": "Tag",
+    "start": 38.907,
+    "end": 39.357
+  },
+  {
+    "word": "that",
+    "start": 39.389,
+    "end": 39.517
+  },
+  {
+    "word": "friend",
+    "start": 39.574,
+    "end": 39.916
+  },
+  {
+    "word": "who",
+    "start": 39.956,
+    "end": 40.076
+  },
+  {
+    "word": "is",
+    "start": 40.103,
+    "end": 40.157
+  },
+  {
+    "word": "hustling",
+    "start": 40.237,
+    "end": 40.717
+  },
+  {
+    "word": "blindly",
+    "start": 40.807,
+    "end": 41.437
+  },
+  {
+    "word": "and",
+    "start": 41.577,
+    "end": 41.997
+  },
+  {
+    "word": "needs",
+    "start": 42.064,
+    "end": 42.399
+  },
+  {
+    "word": "this",
+    "start": 42.431,
+    "end": 42.559
+  },
+  {
+    "word": "reality",
+    "start": 42.629,
+    "end": 43.119
+  },
+  {
+    "word": "check.",
+    "start": 43.186,
+    "end": 43.601
+  }
+]

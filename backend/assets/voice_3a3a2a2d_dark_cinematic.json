@@ -1,0 +1,437 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "HATING",
+    "start": 0.48,
+    "end": 0.96
+  },
+  {
+    "word": "HONEST",
+    "start": 1.04,
+    "end": 1.44
+  },
+  {
+    "word": "PEOPLE!",
+    "start": 1.509,
+    "end": 2.083
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.339,
+    "end": 3.683
+  },
+  {
+    "word": "ne",
+    "start": 3.736,
+    "end": 3.842
+  },
+  {
+    "word": "kaha",
+    "start": 3.922,
+    "end": 4.161
+  },
+  {
+    "word": "tha:",
+    "start": 4.221,
+    "end": 4.481
+  },
+  {
+    "word": "Jo",
+    "start": 4.694,
+    "end": 5.12
+  },
+  {
+    "word": "insaan",
+    "start": 5.18,
+    "end": 5.6
+  },
+  {
+    "word": "spasht",
+    "start": 5.68,
+    "end": 6.08
+  },
+  {
+    "word": "bolta",
+    "start": 6.14,
+    "end": 6.48
+  },
+  {
+    "word": "hai",
+    "start": 6.54,
+    "end": 6.72
+  },
+  {
+    "word": "aur",
+    "start": 6.84,
+    "end": 7.2
+  },
+  {
+    "word": "muh",
+    "start": 7.26,
+    "end": 7.44
+  },
+  {
+    "word": "par",
+    "start": 7.48,
+    "end": 7.6
+  },
+  {
+    "word": "kadwa",
+    "start": 7.68,
+    "end": 8.08
+  },
+  {
+    "word": "sach",
+    "start": 8.144,
+    "end": 8.4
+  },
+  {
+    "word": "keh",
+    "start": 8.453,
+    "end": 8.639
+  },
+  {
+    "word": "deta",
+    "start": 8.679,
+    "end": 8.959
+  },
+  {
+    "word": "hai,",
+    "start": 8.999,
+    "end": 9.599
+  },
+  {
+    "word": "wo",
+    "start": 9.652,
+    "end": 9.758
+  },
+  {
+    "word": "kabhi",
+    "start": 9.818,
+    "end": 10.158
+  },
+  {
+    "word": "dhokebaaz",
+    "start": 10.238,
+    "end": 10.958
+  },
+  {
+    "word": "nahi",
+    "start": 10.998,
+    "end": 11.278
+  },
+  {
+    "word": "ho",
+    "start": 11.331,
+    "end": 11.437
+  },
+  {
+    "word": "sakta.",
+    "start": 11.497,
+    "end": 12.557
+  },
+  {
+    "word": "Tum",
+    "start": 12.597,
+    "end": 12.797
+  },
+  {
+    "word": "unhe",
+    "start": 12.85,
+    "end": 13.116
+  },
+  {
+    "word": "'rude'",
+    "start": 13.196,
+    "end": 13.676
+  },
+  {
+    "word": "ya",
+    "start": 13.809,
+    "end": 14.075
+  },
+  {
+    "word": "'toxic'",
+    "start": 14.155,
+    "end": 14.715
+  },
+  {
+    "word": "bolte",
+    "start": 14.755,
+    "end": 15.035
+  },
+  {
+    "word": "ho",
+    "start": 15.115,
+    "end": 15.275
+  },
+  {
+    "word": "kyunki",
+    "start": 15.515,
+    "end": 16.234
+  },
+  {
+    "word": "unka",
+    "start": 16.367,
+    "end": 16.713
+  },
+  {
+    "word": "sach",
+    "start": 16.793,
+    "end": 17.113
+  },
+  {
+    "word": "tumhari",
+    "start": 17.153,
+    "end": 17.513
+  },
+  {
+    "word": "ego",
+    "start": 17.633,
+    "end": 17.993
+  },
+  {
+    "word": "ko",
+    "start": 18.073,
+    "end": 18.233
+  },
+  {
+    "word": "hurt",
+    "start": 18.297,
+    "end": 18.553
+  },
+  {
+    "word": "karta",
+    "start": 18.593,
+    "end": 18.873
+  },
+  {
+    "word": "hai.",
+    "start": 18.933,
+    "end": 19.193
+  },
+  {
+    "word": "Par",
+    "start": 19.373,
+    "end": 19.913
+  },
+  {
+    "word": "sach",
+    "start": 19.977,
+    "end": 20.233
+  },
+  {
+    "word": "suno",
+    "start": 20.293,
+    "end": 20.593
+  },
+  {
+    "word": "bro,",
+    "start": 20.623,
+    "end": 21.273
+  },
+  {
+    "word": "tumhare",
+    "start": 21.313,
+    "end": 21.673
+  },
+  {
+    "word": "circle",
+    "start": 21.764,
+    "end": 22.31
+  },
+  {
+    "word": "ya",
+    "start": 22.417,
+    "end": 22.631
+  },
+  {
+    "word": "corporate",
+    "start": 22.679,
+    "end": 23.111
+  },
+  {
+    "word": "life",
+    "start": 23.175,
+    "end": 23.431
+  },
+  {
+    "word": "mein",
+    "start": 23.479,
+    "end": 23.671
+  },
+  {
+    "word": "jo",
+    "start": 23.778,
+    "end": 23.992
+  },
+  {
+    "word": "log",
+    "start": 24.072,
+    "end": 24.312
+  },
+  {
+    "word": "tumhare",
+    "start": 24.352,
+    "end": 24.712
+  },
+  {
+    "word": "muh",
+    "start": 24.752,
+    "end": 24.872
+  },
+  {
+    "word": "pe",
+    "start": 24.925,
+    "end": 25.031
+  },
+  {
+    "word": "sweet-talk",
+    "start": 25.098,
+    "end": 25.673
+  },
+  {
+    "word": "karte",
+    "start": 25.713,
+    "end": 25.993
+  },
+  {
+    "word": "hain,",
+    "start": 26.033,
+    "end": 26.874
+  },
+  {
+    "word": "wahi",
+    "start": 26.954,
+    "end": 27.193
+  },
+  {
+    "word": "sabse",
+    "start": 27.313,
+    "end": 27.833
+  },
+  {
+    "word": "bade",
+    "start": 27.873,
+    "end": 28.072
+  },
+  {
+    "word": "manipulators",
+    "start": 28.125,
+    "end": 28.789
+  },
+  {
+    "word": "hain.",
+    "start": 28.829,
+    "end": 29.83
+  },
+  {
+    "word": "Blunt",
+    "start": 29.883,
+    "end": 30.229
+  },
+  {
+    "word": "log",
+    "start": 30.289,
+    "end": 30.469
+  },
+  {
+    "word": "chaaplusi",
+    "start": 30.509,
+    "end": 31.109
+  },
+  {
+    "word": "nahi",
+    "start": 31.149,
+    "end": 31.27
+  },
+  {
+    "word": "karte,",
+    "start": 31.35,
+    "end": 32.31
+  },
+  {
+    "word": "wo",
+    "start": 32.337,
+    "end": 32.391
+  },
+  {
+    "word": "tumhari",
+    "start": 32.451,
+    "end": 32.871
+  },
+  {
+    "word": "real",
+    "start": 32.951,
+    "end": 33.271
+  },
+  {
+    "word": "growth",
+    "start": 33.328,
+    "end": 33.67
+  },
+  {
+    "word": "chahte",
+    "start": 33.73,
+    "end": 34.069
+  },
+  {
+    "word": "hain.",
+    "start": 34.109,
+    "end": 35.268
+  },
+  {
+    "word": "Tag",
+    "start": 35.348,
+    "end": 35.588
+  },
+  {
+    "word": "that",
+    "start": 35.636,
+    "end": 35.828
+  },
+  {
+    "word": "brutally",
+    "start": 35.899,
+    "end": 36.467
+  },
+  {
+    "word": "honest",
+    "start": 36.524,
+    "end": 36.866
+  },
+  {
+    "word": "friend",
+    "start": 36.923,
+    "end": 37.265
+  },
+  {
+    "word": "who",
+    "start": 37.325,
+    "end": 37.505
+  },
+  {
+    "word": "never",
+    "start": 37.572,
+    "end": 37.907
+  },
+  {
+    "word": "sugarcoats",
+    "start": 37.974,
+    "end": 38.629
+  },
+  {
+    "word": "the",
+    "start": 38.649,
+    "end": 38.709
+  },
+  {
+    "word": "truth.",
+    "start": 38.789,
+    "end": 39.269
+  }
+]

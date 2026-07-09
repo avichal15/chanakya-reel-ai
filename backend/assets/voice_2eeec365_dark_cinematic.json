@@ -1,0 +1,487 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "BEING",
+    "start": 0.48,
+    "end": 0.799
+  },
+  {
+    "word": "TOO",
+    "start": 0.899,
+    "end": 1.199
+  },
+  {
+    "word": "NICE!",
+    "start": 1.359,
+    "end": 2.518
+  },
+  {
+    "word": "Bhalai",
+    "start": 2.818,
+    "end": 3.438
+  },
+  {
+    "word": "ka",
+    "start": 3.518,
+    "end": 3.678
+  },
+  {
+    "word": "zamana",
+    "start": 3.738,
+    "end": 4.158
+  },
+  {
+    "word": "nahi",
+    "start": 4.238,
+    "end": 4.477
+  },
+  {
+    "word": "raha.",
+    "start": 4.517,
+    "end": 4.957
+  },
+  {
+    "word": "Chanakya",
+    "start": 5.197,
+    "end": 6.477
+  },
+  {
+    "word": "ne",
+    "start": 6.53,
+    "end": 6.636
+  },
+  {
+    "word": "kaha",
+    "start": 6.676,
+    "end": 6.956
+  },
+  {
+    "word": "tha:",
+    "start": 7.016,
+    "end": 7.516
+  },
+  {
+    "word": "Jo",
+    "start": 7.623,
+    "end": 7.837
+  },
+  {
+    "word": "tumhare",
+    "start": 7.897,
+    "end": 8.317
+  },
+  {
+    "word": "sath",
+    "start": 8.397,
+    "end": 8.717
+  },
+  {
+    "word": "jaisa",
+    "start": 8.797,
+    "end": 9.116
+  },
+  {
+    "word": "vyavahar",
+    "start": 9.169,
+    "end": 9.675
+  },
+  {
+    "word": "kare,",
+    "start": 9.755,
+    "end": 10.394
+  },
+  {
+    "word": "uske",
+    "start": 10.474,
+    "end": 10.714
+  },
+  {
+    "word": "sath",
+    "start": 10.794,
+    "end": 11.033
+  },
+  {
+    "word": "waisa",
+    "start": 11.153,
+    "end": 11.512
+  },
+  {
+    "word": "hi",
+    "start": 11.565,
+    "end": 11.671
+  },
+  {
+    "word": "bartav",
+    "start": 11.719,
+    "end": 12.071
+  },
+  {
+    "word": "karo.",
+    "start": 12.111,
+    "end": 12.47
+  },
+  {
+    "word": "Ek",
+    "start": 12.87,
+    "end": 13.67
+  },
+  {
+    "word": "dusht",
+    "start": 13.73,
+    "end": 13.99
+  },
+  {
+    "word": "insaan",
+    "start": 14.07,
+    "end": 14.469
+  },
+  {
+    "word": "ke",
+    "start": 14.522,
+    "end": 14.628
+  },
+  {
+    "word": "sath",
+    "start": 14.708,
+    "end": 15.028
+  },
+  {
+    "word": "bura",
+    "start": 15.108,
+    "end": 15.347
+  },
+  {
+    "word": "vyavahar",
+    "start": 15.4,
+    "end": 15.826
+  },
+  {
+    "word": "karne",
+    "start": 15.886,
+    "end": 16.146
+  },
+  {
+    "word": "mein",
+    "start": 16.178,
+    "end": 16.306
+  },
+  {
+    "word": "koi",
+    "start": 16.426,
+    "end": 16.706
+  },
+  {
+    "word": "paap",
+    "start": 16.786,
+    "end": 17.026
+  },
+  {
+    "word": "nahi",
+    "start": 17.066,
+    "end": 17.265
+  },
+  {
+    "word": "hai.",
+    "start": 17.325,
+    "end": 17.585
+  },
+  {
+    "word": "Bro,",
+    "start": 17.865,
+    "end": 19.025
+  },
+  {
+    "word": "ye",
+    "start": 19.132,
+    "end": 19.346
+  },
+  {
+    "word": "'forgive",
+    "start": 19.386,
+    "end": 19.906
+  },
+  {
+    "word": "and",
+    "start": 19.946,
+    "end": 20.066
+  },
+  {
+    "word": "forget'",
+    "start": 20.135,
+    "end": 20.589
+  },
+  {
+    "word": "wali",
+    "start": 20.609,
+    "end": 20.869
+  },
+  {
+    "word": "script",
+    "start": 20.926,
+    "end": 21.268
+  },
+  {
+    "word": "ab",
+    "start": 21.375,
+    "end": 21.589
+  },
+  {
+    "word": "purani",
+    "start": 21.629,
+    "end": 21.989
+  },
+  {
+    "word": "ho",
+    "start": 22.016,
+    "end": 22.07
+  },
+  {
+    "word": "chuki",
+    "start": 22.123,
+    "end": 22.469
+  },
+  {
+    "word": "hai.",
+    "start": 22.509,
+    "end": 22.709
+  },
+  {
+    "word": "Agar",
+    "start": 22.976,
+    "end": 23.59
+  },
+  {
+    "word": "tumhara",
+    "start": 23.65,
+    "end": 24.069
+  },
+  {
+    "word": "corporate",
+    "start": 24.117,
+    "end": 24.549
+  },
+  {
+    "word": "circle",
+    "start": 24.618,
+    "end": 25.032
+  },
+  {
+    "word": "ya",
+    "start": 25.192,
+    "end": 25.512
+  },
+  {
+    "word": "toxic",
+    "start": 25.592,
+    "end": 25.992
+  },
+  {
+    "word": "friends",
+    "start": 26.052,
+    "end": 26.472
+  },
+  {
+    "word": "tumhe",
+    "start": 26.512,
+    "end": 26.792
+  },
+  {
+    "word": "use",
+    "start": 26.872,
+    "end": 27.112
+  },
+  {
+    "word": "kar",
+    "start": 27.152,
+    "end": 27.272
+  },
+  {
+    "word": "rahe",
+    "start": 27.325,
+    "end": 27.511
+  },
+  {
+    "word": "hain,",
+    "start": 27.551,
+    "end": 27.832
+  },
+  {
+    "word": "toh",
+    "start": 27.932,
+    "end": 28.232
+  },
+  {
+    "word": "unhe",
+    "start": 28.312,
+    "end": 28.552
+  },
+  {
+    "word": "unhi",
+    "start": 28.659,
+    "end": 28.953
+  },
+  {
+    "word": "ki",
+    "start": 29.006,
+    "end": 29.112
+  },
+  {
+    "word": "bhasha",
+    "start": 29.152,
+    "end": 29.512
+  },
+  {
+    "word": "mein",
+    "start": 29.528,
+    "end": 29.592
+  },
+  {
+    "word": "jawab",
+    "start": 29.652,
+    "end": 29.912
+  },
+  {
+    "word": "do.",
+    "start": 29.992,
+    "end": 30.232
+  },
+  {
+    "word": "In",
+    "start": 30.525,
+    "end": 31.111
+  },
+  {
+    "word": "manipulators",
+    "start": 31.164,
+    "end": 31.828
+  },
+  {
+    "word": "ke",
+    "start": 31.881,
+    "end": 31.987
+  },
+  {
+    "word": "sath",
+    "start": 32.027,
+    "end": 32.388
+  },
+  {
+    "word": "'ruthless'",
+    "start": 32.548,
+    "end": 33.308
+  },
+  {
+    "word": "hona",
+    "start": 33.338,
+    "end": 33.508
+  },
+  {
+    "word": "toxicity",
+    "start": 33.588,
+    "end": 34.228
+  },
+  {
+    "word": "nahi,",
+    "start": 34.308,
+    "end": 34.707
+  },
+  {
+    "word": "'survival'",
+    "start": 34.867,
+    "end": 35.707
+  },
+  {
+    "word": "hai.",
+    "start": 35.737,
+    "end": 36.347
+  },
+  {
+    "word": "Share",
+    "start": 36.434,
+    "end": 36.869
+  },
+  {
+    "word": "this",
+    "start": 36.917,
+    "end": 37.109
+  },
+  {
+    "word": "reel",
+    "start": 37.173,
+    "end": 37.429
+  },
+  {
+    "word": "with",
+    "start": 37.461,
+    "end": 37.589
+  },
+  {
+    "word": "that",
+    "start": 37.621,
+    "end": 37.749
+  },
+  {
+    "word": "one",
+    "start": 37.849,
+    "end": 38.149
+  },
+  {
+    "word": "friend",
+    "start": 38.218,
+    "end": 38.632
+  },
+  {
+    "word": "jo",
+    "start": 38.792,
+    "end": 39.112
+  },
+  {
+    "word": "hamesha",
+    "start": 39.152,
+    "end": 39.672
+  },
+  {
+    "word": "logo",
+    "start": 39.736,
+    "end": 39.992
+  },
+  {
+    "word": "ko",
+    "start": 40.072,
+    "end": 40.232
+  },
+  {
+    "word": "maaf",
+    "start": 40.285,
+    "end": 40.471
+  },
+  {
+    "word": "karke",
+    "start": 40.551,
+    "end": 40.871
+  },
+  {
+    "word": "apna",
+    "start": 40.951,
+    "end": 41.191
+  },
+  {
+    "word": "nuksaan",
+    "start": 41.244,
+    "end": 41.669
+  },
+  {
+    "word": "karwata",
+    "start": 41.729,
+    "end": 42.149
+  },
+  {
+    "word": "hai.",
+    "start": 42.209,
+    "end": 42.469
+  }
+]
