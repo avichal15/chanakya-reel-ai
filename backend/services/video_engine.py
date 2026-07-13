@@ -365,7 +365,7 @@ def generate_video(
             cmd = [
                 "ffmpeg", "-y",
                 "-i", temp_video_path,
-                "-vf", f"eq=brightness=-0.1:saturation=1.2,noise=alls=10:allf=t,ass='{escaped_ass}':fontsdir='{escaped_fonts}'",
+                "-vf", f"eq=brightness=-0.05:contrast=1.2:saturation=0.6,noise=alls=10:allf=t,ass='{escaped_ass}':fontsdir='{escaped_fonts}'",
                 "-c:v", "h264_nvenc",
                 "-preset", "p6", 
                 "-r", str(FPS),

@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 # SecondaryColour is the base color (White)
 # PrimaryColour is the highlighted color (Yellow)
 COLOR_WHITE = "&HFFFFFF"      # White
-COLOR_YELLOW = "&H00E5FF"     # Neon Yellow (BGR format)
+COLOR_YELLOW = "&H33D6FF"     # Cinematic Gold (BGR format)
 COLOR_BLACK = "&H000000"
 
 # Frame Quantization & Timings
@@ -84,11 +84,11 @@ def generate_ass(captions, output_path, caption_size="Medium", time_offset=0.0):
             start = format_time(snap_to_frame(cap["start"] + global_offset))
             end = format_time(snap_to_frame(cap["end"] + global_offset))
             text = cap["text"]
-            anim = r"{\fscx150\fscy150\t(0,150,\fscx100\fscy100)}"
+            anim = r"{\fscx110\fscy110\t(0,150,\fscx105\fscy105)}"
             content += f"Dialogue: 0,{start},{end},{style},,0,0,0,,{anim}{text}\n"
             continue
 
-        chunk_size = 4
+        chunk_size = 3
         chunks = [words[i:i+chunk_size] for i in range(0, len(words), chunk_size)]
 
         for c_idx, chunk in enumerate(chunks):
@@ -141,7 +141,7 @@ def generate_ass(captions, output_path, caption_size="Medium", time_offset=0.0):
 
                 current_cs = w_end_cs
 
-            anim = r"{\fscx130\fscy130\t(0,100,\fscx100\fscy100)}"
+            anim = r"{\fscx110\fscy110\t(0,100,\fscx105\fscy105)}"
             start_str = format_time(line_start_sec)
             end_str = format_time(line_end_sec)
 

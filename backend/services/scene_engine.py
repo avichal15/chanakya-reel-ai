@@ -36,14 +36,14 @@ THEME_COLORS = {
 
 SCENE_PROMPT = """You are a cinematic director for viral philosophy reels.
 
-Analyze this narration script and break it into visual scenes suitable for a 9:16 vertical reel.
+Analyze this narration script and break it into visual scenes suitable for a moody, high-retention 9:16 vertical reel.
 
 For EACH scene, return:
 - "text": the exact narration text for this scene
 - "scene_description": a vivid 1-line description of the visual
 - "theme": one of: war, stoicism, luxury, chess, corporate, kings, isolation, strategy, philosophy, betrayal, power
 - "emotion": one of: intense, calm, dark, triumphant, reflective, urgent
-- "keywords": list of 3-5 visual keywords
+- "keywords": list of 3-5 visual keywords. CRITICAL: Bias keywords towards "slow motion", "statue", "dark nature", "cinematic", and "aesthetic" for high-retention b-roll.
 
 IMPORTANT: Every line of the narration must appear in exactly one scene. Do not skip any text.
 
@@ -56,39 +56,22 @@ Return ONLY valid JSON array. Example:
 
 def analyze_scenes(script_text: str) -> list[dict]:
     """
-    Use Gemini to break narration into cinematic visual scenes.
+    Use LLM to break narration into cinematic visual scenes.
 
     Returns list of scene dicts with theme, keywords, emotion, etc.
-    Falls back to simple sentence splitting if Gemini fails.
+    Falls back to simple sentence splitting if LLM fails.
     """
-    if not api_key:
-        logger.warning("No Gemini API key — using fallback scene analysis")
-        return _fallback_scenes(script_text)
-
+    from .llm_client import generate_json
+    
     try:
-        client = genai.Client(api_key=api_key)
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=f"{SCENE_PROMPT}\n\nNarration:\n{script_text}",
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json",
-                temperature=0.7,
-            )
-        )
-
-        raw = response.text.strip()
-        # Parse JSON
-        start = raw.find('[')
-        end = raw.rfind(']')
-        if start != -1 and end != -1:
-            clean_text = raw[start:end+1]
-        else:
-            clean_text = raw
-            
-        scenes = json.loads(clean_text)
+        scenes = generate_json(SCENE_PROMPT, f"Narration:\n{script_text}")
+        
+        if "error" in scenes:
+            logger.warning(f"LLM returned error: {scenes['error']}, using fallback")
+            return _fallback_scenes(script_text)
 
         if not isinstance(scenes, list) or len(scenes) == 0:
-            logger.warning("Gemini returned empty scenes, using fallback")
+            logger.warning("LLM returned empty scenes, using fallback")
             return _fallback_scenes(script_text)
 
         # Validate and fill defaults
@@ -101,11 +84,11 @@ def analyze_scenes(script_text: str) -> list[dict]:
             if scene["theme"] not in THEME_COLORS:
                 scene["theme"] = "default"
 
-        logger.info(f"Gemini scene analysis: {len(scenes)} scenes generated")
+        logger.info(f"LLM scene analysis: {len(scenes)} scenes generated")
         return scenes
 
     except Exception as e:
-        logger.error(f"Gemini scene analysis failed: {e}")
+        logger.error(f"LLM scene analysis failed: {e}")
         return _fallback_scenes(script_text)
 
 

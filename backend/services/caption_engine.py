@@ -50,10 +50,7 @@ def generate_caption(
     rage_level: int = 5,
     audience_type: str = "General"
 ) -> dict:
-    if not api_key:
-        return {"error": "Gemini API key not configured"}
-    
-    client = genai.Client(api_key=api_key)
+    from .llm_client import generate_json
     
     user_prompt = f"""
     Philosopher: {philosopher_name}
@@ -67,20 +64,7 @@ def generate_caption(
     """
     
     try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=[SYSTEM_PROMPT, user_prompt],
-            config=types.GenerateContentConfig(response_mime_type="application/json")
-        )
-        raw_text = response.text
-        start = raw_text.find('{')
-        end = raw_text.rfind('}')
-        if start != -1 and end != -1:
-            clean_text = raw_text[start:end+1]
-        else:
-            clean_text = raw_text
-            
-        return json.loads(clean_text)
+        return generate_json(SYSTEM_PROMPT, user_prompt)
     except Exception as e:
         print(f"Error generating caption: {e}")
         return {"error": str(e)}

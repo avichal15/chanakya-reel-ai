@@ -71,34 +71,22 @@ TEXT TO ANALYZE:
 """
 
 def extract_quotes_from_chunk(text_chunk: str) -> List[Dict]:
-    """Send a single text chunk to Gemini for quote extraction."""
-    if not api_key:
-        return []
-
-    client = genai.Client(api_key=api_key)
+    """Send a single text chunk to LLM for quote extraction."""
+    from .llm_client import generate_json
     
     try:
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=[EXTRACTION_PROMPT + text_chunk],
-            config=types.GenerateContentConfig(response_mime_type="application/json")
-        )
+        data = generate_json(EXTRACTION_PROMPT, text_chunk)
         
-        raw_text = response.text
-        start = raw_text.find('[')
-        end = raw_text.rfind(']')
-        if start != -1 and end != -1:
-            clean_text = raw_text[start:end+1]
-        else:
-            clean_text = raw_text
+        if "error" in data:
+            logger.error(f"LLM extraction error for chunk: {data['error']}")
+            return []
             
-        data = json.loads(clean_text)
         if isinstance(data, list):
             return data
         return data.get("quotes", [])
         
     except Exception as e:
-        logger.error(f"Gemini extraction error for chunk: {e}")
+        logger.error(f"LLM extraction error for chunk: {e}")
         return []
 
 # ── Step 4: Orchestrate the full chunked pipeline ───────────────
