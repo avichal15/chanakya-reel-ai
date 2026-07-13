@@ -68,7 +68,7 @@ def analyze_scenes(script_text: str) -> list[dict]:
     try:
         client = genai.Client(api_key=api_key)
         response = client.models.generate_content(
-            model='gemma-4-31b-it',
+            model='gemini-2.5-flash',
             contents=f"{SCENE_PROMPT}\n\nNarration:\n{script_text}",
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",

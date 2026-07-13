@@ -68,7 +68,7 @@ def generate_caption(
     
     try:
         response = client.models.generate_content(
-            model='gemma-4-31b-it',
+            model='gemini-2.5-flash',
             contents=[SYSTEM_PROMPT, user_prompt],
             config=types.GenerateContentConfig(response_mime_type="application/json")
         )

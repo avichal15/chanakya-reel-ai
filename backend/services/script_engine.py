@@ -82,17 +82,11 @@ def generate_script(quote_text: str, philosopher_name: str = "Chanakya", rage_le
         """
         
         response = client.models.generate_content(
-            model='gemma-4-31b-it',
+            model='gemini-2.5-flash',
             contents=[SYSTEM_PROMPT, user_prompt],
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
-                temperature=1.0,
-                safety_settings=[
-                    types.SafetySetting(category="HARM_CATEGORY_HARASSMENT", threshold="BLOCK_NONE"),
-                    types.SafetySetting(category="HARM_CATEGORY_HATE_SPEECH", threshold="BLOCK_NONE"),
-                    types.SafetySetting(category="HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold="BLOCK_NONE"),
-                    types.SafetySetting(category="HARM_CATEGORY_DANGEROUS_CONTENT", threshold="BLOCK_NONE")
-                ]
+                temperature=1.0
             )
         )
         

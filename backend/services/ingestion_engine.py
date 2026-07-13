@@ -79,7 +79,7 @@ def extract_quotes_from_chunk(text_chunk: str) -> List[Dict]:
     
     try:
         response = client.models.generate_content(
-            model='gemma-4-31b-it',
+            model='gemini-2.5-flash',
             contents=[EXTRACTION_PROMPT + text_chunk],
             config=types.GenerateContentConfig(response_mime_type="application/json")
         )
