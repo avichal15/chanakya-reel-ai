@@ -51,14 +51,22 @@ def create_gradient_background(duration: float, color1=(15, 5, 25), color2=(5, 1
         img[y, :] = [r, g, b]
     return ImageClip(img).set_duration(duration)
 
-def apply_ken_burns(clip, zoom_ratio=1.08):
-    """Apply slow zoom (ken burns) effect."""
+def apply_smash_zoom(clip, smash_duration=1.5, smash_ratio=1.15, final_ratio=1.20):
+    """Apply a rapid 'smash' zoom in the first seconds, then slow zoom (Pattern Interrupt)."""
     duration = clip.duration
     def zoom_effect(get_frame, t):
         frame = get_frame(t)
         h, w = frame.shape[:2]
-        progress = t / duration if duration > 0 else 0
-        scale = 1.0 + (zoom_ratio - 1.0) * progress
+        
+        if t <= smash_duration:
+            progress = t / smash_duration if smash_duration > 0 else 0
+            scale = 1.0 + (smash_ratio - 1.0) * progress
+        else:
+            remaining_t = t - smash_duration
+            remaining_dur = duration - smash_duration
+            progress = remaining_t / remaining_dur if remaining_dur > 0 else 0
+            scale = smash_ratio + (final_ratio - smash_ratio) * progress
+            
         # Crop center
         new_h, new_w = int(h / scale), int(w / scale)
         y1, x1 = (h - new_h) // 2, (w - new_w) // 2
@@ -80,7 +88,7 @@ def generate_video(
     bg_music_volume: float = 0.15,
     caption_size: str = "Medium",
     use_smart_sfx: bool = True,
-    use_auto_b_roll: bool = False,
+    use_auto_b_roll: bool = True,
     output_filename: str = "output.mp4",
     use_ass: bool = True
 ) -> str:
@@ -225,8 +233,8 @@ def generate_video(
 
         bg_clip = bg_clip.set_duration(duration)
         bg_clip = bg_clip.set_fps(FPS)  # Ensure fps is set on clip (MoviePy 1.0.3 + decorator 5.x compat)
-        bg_clip = apply_ken_burns(bg_clip)
-        
+        bg_clip = apply_smash_zoom(bg_clip)
+        bg_clip = bg_clip.fx(vfx.colorx, 0.6)
         # Pixel grading (brightness, saturation, grain) has been offloaded to FFmpeg
         bg_clip = bg_clip.fadeout(0.5)
 

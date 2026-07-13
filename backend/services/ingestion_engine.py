@@ -1,4 +1,5 @@
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 import os
 import io
 import json
@@ -15,8 +16,6 @@ if not env_path.exists():
 load_dotenv(dotenv_path=env_path, override=True)
 
 api_key = os.getenv("GEMINI_API_KEY")
-if api_key:
-    genai.configure(api_key=api_key)
 
 logger = logging.getLogger("IngestionEngine")
 
@@ -76,12 +75,13 @@ def extract_quotes_from_chunk(text_chunk: str) -> List[Dict]:
     if not api_key:
         return []
 
-    model = genai.GenerativeModel('gemma-4-31b-it')
+    client = genai.Client(api_key=api_key)
     
     try:
-        response = model.generate_content(
+        response = client.models.generate_content(
+            model='gemma-4-31b-it',
             contents=[EXTRACTION_PROMPT + text_chunk],
-            generation_config={"response_mime_type": "application/json"}
+            config=types.GenerateContentConfig(response_mime_type="application/json")
         )
         
         raw_text = response.text

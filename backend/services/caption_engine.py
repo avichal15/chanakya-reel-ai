@@ -1,4 +1,5 @@
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 import os
 import json
 from typing import List, Dict
@@ -11,31 +12,27 @@ env_path = Path(__file__).resolve().parent.parent / '.env'
 load_dotenv(dotenv_path=env_path, override=True)
 
 api_key = os.getenv("GEMINI_API_KEY")
-if api_key:
-    genai.configure(api_key=api_key)
 
 SYSTEM_PROMPT = """
 You are a Viral Growth Engineer and Social Media Algorithm Specialist.
-Your task is to build an AI module that automatically generates viral Instagram captions and high-performing hashtag sets for short-form philosophy reels.
+Your task is to build an AI module that automatically generates viral Instagram/YouTube captions and high-performing hashtag sets for short-form philosophy reels.
 
-Tone: Bold, Direct, Provocative, Reliability-check style, Hinglish mix.
+Tone: Profound, Cinematic, Deeply Reflective, and highly Aesthetic.
 
-CAPTION STRUCTURE FRAMEWORK (5 Blocks):
-1. SCROLL-STOP HOOK (Block 1): Max 10 words. Triggers ego or discomfort. (e.g. "Sach kadwa hota hai...")
-2. QUOTE AUTHORITY (Block 2): Credit philosopher. (e.g. "Chanakya ne isliye warn kiya tha...")
-3. MODERN RELATABILITY (Block 3): Explain relevance in today's world (Corporate, Fake Friends, etc). Hinglish.
-4. IDENTITY TRIGGER (Block 4): Make viewer self-reflect. (e.g. "Agar tum alag sochte ho... you're rare.")
-5. SHARE/TAG CTA (Block 5): Viral loop commands. NO "Like" requests. (e.g. "Tag that fake friend.")
+CAPTION STRUCTURE FRAMEWORK (3 Blocks):
+1. THE TRENDING HOOK (Block 1): A deeply relatable, aesthetic "Curiosity Gap" hook that forces the user to watch the video for the answer. (e.g. "If you always feel burnt out, this is why... 🕰️" or "Most people get motivation completely wrong...").
+2. THE ANCIENT WISDOM (Block 2): The essence of the quote translated to a modern realization. Use minimal, clean formatting.
+3. THE ENGAGEMENT CTA (Block 3): Ask a thought-provoking question to drive comments (algorithm trigger), or tell them to "Save this as a daily reminder 📌".
 
-HASHTAG RULES:
-- Tier 1: Broad Reach (5 tags)
-- Tier 2: Niche Targeting (10 tags)
-- Tier 3: Viral Bait (10 tags)
-- Include philosopher-specific tags.
+HASHTAG RULES (MUST USE CURRENT TRENDING ALGORITHM META):
+- Tier 1: Mega-Trending Philosophy (5 tags: e.g., #mindset #stoicism #deepquotes #lifequotes #wisdom)
+- Tier 2: Aesthetic / Niche (10 tags: e.g., #cinematicreels #darkaesthetic #ancientwisdom #philosophyquotes #mindsetshift)
+- Tier 3: Viral Algorithm Triggers (10 tags: e.g., #shorts #viral #fyp #explorepage #trending)
+- ALWAYS include philosopher-specific tags. Ensure tags are highly relevant to the "dark academia" or "stoic" trending aesthetics.
 
 OUTPUT FORMAT (JSON):
 {
-  "caption_text": "Full caption with line breaks...",
+  "caption_text": "Full caption with line breaks and minimal emojis...",
   "hook_line": "...",
   "cta_line": "...",
   "hashtags_tier1": ["#tag1", ...],
@@ -56,7 +53,7 @@ def generate_caption(
     if not api_key:
         return {"error": "Gemini API key not configured"}
     
-    model = genai.GenerativeModel('gemma-4-31b-it')
+    client = genai.Client(api_key=api_key)
     
     user_prompt = f"""
     Philosopher: {philosopher_name}
@@ -70,9 +67,10 @@ def generate_caption(
     """
     
     try:
-        response = model.generate_content(
+        response = client.models.generate_content(
+            model='gemma-4-31b-it',
             contents=[SYSTEM_PROMPT, user_prompt],
-            generation_config={"response_mime_type": "application/json"}
+            config=types.GenerateContentConfig(response_mime_type="application/json")
         )
         raw_text = response.text
         start = raw_text.find('{')

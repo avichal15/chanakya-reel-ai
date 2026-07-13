@@ -2,7 +2,8 @@
 Scene Intelligence Engine — Gemini-powered visual scene analysis
 Maps narration text to cinematic visual scenes for video generation.
 """
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 import os
 import json
 import logging
@@ -16,8 +17,6 @@ env_path = Path(__file__).resolve().parent.parent / '.env'
 load_dotenv(dotenv_path=env_path, override=True)
 
 api_key = os.getenv("GEMINI_API_KEY")
-if api_key:
-    genai.configure(api_key=api_key)
 
 # ── Theme → Color mapping for gradient backgrounds ─────────────
 THEME_COLORS = {
@@ -67,10 +66,11 @@ def analyze_scenes(script_text: str) -> list[dict]:
         return _fallback_scenes(script_text)
 
     try:
-        model = genai.GenerativeModel('gemma-4-31b-it')
-        response = model.generate_content(
-            f"{SCENE_PROMPT}\n\nNarration:\n{script_text}",
-            generation_config=genai.GenerationConfig(
+        client = genai.Client(api_key=api_key)
+        response = client.models.generate_content(
+            model='gemma-4-31b-it',
+            contents=f"{SCENE_PROMPT}\n\nNarration:\n{script_text}",
+            config=types.GenerateContentConfig(
                 response_mime_type="application/json",
                 temperature=0.7,
             )

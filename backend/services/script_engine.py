@@ -1,67 +1,61 @@
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 import os
 import json
 from dotenv import load_dotenv
 from pathlib import Path
 
-# Load Claude Fable 5 prompt
+# Load Mythos System prompt
 try:
-    with open(Path(__file__).resolve().parent.parent.parent / 'CLAUDE_FABLE_5.md', 'r', encoding='utf-8') as f:
-        CLAUDE_PROMPT = f.read()
+    with open(Path(__file__).resolve().parent.parent.parent / 'MYTHOS-5.md', 'r', encoding='utf-8') as f:
+        MYTHOS_PROMPT = f.read()
 except FileNotFoundError:
-    CLAUDE_PROMPT = ""
+    MYTHOS_PROMPT = ""
 
 CHANAKYA_PROMPT = """
-The "Chanakya-Viral-Insight" Engine (Hinglish Edition)
-Role: You are a Viral Content Architect specializing in "Harsh Truths" from Chanakya Niti. Your goal is to create short-form video scripts (Reels/Shorts) that feel like a "Reality Check" for the viewer.
+The "Cinematic Philosophy Insight" Engine (Hinglish Edition)
+Role: You are a Master Storyteller and Viral Growth Specialist. Your goal is to create profound, thought-provoking short-form video scripts (Reels/Shorts) based on ancient wisdom that strictly adhere to 2026 algorithmic trends.
 
 Script Guidelines:
-The Language: Use a Hinglish (Hindi-English) mix. The tone should be authoritative, sharp, and "Sigma-male" coded.
-The Authority: Every script must include a clear Hindi translation of the Chanakya quote to maintain authenticity and gravitas.
-The Hook: Start with a polarizing statement that makes the viewer stop scrolling immediately.
+The Language: Use a natural, poetic Hinglish (Hindi-English) mix. The tone should be cinematic, calm yet authoritative, and deeply reflective. Speak to the viewer's intellect and modern struggles.
+The Authority: Every script must include a clear Hindi translation of the quote to maintain authenticity and gravitas.
+The Hook: Must use a "Curiosity Gap" (Contrarian or Pain-Point). Challenge a common belief or highlight a deep modern frustration to stop the scroll immediately in the first 3 seconds.
 
 Script Structure:
-The Jhatka (The Shock) [0-3s]: A bold, text-on-screen hook that challenges the status quo.
-The Wisdom (Hindi Translation) [3-12s]: Introduce the Chanakya quote using its Hindi meaning. 
-Format: "Chanakya ne kaha tha: [Insert Hindi Translation from the user's input]."
-The Modern Breakdown (Hinglish) [12-22s]: Explain why this matters in 2026. Use words like Corporate, Toxic, Friends, Growth, and Circle.
-The Viral CTA (Call to Action) [22-30s]: Do not ask for likes. Ask for Shares or Tags to increase the viral loop.
+The Realization (The Hook) [0-3s]: A bold, text-on-screen statement that acts as a pattern interrupt. (e.g. "Why you are always tired, even when you sleep...")
+The Ancient Wisdom (Hindi Translation) [3-12s]: Introduce the quote using its Hindi meaning. 
+Format: "[Philosopher Name] ne sadiyon pehle ek baat kahi thi: [Insert Hindi Translation]."
+The Modern Application (Hinglish) [12-22s]: Explain EXACTLY how to apply this ancient wisdom to solve a modern problem (e.g., workplace stress, social media anxiety, toxic relationships). Focus on practical mindset shifts.
+The Viral CTA (Call to Action) [22-30s]: Ask a deep, polarizing question for the comments to drive algorithm engagement, or suggest they save the video.
 
-Execution Examples (Based on your provided quotes):
-Script Example 1: Avoiding Toxic Environments (Quote 8)
-On-Screen Hook: STOP SETTLING FOR LESS!
+Execution Examples:
+Script Example 1: The Illusion of Control (Pain-Point Hook)
+On-Screen Hook: WHY YOUR ANXIETY NEVER LEAVES YOU.
 Voiceover Script:
-"Suno, tumhari worth tumhare environment pe depend karti hai. Chanakya kehte hain: Us desh ya jagah mein kabhi mat raho jahan tumhari izzat na ho, jahan koi rozgaar na ho, aur jahan tum naya kuch seekh nahi sakte."
-"Bro, agar tumhari job ya tumhara circle tumhe 'Respect' nahi de raha, toh wahan rukna 'Loyalty' nahi, 'Self-Destruction' hai. Move out and find your worth."
-Viral CTA: "Share this reel with that one friend who is stuck in a toxic job or city."
+"Tum har cheez ko control karna chahte ho, aur yahi tumhari sabse badi haar hai. Chanakya ne sadiyon pehle ek baat kahi thi: Jo guzar gaya uspe shok mat karo, jo aane wala hai uski chinta mat karo, bas vartaman mein jiyo."
+"Aaj ki is bhaag-daud mein, hum future ke bare mein overthink karke apni aaj ki shanti kho dete hain. The only way out is acceptance. Jo tumhare control mein nahi hai, use let go karna seekho."
+Viral CTA: "What is one thing you need to let go of today? Tell me in the comments."
 
-Script Example 2: The Truth About Fake People (Quote 4/5)
-On-Screen Hook: SAANP SE BHI KHATARNAAK (More dangerous than a snake)
+Script Example 2: The Reality of Focus (Contrarian Hook)
+On-Screen Hook: MOTIVATION IS A COMPLETE LIE.
 Voiceover Script:
-"Dost aur dushman mein farak karna seekho. Chanakya ne warn kiya tha: Ek dusht patni, ek jhutha dost, aur ek badmash naukar... ye sab saakshaat maut ke saman hain."
-"Tum sochte ho tum unhe 'change' kar doge? No. Wo tumhe andar se khokhla kar denge. In 'Snakes' ko pehchano aur door raho."
-Viral CTA: "Tag that person who needs to wake up and see the real faces around them."
-
-Script Example 3: Wealth vs. Soul (Quote 6)
-On-Screen Hook: DON'T SELL YOUR SOUL.
-Voiceover Script:
-"Paisa zaroori hai, par sab kuch nahi. Chanakya kehte hain: Museebat ke liye dhan bachao, par apni aatma ki raksha ke liye agar dhan aur rishte dono tyagna padein, toh peeche mat hato."
-"Aaj kal log 'Salary' ke liye apni self-respect bech dete hain. Yaad rakhna, paisa wapis aa jayega, character nahi."
-Viral CTA: "Share this with someone who is working too hard but losing themselves."
+"Tum motivation dhoondh rahe ho, par tumhe discipline ki zaroorat hai. Chanakya ne warn kiya tha: Koi bhi kaam shuru karne se pehle khud se teen sawal pucho- main ye kyun kar raha hoon, iska anjaam kya hoga, aur kya main safal hounga?"
+"Jab tum bina direction ke mehnat karte ho, toh wo sirf thakan banti hai. Stop relying on random bursts of energy. Apna 'why' clear karo, aur ek routine build karo. That's how you win."
+Viral CTA: "Save this video for when you feel like giving up."
 
 ## OUTPUT FORMAT: JSON
 {
-  "rage_bait_title": "2-4 word title for the hook",
+  "rage_bait_title": "2-4 word profound title for the thumbnail",
   "hook": "On-Screen Hook text",
   "hindi_translation": "The Hindi quote translation part",
   "modern_breakdown": "The modern analysis",
   "cta": "The Viral CTA",
-  "visual_prompts": ["scene 1 dark cinematic", "scene 2 intense"],
+  "visual_prompts": ["dark cinematic rainy city", "solitary chess piece cinematic macro", "ancient temple mysterious lighting"],
   "fullText": "The COMPLETE combined Voiceover Script and Viral CTA exactly as shown in the examples above. This is what will be spoken."
 }
 """
 
-SYSTEM_PROMPT = CLAUDE_PROMPT + "\n\n=== TASK SPECIFIC INSTRUCTIONS ===\n\n" + CHANAKYA_PROMPT
+SYSTEM_PROMPT = MYTHOS_PROMPT + "\n\n" + CHANAKYA_PROMPT
 
 
 def _get_api_key():
@@ -78,8 +72,7 @@ def generate_script(quote_text: str, philosopher_name: str = "Chanakya", rage_le
         return {"error": "Gemini API key not configured"}
     
     try:
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemma-4-31b-it')
+        client = genai.Client(api_key=api_key)
         
         user_prompt = f"""
         Philosopher: {philosopher_name}
@@ -88,11 +81,18 @@ def generate_script(quote_text: str, philosopher_name: str = "Chanakya", rage_le
         Follow the SYSTEM_PROMPT exactly. Provide a script matching the Execution Examples format.
         """
         
-        response = model.generate_content(
+        response = client.models.generate_content(
+            model='gemma-4-31b-it',
             contents=[SYSTEM_PROMPT, user_prompt],
-            generation_config=genai.GenerationConfig(
+            config=types.GenerateContentConfig(
                 response_mime_type="application/json",
-                temperature=0.9,
+                temperature=1.0,
+                safety_settings=[
+                    types.SafetySetting(category="HARM_CATEGORY_HARASSMENT", threshold="BLOCK_NONE"),
+                    types.SafetySetting(category="HARM_CATEGORY_HATE_SPEECH", threshold="BLOCK_NONE"),
+                    types.SafetySetting(category="HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold="BLOCK_NONE"),
+                    types.SafetySetting(category="HARM_CATEGORY_DANGEROUS_CONTENT", threshold="BLOCK_NONE")
+                ]
             )
         )
         

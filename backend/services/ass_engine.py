@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 # SecondaryColour is the base color (White)
 # PrimaryColour is the highlighted color (Yellow)
 COLOR_WHITE = "&HFFFFFF"      # White
-COLOR_YELLOW = "&H00D7FF"     # Gold/Yellow
+COLOR_YELLOW = "&H00E5FF"     # Neon Yellow (BGR format)
 COLOR_BLACK = "&H000000"
 
 # Frame Quantization & Timings
@@ -32,8 +32,8 @@ WrapStyle: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: English,{FONT_EN},{SIZE_EN},{COLOR_YELLOW},{COLOR_WHITE},{COLOR_BLACK},&H80000000,-1,0,0,0,100,100,0,0,1,6,4,2,20,20,580,1
-Style: Hindi,{FONT_HI},{SIZE_HI},{COLOR_YELLOW},{COLOR_WHITE},{COLOR_BLACK},&H80000000,-1,0,0,0,100,100,0,0,1,6,4,2,20,20,580,1
+Style: English,{FONT_EN},{SIZE_EN},{COLOR_YELLOW},{COLOR_WHITE},{COLOR_BLACK},&H80000000,-1,0,0,0,100,100,0,0,1,8,6,2,20,20,580,1
+Style: Hindi,{FONT_HI},{SIZE_HI},{COLOR_YELLOW},{COLOR_WHITE},{COLOR_BLACK},&H80000000,-1,0,0,0,100,100,0,0,1,8,6,2,20,20,580,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -84,7 +84,7 @@ def generate_ass(captions, output_path, caption_size="Medium", time_offset=0.0):
             start = format_time(snap_to_frame(cap["start"] + global_offset))
             end = format_time(snap_to_frame(cap["end"] + global_offset))
             text = cap["text"]
-            anim = r"{\t(0,200,\fscx110\fscy110)\t(200,400,\fscx100\fscy100)}"
+            anim = r"{\fscx150\fscy150\t(0,150,\fscx100\fscy100)}"
             content += f"Dialogue: 0,{start},{end},{style},,0,0,0,,{anim}{text}\n"
             continue
 
@@ -141,7 +141,7 @@ def generate_ass(captions, output_path, caption_size="Medium", time_offset=0.0):
 
                 current_cs = w_end_cs
 
-            anim = r"{\t(0,100,\fscx105\fscy105)\t(100,200,\fscx100\fscy100)}"
+            anim = r"{\fscx130\fscy130\t(0,100,\fscx100\fscy100)}"
             start_str = format_time(line_start_sec)
             end_str = format_time(line_end_sec)
 
