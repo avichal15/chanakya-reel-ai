@@ -81,21 +81,34 @@ def generate_json(system_prompt: str, user_prompt: str, ollama_model: str = "gem
 def _clean_and_parse_json(raw_text: str) -> dict:
     """Safely extracts and parses JSON from markdown blocks if necessary."""
     try:
-        start = raw_text.find('{')
-        end = raw_text.rfind('}')
+        # Find the first occurrence of { or [
+        obj_start = raw_text.find('{')
+        arr_start = raw_text.find('[')
         
-        # If no object braces found, check for array
-        if start == -1 or end == -1:
-            start = raw_text.find('[')
-            end = raw_text.rfind(']')
+        start_idx = -1
+        end_idx = -1
+        
+        if obj_start != -1 and arr_start != -1:
+            start_idx = min(obj_start, arr_start)
+        elif obj_start != -1:
+            start_idx = obj_start
+        elif arr_start != -1:
+            start_idx = arr_start
             
-        if start != -1 and end != -1:
-            clean_text = raw_text[start:end+1]
+        if start_idx != -1:
+            # Determine if it's an object or array to find the corresponding end bracket
+            if raw_text[start_idx] == '{':
+                end_idx = raw_text.rfind('}')
+            else:
+                end_idx = raw_text.rfind(']')
+                
+        if start_idx != -1 and end_idx != -1 and end_idx > start_idx:
+            clean_text = raw_text[start_idx:end_idx+1]
         else:
             clean_text = raw_text
             
         data = json.loads(clean_text)
         return data
-    except json.JSONDecodeError:
-        logger.error(f"Failed to parse JSON. Raw output: {raw_text}")
+    except json.JSONDecodeError as e:
+        logger.error(f"Failed to parse JSON. Error: {e}. Raw output: {raw_text}")
         return {"error": "Invalid JSON response from LLM", "raw": raw_text}

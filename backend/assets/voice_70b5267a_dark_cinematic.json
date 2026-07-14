@@ -1,0 +1,507 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "TELLING",
+    "start": 0.48,
+    "end": 0.8
+  },
+  {
+    "word": "EVERYONE",
+    "start": 0.88,
+    "end": 1.52
+  },
+  {
+    "word": "YOUR",
+    "start": 1.552,
+    "end": 1.68
+  },
+  {
+    "word": "PROBLEMS!",
+    "start": 1.76,
+    "end": 2.64
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.88,
+    "end": 4.08
+  },
+  {
+    "word": "ne",
+    "start": 4.133,
+    "end": 4.24
+  },
+  {
+    "word": "kaha",
+    "start": 4.28,
+    "end": 4.56
+  },
+  {
+    "word": "tha:",
+    "start": 4.6,
+    "end": 4.8
+  },
+  {
+    "word": "Apne",
+    "start": 5.093,
+    "end": 5.76
+  },
+  {
+    "word": "ghar",
+    "start": 5.8,
+    "end": 5.92
+  },
+  {
+    "word": "ke",
+    "start": 5.973,
+    "end": 6.08
+  },
+  {
+    "word": "jhagde,",
+    "start": 6.16,
+    "end": 6.96
+  },
+  {
+    "word": "apne",
+    "start": 7.04,
+    "end": 7.36
+  },
+  {
+    "word": "dukh,",
+    "start": 7.46,
+    "end": 8.16
+  },
+  {
+    "word": "aur",
+    "start": 8.2,
+    "end": 8.32
+  },
+  {
+    "word": "apne",
+    "start": 8.373,
+    "end": 8.64
+  },
+  {
+    "word": "raaz",
+    "start": 8.72,
+    "end": 9.12
+  },
+  {
+    "word": "kabhi",
+    "start": 9.22,
+    "end": 9.68
+  },
+  {
+    "word": "kisi",
+    "start": 9.72,
+    "end": 10.0
+  },
+  {
+    "word": "ke",
+    "start": 10.053,
+    "end": 10.16
+  },
+  {
+    "word": "saamne",
+    "start": 10.213,
+    "end": 10.56
+  },
+  {
+    "word": "mat",
+    "start": 10.64,
+    "end": 10.88
+  },
+  {
+    "word": "kholo,",
+    "start": 10.92,
+    "end": 11.84
+  },
+  {
+    "word": "kyunki",
+    "start": 11.867,
+    "end": 12.16
+  },
+  {
+    "word": "duniya",
+    "start": 12.2,
+    "end": 12.48
+  },
+  {
+    "word": "tumhari",
+    "start": 12.54,
+    "end": 12.88
+  },
+  {
+    "word": "kamzori",
+    "start": 12.96,
+    "end": 13.44
+  },
+  {
+    "word": "ka",
+    "start": 13.52,
+    "end": 13.68
+  },
+  {
+    "word": "fayda",
+    "start": 13.76,
+    "end": 14.08
+  },
+  {
+    "word": "uthayegi.",
+    "start": 14.16,
+    "end": 14.72
+  },
+  {
+    "word": "Bro,",
+    "start": 15.04,
+    "end": 16.08
+  },
+  {
+    "word": "aaj",
+    "start": 16.24,
+    "end": 16.48
+  },
+  {
+    "word": "kal",
+    "start": 16.52,
+    "end": 16.64
+  },
+  {
+    "word": "log",
+    "start": 16.74,
+    "end": 17.04
+  },
+  {
+    "word": "'Vulnerability'",
+    "start": 17.16,
+    "end": 17.92
+  },
+  {
+    "word": "ke",
+    "start": 17.973,
+    "end": 18.08
+  },
+  {
+    "word": "naam",
+    "start": 18.144,
+    "end": 18.4
+  },
+  {
+    "word": "pe",
+    "start": 18.453,
+    "end": 18.56
+  },
+  {
+    "word": "apni",
+    "start": 18.64,
+    "end": 18.88
+  },
+  {
+    "word": "puri",
+    "start": 18.98,
+    "end": 19.36
+  },
+  {
+    "word": "life",
+    "start": 19.456,
+    "end": 19.84
+  },
+  {
+    "word": "expose",
+    "start": 19.897,
+    "end": 20.24
+  },
+  {
+    "word": "kar",
+    "start": 20.28,
+    "end": 20.4
+  },
+  {
+    "word": "dete",
+    "start": 20.46,
+    "end": 20.72
+  },
+  {
+    "word": "hain.",
+    "start": 20.76,
+    "end": 21.04
+  },
+  {
+    "word": "Yaad",
+    "start": 21.333,
+    "end": 22.0
+  },
+  {
+    "word": "rakhna,",
+    "start": 22.04,
+    "end": 22.8
+  },
+  {
+    "word": "har",
+    "start": 22.84,
+    "end": 22.96
+  },
+  {
+    "word": "koi",
+    "start": 23.04,
+    "end": 23.2
+  },
+  {
+    "word": "tera",
+    "start": 23.26,
+    "end": 23.52
+  },
+  {
+    "word": "well-wisher",
+    "start": 23.568,
+    "end": 24.08
+  },
+  {
+    "word": "nahi",
+    "start": 24.12,
+    "end": 24.32
+  },
+  {
+    "word": "hai.",
+    "start": 24.38,
+    "end": 24.64
+  },
+  {
+    "word": "Jab",
+    "start": 24.86,
+    "end": 25.52
+  },
+  {
+    "word": "tum",
+    "start": 25.56,
+    "end": 25.68
+  },
+  {
+    "word": "apne",
+    "start": 25.733,
+    "end": 26.0
+  },
+  {
+    "word": "secrets",
+    "start": 26.08,
+    "end": 26.64
+  },
+  {
+    "word": "aur",
+    "start": 26.7,
+    "end": 26.88
+  },
+  {
+    "word": "internal",
+    "start": 26.933,
+    "end": 27.36
+  },
+  {
+    "word": "conflicts",
+    "start": 27.416,
+    "end": 27.92
+  },
+  {
+    "word": "share",
+    "start": 27.96,
+    "end": 28.16
+  },
+  {
+    "word": "karte",
+    "start": 28.24,
+    "end": 28.56
+  },
+  {
+    "word": "ho,",
+    "start": 28.613,
+    "end": 29.28
+  },
+  {
+    "word": "tum",
+    "start": 29.34,
+    "end": 29.52
+  },
+  {
+    "word": "logon",
+    "start": 29.56,
+    "end": 29.76
+  },
+  {
+    "word": "ko",
+    "start": 29.813,
+    "end": 29.92
+  },
+  {
+    "word": "weapon",
+    "start": 29.977,
+    "end": 30.32
+  },
+  {
+    "word": "dete",
+    "start": 30.4,
+    "end": 30.76
+  },
+  {
+    "word": "ho",
+    "start": 30.8,
+    "end": 30.88
+  },
+  {
+    "word": "tumhe",
+    "start": 30.92,
+    "end": 31.12
+  },
+  {
+    "word": "destroy",
+    "start": 31.18,
+    "end": 31.6
+  },
+  {
+    "word": "karne",
+    "start": 31.66,
+    "end": 31.92
+  },
+  {
+    "word": "ke",
+    "start": 31.973,
+    "end": 32.08
+  },
+  {
+    "word": "liye.",
+    "start": 32.133,
+    "end": 32.48
+  },
+  {
+    "word": "Your",
+    "start": 32.624,
+    "end": 33.2
+  },
+  {
+    "word": "struggle",
+    "start": 33.253,
+    "end": 33.68
+  },
+  {
+    "word": "should",
+    "start": 33.703,
+    "end": 33.84
+  },
+  {
+    "word": "be",
+    "start": 33.893,
+    "end": 34.0
+  },
+  {
+    "word": "silent.",
+    "start": 34.091,
+    "end": 35.0
+  },
+  {
+    "word": "Let",
+    "start": 35.09,
+    "end": 35.36
+  },
+  {
+    "word": "your",
+    "start": 35.392,
+    "end": 35.52
+  },
+  {
+    "word": "success",
+    "start": 35.61,
+    "end": 36.24
+  },
+  {
+    "word": "make",
+    "start": 36.32,
+    "end": 36.64
+  },
+  {
+    "word": "the",
+    "start": 36.66,
+    "end": 36.72
+  },
+  {
+    "word": "noise.",
+    "start": 36.8,
+    "end": 37.36
+  },
+  {
+    "word": "Share",
+    "start": 37.52,
+    "end": 38.32
+  },
+  {
+    "word": "this",
+    "start": 38.368,
+    "end": 38.56
+  },
+  {
+    "word": "reel",
+    "start": 38.608,
+    "end": 38.8
+  },
+  {
+    "word": "with",
+    "start": 38.832,
+    "end": 38.96
+  },
+  {
+    "word": "that",
+    "start": 39.008,
+    "end": 39.2
+  },
+  {
+    "word": "one",
+    "start": 39.28,
+    "end": 39.52
+  },
+  {
+    "word": "friend",
+    "start": 39.589,
+    "end": 40.0
+  },
+  {
+    "word": "who",
+    "start": 40.06,
+    "end": 40.24
+  },
+  {
+    "word": "overshares",
+    "start": 40.307,
+    "end": 40.96
+  },
+  {
+    "word": "their",
+    "start": 40.987,
+    "end": 41.12
+  },
+  {
+    "word": "personal",
+    "start": 41.173,
+    "end": 41.6
+  },
+  {
+    "word": "life",
+    "start": 41.68,
+    "end": 42.0
+  },
+  {
+    "word": "on",
+    "start": 42.08,
+    "end": 42.24
+  },
+  {
+    "word": "social",
+    "start": 42.309,
+    "end": 42.72
+  },
+  {
+    "word": "media.",
+    "start": 42.787,
+    "end": 43.28
+  }
+]

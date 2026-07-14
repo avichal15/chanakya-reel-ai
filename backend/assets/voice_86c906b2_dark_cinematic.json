@@ -1,0 +1,602 @@
+[
+  {
+    "word": "SOCIETY",
+    "start": 0.0,
+    "end": 0.8
+  },
+  {
+    "word": "IS",
+    "start": 0.853,
+    "end": 0.96
+  },
+  {
+    "word": "FORGETTING",
+    "start": 1.02,
+    "end": 1.52
+  },
+  {
+    "word": "BASIC",
+    "start": 1.64,
+    "end": 2.24
+  },
+  {
+    "word": "DECENCY.",
+    "start": 2.34,
+    "end": 3.2
+  },
+  {
+    "word": "Chanakya",
+    "start": 3.456,
+    "end": 4.8
+  },
+  {
+    "word": "ne",
+    "start": 4.853,
+    "end": 4.96
+  },
+  {
+    "word": "sadiyon",
+    "start": 5.04,
+    "end": 5.36
+  },
+  {
+    "word": "pehle",
+    "start": 5.44,
+    "end": 5.76
+  },
+  {
+    "word": "ek",
+    "start": 5.867,
+    "end": 6.08
+  },
+  {
+    "word": "baat",
+    "start": 6.133,
+    "end": 6.4
+  },
+  {
+    "word": "kahi",
+    "start": 6.44,
+    "end": 6.64
+  },
+  {
+    "word": "thi:",
+    "start": 6.7,
+    "end": 7.76
+  },
+  {
+    "word": "Agni",
+    "start": 7.84,
+    "end": 8.32
+  },
+  {
+    "word": "(shakti",
+    "start": 8.48,
+    "end": 9.04
+  },
+  {
+    "word": "ya",
+    "start": 9.067,
+    "end": 9.12
+  },
+  {
+    "word": "krodh)",
+    "start": 9.2,
+    "end": 9.92
+  },
+  {
+    "word": "se",
+    "start": 9.973,
+    "end": 10.08
+  },
+  {
+    "word": "unhe",
+    "start": 10.133,
+    "end": 10.32
+  },
+  {
+    "word": "kabhi",
+    "start": 10.4,
+    "end": 10.72
+  },
+  {
+    "word": "nahi",
+    "start": 10.76,
+    "end": 10.96
+  },
+  {
+    "word": "chuna",
+    "start": 11.013,
+    "end": 11.36
+  },
+  {
+    "word": "chahiye",
+    "start": 11.387,
+    "end": 11.76
+  },
+  {
+    "word": "jo",
+    "start": 11.947,
+    "end": 12.32
+  },
+  {
+    "word": "pavitra",
+    "start": 12.38,
+    "end": 12.88
+  },
+  {
+    "word": "ya",
+    "start": 13.013,
+    "end": 13.28
+  },
+  {
+    "word": "ashakt",
+    "start": 13.38,
+    "end": 13.92
+  },
+  {
+    "word": "hain\u2014jaise",
+    "start": 13.96,
+    "end": 15.04
+  },
+  {
+    "word": "ki",
+    "start": 15.093,
+    "end": 15.2
+  },
+  {
+    "word": "guru,",
+    "start": 15.28,
+    "end": 16.08
+  },
+  {
+    "word": "brahmin,",
+    "start": 16.14,
+    "end": 17.2
+  },
+  {
+    "word": "gaay,",
+    "start": 17.253,
+    "end": 18.08
+  },
+  {
+    "word": "kumiariyan,",
+    "start": 18.12,
+    "end": 19.28
+  },
+  {
+    "word": "vriddh",
+    "start": 19.333,
+    "end": 19.84
+  },
+  {
+    "word": "(buzurg),",
+    "start": 20.04,
+    "end": 20.3
+  },
+  {
+    "word": "aur",
+    "start": 20.305,
+    "end": 20.32
+  },
+  {
+    "word": "chhote",
+    "start": 20.373,
+    "end": 20.8
+  },
+  {
+    "word": "bachhe.",
+    "start": 20.848,
+    "end": 21.28
+  },
+  {
+    "word": "Aaj",
+    "start": 21.8,
+    "end": 22.48
+  },
+  {
+    "word": "kal",
+    "start": 22.52,
+    "end": 22.64
+  },
+  {
+    "word": "hum",
+    "start": 22.68,
+    "end": 22.8
+  },
+  {
+    "word": "power",
+    "start": 22.867,
+    "end": 23.2
+  },
+  {
+    "word": "ke",
+    "start": 23.253,
+    "end": 23.36
+  },
+  {
+    "word": "nashe",
+    "start": 23.44,
+    "end": 23.76
+  },
+  {
+    "word": "mein",
+    "start": 23.792,
+    "end": 23.92
+  },
+  {
+    "word": "un",
+    "start": 24.027,
+    "end": 24.24
+  },
+  {
+    "word": "logo",
+    "start": 24.304,
+    "end": 24.56
+  },
+  {
+    "word": "ko",
+    "start": 24.613,
+    "end": 24.72
+  },
+  {
+    "word": "target",
+    "start": 24.766,
+    "end": 25.04
+  },
+  {
+    "word": "karte",
+    "start": 25.08,
+    "end": 25.44
+  },
+  {
+    "word": "hain",
+    "start": 25.48,
+    "end": 25.6
+  },
+  {
+    "word": "jo",
+    "start": 25.76,
+    "end": 26.08
+  },
+  {
+    "word": "humse",
+    "start": 26.14,
+    "end": 26.4
+  },
+  {
+    "word": "kamzor",
+    "start": 26.48,
+    "end": 26.96
+  },
+  {
+    "word": "hain",
+    "start": 27.0,
+    "end": 27.12
+  },
+  {
+    "word": "ya",
+    "start": 27.36,
+    "end": 27.84
+  },
+  {
+    "word": "humein",
+    "start": 27.9,
+    "end": 28.16
+  },
+  {
+    "word": "guide",
+    "start": 28.213,
+    "end": 28.48
+  },
+  {
+    "word": "karte",
+    "start": 28.52,
+    "end": 28.88
+  },
+  {
+    "word": "hain.",
+    "start": 28.92,
+    "end": 29.12
+  },
+  {
+    "word": "True",
+    "start": 29.344,
+    "end": 30.24
+  },
+  {
+    "word": "strength",
+    "start": 30.302,
+    "end": 30.8
+  },
+  {
+    "word": "isn't",
+    "start": 30.86,
+    "end": 31.12
+  },
+  {
+    "word": "about",
+    "start": 31.16,
+    "end": 31.36
+  },
+  {
+    "word": "dominating",
+    "start": 31.418,
+    "end": 32.0
+  },
+  {
+    "word": "the",
+    "start": 32.02,
+    "end": 32.08
+  },
+  {
+    "word": "weak;",
+    "start": 32.16,
+    "end": 32.96
+  },
+  {
+    "word": "it's",
+    "start": 33.013,
+    "end": 33.2
+  },
+  {
+    "word": "about",
+    "start": 33.24,
+    "end": 33.44
+  },
+  {
+    "word": "protecting",
+    "start": 33.498,
+    "end": 34.08
+  },
+  {
+    "word": "them.",
+    "start": 34.128,
+    "end": 34.4
+  },
+  {
+    "word": "Jab",
+    "start": 34.68,
+    "end": 35.52
+  },
+  {
+    "word": "tum",
+    "start": 35.58,
+    "end": 35.76
+  },
+  {
+    "word": "apni",
+    "start": 35.787,
+    "end": 36.0
+  },
+  {
+    "word": "authority",
+    "start": 36.056,
+    "end": 36.56
+  },
+  {
+    "word": "ka",
+    "start": 36.613,
+    "end": 36.72
+  },
+  {
+    "word": "istemal",
+    "start": 36.8,
+    "end": 37.36
+  },
+  {
+    "word": "kisi",
+    "start": 37.44,
+    "end": 37.76
+  },
+  {
+    "word": "helpless",
+    "start": 37.813,
+    "end": 38.24
+  },
+  {
+    "word": "person",
+    "start": 38.297,
+    "end": 38.64
+  },
+  {
+    "word": "ko",
+    "start": 38.693,
+    "end": 38.8
+  },
+  {
+    "word": "dabane",
+    "start": 38.86,
+    "end": 39.2
+  },
+  {
+    "word": "ke",
+    "start": 39.253,
+    "end": 39.36
+  },
+  {
+    "word": "liye",
+    "start": 39.413,
+    "end": 39.56
+  },
+  {
+    "word": "karte",
+    "start": 39.58,
+    "end": 39.92
+  },
+  {
+    "word": "ho,",
+    "start": 39.973,
+    "end": 40.24
+  },
+  {
+    "word": "toh",
+    "start": 40.4,
+    "end": 40.88
+  },
+  {
+    "word": "tum",
+    "start": 40.94,
+    "end": 41.12
+  },
+  {
+    "word": "powerful",
+    "start": 41.182,
+    "end": 41.68
+  },
+  {
+    "word": "nahi,",
+    "start": 41.72,
+    "end": 42.56
+  },
+  {
+    "word": "balki",
+    "start": 42.624,
+    "end": 42.96
+  },
+  {
+    "word": "ek",
+    "start": 43.067,
+    "end": 43.28
+  },
+  {
+    "word": "coward",
+    "start": 43.349,
+    "end": 43.76
+  },
+  {
+    "word": "ban",
+    "start": 43.8,
+    "end": 43.92
+  },
+  {
+    "word": "jate",
+    "start": 44.0,
+    "end": 44.32
+  },
+  {
+    "word": "ho.",
+    "start": 44.4,
+    "end": 44.64
+  },
+  {
+    "word": "Real",
+    "start": 44.88,
+    "end": 45.84
+  },
+  {
+    "word": "leadership",
+    "start": 45.891,
+    "end": 46.4
+  },
+  {
+    "word": "is",
+    "start": 46.48,
+    "end": 46.64
+  },
+  {
+    "word": "empathy.",
+    "start": 46.72,
+    "end": 47.36
+  },
+  {
+    "word": "Who",
+    "start": 47.66,
+    "end": 48.56
+  },
+  {
+    "word": "is",
+    "start": 48.613,
+    "end": 48.72
+  },
+  {
+    "word": "the",
+    "start": 48.76,
+    "end": 48.88
+  },
+  {
+    "word": "one",
+    "start": 48.96,
+    "end": 49.2
+  },
+  {
+    "word": "person",
+    "start": 49.28,
+    "end": 49.76
+  },
+  {
+    "word": "you",
+    "start": 49.8,
+    "end": 49.92
+  },
+  {
+    "word": "will",
+    "start": 49.952,
+    "end": 50.08
+  },
+  {
+    "word": "protect",
+    "start": 50.15,
+    "end": 50.64
+  },
+  {
+    "word": "no",
+    "start": 50.773,
+    "end": 51.04
+  },
+  {
+    "word": "matter",
+    "start": 51.097,
+    "end": 51.44
+  },
+  {
+    "word": "what?",
+    "start": 51.52,
+    "end": 51.92
+  },
+  {
+    "word": "Comment",
+    "start": 52.06,
+    "end": 53.04
+  },
+  {
+    "word": "below,",
+    "start": 53.107,
+    "end": 53.8
+  },
+  {
+    "word": "because",
+    "start": 53.845,
+    "end": 54.16
+  },
+  {
+    "word": "the",
+    "start": 54.2,
+    "end": 54.32
+  },
+  {
+    "word": "world",
+    "start": 54.413,
+    "end": 54.88
+  },
+  {
+    "word": "needs",
+    "start": 54.947,
+    "end": 55.28
+  },
+  {
+    "word": "to",
+    "start": 55.307,
+    "end": 55.36
+  },
+  {
+    "word": "remember",
+    "start": 55.422,
+    "end": 55.92
+  },
+  {
+    "word": "that...",
+    "start": 56.016,
+    "end": 56.56
+  }
+]

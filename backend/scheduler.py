@@ -199,24 +199,7 @@ def run_automation_pipeline(scheduled_time_str=None):
                 return res.json().get("audio_path")
                 
             def fetch_b_roll_task():
-                try:
-                    from services.scene_engine import analyze_scenes
-                    from services.pexels_engine import search_and_download_video
-                    
-                    full_text = script_data.get("fullText", "")
-                    scenes = analyze_scenes(full_text)
-                    duration = script_data.get("estimatedDuration", 30)
-                    
-                    if scenes:
-                        seg_dur = duration / len(scenes)
-                        for sc in scenes:
-                            theme = sc.get("theme", "cinematic")
-                            keywords = sc.get("keywords", [])
-                            query = f"{theme} {keywords[0] if keywords else 'aesthetic'}"
-                            # Cache will be populated concurrently
-                            search_and_download_video(query, min_duration=int(seg_dur) + 1)
-                except Exception as e:
-                    logger.error(f"Auto B-Roll pre-fetch failed: {e}")
+                # B-roll is now handled by Viral Background Engine
                 return True
 
             with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:

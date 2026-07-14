@@ -1,0 +1,402 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "OVERSHARING!",
+    "start": 0.528,
+    "end": 1.76
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.016,
+    "end": 3.36
+  },
+  {
+    "word": "ne",
+    "start": 3.387,
+    "end": 3.44
+  },
+  {
+    "word": "kaha",
+    "start": 3.48,
+    "end": 3.76
+  },
+  {
+    "word": "tha:",
+    "start": 3.82,
+    "end": 4.44
+  },
+  {
+    "word": "Apne",
+    "start": 4.587,
+    "end": 5.04
+  },
+  {
+    "word": "ghar",
+    "start": 5.08,
+    "end": 5.2
+  },
+  {
+    "word": "ke",
+    "start": 5.28,
+    "end": 5.44
+  },
+  {
+    "word": "raaz,",
+    "start": 5.493,
+    "end": 6.16
+  },
+  {
+    "word": "apni",
+    "start": 6.213,
+    "end": 6.48
+  },
+  {
+    "word": "galtiyan,",
+    "start": 6.56,
+    "end": 7.12
+  },
+  {
+    "word": "aur",
+    "start": 7.24,
+    "end": 7.6
+  },
+  {
+    "word": "apni",
+    "start": 7.653,
+    "end": 7.84
+  },
+  {
+    "word": "kamzoriyon",
+    "start": 7.94,
+    "end": 8.64
+  },
+  {
+    "word": "ko",
+    "start": 8.693,
+    "end": 8.8
+  },
+  {
+    "word": "kabhi",
+    "start": 8.92,
+    "end": 9.44
+  },
+  {
+    "word": "kisi",
+    "start": 9.52,
+    "end": 9.76
+  },
+  {
+    "word": "ke",
+    "start": 9.813,
+    "end": 9.92
+  },
+  {
+    "word": "saamne",
+    "start": 10.0,
+    "end": 10.4
+  },
+  {
+    "word": "zahir",
+    "start": 10.48,
+    "end": 10.88
+  },
+  {
+    "word": "mat",
+    "start": 10.92,
+    "end": 11.04
+  },
+  {
+    "word": "karo.",
+    "start": 11.08,
+    "end": 11.44
+  },
+  {
+    "word": "Aaj",
+    "start": 12.0,
+    "end": 12.72
+  },
+  {
+    "word": "kal",
+    "start": 12.76,
+    "end": 12.88
+  },
+  {
+    "word": "log",
+    "start": 12.98,
+    "end": 13.28
+  },
+  {
+    "word": "'Validation'",
+    "start": 13.32,
+    "end": 14.0
+  },
+  {
+    "word": "ke",
+    "start": 14.027,
+    "end": 14.08
+  },
+  {
+    "word": "liye",
+    "start": 14.133,
+    "end": 14.32
+  },
+  {
+    "word": "apni",
+    "start": 14.427,
+    "end": 14.72
+  },
+  {
+    "word": "life",
+    "start": 14.784,
+    "end": 15.04
+  },
+  {
+    "word": "ki",
+    "start": 15.093,
+    "end": 15.2
+  },
+  {
+    "word": "har",
+    "start": 15.3,
+    "end": 15.6
+  },
+  {
+    "word": "problem",
+    "start": 15.66,
+    "end": 16.08
+  },
+  {
+    "word": "social",
+    "start": 16.137,
+    "end": 16.48
+  },
+  {
+    "word": "media",
+    "start": 16.533,
+    "end": 16.8
+  },
+  {
+    "word": "pe",
+    "start": 16.853,
+    "end": 16.96
+  },
+  {
+    "word": "daal",
+    "start": 17.013,
+    "end": 17.2
+  },
+  {
+    "word": "dete",
+    "start": 17.26,
+    "end": 17.52
+  },
+  {
+    "word": "hain.",
+    "start": 17.56,
+    "end": 17.76
+  },
+  {
+    "word": "Listen,",
+    "start": 17.954,
+    "end": 19.2
+  },
+  {
+    "word": "when",
+    "start": 19.328,
+    "end": 19.84
+  },
+  {
+    "word": "you",
+    "start": 19.86,
+    "end": 19.92
+  },
+  {
+    "word": "tell",
+    "start": 19.984,
+    "end": 20.24
+  },
+  {
+    "word": "everyone",
+    "start": 20.311,
+    "end": 20.88
+  },
+  {
+    "word": "your",
+    "start": 20.912,
+    "end": 21.04
+  },
+  {
+    "word": "struggle,",
+    "start": 21.093,
+    "end": 21.6
+  },
+  {
+    "word": "you",
+    "start": 21.72,
+    "end": 22.08
+  },
+  {
+    "word": "give",
+    "start": 22.128,
+    "end": 22.32
+  },
+  {
+    "word": "them",
+    "start": 22.352,
+    "end": 22.48
+  },
+  {
+    "word": "a",
+    "start": 22.52,
+    "end": 22.56
+  },
+  {
+    "word": "map",
+    "start": 22.64,
+    "end": 22.88
+  },
+  {
+    "word": "to",
+    "start": 22.933,
+    "end": 23.04
+  },
+  {
+    "word": "destroy",
+    "start": 23.11,
+    "end": 23.6
+  },
+  {
+    "word": "you.",
+    "start": 23.66,
+    "end": 23.92
+  },
+  {
+    "word": "Private",
+    "start": 24.09,
+    "end": 25.28
+  },
+  {
+    "word": "life",
+    "start": 25.36,
+    "end": 25.68
+  },
+  {
+    "word": "equals",
+    "start": 25.783,
+    "end": 26.4
+  },
+  {
+    "word": "Peaceful",
+    "start": 26.507,
+    "end": 27.2
+  },
+  {
+    "word": "life.",
+    "start": 27.28,
+    "end": 27.68
+  },
+  {
+    "word": "Keep",
+    "start": 27.856,
+    "end": 28.56
+  },
+  {
+    "word": "your",
+    "start": 28.592,
+    "end": 28.72
+  },
+  {
+    "word": "circle",
+    "start": 28.777,
+    "end": 29.12
+  },
+  {
+    "word": "small",
+    "start": 29.2,
+    "end": 29.6
+  },
+  {
+    "word": "and",
+    "start": 29.68,
+    "end": 29.92
+  },
+  {
+    "word": "your",
+    "start": 29.952,
+    "end": 30.08
+  },
+  {
+    "word": "moves",
+    "start": 30.2,
+    "end": 30.8
+  },
+  {
+    "word": "silent.",
+    "start": 30.914,
+    "end": 31.68
+  },
+  {
+    "word": "Share",
+    "start": 31.853,
+    "end": 32.72
+  },
+  {
+    "word": "this",
+    "start": 32.768,
+    "end": 32.96
+  },
+  {
+    "word": "with",
+    "start": 32.992,
+    "end": 33.12
+  },
+  {
+    "word": "someone",
+    "start": 33.17,
+    "end": 33.52
+  },
+  {
+    "word": "who",
+    "start": 33.54,
+    "end": 33.6
+  },
+  {
+    "word": "talks",
+    "start": 33.707,
+    "end": 34.24
+  },
+  {
+    "word": "too",
+    "start": 34.3,
+    "end": 34.48
+  },
+  {
+    "word": "much",
+    "start": 34.56,
+    "end": 34.88
+  },
+  {
+    "word": "about",
+    "start": 34.947,
+    "end": 35.28
+  },
+  {
+    "word": "their",
+    "start": 35.307,
+    "end": 35.44
+  },
+  {
+    "word": "private",
+    "start": 35.49,
+    "end": 35.84
+  },
+  {
+    "word": "life.",
+    "start": 35.92,
+    "end": 36.32
+  }
+]

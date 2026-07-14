@@ -1,0 +1,787 @@
+[
+  {
+    "word": "WHY",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "'BE",
+    "start": 0.2,
+    "end": 0.32
+  },
+  {
+    "word": "CONTENT'",
+    "start": 0.4,
+    "end": 1.12
+  },
+  {
+    "word": "IS",
+    "start": 1.173,
+    "end": 1.28
+  },
+  {
+    "word": "BAD",
+    "start": 1.38,
+    "end": 1.68
+  },
+  {
+    "word": "ADVICE.",
+    "start": 1.733,
+    "end": 2.4
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.688,
+    "end": 4.16
+  },
+  {
+    "word": "ne",
+    "start": 4.24,
+    "end": 4.4
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.52,
+    "end": 4.88
+  },
+  {
+    "word": "pehle",
+    "start": 4.933,
+    "end": 5.28
+  },
+  {
+    "word": "ek",
+    "start": 5.413,
+    "end": 5.68
+  },
+  {
+    "word": "baat",
+    "start": 5.733,
+    "end": 6.0
+  },
+  {
+    "word": "kahi",
+    "start": 6.04,
+    "end": 6.32
+  },
+  {
+    "word": "thi:",
+    "start": 6.38,
+    "end": 6.64
+  },
+  {
+    "word": "Apni",
+    "start": 6.96,
+    "end": 7.76
+  },
+  {
+    "word": "patni,",
+    "start": 7.84,
+    "end": 8.32
+  },
+  {
+    "word": "bhojan",
+    "start": 8.52,
+    "end": 9.2
+  },
+  {
+    "word": "aur",
+    "start": 9.32,
+    "end": 9.68
+  },
+  {
+    "word": "dhan",
+    "start": 9.76,
+    "end": 10.0
+  },
+  {
+    "word": "mein",
+    "start": 10.032,
+    "end": 10.16
+  },
+  {
+    "word": "santosh",
+    "start": 10.24,
+    "end": 10.8
+  },
+  {
+    "word": "karo,",
+    "start": 10.84,
+    "end": 11.2
+  },
+  {
+    "word": "par",
+    "start": 11.36,
+    "end": 11.84
+  },
+  {
+    "word": "padhai,",
+    "start": 11.9,
+    "end": 12.96
+  },
+  {
+    "word": "jaap",
+    "start": 13.04,
+    "end": 13.44
+  },
+  {
+    "word": "aur",
+    "start": 13.58,
+    "end": 14.0
+  },
+  {
+    "word": "daan",
+    "start": 14.08,
+    "end": 14.4
+  },
+  {
+    "word": "mein",
+    "start": 14.448,
+    "end": 14.64
+  },
+  {
+    "word": "kabhi",
+    "start": 14.72,
+    "end": 15.04
+  },
+  {
+    "word": "santosh",
+    "start": 15.12,
+    "end": 15.68
+  },
+  {
+    "word": "mat",
+    "start": 15.76,
+    "end": 16.0
+  },
+  {
+    "word": "karna.",
+    "start": 16.04,
+    "end": 16.48
+  },
+  {
+    "word": "Aaj",
+    "start": 17.04,
+    "end": 17.76
+  },
+  {
+    "word": "ki",
+    "start": 17.787,
+    "end": 17.84
+  },
+  {
+    "word": "duniya",
+    "start": 17.92,
+    "end": 18.16
+  },
+  {
+    "word": "mein,",
+    "start": 18.208,
+    "end": 18.48
+  },
+  {
+    "word": "humein",
+    "start": 18.58,
+    "end": 18.96
+  },
+  {
+    "word": "sikhaya",
+    "start": 19.04,
+    "end": 19.52
+  },
+  {
+    "word": "jaata",
+    "start": 19.573,
+    "end": 19.84
+  },
+  {
+    "word": "hai",
+    "start": 19.9,
+    "end": 20.08
+  },
+  {
+    "word": "ki",
+    "start": 20.133,
+    "end": 20.24
+  },
+  {
+    "word": "har",
+    "start": 20.32,
+    "end": 20.56
+  },
+  {
+    "word": "cheez",
+    "start": 20.62,
+    "end": 20.88
+  },
+  {
+    "word": "mein",
+    "start": 20.912,
+    "end": 21.04
+  },
+  {
+    "word": "santosh",
+    "start": 21.104,
+    "end": 21.6
+  },
+  {
+    "word": "rakho.",
+    "start": 21.64,
+    "end": 22.08
+  },
+  {
+    "word": "But",
+    "start": 22.24,
+    "end": 22.72
+  },
+  {
+    "word": "Chanakya",
+    "start": 22.784,
+    "end": 23.28
+  },
+  {
+    "word": "ne",
+    "start": 23.36,
+    "end": 23.52
+  },
+  {
+    "word": "ek",
+    "start": 23.627,
+    "end": 23.84
+  },
+  {
+    "word": "alag",
+    "start": 23.92,
+    "end": 24.16
+  },
+  {
+    "word": "nazariya",
+    "start": 24.22,
+    "end": 24.56
+  },
+  {
+    "word": "diya.",
+    "start": 24.64,
+    "end": 25.04
+  },
+  {
+    "word": "Woh",
+    "start": 25.4,
+    "end": 25.84
+  },
+  {
+    "word": "kehte",
+    "start": 25.893,
+    "end": 26.24
+  },
+  {
+    "word": "hain",
+    "start": 26.32,
+    "end": 26.48
+  },
+  {
+    "word": "ki",
+    "start": 26.64,
+    "end": 26.96
+  },
+  {
+    "word": "personal",
+    "start": 27.013,
+    "end": 27.44
+  },
+  {
+    "word": "life",
+    "start": 27.52,
+    "end": 27.84
+  },
+  {
+    "word": "mein,",
+    "start": 27.872,
+    "end": 28.08
+  },
+  {
+    "word": "jo",
+    "start": 28.107,
+    "end": 28.16
+  },
+  {
+    "word": "tumhare",
+    "start": 28.2,
+    "end": 28.56
+  },
+  {
+    "word": "paas",
+    "start": 28.64,
+    "end": 28.96
+  },
+  {
+    "word": "hai,",
+    "start": 29.0,
+    "end": 29.28
+  },
+  {
+    "word": "usme",
+    "start": 29.44,
+    "end": 29.84
+  },
+  {
+    "word": "shanti",
+    "start": 29.92,
+    "end": 30.32
+  },
+  {
+    "word": "dhoondo.",
+    "start": 30.36,
+    "end": 31.16
+  },
+  {
+    "word": "Apne",
+    "start": 31.307,
+    "end": 31.76
+  },
+  {
+    "word": "rishton",
+    "start": 31.8,
+    "end": 32.24
+  },
+  {
+    "word": "mein,",
+    "start": 32.272,
+    "end": 32.8
+  },
+  {
+    "word": "apne",
+    "start": 32.853,
+    "end": 33.12
+  },
+  {
+    "word": "khaane",
+    "start": 33.2,
+    "end": 33.6
+  },
+  {
+    "word": "mein,",
+    "start": 33.632,
+    "end": 34.24
+  },
+  {
+    "word": "apne",
+    "start": 34.293,
+    "end": 34.56
+  },
+  {
+    "word": "dhan",
+    "start": 34.6,
+    "end": 34.88
+  },
+  {
+    "word": "mein,",
+    "start": 34.912,
+    "end": 35.2
+  },
+  {
+    "word": "ek",
+    "start": 35.387,
+    "end": 35.76
+  },
+  {
+    "word": "gehra",
+    "start": 35.82,
+    "end": 36.16
+  },
+  {
+    "word": "santosh",
+    "start": 36.24,
+    "end": 36.8
+  },
+  {
+    "word": "experience",
+    "start": 36.858,
+    "end": 37.44
+  },
+  {
+    "word": "karo.",
+    "start": 37.48,
+    "end": 37.84
+  },
+  {
+    "word": "Lekin",
+    "start": 38.16,
+    "end": 38.72
+  },
+  {
+    "word": "jahan",
+    "start": 38.76,
+    "end": 39.04
+  },
+  {
+    "word": "baat",
+    "start": 39.093,
+    "end": 39.36
+  },
+  {
+    "word": "aati",
+    "start": 39.4,
+    "end": 39.68
+  },
+  {
+    "word": "hai",
+    "start": 39.72,
+    "end": 39.84
+  },
+  {
+    "word": "learning",
+    "start": 39.893,
+    "end": 40.32
+  },
+  {
+    "word": "ki,",
+    "start": 40.373,
+    "end": 40.96
+  },
+  {
+    "word": "growth",
+    "start": 41.017,
+    "end": 41.36
+  },
+  {
+    "word": "ki,",
+    "start": 41.44,
+    "end": 41.76
+  },
+  {
+    "word": "aur",
+    "start": 41.88,
+    "end": 42.24
+  },
+  {
+    "word": "contribution",
+    "start": 42.295,
+    "end": 42.96
+  },
+  {
+    "word": "ki,",
+    "start": 43.04,
+    "end": 43.76
+  },
+  {
+    "word": "wahan",
+    "start": 43.8,
+    "end": 44.08
+  },
+  {
+    "word": "kabhi",
+    "start": 44.14,
+    "end": 44.4
+  },
+  {
+    "word": "'enough'",
+    "start": 44.48,
+    "end": 44.96
+  },
+  {
+    "word": "mat",
+    "start": 45.0,
+    "end": 45.12
+  },
+  {
+    "word": "kaho.",
+    "start": 45.16,
+    "end": 45.52
+  },
+  {
+    "word": "Don't",
+    "start": 45.74,
+    "end": 46.48
+  },
+  {
+    "word": "be",
+    "start": 46.533,
+    "end": 46.64
+  },
+  {
+    "word": "complacent",
+    "start": 46.707,
+    "end": 47.36
+  },
+  {
+    "word": "with",
+    "start": 47.392,
+    "end": 47.52
+  },
+  {
+    "word": "your",
+    "start": 47.536,
+    "end": 47.6
+  },
+  {
+    "word": "knowledge,",
+    "start": 47.656,
+    "end": 48.48
+  },
+  {
+    "word": "your",
+    "start": 48.496,
+    "end": 48.56
+  },
+  {
+    "word": "personal",
+    "start": 48.613,
+    "end": 49.04
+  },
+  {
+    "word": "development,",
+    "start": 49.093,
+    "end": 49.84
+  },
+  {
+    "word": "or",
+    "start": 49.973,
+    "end": 50.24
+  },
+  {
+    "word": "how",
+    "start": 50.28,
+    "end": 50.4
+  },
+  {
+    "word": "much",
+    "start": 50.464,
+    "end": 50.72
+  },
+  {
+    "word": "you",
+    "start": 50.74,
+    "end": 50.8
+  },
+  {
+    "word": "give",
+    "start": 50.848,
+    "end": 51.04
+  },
+  {
+    "word": "back.",
+    "start": 51.12,
+    "end": 51.52
+  },
+  {
+    "word": "Push",
+    "start": 51.712,
+    "end": 52.48
+  },
+  {
+    "word": "yourself",
+    "start": 52.533,
+    "end": 52.96
+  },
+  {
+    "word": "to",
+    "start": 52.987,
+    "end": 53.04
+  },
+  {
+    "word": "learn",
+    "start": 53.107,
+    "end": 53.44
+  },
+  {
+    "word": "more,",
+    "start": 53.504,
+    "end": 54.24
+  },
+  {
+    "word": "evolve",
+    "start": 54.32,
+    "end": 54.8
+  },
+  {
+    "word": "more,",
+    "start": 54.864,
+    "end": 55.2
+  },
+  {
+    "word": "aur",
+    "start": 55.34,
+    "end": 55.76
+  },
+  {
+    "word": "duniya",
+    "start": 55.8,
+    "end": 56.08
+  },
+  {
+    "word": "ko",
+    "start": 56.16,
+    "end": 56.32
+  },
+  {
+    "word": "better",
+    "start": 56.366,
+    "end": 56.64
+  },
+  {
+    "word": "banane",
+    "start": 56.68,
+    "end": 57.04
+  },
+  {
+    "word": "ke",
+    "start": 57.093,
+    "end": 57.2
+  },
+  {
+    "word": "liye",
+    "start": 57.253,
+    "end": 57.44
+  },
+  {
+    "word": "aur",
+    "start": 57.58,
+    "end": 58.0
+  },
+  {
+    "word": "effort",
+    "start": 58.069,
+    "end": 58.48
+  },
+  {
+    "word": "daalo.",
+    "start": 58.533,
+    "end": 59.04
+  },
+  {
+    "word": "True",
+    "start": 59.232,
+    "end": 60.0
+  },
+  {
+    "word": "fulfillment",
+    "start": 60.06,
+    "end": 60.72
+  },
+  {
+    "word": "comes",
+    "start": 60.787,
+    "end": 61.12
+  },
+  {
+    "word": "not",
+    "start": 61.18,
+    "end": 61.36
+  },
+  {
+    "word": "from",
+    "start": 61.392,
+    "end": 61.52
+  },
+  {
+    "word": "endless",
+    "start": 61.58,
+    "end": 62.0
+  },
+  {
+    "word": "chasing,",
+    "start": 62.06,
+    "end": 62.64
+  },
+  {
+    "word": "but",
+    "start": 62.76,
+    "end": 63.12
+  },
+  {
+    "word": "from",
+    "start": 63.168,
+    "end": 63.36
+  },
+  {
+    "word": "wise,",
+    "start": 63.488,
+    "end": 64.24
+  },
+  {
+    "word": "selective",
+    "start": 64.296,
+    "end": 64.8
+  },
+  {
+    "word": "contentment.",
+    "start": 64.87,
+    "end": 65.76
+  },
+  {
+    "word": "Where",
+    "start": 65.907,
+    "end": 66.64
+  },
+  {
+    "word": "in",
+    "start": 66.693,
+    "end": 66.8
+  },
+  {
+    "word": "your",
+    "start": 66.832,
+    "end": 66.96
+  },
+  {
+    "word": "life",
+    "start": 67.04,
+    "end": 67.36
+  },
+  {
+    "word": "do",
+    "start": 67.387,
+    "end": 67.44
+  },
+  {
+    "word": "you",
+    "start": 67.46,
+    "end": 67.52
+  },
+  {
+    "word": "need",
+    "start": 67.568,
+    "end": 67.76
+  },
+  {
+    "word": "to",
+    "start": 67.787,
+    "end": 67.84
+  },
+  {
+    "word": "stop",
+    "start": 67.92,
+    "end": 68.24
+  },
+  {
+    "word": "being",
+    "start": 68.267,
+    "end": 68.4
+  },
+  {
+    "word": "content?",
+    "start": 68.48,
+    "end": 69.12
+  },
+  {
+    "word": "Share",
+    "start": 69.267,
+    "end": 70.0
+  },
+  {
+    "word": "your",
+    "start": 70.032,
+    "end": 70.16
+  },
+  {
+    "word": "thoughts",
+    "start": 70.213,
+    "end": 70.64
+  },
+  {
+    "word": "below.",
+    "start": 70.707,
+    "end": 71.2
+  }
+]

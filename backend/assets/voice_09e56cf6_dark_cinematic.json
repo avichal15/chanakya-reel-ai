@@ -1,0 +1,587 @@
+[
+  {
+    "word": "HARD",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "WORK",
+    "start": 0.416,
+    "end": 0.8
+  },
+  {
+    "word": "IS",
+    "start": 0.88,
+    "end": 1.04
+  },
+  {
+    "word": "A",
+    "start": 1.08,
+    "end": 1.12
+  },
+  {
+    "word": "TRAP.",
+    "start": 1.227,
+    "end": 1.68
+  },
+  {
+    "word": "Chanakya",
+    "start": 1.904,
+    "end": 3.04
+  },
+  {
+    "word": "ne",
+    "start": 3.093,
+    "end": 3.2
+  },
+  {
+    "word": "sadiyon",
+    "start": 3.28,
+    "end": 3.6
+  },
+  {
+    "word": "pehle",
+    "start": 3.68,
+    "end": 4.0
+  },
+  {
+    "word": "ek",
+    "start": 4.133,
+    "end": 4.4
+  },
+  {
+    "word": "baat",
+    "start": 4.453,
+    "end": 4.72
+  },
+  {
+    "word": "kahi",
+    "start": 4.76,
+    "end": 5.04
+  },
+  {
+    "word": "thi:",
+    "start": 5.1,
+    "end": 5.84
+  },
+  {
+    "word": "Ek",
+    "start": 5.92,
+    "end": 6.08
+  },
+  {
+    "word": "ghaade",
+    "start": 6.12,
+    "end": 6.4
+  },
+  {
+    "word": "(cart)",
+    "start": 6.44,
+    "end": 6.533
+  },
+  {
+    "word": "ko",
+    "start": 6.542,
+    "end": 6.56
+  },
+  {
+    "word": "toh",
+    "start": 6.6,
+    "end": 6.72
+  },
+  {
+    "word": "tum",
+    "start": 6.76,
+    "end": 6.88
+  },
+  {
+    "word": "das",
+    "start": 6.98,
+    "end": 7.28
+  },
+  {
+    "word": "haathon",
+    "start": 7.333,
+    "end": 7.6
+  },
+  {
+    "word": "se",
+    "start": 7.653,
+    "end": 7.76
+  },
+  {
+    "word": "bhi",
+    "start": 7.8,
+    "end": 7.92
+  },
+  {
+    "word": "kheench",
+    "start": 7.96,
+    "end": 8.24
+  },
+  {
+    "word": "sakte",
+    "start": 8.28,
+    "end": 8.56
+  },
+  {
+    "word": "ho,",
+    "start": 8.613,
+    "end": 9.2
+  },
+  {
+    "word": "par",
+    "start": 9.26,
+    "end": 9.44
+  },
+  {
+    "word": "ek",
+    "start": 9.547,
+    "end": 9.76
+  },
+  {
+    "word": "hathi",
+    "start": 9.824,
+    "end": 10.2
+  },
+  {
+    "word": "ko",
+    "start": 10.24,
+    "end": 10.32
+  },
+  {
+    "word": "tum",
+    "start": 10.38,
+    "end": 10.56
+  },
+  {
+    "word": "hazaaron",
+    "start": 10.64,
+    "end": 11.2
+  },
+  {
+    "word": "haathon",
+    "start": 11.253,
+    "end": 11.52
+  },
+  {
+    "word": "se",
+    "start": 11.573,
+    "end": 11.68
+  },
+  {
+    "word": "bhi",
+    "start": 11.72,
+    "end": 11.84
+  },
+  {
+    "word": "nahi",
+    "start": 11.88,
+    "end": 12.08
+  },
+  {
+    "word": "hila",
+    "start": 12.12,
+    "end": 12.4
+  },
+  {
+    "word": "sakte",
+    "start": 12.44,
+    "end": 12.96
+  },
+  {
+    "word": "agar",
+    "start": 13.04,
+    "end": 13.36
+  },
+  {
+    "word": "sahi",
+    "start": 13.44,
+    "end": 13.76
+  },
+  {
+    "word": "disha",
+    "start": 13.824,
+    "end": 14.24
+  },
+  {
+    "word": "aur",
+    "start": 14.38,
+    "end": 14.8
+  },
+  {
+    "word": "sahi",
+    "start": 14.88,
+    "end": 15.12
+  },
+  {
+    "word": "strategy",
+    "start": 15.191,
+    "end": 15.76
+  },
+  {
+    "word": "na",
+    "start": 15.813,
+    "end": 15.92
+  },
+  {
+    "word": "ho.",
+    "start": 15.973,
+    "end": 16.96
+  },
+  {
+    "word": "Hum",
+    "start": 17.02,
+    "end": 17.2
+  },
+  {
+    "word": "sab",
+    "start": 17.28,
+    "end": 17.52
+  },
+  {
+    "word": "'hustle",
+    "start": 17.6,
+    "end": 18.0
+  },
+  {
+    "word": "culture'",
+    "start": 18.04,
+    "end": 18.4
+  },
+  {
+    "word": "ke",
+    "start": 18.427,
+    "end": 18.48
+  },
+  {
+    "word": "naam",
+    "start": 18.528,
+    "end": 18.72
+  },
+  {
+    "word": "par",
+    "start": 18.78,
+    "end": 18.96
+  },
+  {
+    "word": "sirf",
+    "start": 19.04,
+    "end": 19.36
+  },
+  {
+    "word": "mehnat",
+    "start": 19.44,
+    "end": 19.84
+  },
+  {
+    "word": "karna",
+    "start": 19.88,
+    "end": 20.16
+  },
+  {
+    "word": "seekh",
+    "start": 20.224,
+    "end": 20.48
+  },
+  {
+    "word": "rahe",
+    "start": 20.507,
+    "end": 20.72
+  },
+  {
+    "word": "hain.",
+    "start": 20.76,
+    "end": 21.6
+  },
+  {
+    "word": "But",
+    "start": 21.62,
+    "end": 21.68
+  },
+  {
+    "word": "remember,",
+    "start": 21.742,
+    "end": 22.8
+  },
+  {
+    "word": "brute",
+    "start": 22.867,
+    "end": 23.2
+  },
+  {
+    "word": "force",
+    "start": 23.28,
+    "end": 23.68
+  },
+  {
+    "word": "is",
+    "start": 23.787,
+    "end": 24.0
+  },
+  {
+    "word": "not",
+    "start": 24.1,
+    "end": 24.4
+  },
+  {
+    "word": "a",
+    "start": 24.48,
+    "end": 24.56
+  },
+  {
+    "word": "strategy.",
+    "start": 24.631,
+    "end": 25.28
+  },
+  {
+    "word": "Agar",
+    "start": 25.573,
+    "end": 26.24
+  },
+  {
+    "word": "tum",
+    "start": 26.3,
+    "end": 26.48
+  },
+  {
+    "word": "galat",
+    "start": 26.54,
+    "end": 26.8
+  },
+  {
+    "word": "direction",
+    "start": 26.856,
+    "end": 27.36
+  },
+  {
+    "word": "mein",
+    "start": 27.392,
+    "end": 27.52
+  },
+  {
+    "word": "18",
+    "start": 27.6,
+    "end": 28.08
+  },
+  {
+    "word": "ghante",
+    "start": 28.133,
+    "end": 28.48
+  },
+  {
+    "word": "kaam",
+    "start": 28.533,
+    "end": 28.72
+  },
+  {
+    "word": "kar",
+    "start": 28.76,
+    "end": 28.88
+  },
+  {
+    "word": "rahe",
+    "start": 28.933,
+    "end": 29.12
+  },
+  {
+    "word": "ho,",
+    "start": 29.2,
+    "end": 29.52
+  },
+  {
+    "word": "toh",
+    "start": 29.6,
+    "end": 29.84
+  },
+  {
+    "word": "tum",
+    "start": 29.9,
+    "end": 30.08
+  },
+  {
+    "word": "sirf",
+    "start": 30.16,
+    "end": 30.48
+  },
+  {
+    "word": "thak",
+    "start": 30.56,
+    "end": 30.88
+  },
+  {
+    "word": "rahe",
+    "start": 30.907,
+    "end": 31.12
+  },
+  {
+    "word": "ho,",
+    "start": 31.173,
+    "end": 31.84
+  },
+  {
+    "word": "grow",
+    "start": 31.904,
+    "end": 32.16
+  },
+  {
+    "word": "nahi",
+    "start": 32.24,
+    "end": 32.48
+  },
+  {
+    "word": "kar",
+    "start": 32.52,
+    "end": 32.64
+  },
+  {
+    "word": "rahe.",
+    "start": 32.693,
+    "end": 33.76
+  },
+  {
+    "word": "Stop",
+    "start": 33.84,
+    "end": 34.16
+  },
+  {
+    "word": "working",
+    "start": 34.21,
+    "end": 34.56
+  },
+  {
+    "word": "harder,",
+    "start": 34.629,
+    "end": 35.52
+  },
+  {
+    "word": "start",
+    "start": 35.6,
+    "end": 36.0
+  },
+  {
+    "word": "working",
+    "start": 36.06,
+    "end": 36.48
+  },
+  {
+    "word": "smarter.",
+    "start": 36.56,
+    "end": 37.2
+  },
+  {
+    "word": "Strategy",
+    "start": 37.351,
+    "end": 38.56
+  },
+  {
+    "word": "hamesha",
+    "start": 38.6,
+    "end": 39.2
+  },
+  {
+    "word": "effort",
+    "start": 39.257,
+    "end": 39.6
+  },
+  {
+    "word": "ko",
+    "start": 39.627,
+    "end": 39.68
+  },
+  {
+    "word": "defeat",
+    "start": 39.737,
+    "end": 40.08
+  },
+  {
+    "word": "karti",
+    "start": 40.144,
+    "end": 40.48
+  },
+  {
+    "word": "hai.",
+    "start": 40.52,
+    "end": 40.8
+  },
+  {
+    "word": "Are",
+    "start": 40.98,
+    "end": 41.52
+  },
+  {
+    "word": "you",
+    "start": 41.56,
+    "end": 41.68
+  },
+  {
+    "word": "working",
+    "start": 41.73,
+    "end": 42.08
+  },
+  {
+    "word": "hard",
+    "start": 42.176,
+    "end": 42.56
+  },
+  {
+    "word": "or",
+    "start": 42.72,
+    "end": 43.04
+  },
+  {
+    "word": "just",
+    "start": 43.088,
+    "end": 43.28
+  },
+  {
+    "word": "staying",
+    "start": 43.33,
+    "end": 43.68
+  },
+  {
+    "word": "busy?",
+    "start": 43.76,
+    "end": 44.24
+  },
+  {
+    "word": "Comment",
+    "start": 44.37,
+    "end": 45.28
+  },
+  {
+    "word": "your",
+    "start": 45.312,
+    "end": 45.44
+  },
+  {
+    "word": "goal",
+    "start": 45.504,
+    "end": 45.76
+  },
+  {
+    "word": "below,",
+    "start": 45.84,
+    "end": 46.52
+  },
+  {
+    "word": "and",
+    "start": 46.59,
+    "end": 46.8
+  },
+  {
+    "word": "you'll",
+    "start": 46.84,
+    "end": 47.04
+  },
+  {
+    "word": "realize",
+    "start": 47.11,
+    "end": 47.6
+  },
+  {
+    "word": "that...",
+    "start": 47.664,
+    "end": 48.08
+  }
+]

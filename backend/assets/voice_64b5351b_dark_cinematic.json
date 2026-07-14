@@ -1,0 +1,572 @@
+[
+  {
+    "word": "WHY",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "'MORE'",
+    "start": 0.32,
+    "end": 0.88
+  },
+  {
+    "word": "IS",
+    "start": 0.933,
+    "end": 1.04
+  },
+  {
+    "word": "KILLING",
+    "start": 1.16,
+    "end": 1.44
+  },
+  {
+    "word": "YOU.",
+    "start": 1.5,
+    "end": 1.76
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.08,
+    "end": 3.68
+  },
+  {
+    "word": "ne",
+    "start": 3.733,
+    "end": 3.84
+  },
+  {
+    "word": "sadiyon",
+    "start": 3.92,
+    "end": 4.32
+  },
+  {
+    "word": "pehle",
+    "start": 4.373,
+    "end": 4.64
+  },
+  {
+    "word": "ek",
+    "start": 4.747,
+    "end": 4.96
+  },
+  {
+    "word": "baat",
+    "start": 5.013,
+    "end": 5.2
+  },
+  {
+    "word": "kahi",
+    "start": 5.28,
+    "end": 5.52
+  },
+  {
+    "word": "thi:",
+    "start": 5.58,
+    "end": 6.64
+  },
+  {
+    "word": "Jo",
+    "start": 6.72,
+    "end": 6.88
+  },
+  {
+    "word": "santosh",
+    "start": 6.976,
+    "end": 7.6
+  },
+  {
+    "word": "ke",
+    "start": 7.653,
+    "end": 7.76
+  },
+  {
+    "word": "amrit",
+    "start": 7.867,
+    "end": 8.24
+  },
+  {
+    "word": "se",
+    "start": 8.293,
+    "end": 8.4
+  },
+  {
+    "word": "tript",
+    "start": 8.48,
+    "end": 8.88
+  },
+  {
+    "word": "hain,",
+    "start": 8.92,
+    "end": 9.6
+  },
+  {
+    "word": "unka",
+    "start": 9.68,
+    "end": 10.0
+  },
+  {
+    "word": "sukh",
+    "start": 10.08,
+    "end": 10.4
+  },
+  {
+    "word": "us",
+    "start": 10.533,
+    "end": 10.8
+  },
+  {
+    "word": "lalach",
+    "start": 10.84,
+    "end": 11.28
+  },
+  {
+    "word": "se",
+    "start": 11.333,
+    "end": 11.44
+  },
+  {
+    "word": "hazar",
+    "start": 11.56,
+    "end": 12.08
+  },
+  {
+    "word": "guna",
+    "start": 12.14,
+    "end": 12.4
+  },
+  {
+    "word": "behtar",
+    "start": 12.453,
+    "end": 12.8
+  },
+  {
+    "word": "hai",
+    "start": 12.88,
+    "end": 13.12
+  },
+  {
+    "word": "jo",
+    "start": 13.253,
+    "end": 13.52
+  },
+  {
+    "word": "insaan",
+    "start": 13.58,
+    "end": 14.0
+  },
+  {
+    "word": "ko",
+    "start": 14.107,
+    "end": 14.32
+  },
+  {
+    "word": "ek",
+    "start": 14.4,
+    "end": 14.56
+  },
+  {
+    "word": "cheez",
+    "start": 14.62,
+    "end": 14.88
+  },
+  {
+    "word": "se",
+    "start": 14.96,
+    "end": 15.12
+  },
+  {
+    "word": "dusri",
+    "start": 15.28,
+    "end": 15.92
+  },
+  {
+    "word": "cheez",
+    "start": 15.96,
+    "end": 16.24
+  },
+  {
+    "word": "ki",
+    "start": 16.267,
+    "end": 16.32
+  },
+  {
+    "word": "taraf",
+    "start": 16.373,
+    "end": 16.64
+  },
+  {
+    "word": "bhagane",
+    "start": 16.667,
+    "end": 17.04
+  },
+  {
+    "word": "par",
+    "start": 17.1,
+    "end": 17.28
+  },
+  {
+    "word": "majboor",
+    "start": 17.34,
+    "end": 17.76
+  },
+  {
+    "word": "karta",
+    "start": 17.8,
+    "end": 18.08
+  },
+  {
+    "word": "hai.",
+    "start": 18.12,
+    "end": 19.36
+  },
+  {
+    "word": "Hum",
+    "start": 19.4,
+    "end": 19.52
+  },
+  {
+    "word": "hamesha",
+    "start": 19.56,
+    "end": 20.08
+  },
+  {
+    "word": "agli",
+    "start": 20.16,
+    "end": 20.48
+  },
+  {
+    "word": "promotion,",
+    "start": 20.544,
+    "end": 21.52
+  },
+  {
+    "word": "naya",
+    "start": 21.6,
+    "end": 21.84
+  },
+  {
+    "word": "phone,",
+    "start": 21.92,
+    "end": 22.4
+  },
+  {
+    "word": "ya",
+    "start": 22.56,
+    "end": 22.88
+  },
+  {
+    "word": "behtar",
+    "start": 22.933,
+    "end": 23.28
+  },
+  {
+    "word": "lifestyle",
+    "start": 23.336,
+    "end": 23.84
+  },
+  {
+    "word": "ke",
+    "start": 23.893,
+    "end": 24.0
+  },
+  {
+    "word": "peeche",
+    "start": 24.06,
+    "end": 24.32
+  },
+  {
+    "word": "bhagte",
+    "start": 24.347,
+    "end": 24.64
+  },
+  {
+    "word": "hain,",
+    "start": 24.68,
+    "end": 25.36
+  },
+  {
+    "word": "thinking",
+    "start": 25.431,
+    "end": 26.0
+  },
+  {
+    "word": "'once",
+    "start": 26.12,
+    "end": 26.4
+  },
+  {
+    "word": "I",
+    "start": 26.48,
+    "end": 26.56
+  },
+  {
+    "word": "get",
+    "start": 26.6,
+    "end": 26.72
+  },
+  {
+    "word": "that,",
+    "start": 26.8,
+    "end": 27.2
+  },
+  {
+    "word": "I'll",
+    "start": 27.28,
+    "end": 27.44
+  },
+  {
+    "word": "be",
+    "start": 27.467,
+    "end": 27.52
+  },
+  {
+    "word": "happy.'",
+    "start": 27.587,
+    "end": 28.0
+  },
+  {
+    "word": "Par",
+    "start": 28.28,
+    "end": 29.12
+  },
+  {
+    "word": "truth",
+    "start": 29.2,
+    "end": 29.6
+  },
+  {
+    "word": "ye",
+    "start": 29.68,
+    "end": 29.84
+  },
+  {
+    "word": "hai",
+    "start": 29.92,
+    "end": 30.16
+  },
+  {
+    "word": "ki",
+    "start": 30.24,
+    "end": 30.4
+  },
+  {
+    "word": "greed",
+    "start": 30.48,
+    "end": 30.88
+  },
+  {
+    "word": "is",
+    "start": 30.933,
+    "end": 31.04
+  },
+  {
+    "word": "a",
+    "start": 31.08,
+    "end": 31.12
+  },
+  {
+    "word": "bottomless",
+    "start": 31.2,
+    "end": 31.84
+  },
+  {
+    "word": "pit.",
+    "start": 31.94,
+    "end": 32.32
+  },
+  {
+    "word": "The",
+    "start": 32.56,
+    "end": 33.28
+  },
+  {
+    "word": "secret",
+    "start": 33.36,
+    "end": 33.84
+  },
+  {
+    "word": "to",
+    "start": 33.867,
+    "end": 33.92
+  },
+  {
+    "word": "real",
+    "start": 33.984,
+    "end": 34.24
+  },
+  {
+    "word": "success",
+    "start": 34.31,
+    "end": 34.8
+  },
+  {
+    "word": "isn't",
+    "start": 34.88,
+    "end": 35.28
+  },
+  {
+    "word": "getting",
+    "start": 35.3,
+    "end": 35.44
+  },
+  {
+    "word": "everything",
+    "start": 35.476,
+    "end": 35.84
+  },
+  {
+    "word": "you",
+    "start": 35.86,
+    "end": 35.92
+  },
+  {
+    "word": "want,",
+    "start": 36.016,
+    "end": 36.48
+  },
+  {
+    "word": "but",
+    "start": 36.6,
+    "end": 36.96
+  },
+  {
+    "word": "appreciating",
+    "start": 37.029,
+    "end": 37.84
+  },
+  {
+    "word": "everything",
+    "start": 37.898,
+    "end": 38.48
+  },
+  {
+    "word": "you",
+    "start": 38.52,
+    "end": 38.64
+  },
+  {
+    "word": "have.",
+    "start": 38.72,
+    "end": 39.12
+  },
+  {
+    "word": "Peace",
+    "start": 39.307,
+    "end": 40.24
+  },
+  {
+    "word": "comes",
+    "start": 40.307,
+    "end": 40.64
+  },
+  {
+    "word": "when",
+    "start": 40.672,
+    "end": 40.8
+  },
+  {
+    "word": "you",
+    "start": 40.82,
+    "end": 40.88
+  },
+  {
+    "word": "stop",
+    "start": 41.008,
+    "end": 41.52
+  },
+  {
+    "word": "running.",
+    "start": 41.59,
+    "end": 42.24
+  },
+  {
+    "word": "Are",
+    "start": 42.52,
+    "end": 43.36
+  },
+  {
+    "word": "you",
+    "start": 43.38,
+    "end": 43.44
+  },
+  {
+    "word": "chasing",
+    "start": 43.51,
+    "end": 44.0
+  },
+  {
+    "word": "a",
+    "start": 44.14,
+    "end": 44.28
+  },
+  {
+    "word": "dream",
+    "start": 44.327,
+    "end": 44.56
+  },
+  {
+    "word": "or",
+    "start": 44.773,
+    "end": 45.2
+  },
+  {
+    "word": "just",
+    "start": 45.28,
+    "end": 45.6
+  },
+  {
+    "word": "running",
+    "start": 45.64,
+    "end": 45.92
+  },
+  {
+    "word": "away",
+    "start": 45.984,
+    "end": 46.24
+  },
+  {
+    "word": "from",
+    "start": 46.288,
+    "end": 46.48
+  },
+  {
+    "word": "your",
+    "start": 46.496,
+    "end": 46.56
+  },
+  {
+    "word": "current",
+    "start": 46.62,
+    "end": 47.04
+  },
+  {
+    "word": "self?",
+    "start": 47.136,
+    "end": 47.6
+  },
+  {
+    "word": "Let's",
+    "start": 47.86,
+    "end": 48.72
+  },
+  {
+    "word": "talk",
+    "start": 48.768,
+    "end": 48.96
+  },
+  {
+    "word": "in",
+    "start": 48.987,
+    "end": 49.04
+  },
+  {
+    "word": "the",
+    "start": 49.06,
+    "end": 49.12
+  },
+  {
+    "word": "comments.",
+    "start": 49.182,
+    "end": 49.84
+  }
+]

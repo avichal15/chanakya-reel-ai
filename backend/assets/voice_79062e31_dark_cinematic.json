@@ -1,0 +1,607 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "TRUSTING",
+    "start": 0.4,
+    "end": 0.96
+  },
+  {
+    "word": "EVERYONE",
+    "start": 1.053,
+    "end": 1.76
+  },
+  {
+    "word": "AROUND",
+    "start": 1.88,
+    "end": 2.32
+  },
+  {
+    "word": "YOU.",
+    "start": 2.38,
+    "end": 2.72
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.976,
+    "end": 4.32
+  },
+  {
+    "word": "ne",
+    "start": 4.4,
+    "end": 4.56
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.64,
+    "end": 5.04
+  },
+  {
+    "word": "pehle",
+    "start": 5.093,
+    "end": 5.44
+  },
+  {
+    "word": "ek",
+    "start": 5.52,
+    "end": 5.68
+  },
+  {
+    "word": "baat",
+    "start": 5.733,
+    "end": 5.92
+  },
+  {
+    "word": "kahi",
+    "start": 5.96,
+    "end": 6.16
+  },
+  {
+    "word": "thi:",
+    "start": 6.22,
+    "end": 6.48
+  },
+  {
+    "word": "'Guru,",
+    "start": 6.8,
+    "end": 7.84
+  },
+  {
+    "word": "Brahmin,",
+    "start": 7.904,
+    "end": 8.4
+  },
+  {
+    "word": "gaay,",
+    "start": 8.56,
+    "end": 9.121
+  },
+  {
+    "word": "kunwari",
+    "start": 9.26,
+    "end": 9.92
+  },
+  {
+    "word": "ladki,",
+    "start": 9.98,
+    "end": 10.88
+  },
+  {
+    "word": "vridh",
+    "start": 10.92,
+    "end": 11.32
+  },
+  {
+    "word": "aur",
+    "start": 11.35,
+    "end": 11.44
+  },
+  {
+    "word": "shishu\u2014ye",
+    "start": 11.52,
+    "end": 12.64
+  },
+  {
+    "word": "wo",
+    "start": 12.72,
+    "end": 12.88
+  },
+  {
+    "word": "log",
+    "start": 12.96,
+    "end": 13.2
+  },
+  {
+    "word": "hain",
+    "start": 13.24,
+    "end": 13.44
+  },
+  {
+    "word": "jinhe",
+    "start": 13.5,
+    "end": 13.84
+  },
+  {
+    "word": "agni",
+    "start": 13.947,
+    "end": 14.4
+  },
+  {
+    "word": "(ya",
+    "start": 14.52,
+    "end": 14.8
+  },
+  {
+    "word": "kisi",
+    "start": 14.84,
+    "end": 15.12
+  },
+  {
+    "word": "bhi",
+    "start": 15.14,
+    "end": 15.2
+  },
+  {
+    "word": "khatre)",
+    "start": 15.24,
+    "end": 15.68
+  },
+  {
+    "word": "se",
+    "start": 15.733,
+    "end": 15.84
+  },
+  {
+    "word": "bachana",
+    "start": 15.872,
+    "end": 16.24
+  },
+  {
+    "word": "chahiye,",
+    "start": 16.293,
+    "end": 17.28
+  },
+  {
+    "word": "kyunki",
+    "start": 17.307,
+    "end": 17.6
+  },
+  {
+    "word": "ye",
+    "start": 17.653,
+    "end": 17.76
+  },
+  {
+    "word": "samaj",
+    "start": 17.82,
+    "end": 18.16
+  },
+  {
+    "word": "ki",
+    "start": 18.213,
+    "end": 18.32
+  },
+  {
+    "word": "sabse",
+    "start": 18.44,
+    "end": 18.96
+  },
+  {
+    "word": "nishpap",
+    "start": 19.04,
+    "end": 19.6
+  },
+  {
+    "word": "aur",
+    "start": 19.66,
+    "end": 19.84
+  },
+  {
+    "word": "pavitra",
+    "start": 19.9,
+    "end": 20.4
+  },
+  {
+    "word": "asti",
+    "start": 20.48,
+    "end": 20.8
+  },
+  {
+    "word": "hain.'",
+    "start": 20.84,
+    "end": 22.0
+  },
+  {
+    "word": "Aaj",
+    "start": 22.08,
+    "end": 22.32
+  },
+  {
+    "word": "ki",
+    "start": 22.347,
+    "end": 22.4
+  },
+  {
+    "word": "duniya",
+    "start": 22.48,
+    "end": 22.84
+  },
+  {
+    "word": "mein",
+    "start": 22.864,
+    "end": 22.96
+  },
+  {
+    "word": "hum",
+    "start": 23.02,
+    "end": 23.2
+  },
+  {
+    "word": "'equality'",
+    "start": 23.24,
+    "end": 24.0
+  },
+  {
+    "word": "ke",
+    "start": 24.053,
+    "end": 24.16
+  },
+  {
+    "word": "naam",
+    "start": 24.208,
+    "end": 24.4
+  },
+  {
+    "word": "par",
+    "start": 24.44,
+    "end": 24.56
+  },
+  {
+    "word": "boundaries",
+    "start": 24.618,
+    "end": 25.2
+  },
+  {
+    "word": "bhool",
+    "start": 25.253,
+    "end": 25.44
+  },
+  {
+    "word": "chuke",
+    "start": 25.493,
+    "end": 25.76
+  },
+  {
+    "word": "hain.",
+    "start": 25.8,
+    "end": 26.08
+  },
+  {
+    "word": "Par",
+    "start": 26.3,
+    "end": 26.96
+  },
+  {
+    "word": "asli",
+    "start": 27.067,
+    "end": 27.44
+  },
+  {
+    "word": "compassion",
+    "start": 27.498,
+    "end": 28.08
+  },
+  {
+    "word": "unhe",
+    "start": 28.133,
+    "end": 28.32
+  },
+  {
+    "word": "protect",
+    "start": 28.38,
+    "end": 28.8
+  },
+  {
+    "word": "karne",
+    "start": 28.84,
+    "end": 29.12
+  },
+  {
+    "word": "mein",
+    "start": 29.152,
+    "end": 29.28
+  },
+  {
+    "word": "hai",
+    "start": 29.36,
+    "end": 29.6
+  },
+  {
+    "word": "jo",
+    "start": 29.733,
+    "end": 30.0
+  },
+  {
+    "word": "apne",
+    "start": 30.08,
+    "end": 30.32
+  },
+  {
+    "word": "aap",
+    "start": 30.4,
+    "end": 30.56
+  },
+  {
+    "word": "ko",
+    "start": 30.613,
+    "end": 30.72
+  },
+  {
+    "word": "defend",
+    "start": 30.777,
+    "end": 31.12
+  },
+  {
+    "word": "nahi",
+    "start": 31.16,
+    "end": 31.36
+  },
+  {
+    "word": "kar",
+    "start": 31.4,
+    "end": 31.52
+  },
+  {
+    "word": "sakte.",
+    "start": 31.6,
+    "end": 32.16
+  },
+  {
+    "word": "Whether",
+    "start": 32.28,
+    "end": 33.12
+  },
+  {
+    "word": "it's",
+    "start": 33.173,
+    "end": 33.32
+  },
+  {
+    "word": "a",
+    "start": 33.34,
+    "end": 33.36
+  },
+  {
+    "word": "child,",
+    "start": 33.453,
+    "end": 34.24
+  },
+  {
+    "word": "an",
+    "start": 34.267,
+    "end": 34.32
+  },
+  {
+    "word": "elder,",
+    "start": 34.4,
+    "end": 34.96
+  },
+  {
+    "word": "or",
+    "start": 35.013,
+    "end": 35.12
+  },
+  {
+    "word": "the",
+    "start": 35.16,
+    "end": 35.28
+  },
+  {
+    "word": "innocent\u2014agar",
+    "start": 35.342,
+    "end": 36.72
+  },
+  {
+    "word": "tumne",
+    "start": 36.76,
+    "end": 36.96
+  },
+  {
+    "word": "protect",
+    "start": 37.02,
+    "end": 37.44
+  },
+  {
+    "word": "karna",
+    "start": 37.48,
+    "end": 37.76
+  },
+  {
+    "word": "chhod",
+    "start": 37.813,
+    "end": 38.08
+  },
+  {
+    "word": "diya,",
+    "start": 38.133,
+    "end": 38.48
+  },
+  {
+    "word": "toh",
+    "start": 38.58,
+    "end": 38.88
+  },
+  {
+    "word": "tumhari",
+    "start": 38.94,
+    "end": 39.36
+  },
+  {
+    "word": "insaniyat",
+    "start": 39.46,
+    "end": 40.16
+  },
+  {
+    "word": "khatam",
+    "start": 40.2,
+    "end": 40.48
+  },
+  {
+    "word": "ho",
+    "start": 40.533,
+    "end": 40.64
+  },
+  {
+    "word": "gayi.",
+    "start": 40.68,
+    "end": 40.96
+  },
+  {
+    "word": "Respect",
+    "start": 41.13,
+    "end": 42.32
+  },
+  {
+    "word": "the",
+    "start": 42.36,
+    "end": 42.48
+  },
+  {
+    "word": "hierarchy",
+    "start": 42.552,
+    "end": 43.2
+  },
+  {
+    "word": "of",
+    "start": 43.28,
+    "end": 43.44
+  },
+  {
+    "word": "vulnerability.",
+    "start": 43.509,
+    "end": 44.48
+  },
+  {
+    "word": "Do",
+    "start": 44.8,
+    "end": 45.44
+  },
+  {
+    "word": "you",
+    "start": 45.48,
+    "end": 45.6
+  },
+  {
+    "word": "still",
+    "start": 45.653,
+    "end": 45.92
+  },
+  {
+    "word": "believe",
+    "start": 45.96,
+    "end": 46.24
+  },
+  {
+    "word": "in",
+    "start": 46.293,
+    "end": 46.4
+  },
+  {
+    "word": "protecting",
+    "start": 46.444,
+    "end": 46.88
+  },
+  {
+    "word": "the",
+    "start": 46.92,
+    "end": 47.04
+  },
+  {
+    "word": "innocent,",
+    "start": 47.102,
+    "end": 47.68
+  },
+  {
+    "word": "or",
+    "start": 47.84,
+    "end": 48.16
+  },
+  {
+    "word": "has",
+    "start": 48.2,
+    "end": 48.32
+  },
+  {
+    "word": "the",
+    "start": 48.34,
+    "end": 48.4
+  },
+  {
+    "word": "world",
+    "start": 48.493,
+    "end": 48.96
+  },
+  {
+    "word": "made",
+    "start": 49.008,
+    "end": 49.2
+  },
+  {
+    "word": "you",
+    "start": 49.22,
+    "end": 49.28
+  },
+  {
+    "word": "cold?",
+    "start": 49.392,
+    "end": 50.56
+  },
+  {
+    "word": "Comment",
+    "start": 50.65,
+    "end": 51.28
+  },
+  {
+    "word": "'Saty'",
+    "start": 51.4,
+    "end": 52.16
+  },
+  {
+    "word": "if",
+    "start": 52.213,
+    "end": 52.32
+  },
+  {
+    "word": "you",
+    "start": 52.36,
+    "end": 52.48
+  },
+  {
+    "word": "agree,",
+    "start": 52.56,
+    "end": 53.36
+  },
+  {
+    "word": "because",
+    "start": 53.41,
+    "end": 53.76
+  },
+  {
+    "word": "the",
+    "start": 53.78,
+    "end": 53.84
+  },
+  {
+    "word": "truth",
+    "start": 53.907,
+    "end": 54.24
+  },
+  {
+    "word": "is...",
+    "start": 54.347,
+    "end": 54.72
+  }
+]

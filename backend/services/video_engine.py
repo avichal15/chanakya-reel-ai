@@ -162,73 +162,15 @@ def generate_video(
                 else:
                     bg_clip = bg_clip.subclip(0, duration)
         
-        # Mode A: AI Scene Generation (Fallback if no uploaded video)
+        # Mode A: Viral Background Engine (Hyper-stimulating gameplay/satisfying)
         if not bg_clip:
-            logger.info("Mode A: AI Scene Generation")
-            full_text = script_data.get("fullText", "") \
-                        or " ".join([s.get("content", "") for s in script_data.get("sections", [])])
-            scenes = scene_engine.analyze_scenes(full_text)
+            logger.info("Mode A: Viral Background Engine")
+            from .viral_background_engine import get_random_background_clip
+            bg_clip = get_random_background_clip(duration, width=WIDTH, height=HEIGHT)
             
-            scene_dir = os.path.join(ASSETS_DIR, "scenes")
-            stock_files = [f for f in os.listdir(scene_dir) if f.endswith(('.mp4', '.mov'))] if os.path.isdir(scene_dir) else []
-            
-            # Prioritize Auto-B-Roll if enabled
-            if use_auto_b_roll and len(scenes) > 0:
-                clips = []
-                seg_dur = duration / len(scenes)
-                for sc in scenes:
-                    clip_added = False
-                    try:
-                        from .pexels_engine import search_and_download_video
-                        theme = sc.get("theme", "cinematic")
-                        keywords = sc.get("keywords", [])
-                        query = f"{theme} {keywords[0] if keywords else 'aesthetic'}"
-                        
-                        logger.info(f"Auto B-Roll: Fetching clip for '{query}' (duration: {seg_dur:.1f}s)")
-                        vid_path = search_and_download_video(query, min_duration=int(seg_dur) + 1)
-                        
-                        if vid_path and os.path.exists(vid_path):
-                            px_clip = VideoFileClip(vid_path)
-                            px_clip = px_clip.resize(height=HEIGHT)
-                            if px_clip.w > WIDTH:
-                                x_c = px_clip.w / 2
-                                px_clip = px_clip.crop(x1=x_c - WIDTH/2, y1=0, x2=x_c + WIDTH/2, y2=HEIGHT)
-                            if px_clip.duration < seg_dur:
-                                px_clip = px_clip.fx(vfx.loop, duration=seg_dur)
-                            else:
-                                px_clip = px_clip.subclip(0, seg_dur)
-                                
-                            clips.append(px_clip)
-                            clip_added = True
-                    except Exception as e:
-                        logger.error(f"Auto B-Roll failed for scene: {e}")
-                        
-                    # Mixed Fallback: if Pexels fails for one scene, use gradient
-                    if not clip_added:
-                        colors = scene_engine.get_theme_colors(sc.get("theme", "default"))
-                        clips.append(create_gradient_background(seg_dur, colors[0], colors[1]))
-                bg_clip = concatenate_videoclips(clips, method="compose")
-            
-            # Local Stock Video Fallback
-            elif stock_files:
-                bg_clip = VideoFileClip(os.path.join(scene_dir, stock_files[0]))
-                bg_clip = bg_clip.loop(duration=duration).resize(height=HEIGHT)
-                if bg_clip.w > WIDTH:
-                    x_c = bg_clip.w / 2
-                    bg_clip = bg_clip.crop(x1=x_c - WIDTH/2, y1=0, x2=x_c + WIDTH/2, y2=HEIGHT)
-                bg_clip = bg_clip.subclip(0, duration)
-                
-            # Full Gradient Sequence Fallback
-            elif len(scenes) > 1:
-                clips = []
-                seg_dur = duration / len(scenes)
-                for sc in scenes:
-                    colors = scene_engine.get_theme_colors(sc.get("theme", "default"))
-                    clips.append(create_gradient_background(seg_dur, colors[0], colors[1]))
-                bg_clip = concatenate_videoclips(clips, method="compose")
-                
-            # Solid Gradient Fallback
-            else:
+            # Fallback to Solid Gradient if no viral backgrounds downloaded
+            if not bg_clip:
+                logger.warning("Falling back to Solid Gradient")
                 bg_clip = create_gradient_background(duration)
 
         bg_clip = bg_clip.set_duration(duration)
@@ -365,7 +307,7 @@ def generate_video(
             cmd = [
                 "ffmpeg", "-y",
                 "-i", temp_video_path,
-                "-vf", f"eq=brightness=-0.05:contrast=1.2:saturation=0.6,noise=alls=10:allf=t,ass='{escaped_ass}':fontsdir='{escaped_fonts}'",
+                "-vf", f"eq=brightness=-0.05:contrast=1.2:saturation=0.6,gblur=sigma=3,noise=alls=10:allf=t,ass='{escaped_ass}':fontsdir='{escaped_fonts}'",
                 "-c:v", "h264_nvenc",
                 "-preset", "p6", 
                 "-r", str(FPS),
