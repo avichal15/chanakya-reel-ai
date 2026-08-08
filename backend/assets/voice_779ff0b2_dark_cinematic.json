@@ -1,0 +1,592 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "BANK",
+    "start": 0.224,
+    "end": 0.48
+  },
+  {
+    "word": "BALANCE",
+    "start": 0.54,
+    "end": 1.04
+  },
+  {
+    "word": "IS",
+    "start": 1.173,
+    "end": 1.44
+  },
+  {
+    "word": "A",
+    "start": 1.48,
+    "end": 1.52
+  },
+  {
+    "word": "LIE.",
+    "start": 1.64,
+    "end": 2.16
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.384,
+    "end": 3.6
+  },
+  {
+    "word": "ne",
+    "start": 3.68,
+    "end": 3.84
+  },
+  {
+    "word": "sadiyon",
+    "start": 3.96,
+    "end": 4.4
+  },
+  {
+    "word": "pehle",
+    "start": 4.453,
+    "end": 4.8
+  },
+  {
+    "word": "ek",
+    "start": 4.907,
+    "end": 5.12
+  },
+  {
+    "word": "baat",
+    "start": 5.2,
+    "end": 5.44
+  },
+  {
+    "word": "kahi",
+    "start": 5.52,
+    "end": 5.76
+  },
+  {
+    "word": "thi:",
+    "start": 5.82,
+    "end": 6.08
+  },
+  {
+    "word": "Musibat",
+    "start": 6.34,
+    "end": 7.36
+  },
+  {
+    "word": "ke",
+    "start": 7.413,
+    "end": 7.52
+  },
+  {
+    "word": "samay",
+    "start": 7.58,
+    "end": 7.92
+  },
+  {
+    "word": "na",
+    "start": 8.0,
+    "end": 8.16
+  },
+  {
+    "word": "rishtedaar",
+    "start": 8.2,
+    "end": 8.8
+  },
+  {
+    "word": "kaam",
+    "start": 8.853,
+    "end": 9.04
+  },
+  {
+    "word": "aate",
+    "start": 9.08,
+    "end": 9.28
+  },
+  {
+    "word": "hain,",
+    "start": 9.32,
+    "end": 10.0
+  },
+  {
+    "word": "na",
+    "start": 10.053,
+    "end": 10.16
+  },
+  {
+    "word": "jama",
+    "start": 10.24,
+    "end": 10.56
+  },
+  {
+    "word": "kiya",
+    "start": 10.64,
+    "end": 10.88
+  },
+  {
+    "word": "hua",
+    "start": 10.92,
+    "end": 11.12
+  },
+  {
+    "word": "dhan,",
+    "start": 11.2,
+    "end": 12.08
+  },
+  {
+    "word": "na",
+    "start": 12.16,
+    "end": 12.32
+  },
+  {
+    "word": "hi",
+    "start": 12.4,
+    "end": 12.56
+  },
+  {
+    "word": "bina",
+    "start": 12.64,
+    "end": 12.96
+  },
+  {
+    "word": "bhaav",
+    "start": 13.0,
+    "end": 13.6
+  },
+  {
+    "word": "(intention)",
+    "start": 13.72,
+    "end": 14.56
+  },
+  {
+    "word": "ke",
+    "start": 14.72,
+    "end": 15.04
+  },
+  {
+    "word": "kiya",
+    "start": 15.12,
+    "end": 15.36
+  },
+  {
+    "word": "gaya",
+    "start": 15.42,
+    "end": 15.68
+  },
+  {
+    "word": "daan",
+    "start": 15.787,
+    "end": 16.16
+  },
+  {
+    "word": "ya",
+    "start": 16.267,
+    "end": 16.48
+  },
+  {
+    "word": "gyan",
+    "start": 16.56,
+    "end": 16.96
+  },
+  {
+    "word": "kisi",
+    "start": 17.04,
+    "end": 17.28
+  },
+  {
+    "word": "ko",
+    "start": 17.36,
+    "end": 17.52
+  },
+  {
+    "word": "paar",
+    "start": 17.568,
+    "end": 17.76
+  },
+  {
+    "word": "laga",
+    "start": 17.8,
+    "end": 18.0
+  },
+  {
+    "word": "sakta",
+    "start": 18.04,
+    "end": 18.4
+  },
+  {
+    "word": "hai.",
+    "start": 18.44,
+    "end": 19.28
+  },
+  {
+    "word": "Hum",
+    "start": 19.32,
+    "end": 19.44
+  },
+  {
+    "word": "poori",
+    "start": 19.504,
+    "end": 19.84
+  },
+  {
+    "word": "zindagi",
+    "start": 19.92,
+    "end": 20.24
+  },
+  {
+    "word": "paise",
+    "start": 20.32,
+    "end": 20.88
+  },
+  {
+    "word": "aur",
+    "start": 20.92,
+    "end": 21.04
+  },
+  {
+    "word": "networking",
+    "start": 21.091,
+    "end": 21.6
+  },
+  {
+    "word": "ke",
+    "start": 21.653,
+    "end": 21.76
+  },
+  {
+    "word": "peeche",
+    "start": 21.8,
+    "end": 22.08
+  },
+  {
+    "word": "bhaagte",
+    "start": 22.12,
+    "end": 22.48
+  },
+  {
+    "word": "hain,",
+    "start": 22.52,
+    "end": 23.2
+  },
+  {
+    "word": "ye",
+    "start": 23.253,
+    "end": 23.36
+  },
+  {
+    "word": "soch",
+    "start": 23.467,
+    "end": 23.76
+  },
+  {
+    "word": "kar",
+    "start": 23.82,
+    "end": 24.0
+  },
+  {
+    "word": "ki",
+    "start": 24.053,
+    "end": 24.16
+  },
+  {
+    "word": "safety",
+    "start": 24.229,
+    "end": 24.64
+  },
+  {
+    "word": "net",
+    "start": 24.7,
+    "end": 24.88
+  },
+  {
+    "word": "mil",
+    "start": 24.94,
+    "end": 25.12
+  },
+  {
+    "word": "jayega.",
+    "start": 25.2,
+    "end": 25.76
+  },
+  {
+    "word": "But",
+    "start": 25.94,
+    "end": 26.48
+  },
+  {
+    "word": "when",
+    "start": 26.528,
+    "end": 26.72
+  },
+  {
+    "word": "real",
+    "start": 26.784,
+    "end": 27.04
+  },
+  {
+    "word": "crisis",
+    "start": 27.109,
+    "end": 27.52
+  },
+  {
+    "word": "hits,",
+    "start": 27.632,
+    "end": 28.4
+  },
+  {
+    "word": "your",
+    "start": 28.432,
+    "end": 28.56
+  },
+  {
+    "word": "connections",
+    "start": 28.613,
+    "end": 29.2
+  },
+  {
+    "word": "and",
+    "start": 29.22,
+    "end": 29.28
+  },
+  {
+    "word": "cash",
+    "start": 29.376,
+    "end": 29.76
+  },
+  {
+    "word": "can't",
+    "start": 29.84,
+    "end": 30.16
+  },
+  {
+    "word": "fix",
+    "start": 30.26,
+    "end": 30.56
+  },
+  {
+    "word": "a",
+    "start": 30.6,
+    "end": 30.64
+  },
+  {
+    "word": "broken",
+    "start": 30.697,
+    "end": 31.04
+  },
+  {
+    "word": "spirit.",
+    "start": 31.12,
+    "end": 31.76
+  },
+  {
+    "word": "The",
+    "start": 31.96,
+    "end": 32.56
+  },
+  {
+    "word": "only",
+    "start": 32.624,
+    "end": 32.88
+  },
+  {
+    "word": "thing",
+    "start": 32.92,
+    "end": 33.12
+  },
+  {
+    "word": "that",
+    "start": 33.152,
+    "end": 33.28
+  },
+  {
+    "word": "actually",
+    "start": 33.333,
+    "end": 33.76
+  },
+  {
+    "word": "saves",
+    "start": 33.84,
+    "end": 34.24
+  },
+  {
+    "word": "you",
+    "start": 34.3,
+    "end": 34.48
+  },
+  {
+    "word": "is",
+    "start": 34.533,
+    "end": 34.64
+  },
+  {
+    "word": "your",
+    "start": 34.672,
+    "end": 34.8
+  },
+  {
+    "word": "'Bhaav'\u2014your",
+    "start": 34.88,
+    "end": 36.16
+  },
+  {
+    "word": "internal",
+    "start": 36.222,
+    "end": 36.72
+  },
+  {
+    "word": "state",
+    "start": 36.8,
+    "end": 37.2
+  },
+  {
+    "word": "and",
+    "start": 37.26,
+    "end": 37.44
+  },
+  {
+    "word": "intention.",
+    "start": 37.512,
+    "end": 38.32
+  },
+  {
+    "word": "Your",
+    "start": 38.464,
+    "end": 39.04
+  },
+  {
+    "word": "mindset",
+    "start": 39.14,
+    "end": 39.84
+  },
+  {
+    "word": "is",
+    "start": 39.893,
+    "end": 40.0
+  },
+  {
+    "word": "the",
+    "start": 40.02,
+    "end": 40.08
+  },
+  {
+    "word": "only",
+    "start": 40.176,
+    "end": 40.56
+  },
+  {
+    "word": "real",
+    "start": 40.624,
+    "end": 40.88
+  },
+  {
+    "word": "currency",
+    "start": 40.942,
+    "end": 41.44
+  },
+  {
+    "word": "in",
+    "start": 41.52,
+    "end": 41.68
+  },
+  {
+    "word": "a",
+    "start": 41.86,
+    "end": 42.04
+  },
+  {
+    "word": "disaster.",
+    "start": 42.08,
+    "end": 42.56
+  },
+  {
+    "word": "Are",
+    "start": 42.78,
+    "end": 43.44
+  },
+  {
+    "word": "you",
+    "start": 43.48,
+    "end": 43.6
+  },
+  {
+    "word": "building",
+    "start": 43.636,
+    "end": 43.92
+  },
+  {
+    "word": "a",
+    "start": 43.96,
+    "end": 44.0
+  },
+  {
+    "word": "bank",
+    "start": 44.048,
+    "end": 44.24
+  },
+  {
+    "word": "account",
+    "start": 44.31,
+    "end": 44.8
+  },
+  {
+    "word": "or",
+    "start": 44.88,
+    "end": 45.04
+  },
+  {
+    "word": "a",
+    "start": 45.08,
+    "end": 45.12
+  },
+  {
+    "word": "strong",
+    "start": 45.177,
+    "end": 45.52
+  },
+  {
+    "word": "mind?",
+    "start": 45.616,
+    "end": 46.16
+  },
+  {
+    "word": "Comment",
+    "start": 46.3,
+    "end": 47.28
+  },
+  {
+    "word": "your",
+    "start": 47.312,
+    "end": 47.44
+  },
+  {
+    "word": "choice,",
+    "start": 47.509,
+    "end": 48.0
+  },
+  {
+    "word": "because",
+    "start": 48.06,
+    "end": 48.48
+  },
+  {
+    "word": "you",
+    "start": 48.54,
+    "end": 48.72
+  },
+  {
+    "word": "must",
+    "start": 48.768,
+    "end": 48.96
+  },
+  {
+    "word": "understand",
+    "start": 49.018,
+    "end": 49.6
+  },
+  {
+    "word": "that...",
+    "start": 49.664,
+    "end": 50.08
+  }
+]

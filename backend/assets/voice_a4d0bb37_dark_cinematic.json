@@ -1,0 +1,592 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "TELLING",
+    "start": 0.4,
+    "end": 0.72
+  },
+  {
+    "word": "EVERYONE",
+    "start": 0.787,
+    "end": 1.28
+  },
+  {
+    "word": "YOUR",
+    "start": 1.312,
+    "end": 1.44
+  },
+  {
+    "word": "PLANS.",
+    "start": 1.547,
+    "end": 2.32
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.64,
+    "end": 4.24
+  },
+  {
+    "word": "ne",
+    "start": 4.293,
+    "end": 4.4
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.48,
+    "end": 4.8
+  },
+  {
+    "word": "pehle",
+    "start": 4.853,
+    "end": 5.2
+  },
+  {
+    "word": "ek",
+    "start": 5.307,
+    "end": 5.52
+  },
+  {
+    "word": "baat",
+    "start": 5.6,
+    "end": 5.84
+  },
+  {
+    "word": "kahi",
+    "start": 5.92,
+    "end": 6.08
+  },
+  {
+    "word": "thi:",
+    "start": 6.14,
+    "end": 6.4
+  },
+  {
+    "word": "'Apne",
+    "start": 6.76,
+    "end": 7.36
+  },
+  {
+    "word": "gupt",
+    "start": 7.467,
+    "end": 7.84
+  },
+  {
+    "word": "lakshyon",
+    "start": 7.9,
+    "end": 8.4
+  },
+  {
+    "word": "(secret",
+    "start": 8.72,
+    "end": 9.36
+  },
+  {
+    "word": "goals)",
+    "start": 9.44,
+    "end": 9.92
+  },
+  {
+    "word": "ko",
+    "start": 10.107,
+    "end": 10.48
+  },
+  {
+    "word": "kisi",
+    "start": 10.52,
+    "end": 10.8
+  },
+  {
+    "word": "ke",
+    "start": 10.88,
+    "end": 11.04
+  },
+  {
+    "word": "saamne",
+    "start": 11.093,
+    "end": 11.44
+  },
+  {
+    "word": "zahir",
+    "start": 11.56,
+    "end": 11.92
+  },
+  {
+    "word": "mat",
+    "start": 11.98,
+    "end": 12.16
+  },
+  {
+    "word": "karo,",
+    "start": 12.2,
+    "end": 12.56
+  },
+  {
+    "word": "kyunki",
+    "start": 12.747,
+    "end": 13.28
+  },
+  {
+    "word": "bina",
+    "start": 13.36,
+    "end": 13.68
+  },
+  {
+    "word": "chhipaye",
+    "start": 13.707,
+    "end": 14.24
+  },
+  {
+    "word": "tum",
+    "start": 14.38,
+    "end": 14.8
+  },
+  {
+    "word": "dushman",
+    "start": 14.84,
+    "end": 15.28
+  },
+  {
+    "word": "ke",
+    "start": 15.307,
+    "end": 15.36
+  },
+  {
+    "word": "waar",
+    "start": 15.424,
+    "end": 15.68
+  },
+  {
+    "word": "ko",
+    "start": 15.733,
+    "end": 15.84
+  },
+  {
+    "word": "nahi",
+    "start": 15.92,
+    "end": 16.16
+  },
+  {
+    "word": "rok",
+    "start": 16.22,
+    "end": 16.4
+  },
+  {
+    "word": "sakte",
+    "start": 16.48,
+    "end": 16.96
+  },
+  {
+    "word": "aur",
+    "start": 17.1,
+    "end": 17.52
+  },
+  {
+    "word": "na",
+    "start": 17.6,
+    "end": 17.76
+  },
+  {
+    "word": "hi",
+    "start": 17.813,
+    "end": 17.92
+  },
+  {
+    "word": "apni",
+    "start": 18.0,
+    "end": 18.24
+  },
+  {
+    "word": "jeet",
+    "start": 18.32,
+    "end": 18.64
+  },
+  {
+    "word": "ko",
+    "start": 18.693,
+    "end": 18.8
+  },
+  {
+    "word": "pakka",
+    "start": 18.9,
+    "end": 19.28
+  },
+  {
+    "word": "kar",
+    "start": 19.34,
+    "end": 19.52
+  },
+  {
+    "word": "sakte",
+    "start": 19.56,
+    "end": 19.84
+  },
+  {
+    "word": "ho.'",
+    "start": 19.92,
+    "end": 20.16
+  },
+  {
+    "word": "Humari",
+    "start": 20.48,
+    "end": 21.6
+  },
+  {
+    "word": "generation",
+    "start": 21.658,
+    "end": 22.24
+  },
+  {
+    "word": "ko",
+    "start": 22.32,
+    "end": 22.48
+  },
+  {
+    "word": "'announcement'",
+    "start": 22.56,
+    "end": 23.4
+  },
+  {
+    "word": "karne",
+    "start": 23.43,
+    "end": 23.6
+  },
+  {
+    "word": "ki",
+    "start": 23.653,
+    "end": 23.76
+  },
+  {
+    "word": "aadat",
+    "start": 23.84,
+    "end": 24.24
+  },
+  {
+    "word": "hai.",
+    "start": 24.28,
+    "end": 24.56
+  },
+  {
+    "word": "Naya",
+    "start": 24.92,
+    "end": 25.44
+  },
+  {
+    "word": "business,",
+    "start": 25.511,
+    "end": 26.4
+  },
+  {
+    "word": "naya",
+    "start": 26.44,
+    "end": 26.72
+  },
+  {
+    "word": "workout,",
+    "start": 26.79,
+    "end": 27.36
+  },
+  {
+    "word": "ya",
+    "start": 27.493,
+    "end": 27.76
+  },
+  {
+    "word": "naya",
+    "start": 27.84,
+    "end": 28.16
+  },
+  {
+    "word": "goal\u2014hum",
+    "start": 28.24,
+    "end": 29.44
+  },
+  {
+    "word": "sabse",
+    "start": 29.54,
+    "end": 29.92
+  },
+  {
+    "word": "pehle",
+    "start": 29.973,
+    "end": 30.32
+  },
+  {
+    "word": "Instagram",
+    "start": 30.392,
+    "end": 31.04
+  },
+  {
+    "word": "story",
+    "start": 31.093,
+    "end": 31.36
+  },
+  {
+    "word": "par",
+    "start": 31.42,
+    "end": 31.6
+  },
+  {
+    "word": "daalte",
+    "start": 31.653,
+    "end": 32.0
+  },
+  {
+    "word": "hain.",
+    "start": 32.04,
+    "end": 32.24
+  },
+  {
+    "word": "Par",
+    "start": 32.46,
+    "end": 33.12
+  },
+  {
+    "word": "jab",
+    "start": 33.22,
+    "end": 33.52
+  },
+  {
+    "word": "tum",
+    "start": 33.56,
+    "end": 33.68
+  },
+  {
+    "word": "apne",
+    "start": 33.733,
+    "end": 33.92
+  },
+  {
+    "word": "sapne",
+    "start": 34.0,
+    "end": 34.32
+  },
+  {
+    "word": "public",
+    "start": 34.389,
+    "end": 34.8
+  },
+  {
+    "word": "karte",
+    "start": 34.84,
+    "end": 35.12
+  },
+  {
+    "word": "ho,",
+    "start": 35.2,
+    "end": 35.52
+  },
+  {
+    "word": "tum",
+    "start": 35.68,
+    "end": 36.16
+  },
+  {
+    "word": "unhe",
+    "start": 36.24,
+    "end": 36.56
+  },
+  {
+    "word": "achieve",
+    "start": 36.62,
+    "end": 37.04
+  },
+  {
+    "word": "karne",
+    "start": 37.1,
+    "end": 37.36
+  },
+  {
+    "word": "ki",
+    "start": 37.44,
+    "end": 37.6
+  },
+  {
+    "word": "internal",
+    "start": 37.68,
+    "end": 38.32
+  },
+  {
+    "word": "energy",
+    "start": 38.377,
+    "end": 38.72
+  },
+  {
+    "word": "ko",
+    "start": 38.853,
+    "end": 39.12
+  },
+  {
+    "word": "external",
+    "start": 39.227,
+    "end": 40.08
+  },
+  {
+    "word": "validation",
+    "start": 40.138,
+    "end": 40.72
+  },
+  {
+    "word": "mein",
+    "start": 40.768,
+    "end": 40.96
+  },
+  {
+    "word": "waste",
+    "start": 41.04,
+    "end": 41.44
+  },
+  {
+    "word": "kar",
+    "start": 41.48,
+    "end": 41.6
+  },
+  {
+    "word": "dete",
+    "start": 41.66,
+    "end": 41.92
+  },
+  {
+    "word": "ho.",
+    "start": 42.0,
+    "end": 42.24
+  },
+  {
+    "word": "Quiet",
+    "start": 42.453,
+    "end": 43.52
+  },
+  {
+    "word": "confidence",
+    "start": 43.578,
+    "end": 44.16
+  },
+  {
+    "word": "is",
+    "start": 44.213,
+    "end": 44.32
+  },
+  {
+    "word": "the",
+    "start": 44.36,
+    "end": 44.48
+  },
+  {
+    "word": "only",
+    "start": 44.576,
+    "end": 44.96
+  },
+  {
+    "word": "way",
+    "start": 45.02,
+    "end": 45.2
+  },
+  {
+    "word": "to",
+    "start": 45.253,
+    "end": 45.36
+  },
+  {
+    "word": "execute",
+    "start": 45.44,
+    "end": 46.0
+  },
+  {
+    "word": "without",
+    "start": 46.06,
+    "end": 46.48
+  },
+  {
+    "word": "interference.",
+    "start": 46.548,
+    "end": 47.44
+  },
+  {
+    "word": "Tag",
+    "start": 47.72,
+    "end": 48.56
+  },
+  {
+    "word": "that",
+    "start": 48.608,
+    "end": 48.8
+  },
+  {
+    "word": "one",
+    "start": 48.86,
+    "end": 49.04
+  },
+  {
+    "word": "friend",
+    "start": 49.097,
+    "end": 49.44
+  },
+  {
+    "word": "who",
+    "start": 49.48,
+    "end": 49.6
+  },
+  {
+    "word": "talks",
+    "start": 49.667,
+    "end": 50.0
+  },
+  {
+    "word": "too",
+    "start": 50.04,
+    "end": 50.16
+  },
+  {
+    "word": "much",
+    "start": 50.208,
+    "end": 50.4
+  },
+  {
+    "word": "about",
+    "start": 50.427,
+    "end": 50.56
+  },
+  {
+    "word": "their",
+    "start": 50.6,
+    "end": 50.8
+  },
+  {
+    "word": "goals,",
+    "start": 50.88,
+    "end": 51.44
+  },
+  {
+    "word": "because",
+    "start": 51.51,
+    "end": 52.0
+  },
+  {
+    "word": "they",
+    "start": 52.032,
+    "end": 52.16
+  },
+  {
+    "word": "need",
+    "start": 52.224,
+    "end": 52.48
+  },
+  {
+    "word": "to",
+    "start": 52.533,
+    "end": 52.64
+  },
+  {
+    "word": "understand",
+    "start": 52.705,
+    "end": 53.36
+  },
+  {
+    "word": "that...",
+    "start": 53.424,
+    "end": 53.84
+  }
+]

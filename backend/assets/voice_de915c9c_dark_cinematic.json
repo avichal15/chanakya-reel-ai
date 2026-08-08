@@ -1,0 +1,612 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "HOLDING",
+    "start": 0.368,
+    "end": 0.64
+  },
+  {
+    "word": "ON",
+    "start": 0.72,
+    "end": 0.88
+  },
+  {
+    "word": "TO",
+    "start": 0.933,
+    "end": 1.04
+  },
+  {
+    "word": "WHAT",
+    "start": 1.072,
+    "end": 1.2
+  },
+  {
+    "word": "IS",
+    "start": 1.253,
+    "end": 1.36
+  },
+  {
+    "word": "KILLING",
+    "start": 1.52,
+    "end": 1.92
+  },
+  {
+    "word": "YOU.",
+    "start": 1.96,
+    "end": 2.24
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.56,
+    "end": 4.08
+  },
+  {
+    "word": "ne",
+    "start": 4.133,
+    "end": 4.24
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.32,
+    "end": 4.64
+  },
+  {
+    "word": "pehle",
+    "start": 4.693,
+    "end": 5.04
+  },
+  {
+    "word": "ek",
+    "start": 5.147,
+    "end": 5.36
+  },
+  {
+    "word": "baat",
+    "start": 5.413,
+    "end": 5.6
+  },
+  {
+    "word": "kahi",
+    "start": 5.64,
+    "end": 5.84
+  },
+  {
+    "word": "thi:",
+    "start": 5.9,
+    "end": 6.24
+  },
+  {
+    "word": "Jis",
+    "start": 6.6,
+    "end": 7.12
+  },
+  {
+    "word": "tarah",
+    "start": 7.16,
+    "end": 7.44
+  },
+  {
+    "word": "ek",
+    "start": 7.52,
+    "end": 7.68
+  },
+  {
+    "word": "doobta",
+    "start": 7.733,
+    "end": 8.16
+  },
+  {
+    "word": "hua",
+    "start": 8.2,
+    "end": 8.4
+  },
+  {
+    "word": "insaan",
+    "start": 8.48,
+    "end": 9.12
+  },
+  {
+    "word": "ya",
+    "start": 9.253,
+    "end": 9.52
+  },
+  {
+    "word": "ek",
+    "start": 9.573,
+    "end": 9.68
+  },
+  {
+    "word": "jalta",
+    "start": 9.76,
+    "end": 10.08
+  },
+  {
+    "word": "hua",
+    "start": 10.12,
+    "end": 10.32
+  },
+  {
+    "word": "ghar",
+    "start": 10.4,
+    "end": 10.56
+  },
+  {
+    "word": "chhodna",
+    "start": 10.613,
+    "end": 11.12
+  },
+  {
+    "word": "hi",
+    "start": 11.147,
+    "end": 11.2
+  },
+  {
+    "word": "akalmand",
+    "start": 11.28,
+    "end": 11.76
+  },
+  {
+    "word": "hai,",
+    "start": 11.82,
+    "end": 12.08
+  },
+  {
+    "word": "thik",
+    "start": 12.267,
+    "end": 12.88
+  },
+  {
+    "word": "waise",
+    "start": 12.92,
+    "end": 13.28
+  },
+  {
+    "word": "hi",
+    "start": 13.333,
+    "end": 13.44
+  },
+  {
+    "word": "unn",
+    "start": 13.5,
+    "end": 13.68
+  },
+  {
+    "word": "rishton",
+    "start": 13.72,
+    "end": 14.16
+  },
+  {
+    "word": "aur",
+    "start": 14.2,
+    "end": 14.32
+  },
+  {
+    "word": "logon",
+    "start": 14.4,
+    "end": 14.72
+  },
+  {
+    "word": "ka",
+    "start": 14.773,
+    "end": 14.88
+  },
+  {
+    "word": "tyag",
+    "start": 14.933,
+    "end": 15.2
+  },
+  {
+    "word": "kar",
+    "start": 15.24,
+    "end": 15.36
+  },
+  {
+    "word": "dena",
+    "start": 15.4,
+    "end": 15.68
+  },
+  {
+    "word": "chahiye",
+    "start": 15.707,
+    "end": 16.16
+  },
+  {
+    "word": "jo",
+    "start": 16.293,
+    "end": 16.56
+  },
+  {
+    "word": "tumhe",
+    "start": 16.62,
+    "end": 16.88
+  },
+  {
+    "word": "andar",
+    "start": 16.96,
+    "end": 17.28
+  },
+  {
+    "word": "se",
+    "start": 17.36,
+    "end": 17.52
+  },
+  {
+    "word": "khatam",
+    "start": 17.56,
+    "end": 17.84
+  },
+  {
+    "word": "kar",
+    "start": 17.88,
+    "end": 18.0
+  },
+  {
+    "word": "rahe",
+    "start": 18.027,
+    "end": 18.24
+  },
+  {
+    "word": "hain.",
+    "start": 18.28,
+    "end": 18.56
+  },
+  {
+    "word": "Hum",
+    "start": 18.8,
+    "end": 19.52
+  },
+  {
+    "word": "aksar",
+    "start": 19.58,
+    "end": 19.92
+  },
+  {
+    "word": "'loyalty'",
+    "start": 19.96,
+    "end": 20.4
+  },
+  {
+    "word": "ke",
+    "start": 20.427,
+    "end": 20.48
+  },
+  {
+    "word": "naam",
+    "start": 20.544,
+    "end": 20.8
+  },
+  {
+    "word": "par",
+    "start": 20.86,
+    "end": 21.04
+  },
+  {
+    "word": "toxic",
+    "start": 21.147,
+    "end": 21.68
+  },
+  {
+    "word": "logo",
+    "start": 21.76,
+    "end": 22.08
+  },
+  {
+    "word": "aur",
+    "start": 22.14,
+    "end": 22.32
+  },
+  {
+    "word": "dead-end",
+    "start": 22.368,
+    "end": 22.72
+  },
+  {
+    "word": "jobs",
+    "start": 22.816,
+    "end": 23.2
+  },
+  {
+    "word": "se",
+    "start": 23.28,
+    "end": 23.44
+  },
+  {
+    "word": "chipke",
+    "start": 23.488,
+    "end": 23.76
+  },
+  {
+    "word": "rehte",
+    "start": 23.787,
+    "end": 24.08
+  },
+  {
+    "word": "hain.",
+    "start": 24.12,
+    "end": 24.4
+  },
+  {
+    "word": "We",
+    "start": 24.72,
+    "end": 25.36
+  },
+  {
+    "word": "think",
+    "start": 25.4,
+    "end": 25.6
+  },
+  {
+    "word": "staying",
+    "start": 25.65,
+    "end": 26.0
+  },
+  {
+    "word": "is",
+    "start": 26.053,
+    "end": 26.16
+  },
+  {
+    "word": "strength,",
+    "start": 26.222,
+    "end": 26.92
+  },
+  {
+    "word": "but",
+    "start": 26.97,
+    "end": 27.12
+  },
+  {
+    "word": "actually,",
+    "start": 27.182,
+    "end": 27.76
+  },
+  {
+    "word": "it's",
+    "start": 27.893,
+    "end": 28.24
+  },
+  {
+    "word": "slow",
+    "start": 28.304,
+    "end": 28.56
+  },
+  {
+    "word": "suicide.",
+    "start": 28.65,
+    "end": 29.36
+  },
+  {
+    "word": "The",
+    "start": 29.54,
+    "end": 30.08
+  },
+  {
+    "word": "real",
+    "start": 30.144,
+    "end": 30.4
+  },
+  {
+    "word": "power",
+    "start": 30.467,
+    "end": 30.8
+  },
+  {
+    "word": "is",
+    "start": 30.853,
+    "end": 30.96
+  },
+  {
+    "word": "knowing",
+    "start": 31.01,
+    "end": 31.36
+  },
+  {
+    "word": "when",
+    "start": 31.392,
+    "end": 31.52
+  },
+  {
+    "word": "to",
+    "start": 31.547,
+    "end": 31.6
+  },
+  {
+    "word": "walk",
+    "start": 31.664,
+    "end": 31.92
+  },
+  {
+    "word": "away.",
+    "start": 32.0,
+    "end": 32.48
+  },
+  {
+    "word": "Jab",
+    "start": 32.68,
+    "end": 33.28
+  },
+  {
+    "word": "koi",
+    "start": 33.32,
+    "end": 33.52
+  },
+  {
+    "word": "cheez",
+    "start": 33.56,
+    "end": 33.84
+  },
+  {
+    "word": "tumhari",
+    "start": 33.88,
+    "end": 34.24
+  },
+  {
+    "word": "mental",
+    "start": 34.286,
+    "end": 34.56
+  },
+  {
+    "word": "peace",
+    "start": 34.627,
+    "end": 34.96
+  },
+  {
+    "word": "cheen",
+    "start": 35.0,
+    "end": 35.2
+  },
+  {
+    "word": "le,",
+    "start": 35.28,
+    "end": 35.6
+  },
+  {
+    "word": "toh",
+    "start": 35.68,
+    "end": 35.92
+  },
+  {
+    "word": "wahan",
+    "start": 36.0,
+    "end": 36.24
+  },
+  {
+    "word": "se",
+    "start": 36.293,
+    "end": 36.4
+  },
+  {
+    "word": "nikalna",
+    "start": 36.44,
+    "end": 36.88
+  },
+  {
+    "word": "hi",
+    "start": 36.933,
+    "end": 37.04
+  },
+  {
+    "word": "tumhari",
+    "start": 37.08,
+    "end": 37.44
+  },
+  {
+    "word": "sabse",
+    "start": 37.54,
+    "end": 38.0
+  },
+  {
+    "word": "badi",
+    "start": 38.04,
+    "end": 38.24
+  },
+  {
+    "word": "victory",
+    "start": 38.29,
+    "end": 38.64
+  },
+  {
+    "word": "hai.",
+    "start": 38.7,
+    "end": 38.96
+  },
+  {
+    "word": "Who",
+    "start": 39.32,
+    "end": 40.4
+  },
+  {
+    "word": "is",
+    "start": 40.453,
+    "end": 40.56
+  },
+  {
+    "word": "the",
+    "start": 40.6,
+    "end": 40.72
+  },
+  {
+    "word": "one",
+    "start": 40.8,
+    "end": 41.04
+  },
+  {
+    "word": "person",
+    "start": 41.109,
+    "end": 41.52
+  },
+  {
+    "word": "you",
+    "start": 41.56,
+    "end": 41.68
+  },
+  {
+    "word": "need",
+    "start": 41.712,
+    "end": 41.84
+  },
+  {
+    "word": "to",
+    "start": 41.867,
+    "end": 41.92
+  },
+  {
+    "word": "stop",
+    "start": 41.984,
+    "end": 42.24
+  },
+  {
+    "word": "prioritizing",
+    "start": 42.3,
+    "end": 43.12
+  },
+  {
+    "word": "for",
+    "start": 43.16,
+    "end": 43.28
+  },
+  {
+    "word": "your",
+    "start": 43.328,
+    "end": 43.52
+  },
+  {
+    "word": "own",
+    "start": 43.58,
+    "end": 43.76
+  },
+  {
+    "word": "sanity?",
+    "start": 43.851,
+    "end": 44.56
+  },
+  {
+    "word": "Comment",
+    "start": 44.68,
+    "end": 45.52
+  },
+  {
+    "word": "below,",
+    "start": 45.6,
+    "end": 46.08
+  },
+  {
+    "word": "and",
+    "start": 46.22,
+    "end": 46.64
+  },
+  {
+    "word": "realize",
+    "start": 46.71,
+    "end": 47.2
+  },
+  {
+    "word": "that...",
+    "start": 47.248,
+    "end": 47.6
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "'HEALTHY'",
+    "start": 0.24,
+    "end": 0.853
+  },
+  {
+    "word": "DIET",
+    "start": 0.889,
+    "end": 1.2
+  },
+  {
+    "word": "IS",
+    "start": 1.387,
+    "end": 1.76
+  },
+  {
+    "word": "KILLING",
+    "start": 1.84,
+    "end": 2.16
+  },
+  {
+    "word": "YOU.",
+    "start": 2.22,
+    "end": 2.48
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.784,
+    "end": 4.32
+  },
+  {
+    "word": "ne",
+    "start": 4.4,
+    "end": 4.56
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.6,
+    "end": 4.96
+  },
+  {
+    "word": "pehle",
+    "start": 5.013,
+    "end": 5.28
+  },
+  {
+    "word": "ek",
+    "start": 5.387,
+    "end": 5.6
+  },
+  {
+    "word": "baat",
+    "start": 5.653,
+    "end": 5.92
+  },
+  {
+    "word": "kahi",
+    "start": 5.96,
+    "end": 6.16
+  },
+  {
+    "word": "thi:",
+    "start": 6.24,
+    "end": 7.08
+  },
+  {
+    "word": "Sahi",
+    "start": 7.23,
+    "end": 7.76
+  },
+  {
+    "word": "samay",
+    "start": 7.8,
+    "end": 8.08
+  },
+  {
+    "word": "par",
+    "start": 8.12,
+    "end": 8.24
+  },
+  {
+    "word": "liya",
+    "start": 8.293,
+    "end": 8.48
+  },
+  {
+    "word": "gaya",
+    "start": 8.54,
+    "end": 8.8
+  },
+  {
+    "word": "aushadh",
+    "start": 8.84,
+    "end": 9.44
+  },
+  {
+    "word": "(medicine)",
+    "start": 9.68,
+    "end": 10.8
+  },
+  {
+    "word": "bimari",
+    "start": 10.96,
+    "end": 11.44
+  },
+  {
+    "word": "ko",
+    "start": 11.52,
+    "end": 11.68
+  },
+  {
+    "word": "mita",
+    "start": 11.74,
+    "end": 12.0
+  },
+  {
+    "word": "deta",
+    "start": 12.08,
+    "end": 12.4
+  },
+  {
+    "word": "hai,",
+    "start": 12.44,
+    "end": 12.72
+  },
+  {
+    "word": "aur",
+    "start": 12.94,
+    "end": 13.6
+  },
+  {
+    "word": "sahi",
+    "start": 13.68,
+    "end": 13.92
+  },
+  {
+    "word": "tarike",
+    "start": 14.0,
+    "end": 14.4
+  },
+  {
+    "word": "se",
+    "start": 14.453,
+    "end": 14.56
+  },
+  {
+    "word": "kiya",
+    "start": 14.64,
+    "end": 14.88
+  },
+  {
+    "word": "gaya",
+    "start": 14.94,
+    "end": 15.12
+  },
+  {
+    "word": "bhojan",
+    "start": 15.16,
+    "end": 15.84
+  },
+  {
+    "word": "sharir",
+    "start": 15.968,
+    "end": 16.64
+  },
+  {
+    "word": "ko",
+    "start": 16.693,
+    "end": 16.8
+  },
+  {
+    "word": "bal",
+    "start": 16.9,
+    "end": 17.2
+  },
+  {
+    "word": "aur",
+    "start": 17.32,
+    "end": 17.68
+  },
+  {
+    "word": "lambi",
+    "start": 17.76,
+    "end": 18.16
+  },
+  {
+    "word": "aayu",
+    "start": 18.24,
+    "end": 18.48
+  },
+  {
+    "word": "deta",
+    "start": 18.52,
+    "end": 18.88
+  },
+  {
+    "word": "hai.",
+    "start": 18.92,
+    "end": 20.08
+  },
+  {
+    "word": "Hum",
+    "start": 20.14,
+    "end": 20.32
+  },
+  {
+    "word": "calories",
+    "start": 20.373,
+    "end": 20.8
+  },
+  {
+    "word": "count",
+    "start": 20.867,
+    "end": 21.2
+  },
+  {
+    "word": "karte",
+    "start": 21.24,
+    "end": 21.52
+  },
+  {
+    "word": "hain,",
+    "start": 21.56,
+    "end": 22.24
+  },
+  {
+    "word": "supplements",
+    "start": 22.3,
+    "end": 22.96
+  },
+  {
+    "word": "lete",
+    "start": 23.013,
+    "end": 23.28
+  },
+  {
+    "word": "hain,",
+    "start": 23.32,
+    "end": 24.24
+  },
+  {
+    "word": "par",
+    "start": 24.28,
+    "end": 24.4
+  },
+  {
+    "word": "basic",
+    "start": 24.493,
+    "end": 24.96
+  },
+  {
+    "word": "discipline",
+    "start": 25.018,
+    "end": 25.6
+  },
+  {
+    "word": "bhool",
+    "start": 25.653,
+    "end": 25.92
+  },
+  {
+    "word": "chuke",
+    "start": 25.947,
+    "end": 26.24
+  },
+  {
+    "word": "hain.",
+    "start": 26.28,
+    "end": 27.36
+  },
+  {
+    "word": "Overeating",
+    "start": 27.44,
+    "end": 28.16
+  },
+  {
+    "word": "aur",
+    "start": 28.22,
+    "end": 28.4
+  },
+  {
+    "word": "wrong",
+    "start": 28.453,
+    "end": 28.72
+  },
+  {
+    "word": "timing",
+    "start": 28.8,
+    "end": 29.28
+  },
+  {
+    "word": "tumhare",
+    "start": 29.32,
+    "end": 29.76
+  },
+  {
+    "word": "mental",
+    "start": 29.817,
+    "end": 30.16
+  },
+  {
+    "word": "focus",
+    "start": 30.24,
+    "end": 30.64
+  },
+  {
+    "word": "ko",
+    "start": 30.72,
+    "end": 30.88
+  },
+  {
+    "word": "destroy",
+    "start": 30.95,
+    "end": 31.44
+  },
+  {
+    "word": "kar",
+    "start": 31.48,
+    "end": 31.6
+  },
+  {
+    "word": "rahe",
+    "start": 31.653,
+    "end": 31.84
+  },
+  {
+    "word": "hain.",
+    "start": 31.88,
+    "end": 32.16
+  },
+  {
+    "word": "Health",
+    "start": 32.343,
+    "end": 33.44
+  },
+  {
+    "word": "sirf",
+    "start": 33.54,
+    "end": 33.92
+  },
+  {
+    "word": "gym",
+    "start": 34.0,
+    "end": 34.24
+  },
+  {
+    "word": "jane",
+    "start": 34.304,
+    "end": 34.56
+  },
+  {
+    "word": "se",
+    "start": 34.613,
+    "end": 34.72
+  },
+  {
+    "word": "nahi,",
+    "start": 34.76,
+    "end": 35.68
+  },
+  {
+    "word": "balki",
+    "start": 35.728,
+    "end": 36.0
+  },
+  {
+    "word": "tumhare",
+    "start": 36.04,
+    "end": 36.4
+  },
+  {
+    "word": "khane",
+    "start": 36.48,
+    "end": 36.88
+  },
+  {
+    "word": "ke",
+    "start": 36.933,
+    "end": 37.04
+  },
+  {
+    "word": "discipline",
+    "start": 37.091,
+    "end": 37.6
+  },
+  {
+    "word": "aur",
+    "start": 37.7,
+    "end": 38.0
+  },
+  {
+    "word": "timing",
+    "start": 38.069,
+    "end": 38.48
+  },
+  {
+    "word": "se",
+    "start": 38.533,
+    "end": 38.64
+  },
+  {
+    "word": "aati",
+    "start": 38.72,
+    "end": 39.04
+  },
+  {
+    "word": "hai.",
+    "start": 39.1,
+    "end": 39.44
+  },
+  {
+    "word": "Treat",
+    "start": 39.64,
+    "end": 40.64
+  },
+  {
+    "word": "your",
+    "start": 40.672,
+    "end": 40.8
+  },
+  {
+    "word": "food",
+    "start": 40.88,
+    "end": 41.2
+  },
+  {
+    "word": "like",
+    "start": 41.248,
+    "end": 41.44
+  },
+  {
+    "word": "medicine,",
+    "start": 41.511,
+    "end": 42.64
+  },
+  {
+    "word": "not",
+    "start": 42.74,
+    "end": 43.04
+  },
+  {
+    "word": "like",
+    "start": 43.12,
+    "end": 43.44
+  },
+  {
+    "word": "a",
+    "start": 43.48,
+    "end": 43.52
+  },
+  {
+    "word": "reward.",
+    "start": 43.6,
+    "end": 44.24
+  },
+  {
+    "word": "Comment",
+    "start": 44.4,
+    "end": 45.52
+  },
+  {
+    "word": "'DISCIPLINE'",
+    "start": 45.76,
+    "end": 46.84
+  },
+  {
+    "word": "if",
+    "start": 46.933,
+    "end": 47.12
+  },
+  {
+    "word": "you",
+    "start": 47.16,
+    "end": 47.28
+  },
+  {
+    "word": "are",
+    "start": 47.3,
+    "end": 47.36
+  },
+  {
+    "word": "ready",
+    "start": 47.413,
+    "end": 47.68
+  },
+  {
+    "word": "to",
+    "start": 47.733,
+    "end": 47.84
+  },
+  {
+    "word": "change",
+    "start": 47.897,
+    "end": 48.24
+  },
+  {
+    "word": "your",
+    "start": 48.272,
+    "end": 48.4
+  },
+  {
+    "word": "routine,",
+    "start": 48.47,
+    "end": 49.12
+  },
+  {
+    "word": "because",
+    "start": 49.22,
+    "end": 49.92
+  },
+  {
+    "word": "the",
+    "start": 49.96,
+    "end": 50.08
+  },
+  {
+    "word": "truth",
+    "start": 50.133,
+    "end": 50.4
+  },
+  {
+    "word": "is...",
+    "start": 50.533,
+    "end": 50.88
+  }
+]

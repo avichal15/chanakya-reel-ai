@@ -1,0 +1,507 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "MONEY",
+    "start": 0.253,
+    "end": 0.72
+  },
+  {
+    "word": "WON'T",
+    "start": 0.88,
+    "end": 1.52
+  },
+  {
+    "word": "SAVE",
+    "start": 1.648,
+    "end": 2.16
+  },
+  {
+    "word": "YOU.",
+    "start": 2.22,
+    "end": 2.48
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.784,
+    "end": 4.32
+  },
+  {
+    "word": "ne",
+    "start": 4.4,
+    "end": 4.56
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.64,
+    "end": 5.04
+  },
+  {
+    "word": "pehle",
+    "start": 5.12,
+    "end": 5.52
+  },
+  {
+    "word": "ek",
+    "start": 5.627,
+    "end": 5.84
+  },
+  {
+    "word": "baat",
+    "start": 5.893,
+    "end": 6.16
+  },
+  {
+    "word": "kahi",
+    "start": 6.2,
+    "end": 6.4
+  },
+  {
+    "word": "thi:",
+    "start": 6.46,
+    "end": 7.52
+  },
+  {
+    "word": "Is",
+    "start": 7.573,
+    "end": 7.68
+  },
+  {
+    "word": "jeevan",
+    "start": 7.76,
+    "end": 8.08
+  },
+  {
+    "word": "mein",
+    "start": 8.128,
+    "end": 8.32
+  },
+  {
+    "word": "chaar",
+    "start": 8.42,
+    "end": 8.8
+  },
+  {
+    "word": "cheezein",
+    "start": 8.86,
+    "end": 9.28
+  },
+  {
+    "word": "hi",
+    "start": 9.36,
+    "end": 9.52
+  },
+  {
+    "word": "vyakti",
+    "start": 9.573,
+    "end": 10.0
+  },
+  {
+    "word": "ke",
+    "start": 10.053,
+    "end": 10.16
+  },
+  {
+    "word": "saath",
+    "start": 10.213,
+    "end": 10.48
+  },
+  {
+    "word": "jaati",
+    "start": 10.56,
+    "end": 10.88
+  },
+  {
+    "word": "hain\u2014daan",
+    "start": 10.92,
+    "end": 12.24
+  },
+  {
+    "word": "karne",
+    "start": 12.28,
+    "end": 12.56
+  },
+  {
+    "word": "ki",
+    "start": 12.613,
+    "end": 12.72
+  },
+  {
+    "word": "pravriti,",
+    "start": 12.768,
+    "end": 13.44
+  },
+  {
+    "word": "madhur",
+    "start": 13.62,
+    "end": 14.32
+  },
+  {
+    "word": "vaani,",
+    "start": 14.373,
+    "end": 15.32
+  },
+  {
+    "word": "devon",
+    "start": 15.45,
+    "end": 15.92
+  },
+  {
+    "word": "ka",
+    "start": 16.0,
+    "end": 16.16
+  },
+  {
+    "word": "samman,",
+    "start": 16.22,
+    "end": 16.8
+  },
+  {
+    "word": "aur",
+    "start": 16.96,
+    "end": 17.44
+  },
+  {
+    "word": "vidvanno",
+    "start": 17.5,
+    "end": 18.16
+  },
+  {
+    "word": "ka",
+    "start": 18.24,
+    "end": 18.4
+  },
+  {
+    "word": "sneh.",
+    "start": 18.5,
+    "end": 19.52
+  },
+  {
+    "word": "Hum",
+    "start": 19.68,
+    "end": 20.16
+  },
+  {
+    "word": "apni",
+    "start": 20.213,
+    "end": 20.4
+  },
+  {
+    "word": "poori",
+    "start": 20.496,
+    "end": 20.96
+  },
+  {
+    "word": "zindagi",
+    "start": 21.04,
+    "end": 21.44
+  },
+  {
+    "word": "bank",
+    "start": 21.52,
+    "end": 21.84
+  },
+  {
+    "word": "balance",
+    "start": 21.9,
+    "end": 22.32
+  },
+  {
+    "word": "aur",
+    "start": 22.4,
+    "end": 22.64
+  },
+  {
+    "word": "assets",
+    "start": 22.709,
+    "end": 23.12
+  },
+  {
+    "word": "build",
+    "start": 23.16,
+    "end": 23.36
+  },
+  {
+    "word": "karne",
+    "start": 23.4,
+    "end": 23.68
+  },
+  {
+    "word": "mein",
+    "start": 23.696,
+    "end": 23.76
+  },
+  {
+    "word": "laga",
+    "start": 23.84,
+    "end": 24.08
+  },
+  {
+    "word": "dete",
+    "start": 24.14,
+    "end": 24.4
+  },
+  {
+    "word": "hain,",
+    "start": 24.44,
+    "end": 24.72
+  },
+  {
+    "word": "par",
+    "start": 24.92,
+    "end": 25.52
+  },
+  {
+    "word": "end",
+    "start": 25.6,
+    "end": 25.84
+  },
+  {
+    "word": "mein",
+    "start": 25.904,
+    "end": 26.16
+  },
+  {
+    "word": "sirf",
+    "start": 26.24,
+    "end": 26.56
+  },
+  {
+    "word": "wahi",
+    "start": 26.64,
+    "end": 26.88
+  },
+  {
+    "word": "bachta",
+    "start": 26.928,
+    "end": 27.28
+  },
+  {
+    "word": "hai",
+    "start": 27.36,
+    "end": 27.6
+  },
+  {
+    "word": "jo",
+    "start": 27.733,
+    "end": 28.0
+  },
+  {
+    "word": "tumne",
+    "start": 28.06,
+    "end": 28.4
+  },
+  {
+    "word": "doosron",
+    "start": 28.48,
+    "end": 28.88
+  },
+  {
+    "word": "ko",
+    "start": 28.96,
+    "end": 29.12
+  },
+  {
+    "word": "diya.",
+    "start": 29.147,
+    "end": 29.96
+  },
+  {
+    "word": "In",
+    "start": 30.16,
+    "end": 30.56
+  },
+  {
+    "word": "a",
+    "start": 30.6,
+    "end": 30.64
+  },
+  {
+    "word": "world",
+    "start": 30.693,
+    "end": 30.96
+  },
+  {
+    "word": "of",
+    "start": 31.013,
+    "end": 31.12
+  },
+  {
+    "word": "networking",
+    "start": 31.193,
+    "end": 31.92
+  },
+  {
+    "word": "and",
+    "start": 31.96,
+    "end": 32.08
+  },
+  {
+    "word": "power-plays,",
+    "start": 32.147,
+    "end": 33.44
+  },
+  {
+    "word": "kindness",
+    "start": 33.52,
+    "end": 34.16
+  },
+  {
+    "word": "and",
+    "start": 34.22,
+    "end": 34.4
+  },
+  {
+    "word": "generosity",
+    "start": 34.473,
+    "end": 35.2
+  },
+  {
+    "word": "are",
+    "start": 35.26,
+    "end": 35.44
+  },
+  {
+    "word": "the",
+    "start": 35.46,
+    "end": 35.52
+  },
+  {
+    "word": "only",
+    "start": 35.632,
+    "end": 36.08
+  },
+  {
+    "word": "true",
+    "start": 36.144,
+    "end": 36.4
+  },
+  {
+    "word": "currencies",
+    "start": 36.465,
+    "end": 37.12
+  },
+  {
+    "word": "that",
+    "start": 37.152,
+    "end": 37.28
+  },
+  {
+    "word": "actually",
+    "start": 37.342,
+    "end": 37.84
+  },
+  {
+    "word": "matter.",
+    "start": 37.909,
+    "end": 38.4
+  },
+  {
+    "word": "Stop",
+    "start": 38.64,
+    "end": 39.6
+  },
+  {
+    "word": "hoarding",
+    "start": 39.653,
+    "end": 40.16
+  },
+  {
+    "word": "and",
+    "start": 40.3,
+    "end": 40.72
+  },
+  {
+    "word": "start",
+    "start": 40.827,
+    "end": 41.36
+  },
+  {
+    "word": "contributing.",
+    "start": 41.428,
+    "end": 42.4
+  },
+  {
+    "word": "Which",
+    "start": 42.56,
+    "end": 43.36
+  },
+  {
+    "word": "of",
+    "start": 43.387,
+    "end": 43.44
+  },
+  {
+    "word": "these",
+    "start": 43.493,
+    "end": 43.76
+  },
+  {
+    "word": "four",
+    "start": 43.824,
+    "end": 44.08
+  },
+  {
+    "word": "legacies",
+    "start": 44.14,
+    "end": 44.72
+  },
+  {
+    "word": "are",
+    "start": 44.76,
+    "end": 44.88
+  },
+  {
+    "word": "you",
+    "start": 44.94,
+    "end": 45.12
+  },
+  {
+    "word": "building",
+    "start": 45.164,
+    "end": 45.52
+  },
+  {
+    "word": "today?",
+    "start": 45.6,
+    "end": 46.08
+  },
+  {
+    "word": "Comment",
+    "start": 46.22,
+    "end": 47.2
+  },
+  {
+    "word": "below,",
+    "start": 47.28,
+    "end": 48.04
+  },
+  {
+    "word": "because",
+    "start": 48.085,
+    "end": 48.4
+  },
+  {
+    "word": "at",
+    "start": 48.427,
+    "end": 48.48
+  },
+  {
+    "word": "the",
+    "start": 48.52,
+    "end": 48.64
+  },
+  {
+    "word": "end,",
+    "start": 48.74,
+    "end": 49.041
+  },
+  {
+    "word": "remember...",
+    "start": 49.147,
+    "end": 50.16
+  }
+]

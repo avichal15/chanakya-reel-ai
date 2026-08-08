@@ -1,0 +1,532 @@
+[
+  {
+    "word": "BEING",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "TOO",
+    "start": 0.4,
+    "end": 0.64
+  },
+  {
+    "word": "NICE",
+    "start": 0.76,
+    "end": 1.2
+  },
+  {
+    "word": "IS",
+    "start": 1.36,
+    "end": 1.68
+  },
+  {
+    "word": "A",
+    "start": 1.72,
+    "end": 1.76
+  },
+  {
+    "word": "WEAKNESS.",
+    "start": 1.84,
+    "end": 2.64
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.976,
+    "end": 4.64
+  },
+  {
+    "word": "ne",
+    "start": 4.693,
+    "end": 4.8
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.92,
+    "end": 5.28
+  },
+  {
+    "word": "pehle",
+    "start": 5.36,
+    "end": 5.68
+  },
+  {
+    "word": "ek",
+    "start": 5.813,
+    "end": 6.08
+  },
+  {
+    "word": "baat",
+    "start": 6.133,
+    "end": 6.4
+  },
+  {
+    "word": "kahi",
+    "start": 6.44,
+    "end": 6.64
+  },
+  {
+    "word": "thi:",
+    "start": 6.72,
+    "end": 7.04
+  },
+  {
+    "word": "Jo",
+    "start": 7.387,
+    "end": 8.08
+  },
+  {
+    "word": "insaan",
+    "start": 8.18,
+    "end": 8.72
+  },
+  {
+    "word": "bahut",
+    "start": 8.8,
+    "end": 9.12
+  },
+  {
+    "word": "zyada",
+    "start": 9.2,
+    "end": 9.52
+  },
+  {
+    "word": "saral",
+    "start": 9.6,
+    "end": 10.08
+  },
+  {
+    "word": "ya",
+    "start": 10.213,
+    "end": 10.48
+  },
+  {
+    "word": "seedha",
+    "start": 10.544,
+    "end": 10.88
+  },
+  {
+    "word": "hota",
+    "start": 10.94,
+    "end": 11.2
+  },
+  {
+    "word": "hai,",
+    "start": 11.26,
+    "end": 11.76
+  },
+  {
+    "word": "woh",
+    "start": 11.92,
+    "end": 12.24
+  },
+  {
+    "word": "hamesha",
+    "start": 12.32,
+    "end": 12.88
+  },
+  {
+    "word": "nuksaan",
+    "start": 12.96,
+    "end": 13.52
+  },
+  {
+    "word": "uthata",
+    "start": 13.6,
+    "end": 14.0
+  },
+  {
+    "word": "hai.",
+    "start": 14.04,
+    "end": 14.24
+  },
+  {
+    "word": "Isliye,",
+    "start": 14.587,
+    "end": 15.8
+  },
+  {
+    "word": "duniya",
+    "start": 15.94,
+    "end": 16.32
+  },
+  {
+    "word": "mein",
+    "start": 16.352,
+    "end": 16.48
+  },
+  {
+    "word": "jeene",
+    "start": 16.533,
+    "end": 16.88
+  },
+  {
+    "word": "ke",
+    "start": 16.933,
+    "end": 17.04
+  },
+  {
+    "word": "liye",
+    "start": 17.093,
+    "end": 17.44
+  },
+  {
+    "word": "thodi",
+    "start": 17.547,
+    "end": 17.92
+  },
+  {
+    "word": "tedh-medh",
+    "start": 18.04,
+    "end": 18.8
+  },
+  {
+    "word": "chaturayi",
+    "start": 18.853,
+    "end": 19.36
+  },
+  {
+    "word": "zaroori",
+    "start": 19.42,
+    "end": 19.84
+  },
+  {
+    "word": "hai.",
+    "start": 19.88,
+    "end": 20.96
+  },
+  {
+    "word": "Hum",
+    "start": 21.0,
+    "end": 21.12
+  },
+  {
+    "word": "bachpan",
+    "start": 21.168,
+    "end": 21.52
+  },
+  {
+    "word": "se",
+    "start": 21.6,
+    "end": 21.76
+  },
+  {
+    "word": "seekhte",
+    "start": 21.808,
+    "end": 22.16
+  },
+  {
+    "word": "hain",
+    "start": 22.2,
+    "end": 22.4
+  },
+  {
+    "word": "ki",
+    "start": 22.48,
+    "end": 22.64
+  },
+  {
+    "word": "'seedhe",
+    "start": 22.68,
+    "end": 23.04
+  },
+  {
+    "word": "raho',",
+    "start": 23.12,
+    "end": 23.44
+  },
+  {
+    "word": "par",
+    "start": 23.6,
+    "end": 24.08
+  },
+  {
+    "word": "corporate",
+    "start": 24.136,
+    "end": 24.64
+  },
+  {
+    "word": "world",
+    "start": 24.693,
+    "end": 24.96
+  },
+  {
+    "word": "ho",
+    "start": 25.04,
+    "end": 25.2
+  },
+  {
+    "word": "ya",
+    "start": 25.333,
+    "end": 25.6
+  },
+  {
+    "word": "personal",
+    "start": 25.653,
+    "end": 26.08
+  },
+  {
+    "word": "relationships,",
+    "start": 26.143,
+    "end": 27.04
+  },
+  {
+    "word": "being",
+    "start": 27.173,
+    "end": 27.84
+  },
+  {
+    "word": "a",
+    "start": 27.92,
+    "end": 28.0
+  },
+  {
+    "word": "people-pleaser",
+    "start": 28.057,
+    "end": 28.96
+  },
+  {
+    "word": "sirf",
+    "start": 29.12,
+    "end": 29.68
+  },
+  {
+    "word": "tumhe",
+    "start": 29.74,
+    "end": 30.08
+  },
+  {
+    "word": "ek",
+    "start": 30.16,
+    "end": 30.32
+  },
+  {
+    "word": "doormat",
+    "start": 30.4,
+    "end": 30.8
+  },
+  {
+    "word": "bana",
+    "start": 30.848,
+    "end": 31.04
+  },
+  {
+    "word": "deta",
+    "start": 31.08,
+    "end": 31.36
+  },
+  {
+    "word": "hai.",
+    "start": 31.4,
+    "end": 31.68
+  },
+  {
+    "word": "Kindness",
+    "start": 31.92,
+    "end": 33.12
+  },
+  {
+    "word": "is",
+    "start": 33.2,
+    "end": 33.36
+  },
+  {
+    "word": "a",
+    "start": 33.4,
+    "end": 33.44
+  },
+  {
+    "word": "virtue,",
+    "start": 33.52,
+    "end": 34.56
+  },
+  {
+    "word": "but",
+    "start": 34.6,
+    "end": 34.72
+  },
+  {
+    "word": "naivety",
+    "start": 34.8,
+    "end": 35.36
+  },
+  {
+    "word": "is",
+    "start": 35.44,
+    "end": 35.6
+  },
+  {
+    "word": "a",
+    "start": 35.64,
+    "end": 35.68
+  },
+  {
+    "word": "liability.",
+    "start": 35.76,
+    "end": 36.56
+  },
+  {
+    "word": "Boundaries",
+    "start": 36.747,
+    "end": 37.84
+  },
+  {
+    "word": "set",
+    "start": 37.92,
+    "end": 38.16
+  },
+  {
+    "word": "karo",
+    "start": 38.2,
+    "end": 38.48
+  },
+  {
+    "word": "aur",
+    "start": 38.62,
+    "end": 39.04
+  },
+  {
+    "word": "seekho",
+    "start": 39.12,
+    "end": 39.6
+  },
+  {
+    "word": "kab",
+    "start": 39.68,
+    "end": 39.92
+  },
+  {
+    "word": "'na'",
+    "start": 40.0,
+    "end": 40.24
+  },
+  {
+    "word": "kehna",
+    "start": 40.293,
+    "end": 40.64
+  },
+  {
+    "word": "hai,",
+    "start": 40.68,
+    "end": 41.36
+  },
+  {
+    "word": "warna",
+    "start": 41.408,
+    "end": 41.68
+  },
+  {
+    "word": "log",
+    "start": 41.78,
+    "end": 42.08
+  },
+  {
+    "word": "tumhari",
+    "start": 42.12,
+    "end": 42.48
+  },
+  {
+    "word": "achai",
+    "start": 42.58,
+    "end": 43.04
+  },
+  {
+    "word": "ka",
+    "start": 43.12,
+    "end": 43.28
+  },
+  {
+    "word": "fayda",
+    "start": 43.36,
+    "end": 43.68
+  },
+  {
+    "word": "uthayenge.",
+    "start": 43.76,
+    "end": 44.4
+  },
+  {
+    "word": "Are",
+    "start": 44.66,
+    "end": 45.44
+  },
+  {
+    "word": "you",
+    "start": 45.48,
+    "end": 45.6
+  },
+  {
+    "word": "still",
+    "start": 45.653,
+    "end": 45.92
+  },
+  {
+    "word": "playing",
+    "start": 45.96,
+    "end": 46.24
+  },
+  {
+    "word": "the",
+    "start": 46.26,
+    "end": 46.32
+  },
+  {
+    "word": "'nice",
+    "start": 46.36,
+    "end": 46.64
+  },
+  {
+    "word": "guy'",
+    "start": 46.72,
+    "end": 47.04
+  },
+  {
+    "word": "while",
+    "start": 47.08,
+    "end": 47.28
+  },
+  {
+    "word": "others",
+    "start": 47.326,
+    "end": 47.6
+  },
+  {
+    "word": "win?",
+    "start": 47.7,
+    "end": 48.08
+  },
+  {
+    "word": "Stop",
+    "start": 48.288,
+    "end": 49.12
+  },
+  {
+    "word": "it,",
+    "start": 49.2,
+    "end": 49.8
+  },
+  {
+    "word": "because",
+    "start": 49.855,
+    "end": 50.24
+  },
+  {
+    "word": "you",
+    "start": 50.26,
+    "end": 50.32
+  },
+  {
+    "word": "must",
+    "start": 50.416,
+    "end": 50.8
+  },
+  {
+    "word": "accept",
+    "start": 50.891,
+    "end": 51.44
+  },
+  {
+    "word": "that...",
+    "start": 51.52,
+    "end": 52.0
+  }
+]

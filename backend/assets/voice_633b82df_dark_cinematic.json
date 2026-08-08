@@ -1,0 +1,532 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.08
+  },
+  {
+    "word": "KINDNESS",
+    "start": 0.192,
+    "end": 0.88
+  },
+  {
+    "word": "IS",
+    "start": 0.96,
+    "end": 1.12
+  },
+  {
+    "word": "A",
+    "start": 1.16,
+    "end": 1.2
+  },
+  {
+    "word": "MASK.",
+    "start": 1.328,
+    "end": 1.92
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.24,
+    "end": 3.84
+  },
+  {
+    "word": "ne",
+    "start": 3.92,
+    "end": 4.08
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.16,
+    "end": 4.56
+  },
+  {
+    "word": "pehle",
+    "start": 4.613,
+    "end": 4.96
+  },
+  {
+    "word": "ek",
+    "start": 5.04,
+    "end": 5.2
+  },
+  {
+    "word": "baat",
+    "start": 5.253,
+    "end": 5.52
+  },
+  {
+    "word": "kahi",
+    "start": 5.56,
+    "end": 5.76
+  },
+  {
+    "word": "thi:",
+    "start": 5.82,
+    "end": 6.64
+  },
+  {
+    "word": "Is",
+    "start": 6.693,
+    "end": 6.8
+  },
+  {
+    "word": "duniya",
+    "start": 6.88,
+    "end": 7.2
+  },
+  {
+    "word": "mein",
+    "start": 7.248,
+    "end": 7.44
+  },
+  {
+    "word": "char",
+    "start": 7.536,
+    "end": 7.92
+  },
+  {
+    "word": "cheezein",
+    "start": 7.98,
+    "end": 8.4
+  },
+  {
+    "word": "insaan",
+    "start": 8.48,
+    "end": 8.88
+  },
+  {
+    "word": "ke",
+    "start": 8.96,
+    "end": 9.12
+  },
+  {
+    "word": "sharir",
+    "start": 9.184,
+    "end": 9.6
+  },
+  {
+    "word": "ke",
+    "start": 9.653,
+    "end": 9.76
+  },
+  {
+    "word": "saath",
+    "start": 9.84,
+    "end": 10.08
+  },
+  {
+    "word": "judi",
+    "start": 10.16,
+    "end": 10.48
+  },
+  {
+    "word": "rehti",
+    "start": 10.507,
+    "end": 10.88
+  },
+  {
+    "word": "hain\u2014daan",
+    "start": 10.9,
+    "end": 12.16
+  },
+  {
+    "word": "karne",
+    "start": 12.2,
+    "end": 12.48
+  },
+  {
+    "word": "ki",
+    "start": 12.533,
+    "end": 12.64
+  },
+  {
+    "word": "pravritti,",
+    "start": 12.704,
+    "end": 14.0
+  },
+  {
+    "word": "meethi",
+    "start": 14.053,
+    "end": 14.48
+  },
+  {
+    "word": "vaani,",
+    "start": 14.533,
+    "end": 15.6
+  },
+  {
+    "word": "devon",
+    "start": 15.68,
+    "end": 16.0
+  },
+  {
+    "word": "ki",
+    "start": 16.053,
+    "end": 16.16
+  },
+  {
+    "word": "pooja,",
+    "start": 16.22,
+    "end": 16.72
+  },
+  {
+    "word": "aur",
+    "start": 16.9,
+    "end": 17.44
+  },
+  {
+    "word": "guruon",
+    "start": 17.52,
+    "end": 17.92
+  },
+  {
+    "word": "ka",
+    "start": 18.0,
+    "end": 18.16
+  },
+  {
+    "word": "sammaan.",
+    "start": 18.24,
+    "end": 18.8
+  },
+  {
+    "word": "Hum",
+    "start": 19.14,
+    "end": 20.16
+  },
+  {
+    "word": "aaj",
+    "start": 20.2,
+    "end": 20.4
+  },
+  {
+    "word": "kal",
+    "start": 20.44,
+    "end": 20.56
+  },
+  {
+    "word": "'networking'",
+    "start": 20.64,
+    "end": 21.44
+  },
+  {
+    "word": "aur",
+    "start": 21.48,
+    "end": 21.6
+  },
+  {
+    "word": "'branding'",
+    "start": 21.68,
+    "end": 22.24
+  },
+  {
+    "word": "ke",
+    "start": 22.267,
+    "end": 22.32
+  },
+  {
+    "word": "naam",
+    "start": 22.384,
+    "end": 22.64
+  },
+  {
+    "word": "par",
+    "start": 22.72,
+    "end": 22.96
+  },
+  {
+    "word": "logon",
+    "start": 23.12,
+    "end": 23.68
+  },
+  {
+    "word": "se",
+    "start": 23.733,
+    "end": 23.84
+  },
+  {
+    "word": "acche",
+    "start": 23.92,
+    "end": 24.24
+  },
+  {
+    "word": "bante",
+    "start": 24.28,
+    "end": 24.56
+  },
+  {
+    "word": "hain,",
+    "start": 24.6,
+    "end": 25.44
+  },
+  {
+    "word": "but",
+    "start": 25.46,
+    "end": 25.52
+  },
+  {
+    "word": "it's",
+    "start": 25.573,
+    "end": 25.84
+  },
+  {
+    "word": "all",
+    "start": 25.9,
+    "end": 26.08
+  },
+  {
+    "word": "fake.",
+    "start": 26.208,
+    "end": 26.8
+  },
+  {
+    "word": "True",
+    "start": 27.008,
+    "end": 27.84
+  },
+  {
+    "word": "power",
+    "start": 27.907,
+    "end": 28.24
+  },
+  {
+    "word": "doesn't",
+    "start": 28.28,
+    "end": 28.56
+  },
+  {
+    "word": "come",
+    "start": 28.608,
+    "end": 28.8
+  },
+  {
+    "word": "from",
+    "start": 28.832,
+    "end": 28.96
+  },
+  {
+    "word": "manipulating",
+    "start": 29.015,
+    "end": 29.68
+  },
+  {
+    "word": "people",
+    "start": 29.726,
+    "end": 30.0
+  },
+  {
+    "word": "with",
+    "start": 30.032,
+    "end": 30.16
+  },
+  {
+    "word": "sweet",
+    "start": 30.227,
+    "end": 30.56
+  },
+  {
+    "word": "talk,",
+    "start": 30.64,
+    "end": 31.04
+  },
+  {
+    "word": "but",
+    "start": 31.18,
+    "end": 31.6
+  },
+  {
+    "word": "from",
+    "start": 31.632,
+    "end": 31.76
+  },
+  {
+    "word": "genuine",
+    "start": 31.84,
+    "end": 32.4
+  },
+  {
+    "word": "generosity",
+    "start": 32.473,
+    "end": 33.2
+  },
+  {
+    "word": "and",
+    "start": 33.28,
+    "end": 33.52
+  },
+  {
+    "word": "respect.",
+    "start": 33.61,
+    "end": 34.32
+  },
+  {
+    "word": "Jab",
+    "start": 34.56,
+    "end": 35.28
+  },
+  {
+    "word": "tumhara",
+    "start": 35.32,
+    "end": 35.76
+  },
+  {
+    "word": "vyavhaar",
+    "start": 35.813,
+    "end": 36.24
+  },
+  {
+    "word": "selfless",
+    "start": 36.32,
+    "end": 36.8
+  },
+  {
+    "word": "hota",
+    "start": 36.86,
+    "end": 37.12
+  },
+  {
+    "word": "hai,",
+    "start": 37.16,
+    "end": 37.92
+  },
+  {
+    "word": "tabhi",
+    "start": 37.96,
+    "end": 38.16
+  },
+  {
+    "word": "tumhara",
+    "start": 38.22,
+    "end": 38.72
+  },
+  {
+    "word": "real",
+    "start": 38.8,
+    "end": 39.12
+  },
+  {
+    "word": "impact",
+    "start": 39.2,
+    "end": 39.68
+  },
+  {
+    "word": "banta",
+    "start": 39.72,
+    "end": 40.08
+  },
+  {
+    "word": "hai.",
+    "start": 40.12,
+    "end": 40.4
+  },
+  {
+    "word": "Stop",
+    "start": 40.592,
+    "end": 41.36
+  },
+  {
+    "word": "performing,",
+    "start": 41.418,
+    "end": 42.4
+  },
+  {
+    "word": "start",
+    "start": 42.467,
+    "end": 42.8
+  },
+  {
+    "word": "practicing",
+    "start": 42.858,
+    "end": 43.44
+  },
+  {
+    "word": "empathy.",
+    "start": 43.53,
+    "end": 44.24
+  },
+  {
+    "word": "Are",
+    "start": 44.46,
+    "end": 45.12
+  },
+  {
+    "word": "you",
+    "start": 45.16,
+    "end": 45.28
+  },
+  {
+    "word": "being",
+    "start": 45.32,
+    "end": 45.52
+  },
+  {
+    "word": "kind",
+    "start": 45.632,
+    "end": 46.08
+  },
+  {
+    "word": "or",
+    "start": 46.16,
+    "end": 46.32
+  },
+  {
+    "word": "just",
+    "start": 46.4,
+    "end": 46.72
+  },
+  {
+    "word": "being",
+    "start": 46.76,
+    "end": 46.96
+  },
+  {
+    "word": "strategic?",
+    "start": 47.04,
+    "end": 47.84
+  },
+  {
+    "word": "Comment",
+    "start": 47.98,
+    "end": 48.96
+  },
+  {
+    "word": "'Truth'",
+    "start": 49.12,
+    "end": 49.76
+  },
+  {
+    "word": "if",
+    "start": 49.867,
+    "end": 50.08
+  },
+  {
+    "word": "you",
+    "start": 50.1,
+    "end": 50.16
+  },
+  {
+    "word": "agree,",
+    "start": 50.24,
+    "end": 50.72
+  },
+  {
+    "word": "because",
+    "start": 50.8,
+    "end": 51.36
+  },
+  {
+    "word": "the",
+    "start": 51.38,
+    "end": 51.44
+  },
+  {
+    "word": "reality",
+    "start": 51.52,
+    "end": 52.08
+  },
+  {
+    "word": "is...",
+    "start": 52.213,
+    "end": 52.64
+  }
+]

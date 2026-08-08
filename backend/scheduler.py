@@ -337,7 +337,30 @@ if __name__ == "__main__":
     logger.info("=" * 60)
     logger.info("Chronos Scheduler v2.0 Started.")
     logger.info("=" * 60)
-    
+
+    # ── Step 0: Single-instance guard ─────────────────────────
+    # Bind a fixed localhost port. If it's already taken, another scheduler is
+    # running, so exit instead of stacking a second copy — the runaway that had
+    # several schedulers each firing ffmpeg renders at once. The socket releases
+    # automatically on exit, so there is no stale lock file to clean up.
+    import socket, subprocess
+    _singleton = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    try:
+        _singleton.bind(("127.0.0.1", 47921))
+    except OSError:
+        logger.warning("Another scheduler is already running (port 47921 busy). Exiting to avoid a second copy.")
+        sys.exit(0)
+
+    # ffmpeg/moviepy spawn a console window per invocation on Windows — that is
+    # the flashing. Force every child process this scheduler starts to run with
+    # no window.
+    if sys.platform == "win32":
+        _orig_popen_init = subprocess.Popen.__init__
+        def _no_window_init(self, *a, **k):
+            k["creationflags"] = k.get("creationflags", 0) | subprocess.CREATE_NO_WINDOW
+            _orig_popen_init(self, *a, **k)
+        subprocess.Popen.__init__ = _no_window_init
+
     # ── Step 1: Wait for Backend ──────────────────────────────
     if not wait_for_backend(max_retries=30, interval=10):
         logger.error("Exiting: Backend never became available.")

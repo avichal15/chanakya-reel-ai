@@ -1,0 +1,572 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "HARD",
+    "start": 0.224,
+    "end": 0.48
+  },
+  {
+    "word": "WORK",
+    "start": 0.544,
+    "end": 0.8
+  },
+  {
+    "word": "IS",
+    "start": 0.88,
+    "end": 1.04
+  },
+  {
+    "word": "USELESS.",
+    "start": 1.16,
+    "end": 1.92
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.192,
+    "end": 3.52
+  },
+  {
+    "word": "ne",
+    "start": 3.6,
+    "end": 3.76
+  },
+  {
+    "word": "sadiyon",
+    "start": 3.8,
+    "end": 4.16
+  },
+  {
+    "word": "pehle",
+    "start": 4.213,
+    "end": 4.48
+  },
+  {
+    "word": "ek",
+    "start": 4.587,
+    "end": 4.8
+  },
+  {
+    "word": "baat",
+    "start": 4.853,
+    "end": 5.12
+  },
+  {
+    "word": "kahi",
+    "start": 5.16,
+    "end": 5.36
+  },
+  {
+    "word": "thi:",
+    "start": 5.42,
+    "end": 6.24
+  },
+  {
+    "word": "Ek",
+    "start": 6.32,
+    "end": 6.48
+  },
+  {
+    "word": "haathi",
+    "start": 6.533,
+    "end": 6.8
+  },
+  {
+    "word": "ko",
+    "start": 6.88,
+    "end": 7.04
+  },
+  {
+    "word": "chote",
+    "start": 7.12,
+    "end": 7.52
+  },
+  {
+    "word": "se",
+    "start": 7.573,
+    "end": 7.68
+  },
+  {
+    "word": "dande",
+    "start": 7.72,
+    "end": 8.0
+  },
+  {
+    "word": "se,",
+    "start": 8.107,
+    "end": 8.4
+  },
+  {
+    "word": "ek",
+    "start": 8.667,
+    "end": 9.2
+  },
+  {
+    "word": "ghode",
+    "start": 9.253,
+    "end": 9.6
+  },
+  {
+    "word": "ko",
+    "start": 9.68,
+    "end": 9.84
+  },
+  {
+    "word": "halke",
+    "start": 9.94,
+    "end": 10.4
+  },
+  {
+    "word": "hath",
+    "start": 10.464,
+    "end": 10.72
+  },
+  {
+    "word": "se,",
+    "start": 10.8,
+    "end": 11.12
+  },
+  {
+    "word": "aur",
+    "start": 11.26,
+    "end": 11.68
+  },
+  {
+    "word": "ek",
+    "start": 11.733,
+    "end": 11.84
+  },
+  {
+    "word": "sher",
+    "start": 11.92,
+    "end": 12.24
+  },
+  {
+    "word": "ko",
+    "start": 12.32,
+    "end": 12.48
+  },
+  {
+    "word": "talwar",
+    "start": 12.56,
+    "end": 13.04
+  },
+  {
+    "word": "se",
+    "start": 13.093,
+    "end": 13.2
+  },
+  {
+    "word": "nahi,",
+    "start": 13.24,
+    "end": 14.0
+  },
+  {
+    "word": "balki",
+    "start": 14.08,
+    "end": 14.72
+  },
+  {
+    "word": "uske",
+    "start": 14.853,
+    "end": 15.2
+  },
+  {
+    "word": "swabhav",
+    "start": 15.28,
+    "end": 15.92
+  },
+  {
+    "word": "ke",
+    "start": 16.0,
+    "end": 16.16
+  },
+  {
+    "word": "anusaar",
+    "start": 16.213,
+    "end": 16.72
+  },
+  {
+    "word": "vash",
+    "start": 17.0,
+    "end": 17.52
+  },
+  {
+    "word": "mein",
+    "start": 17.552,
+    "end": 17.68
+  },
+  {
+    "word": "kiya",
+    "start": 17.733,
+    "end": 17.92
+  },
+  {
+    "word": "jata",
+    "start": 18.0,
+    "end": 18.24
+  },
+  {
+    "word": "hai.",
+    "start": 18.28,
+    "end": 19.36
+  },
+  {
+    "word": "Hum",
+    "start": 19.4,
+    "end": 19.52
+  },
+  {
+    "word": "sab",
+    "start": 19.62,
+    "end": 19.92
+  },
+  {
+    "word": "ek",
+    "start": 20.027,
+    "end": 20.24
+  },
+  {
+    "word": "hi",
+    "start": 20.267,
+    "end": 20.32
+  },
+  {
+    "word": "galti",
+    "start": 20.36,
+    "end": 20.64
+  },
+  {
+    "word": "karte",
+    "start": 20.68,
+    "end": 20.96
+  },
+  {
+    "word": "hain\u2014hum",
+    "start": 21.0,
+    "end": 22.0
+  },
+  {
+    "word": "har",
+    "start": 22.06,
+    "end": 22.24
+  },
+  {
+    "word": "problem",
+    "start": 22.29,
+    "end": 22.64
+  },
+  {
+    "word": "ko",
+    "start": 22.8,
+    "end": 23.12
+  },
+  {
+    "word": "ek",
+    "start": 23.28,
+    "end": 23.6
+  },
+  {
+    "word": "hi",
+    "start": 23.627,
+    "end": 23.68
+  },
+  {
+    "word": "tarah",
+    "start": 23.72,
+    "end": 23.92
+  },
+  {
+    "word": "se",
+    "start": 24.0,
+    "end": 24.16
+  },
+  {
+    "word": "solve",
+    "start": 24.213,
+    "end": 24.48
+  },
+  {
+    "word": "karne",
+    "start": 24.52,
+    "end": 24.72
+  },
+  {
+    "word": "ki",
+    "start": 24.773,
+    "end": 24.88
+  },
+  {
+    "word": "koshish",
+    "start": 24.96,
+    "end": 25.36
+  },
+  {
+    "word": "karte",
+    "start": 25.4,
+    "end": 25.68
+  },
+  {
+    "word": "hain.",
+    "start": 25.72,
+    "end": 25.92
+  },
+  {
+    "word": "Whether",
+    "start": 26.07,
+    "end": 27.12
+  },
+  {
+    "word": "it's",
+    "start": 27.147,
+    "end": 27.28
+  },
+  {
+    "word": "a",
+    "start": 27.32,
+    "end": 27.36
+  },
+  {
+    "word": "toxic",
+    "start": 27.44,
+    "end": 27.84
+  },
+  {
+    "word": "boss",
+    "start": 27.92,
+    "end": 28.24
+  },
+  {
+    "word": "or",
+    "start": 28.4,
+    "end": 28.72
+  },
+  {
+    "word": "a",
+    "start": 28.76,
+    "end": 28.8
+  },
+  {
+    "word": "failing",
+    "start": 28.85,
+    "end": 29.2
+  },
+  {
+    "word": "project,",
+    "start": 29.27,
+    "end": 30.24
+  },
+  {
+    "word": "brute",
+    "start": 30.307,
+    "end": 30.64
+  },
+  {
+    "word": "force",
+    "start": 30.72,
+    "end": 31.12
+  },
+  {
+    "word": "doesn't",
+    "start": 31.213,
+    "end": 31.76
+  },
+  {
+    "word": "work.",
+    "start": 31.872,
+    "end": 32.4
+  },
+  {
+    "word": "Right",
+    "start": 32.56,
+    "end": 33.36
+  },
+  {
+    "word": "tool,",
+    "start": 33.44,
+    "end": 33.84
+  },
+  {
+    "word": "right",
+    "start": 33.987,
+    "end": 34.72
+  },
+  {
+    "word": "person,",
+    "start": 34.8,
+    "end": 35.36
+  },
+  {
+    "word": "right",
+    "start": 35.533,
+    "end": 36.4
+  },
+  {
+    "word": "timing.",
+    "start": 36.503,
+    "end": 37.121
+  },
+  {
+    "word": "Agar",
+    "start": 37.467,
+    "end": 38.24
+  },
+  {
+    "word": "tum",
+    "start": 38.3,
+    "end": 38.48
+  },
+  {
+    "word": "galat",
+    "start": 38.56,
+    "end": 38.88
+  },
+  {
+    "word": "strategy",
+    "start": 38.942,
+    "end": 39.44
+  },
+  {
+    "word": "use",
+    "start": 39.52,
+    "end": 39.76
+  },
+  {
+    "word": "kar",
+    "start": 39.8,
+    "end": 39.92
+  },
+  {
+    "word": "rahe",
+    "start": 39.973,
+    "end": 40.16
+  },
+  {
+    "word": "ho,",
+    "start": 40.24,
+    "end": 40.48
+  },
+  {
+    "word": "toh",
+    "start": 40.58,
+    "end": 40.88
+  },
+  {
+    "word": "tum",
+    "start": 40.94,
+    "end": 41.12
+  },
+  {
+    "word": "sirf",
+    "start": 41.2,
+    "end": 41.52
+  },
+  {
+    "word": "thakoge,",
+    "start": 41.6,
+    "end": 42.64
+  },
+  {
+    "word": "jeetoge",
+    "start": 42.693,
+    "end": 43.12
+  },
+  {
+    "word": "nahi.",
+    "start": 43.2,
+    "end": 43.6
+  },
+  {
+    "word": "Are",
+    "start": 43.86,
+    "end": 44.64
+  },
+  {
+    "word": "you",
+    "start": 44.66,
+    "end": 44.72
+  },
+  {
+    "word": "fighting",
+    "start": 44.773,
+    "end": 45.2
+  },
+  {
+    "word": "the",
+    "start": 45.24,
+    "end": 45.36
+  },
+  {
+    "word": "wrong",
+    "start": 45.413,
+    "end": 45.68
+  },
+  {
+    "word": "battle",
+    "start": 45.749,
+    "end": 46.16
+  },
+  {
+    "word": "with",
+    "start": 46.24,
+    "end": 46.56
+  },
+  {
+    "word": "the",
+    "start": 46.58,
+    "end": 46.64
+  },
+  {
+    "word": "wrong",
+    "start": 46.693,
+    "end": 46.96
+  },
+  {
+    "word": "tools?",
+    "start": 47.067,
+    "end": 47.76
+  },
+  {
+    "word": "Comment",
+    "start": 47.89,
+    "end": 48.8
+  },
+  {
+    "word": "'STRATEGY'",
+    "start": 48.96,
+    "end": 50.08
+  },
+  {
+    "word": "to",
+    "start": 50.133,
+    "end": 50.24
+  },
+  {
+    "word": "learn",
+    "start": 50.307,
+    "end": 50.64
+  },
+  {
+    "word": "how,",
+    "start": 50.74,
+    "end": 51.12
+  },
+  {
+    "word": "and",
+    "start": 51.26,
+    "end": 51.68
+  },
+  {
+    "word": "realize",
+    "start": 51.75,
+    "end": 52.24
+  },
+  {
+    "word": "that...",
+    "start": 52.32,
+    "end": 52.8
+  }
+]

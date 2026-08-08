@@ -1,0 +1,602 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "PRETENDING",
+    "start": 0.4,
+    "end": 0.96
+  },
+  {
+    "word": "TO",
+    "start": 1.013,
+    "end": 1.12
+  },
+  {
+    "word": "BE",
+    "start": 1.227,
+    "end": 1.44
+  },
+  {
+    "word": "A",
+    "start": 1.52,
+    "end": 1.6
+  },
+  {
+    "word": "GOOD",
+    "start": 1.68,
+    "end": 2.0
+  },
+  {
+    "word": "PERSON.",
+    "start": 2.114,
+    "end": 2.88
+  },
+  {
+    "word": "Chanakya",
+    "start": 3.136,
+    "end": 4.48
+  },
+  {
+    "word": "ne",
+    "start": 4.56,
+    "end": 4.72
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.8,
+    "end": 5.2
+  },
+  {
+    "word": "pehle",
+    "start": 5.253,
+    "end": 5.6
+  },
+  {
+    "word": "ek",
+    "start": 5.707,
+    "end": 5.92
+  },
+  {
+    "word": "baat",
+    "start": 5.973,
+    "end": 6.24
+  },
+  {
+    "word": "kahi",
+    "start": 6.28,
+    "end": 6.48
+  },
+  {
+    "word": "thi:",
+    "start": 6.54,
+    "end": 6.88
+  },
+  {
+    "word": "Sirf",
+    "start": 7.12,
+    "end": 8.0
+  },
+  {
+    "word": "sharir",
+    "start": 8.064,
+    "end": 8.4
+  },
+  {
+    "word": "ko",
+    "start": 8.48,
+    "end": 8.64
+  },
+  {
+    "word": "dhona",
+    "start": 8.667,
+    "end": 8.96
+  },
+  {
+    "word": "shuddhta",
+    "start": 9.013,
+    "end": 9.36
+  },
+  {
+    "word": "nahi",
+    "start": 9.4,
+    "end": 9.68
+  },
+  {
+    "word": "hai;",
+    "start": 9.72,
+    "end": 10.0
+  },
+  {
+    "word": "asli",
+    "start": 10.32,
+    "end": 11.12
+  },
+  {
+    "word": "pavitrata",
+    "start": 11.18,
+    "end": 11.84
+  },
+  {
+    "word": "vachan",
+    "start": 11.92,
+    "end": 12.24
+  },
+  {
+    "word": "ki",
+    "start": 12.293,
+    "end": 12.4
+  },
+  {
+    "word": "sachai,",
+    "start": 12.448,
+    "end": 13.04
+  },
+  {
+    "word": "mann",
+    "start": 13.2,
+    "end": 13.84
+  },
+  {
+    "word": "ki",
+    "start": 13.893,
+    "end": 14.0
+  },
+  {
+    "word": "nirmalta,",
+    "start": 14.08,
+    "end": 14.72
+  },
+  {
+    "word": "aur",
+    "start": 14.9,
+    "end": 15.44
+  },
+  {
+    "word": "har",
+    "start": 15.54,
+    "end": 15.84
+  },
+  {
+    "word": "jeev",
+    "start": 15.92,
+    "end": 16.16
+  },
+  {
+    "word": "ke",
+    "start": 16.24,
+    "end": 16.4
+  },
+  {
+    "word": "prati",
+    "start": 16.48,
+    "end": 16.88
+  },
+  {
+    "word": "daya",
+    "start": 16.94,
+    "end": 17.2
+  },
+  {
+    "word": "mein",
+    "start": 17.232,
+    "end": 17.36
+  },
+  {
+    "word": "basti",
+    "start": 17.44,
+    "end": 17.84
+  },
+  {
+    "word": "hai.",
+    "start": 17.88,
+    "end": 18.16
+  },
+  {
+    "word": "Hum",
+    "start": 18.46,
+    "end": 19.36
+  },
+  {
+    "word": "sab",
+    "start": 19.44,
+    "end": 19.68
+  },
+  {
+    "word": "social",
+    "start": 19.737,
+    "end": 20.08
+  },
+  {
+    "word": "media",
+    "start": 20.133,
+    "end": 20.4
+  },
+  {
+    "word": "par",
+    "start": 20.48,
+    "end": 20.72
+  },
+  {
+    "word": "'aesthetic'",
+    "start": 20.76,
+    "end": 21.52
+  },
+  {
+    "word": "aur",
+    "start": 21.56,
+    "end": 21.68
+  },
+  {
+    "word": "'perfect'",
+    "start": 21.76,
+    "end": 22.4
+  },
+  {
+    "word": "dikhne",
+    "start": 22.48,
+    "end": 22.8
+  },
+  {
+    "word": "ki",
+    "start": 22.827,
+    "end": 22.88
+  },
+  {
+    "word": "koshish",
+    "start": 22.96,
+    "end": 23.36
+  },
+  {
+    "word": "karte",
+    "start": 23.4,
+    "end": 23.68
+  },
+  {
+    "word": "hain,",
+    "start": 23.72,
+    "end": 24.0
+  },
+  {
+    "word": "par",
+    "start": 24.16,
+    "end": 24.64
+  },
+  {
+    "word": "andar",
+    "start": 24.68,
+    "end": 24.88
+  },
+  {
+    "word": "se",
+    "start": 24.96,
+    "end": 25.12
+  },
+  {
+    "word": "hum",
+    "start": 25.18,
+    "end": 25.36
+  },
+  {
+    "word": "frustration",
+    "start": 25.427,
+    "end": 26.16
+  },
+  {
+    "word": "aur",
+    "start": 26.22,
+    "end": 26.4
+  },
+  {
+    "word": "negativity",
+    "start": 26.458,
+    "end": 27.04
+  },
+  {
+    "word": "se",
+    "start": 27.12,
+    "end": 27.28
+  },
+  {
+    "word": "bhare",
+    "start": 27.307,
+    "end": 27.52
+  },
+  {
+    "word": "hote",
+    "start": 27.56,
+    "end": 27.84
+  },
+  {
+    "word": "hain.",
+    "start": 27.88,
+    "end": 28.16
+  },
+  {
+    "word": "Real",
+    "start": 28.384,
+    "end": 29.28
+  },
+  {
+    "word": "growth",
+    "start": 29.349,
+    "end": 29.76
+  },
+  {
+    "word": "surface-level",
+    "start": 29.85,
+    "end": 30.72
+  },
+  {
+    "word": "cleaning",
+    "start": 30.773,
+    "end": 31.2
+  },
+  {
+    "word": "se",
+    "start": 31.253,
+    "end": 31.36
+  },
+  {
+    "word": "nahi,",
+    "start": 31.4,
+    "end": 31.84
+  },
+  {
+    "word": "balki",
+    "start": 31.968,
+    "end": 32.56
+  },
+  {
+    "word": "apne",
+    "start": 32.613,
+    "end": 32.88
+  },
+  {
+    "word": "words",
+    "start": 32.987,
+    "end": 33.52
+  },
+  {
+    "word": "aur",
+    "start": 33.58,
+    "end": 33.76
+  },
+  {
+    "word": "intentions",
+    "start": 33.825,
+    "end": 34.48
+  },
+  {
+    "word": "ko",
+    "start": 34.533,
+    "end": 34.64
+  },
+  {
+    "word": "clean",
+    "start": 34.693,
+    "end": 34.96
+  },
+  {
+    "word": "karne",
+    "start": 35.0,
+    "end": 35.28
+  },
+  {
+    "word": "se",
+    "start": 35.333,
+    "end": 35.44
+  },
+  {
+    "word": "aati",
+    "start": 35.48,
+    "end": 35.76
+  },
+  {
+    "word": "hai.",
+    "start": 35.8,
+    "end": 36.08
+  },
+  {
+    "word": "Be",
+    "start": 36.427,
+    "end": 37.12
+  },
+  {
+    "word": "honest",
+    "start": 37.177,
+    "end": 37.52
+  },
+  {
+    "word": "with",
+    "start": 37.552,
+    "end": 37.68
+  },
+  {
+    "word": "yourself",
+    "start": 37.742,
+    "end": 38.24
+  },
+  {
+    "word": "and",
+    "start": 38.32,
+    "end": 38.56
+  },
+  {
+    "word": "empathetic",
+    "start": 38.629,
+    "end": 39.28
+  },
+  {
+    "word": "to",
+    "start": 39.333,
+    "end": 39.44
+  },
+  {
+    "word": "others,",
+    "start": 39.497,
+    "end": 40.0
+  },
+  {
+    "word": "because",
+    "start": 40.09,
+    "end": 40.72
+  },
+  {
+    "word": "that",
+    "start": 40.768,
+    "end": 40.96
+  },
+  {
+    "word": "is",
+    "start": 41.013,
+    "end": 41.12
+  },
+  {
+    "word": "where",
+    "start": 41.173,
+    "end": 41.44
+  },
+  {
+    "word": "true",
+    "start": 41.552,
+    "end": 42.0
+  },
+  {
+    "word": "power",
+    "start": 42.08,
+    "end": 42.48
+  },
+  {
+    "word": "lies.",
+    "start": 42.592,
+    "end": 43.2
+  },
+  {
+    "word": "Are",
+    "start": 43.46,
+    "end": 44.24
+  },
+  {
+    "word": "you",
+    "start": 44.32,
+    "end": 44.56
+  },
+  {
+    "word": "actually",
+    "start": 44.613,
+    "end": 45.04
+  },
+  {
+    "word": "pure,",
+    "start": 45.152,
+    "end": 45.88
+  },
+  {
+    "word": "or",
+    "start": 45.973,
+    "end": 46.16
+  },
+  {
+    "word": "just",
+    "start": 46.224,
+    "end": 46.48
+  },
+  {
+    "word": "playing",
+    "start": 46.52,
+    "end": 46.8
+  },
+  {
+    "word": "the",
+    "start": 46.82,
+    "end": 46.88
+  },
+  {
+    "word": "part?",
+    "start": 46.992,
+    "end": 47.52
+  },
+  {
+    "word": "Let",
+    "start": 47.78,
+    "end": 48.56
+  },
+  {
+    "word": "me",
+    "start": 48.613,
+    "end": 48.72
+  },
+  {
+    "word": "know",
+    "start": 48.752,
+    "end": 48.88
+  },
+  {
+    "word": "in",
+    "start": 48.933,
+    "end": 49.04
+  },
+  {
+    "word": "the",
+    "start": 49.06,
+    "end": 49.12
+  },
+  {
+    "word": "comments,",
+    "start": 49.182,
+    "end": 50.04
+  },
+  {
+    "word": "because",
+    "start": 50.085,
+    "end": 50.4
+  },
+  {
+    "word": "if",
+    "start": 50.427,
+    "end": 50.48
+  },
+  {
+    "word": "you're",
+    "start": 50.5,
+    "end": 50.64
+  },
+  {
+    "word": "just",
+    "start": 50.704,
+    "end": 50.96
+  },
+  {
+    "word": "acting,",
+    "start": 51.051,
+    "end": 51.96
+  },
+  {
+    "word": "then",
+    "start": 52.032,
+    "end": 52.32
+  },
+  {
+    "word": "you",
+    "start": 52.36,
+    "end": 52.48
+  },
+  {
+    "word": "must",
+    "start": 52.544,
+    "end": 52.8
+  },
+  {
+    "word": "realize",
+    "start": 52.88,
+    "end": 53.44
+  },
+  {
+    "word": "that...",
+    "start": 53.504,
+    "end": 53.92
+  }
+]

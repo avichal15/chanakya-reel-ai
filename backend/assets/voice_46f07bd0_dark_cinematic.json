@@ -1,0 +1,587 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "OPINION",
+    "start": 0.24,
+    "end": 0.64
+  },
+  {
+    "word": "OF",
+    "start": 0.693,
+    "end": 0.8
+  },
+  {
+    "word": "OTHERS",
+    "start": 0.853,
+    "end": 1.2
+  },
+  {
+    "word": "IS",
+    "start": 1.28,
+    "end": 1.44
+  },
+  {
+    "word": "YOUR",
+    "start": 1.472,
+    "end": 1.6
+  },
+  {
+    "word": "OWN",
+    "start": 1.7,
+    "end": 2.0
+  },
+  {
+    "word": "PRISON.",
+    "start": 2.08,
+    "end": 2.64
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.96,
+    "end": 4.56
+  },
+  {
+    "word": "ne",
+    "start": 4.64,
+    "end": 4.8
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.84,
+    "end": 5.2
+  },
+  {
+    "word": "pehle",
+    "start": 5.253,
+    "end": 5.6
+  },
+  {
+    "word": "ek",
+    "start": 5.707,
+    "end": 5.92
+  },
+  {
+    "word": "baat",
+    "start": 5.973,
+    "end": 6.24
+  },
+  {
+    "word": "kahi",
+    "start": 6.28,
+    "end": 6.48
+  },
+  {
+    "word": "thi:",
+    "start": 6.56,
+    "end": 7.52
+  },
+  {
+    "word": "'Ek",
+    "start": 7.6,
+    "end": 7.84
+  },
+  {
+    "word": "Yavan",
+    "start": 7.92,
+    "end": 8.4
+  },
+  {
+    "word": "(videshi)",
+    "start": 8.52,
+    "end": 9.44
+  },
+  {
+    "word": "bhi",
+    "start": 9.56,
+    "end": 9.76
+  },
+  {
+    "word": "utna",
+    "start": 9.867,
+    "end": 10.24
+  },
+  {
+    "word": "hi",
+    "start": 10.267,
+    "end": 10.32
+  },
+  {
+    "word": "kabil",
+    "start": 10.413,
+    "end": 10.88
+  },
+  {
+    "word": "ya",
+    "start": 11.04,
+    "end": 11.36
+  },
+  {
+    "word": "nicha",
+    "start": 11.44,
+    "end": 11.84
+  },
+  {
+    "word": "ho",
+    "start": 11.893,
+    "end": 12.0
+  },
+  {
+    "word": "sakta",
+    "start": 12.06,
+    "end": 12.32
+  },
+  {
+    "word": "hai",
+    "start": 12.36,
+    "end": 12.48
+  },
+  {
+    "word": "jitna",
+    "start": 12.56,
+    "end": 12.88
+  },
+  {
+    "word": "koi",
+    "start": 12.96,
+    "end": 13.2
+  },
+  {
+    "word": "aur;",
+    "start": 13.28,
+    "end": 14.4
+  },
+  {
+    "word": "kisi",
+    "start": 14.44,
+    "end": 14.64
+  },
+  {
+    "word": "ki",
+    "start": 14.693,
+    "end": 14.8
+  },
+  {
+    "word": "kshamta",
+    "start": 14.88,
+    "end": 15.44
+  },
+  {
+    "word": "uski",
+    "start": 15.52,
+    "end": 15.76
+  },
+  {
+    "word": "jaati",
+    "start": 15.84,
+    "end": 16.32
+  },
+  {
+    "word": "ya",
+    "start": 16.373,
+    "end": 16.48
+  },
+  {
+    "word": "desh",
+    "start": 16.58,
+    "end": 16.96
+  },
+  {
+    "word": "se",
+    "start": 16.987,
+    "end": 17.04
+  },
+  {
+    "word": "nahi,",
+    "start": 17.08,
+    "end": 17.92
+  },
+  {
+    "word": "balki",
+    "start": 17.984,
+    "end": 18.32
+  },
+  {
+    "word": "uske",
+    "start": 18.427,
+    "end": 18.72
+  },
+  {
+    "word": "karmon",
+    "start": 18.78,
+    "end": 19.2
+  },
+  {
+    "word": "se",
+    "start": 19.253,
+    "end": 19.36
+  },
+  {
+    "word": "tay",
+    "start": 19.42,
+    "end": 19.6
+  },
+  {
+    "word": "hoti",
+    "start": 19.66,
+    "end": 19.92
+  },
+  {
+    "word": "hai.'",
+    "start": 19.96,
+    "end": 20.16
+  },
+  {
+    "word": "Hum",
+    "start": 20.46,
+    "end": 21.36
+  },
+  {
+    "word": "aaj",
+    "start": 21.48,
+    "end": 21.68
+  },
+  {
+    "word": "bhi",
+    "start": 21.72,
+    "end": 21.84
+  },
+  {
+    "word": "logon",
+    "start": 21.9,
+    "end": 22.24
+  },
+  {
+    "word": "ko",
+    "start": 22.32,
+    "end": 22.48
+  },
+  {
+    "word": "unke",
+    "start": 22.56,
+    "end": 22.8
+  },
+  {
+    "word": "background,",
+    "start": 22.858,
+    "end": 23.76
+  },
+  {
+    "word": "unki",
+    "start": 23.84,
+    "end": 24.24
+  },
+  {
+    "word": "degree,",
+    "start": 24.274,
+    "end": 24.64
+  },
+  {
+    "word": "ya",
+    "start": 24.773,
+    "end": 25.04
+  },
+  {
+    "word": "unke",
+    "start": 25.12,
+    "end": 25.36
+  },
+  {
+    "word": "accent",
+    "start": 25.44,
+    "end": 25.92
+  },
+  {
+    "word": "se",
+    "start": 25.973,
+    "end": 26.08
+  },
+  {
+    "word": "judge",
+    "start": 26.12,
+    "end": 26.32
+  },
+  {
+    "word": "karte",
+    "start": 26.36,
+    "end": 26.72
+  },
+  {
+    "word": "hain.",
+    "start": 26.76,
+    "end": 27.68
+  },
+  {
+    "word": "Par",
+    "start": 27.72,
+    "end": 27.84
+  },
+  {
+    "word": "real",
+    "start": 27.92,
+    "end": 28.24
+  },
+  {
+    "word": "growth",
+    "start": 28.297,
+    "end": 28.64
+  },
+  {
+    "word": "tab",
+    "start": 28.72,
+    "end": 28.96
+  },
+  {
+    "word": "aati",
+    "start": 29.0,
+    "end": 29.2
+  },
+  {
+    "word": "hai",
+    "start": 29.28,
+    "end": 29.52
+  },
+  {
+    "word": "jab",
+    "start": 29.66,
+    "end": 30.08
+  },
+  {
+    "word": "tum",
+    "start": 30.12,
+    "end": 30.24
+  },
+  {
+    "word": "'label'",
+    "start": 30.32,
+    "end": 30.72
+  },
+  {
+    "word": "ko",
+    "start": 30.747,
+    "end": 30.8
+  },
+  {
+    "word": "hata",
+    "start": 30.88,
+    "end": 31.12
+  },
+  {
+    "word": "kar",
+    "start": 31.2,
+    "end": 31.44
+  },
+  {
+    "word": "'value'",
+    "start": 31.68,
+    "end": 32.32
+  },
+  {
+    "word": "ko",
+    "start": 32.347,
+    "end": 32.4
+  },
+  {
+    "word": "dekhte",
+    "start": 32.46,
+    "end": 32.8
+  },
+  {
+    "word": "ho.",
+    "start": 32.853,
+    "end": 33.12
+  },
+  {
+    "word": "In",
+    "start": 33.413,
+    "end": 34.0
+  },
+  {
+    "word": "a",
+    "start": 34.04,
+    "end": 34.08
+  },
+  {
+    "word": "global",
+    "start": 34.149,
+    "end": 34.56
+  },
+  {
+    "word": "world,",
+    "start": 34.653,
+    "end": 35.52
+  },
+  {
+    "word": "judging",
+    "start": 35.56,
+    "end": 35.84
+  },
+  {
+    "word": "someone",
+    "start": 35.89,
+    "end": 36.24
+  },
+  {
+    "word": "by",
+    "start": 36.293,
+    "end": 36.4
+  },
+  {
+    "word": "their",
+    "start": 36.427,
+    "end": 36.56
+  },
+  {
+    "word": "origin",
+    "start": 36.64,
+    "end": 37.12
+  },
+  {
+    "word": "is",
+    "start": 37.2,
+    "end": 37.36
+  },
+  {
+    "word": "not",
+    "start": 37.44,
+    "end": 37.68
+  },
+  {
+    "word": "just",
+    "start": 37.728,
+    "end": 37.92
+  },
+  {
+    "word": "narrow-minded\u2014it's",
+    "start": 37.954,
+    "end": 39.52
+  },
+  {
+    "word": "a",
+    "start": 39.56,
+    "end": 39.6
+  },
+  {
+    "word": "strategic",
+    "start": 39.664,
+    "end": 40.24
+  },
+  {
+    "word": "mistake.",
+    "start": 40.31,
+    "end": 40.96
+  },
+  {
+    "word": "Competence",
+    "start": 41.109,
+    "end": 42.24
+  },
+  {
+    "word": "has",
+    "start": 42.3,
+    "end": 42.48
+  },
+  {
+    "word": "no",
+    "start": 42.613,
+    "end": 42.88
+  },
+  {
+    "word": "nationality.",
+    "start": 42.947,
+    "end": 43.84
+  },
+  {
+    "word": "Who",
+    "start": 44.08,
+    "end": 44.8
+  },
+  {
+    "word": "is",
+    "start": 44.853,
+    "end": 44.96
+  },
+  {
+    "word": "someone",
+    "start": 45.0,
+    "end": 45.28
+  },
+  {
+    "word": "you",
+    "start": 45.34,
+    "end": 45.52
+  },
+  {
+    "word": "underestimated",
+    "start": 45.584,
+    "end": 46.48
+  },
+  {
+    "word": "because",
+    "start": 46.51,
+    "end": 46.72
+  },
+  {
+    "word": "of",
+    "start": 46.773,
+    "end": 46.88
+  },
+  {
+    "word": "a",
+    "start": 47.04,
+    "end": 47.2
+  },
+  {
+    "word": "bias?",
+    "start": 47.264,
+    "end": 47.6
+  },
+  {
+    "word": "Share",
+    "start": 47.773,
+    "end": 48.64
+  },
+  {
+    "word": "your",
+    "start": 48.688,
+    "end": 48.88
+  },
+  {
+    "word": "story",
+    "start": 48.96,
+    "end": 49.36
+  },
+  {
+    "word": "below,",
+    "start": 49.427,
+    "end": 49.84
+  },
+  {
+    "word": "because",
+    "start": 49.95,
+    "end": 50.72
+  },
+  {
+    "word": "you",
+    "start": 50.78,
+    "end": 50.96
+  },
+  {
+    "word": "must",
+    "start": 51.024,
+    "end": 51.28
+  },
+  {
+    "word": "realize",
+    "start": 51.35,
+    "end": 51.84
+  },
+  {
+    "word": "that...",
+    "start": 51.904,
+    "end": 52.32
+  }
+]

@@ -1,0 +1,487 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "KINDNESS",
+    "start": 0.256,
+    "end": 0.96
+  },
+  {
+    "word": "IS",
+    "start": 1.147,
+    "end": 1.52
+  },
+  {
+    "word": "YOUR",
+    "start": 1.6,
+    "end": 1.92
+  },
+  {
+    "word": "WEAKNESS.",
+    "start": 1.973,
+    "end": 2.8
+  },
+  {
+    "word": "Chanakya",
+    "start": 3.104,
+    "end": 4.64
+  },
+  {
+    "word": "ne",
+    "start": 4.72,
+    "end": 4.88
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.96,
+    "end": 5.36
+  },
+  {
+    "word": "pehle",
+    "start": 5.44,
+    "end": 5.76
+  },
+  {
+    "word": "ek",
+    "start": 5.893,
+    "end": 6.16
+  },
+  {
+    "word": "baat",
+    "start": 6.213,
+    "end": 6.48
+  },
+  {
+    "word": "kahi",
+    "start": 6.52,
+    "end": 6.72
+  },
+  {
+    "word": "thi:",
+    "start": 6.78,
+    "end": 7.68
+  },
+  {
+    "word": "'Sajjan",
+    "start": 7.72,
+    "end": 8.16
+  },
+  {
+    "word": "log",
+    "start": 8.24,
+    "end": 8.48
+  },
+  {
+    "word": "hamesha",
+    "start": 8.52,
+    "end": 8.96
+  },
+  {
+    "word": "shanti",
+    "start": 9.04,
+    "end": 9.6
+  },
+  {
+    "word": "aur",
+    "start": 9.68,
+    "end": 9.92
+  },
+  {
+    "word": "maryada",
+    "start": 9.968,
+    "end": 10.4
+  },
+  {
+    "word": "mein",
+    "start": 10.416,
+    "end": 10.48
+  },
+  {
+    "word": "rehte",
+    "start": 10.507,
+    "end": 10.8
+  },
+  {
+    "word": "hain,",
+    "start": 10.84,
+    "end": 11.52
+  },
+  {
+    "word": "lekin",
+    "start": 11.6,
+    "end": 11.92
+  },
+  {
+    "word": "durjan",
+    "start": 12.0,
+    "end": 12.64
+  },
+  {
+    "word": "hamesha",
+    "start": 12.72,
+    "end": 13.28
+  },
+  {
+    "word": "unke",
+    "start": 13.413,
+    "end": 13.76
+  },
+  {
+    "word": "hi",
+    "start": 13.813,
+    "end": 13.92
+  },
+  {
+    "word": "aas-paas",
+    "start": 14.0,
+    "end": 14.56
+  },
+  {
+    "word": "mauka",
+    "start": 14.62,
+    "end": 14.96
+  },
+  {
+    "word": "dhoondhte",
+    "start": 15.0,
+    "end": 15.36
+  },
+  {
+    "word": "hain.'",
+    "start": 15.4,
+    "end": 15.68
+  },
+  {
+    "word": "Aaj",
+    "start": 16.28,
+    "end": 17.04
+  },
+  {
+    "word": "kal",
+    "start": 17.1,
+    "end": 17.28
+  },
+  {
+    "word": "hum",
+    "start": 17.36,
+    "end": 17.6
+  },
+  {
+    "word": "'being",
+    "start": 17.76,
+    "end": 18.24
+  },
+  {
+    "word": "nice'",
+    "start": 18.336,
+    "end": 18.8
+  },
+  {
+    "word": "ko",
+    "start": 18.907,
+    "end": 19.12
+  },
+  {
+    "word": "apni",
+    "start": 19.2,
+    "end": 19.44
+  },
+  {
+    "word": "personality",
+    "start": 19.5,
+    "end": 20.16
+  },
+  {
+    "word": "bana",
+    "start": 20.208,
+    "end": 20.4
+  },
+  {
+    "word": "lete",
+    "start": 20.453,
+    "end": 20.8
+  },
+  {
+    "word": "hain,",
+    "start": 20.82,
+    "end": 21.6
+  },
+  {
+    "word": "par",
+    "start": 21.64,
+    "end": 21.76
+  },
+  {
+    "word": "bina",
+    "start": 21.84,
+    "end": 22.16
+  },
+  {
+    "word": "boundaries",
+    "start": 22.211,
+    "end": 22.72
+  },
+  {
+    "word": "ke",
+    "start": 22.773,
+    "end": 22.88
+  },
+  {
+    "word": "kindness",
+    "start": 22.96,
+    "end": 23.6
+  },
+  {
+    "word": "sirf",
+    "start": 23.74,
+    "end": 24.32
+  },
+  {
+    "word": "ek",
+    "start": 24.4,
+    "end": 24.56
+  },
+  {
+    "word": "invitation",
+    "start": 24.625,
+    "end": 25.28
+  },
+  {
+    "word": "hai",
+    "start": 25.34,
+    "end": 25.52
+  },
+  {
+    "word": "logon",
+    "start": 25.6,
+    "end": 25.92
+  },
+  {
+    "word": "ko",
+    "start": 25.973,
+    "end": 26.08
+  },
+  {
+    "word": "tumhe",
+    "start": 26.14,
+    "end": 26.48
+  },
+  {
+    "word": "exploit",
+    "start": 26.56,
+    "end": 27.12
+  },
+  {
+    "word": "karne",
+    "start": 27.16,
+    "end": 27.44
+  },
+  {
+    "word": "ke",
+    "start": 27.493,
+    "end": 27.6
+  },
+  {
+    "word": "liye.",
+    "start": 27.653,
+    "end": 27.92
+  },
+  {
+    "word": "Being",
+    "start": 28.133,
+    "end": 29.2
+  },
+  {
+    "word": "a",
+    "start": 29.24,
+    "end": 29.28
+  },
+  {
+    "word": "good",
+    "start": 29.344,
+    "end": 29.6
+  },
+  {
+    "word": "person",
+    "start": 29.68,
+    "end": 30.16
+  },
+  {
+    "word": "doesn't",
+    "start": 30.253,
+    "end": 30.88
+  },
+  {
+    "word": "mean",
+    "start": 30.944,
+    "end": 31.2
+  },
+  {
+    "word": "being",
+    "start": 31.253,
+    "end": 31.52
+  },
+  {
+    "word": "a",
+    "start": 31.56,
+    "end": 31.6
+  },
+  {
+    "word": "doormat.",
+    "start": 31.68,
+    "end": 32.4
+  },
+  {
+    "word": "Learn",
+    "start": 32.56,
+    "end": 33.36
+  },
+  {
+    "word": "to",
+    "start": 33.413,
+    "end": 33.52
+  },
+  {
+    "word": "be",
+    "start": 33.573,
+    "end": 33.68
+  },
+  {
+    "word": "strategically",
+    "start": 33.737,
+    "end": 34.48
+  },
+  {
+    "word": "cold",
+    "start": 34.592,
+    "end": 35.04
+  },
+  {
+    "word": "with",
+    "start": 35.072,
+    "end": 35.2
+  },
+  {
+    "word": "those",
+    "start": 35.253,
+    "end": 35.52
+  },
+  {
+    "word": "who",
+    "start": 35.54,
+    "end": 35.6
+  },
+  {
+    "word": "don't",
+    "start": 35.68,
+    "end": 36.0
+  },
+  {
+    "word": "respect",
+    "start": 36.06,
+    "end": 36.48
+  },
+  {
+    "word": "your",
+    "start": 36.512,
+    "end": 36.64
+  },
+  {
+    "word": "value.",
+    "start": 36.72,
+    "end": 37.2
+  },
+  {
+    "word": "Tag",
+    "start": 37.48,
+    "end": 38.32
+  },
+  {
+    "word": "that",
+    "start": 38.352,
+    "end": 38.48
+  },
+  {
+    "word": "one",
+    "start": 38.54,
+    "end": 38.72
+  },
+  {
+    "word": "friend",
+    "start": 38.789,
+    "end": 39.2
+  },
+  {
+    "word": "who",
+    "start": 39.22,
+    "end": 39.28
+  },
+  {
+    "word": "is",
+    "start": 39.333,
+    "end": 39.44
+  },
+  {
+    "word": "too",
+    "start": 39.52,
+    "end": 39.76
+  },
+  {
+    "word": "nice",
+    "start": 39.84,
+    "end": 40.16
+  },
+  {
+    "word": "for",
+    "start": 40.18,
+    "end": 40.24
+  },
+  {
+    "word": "their",
+    "start": 40.267,
+    "end": 40.4
+  },
+  {
+    "word": "own",
+    "start": 40.46,
+    "end": 40.64
+  },
+  {
+    "word": "good,",
+    "start": 40.704,
+    "end": 41.12
+  },
+  {
+    "word": "because",
+    "start": 41.2,
+    "end": 41.76
+  },
+  {
+    "word": "they",
+    "start": 41.808,
+    "end": 42.0
+  },
+  {
+    "word": "need",
+    "start": 42.064,
+    "end": 42.32
+  },
+  {
+    "word": "to",
+    "start": 42.347,
+    "end": 42.4
+  },
+  {
+    "word": "know",
+    "start": 42.496,
+    "end": 42.88
+  },
+  {
+    "word": "that...",
+    "start": 42.992,
+    "end": 43.6
+  }
+]

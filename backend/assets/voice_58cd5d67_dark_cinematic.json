@@ -1,0 +1,577 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "AMBITION",
+    "start": 0.32,
+    "end": 0.8
+  },
+  {
+    "word": "IS",
+    "start": 0.907,
+    "end": 1.12
+  },
+  {
+    "word": "KILLING",
+    "start": 1.24,
+    "end": 1.6
+  },
+  {
+    "word": "YOU.",
+    "start": 1.66,
+    "end": 1.92
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.224,
+    "end": 3.76
+  },
+  {
+    "word": "ne",
+    "start": 3.84,
+    "end": 4.0
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.04,
+    "end": 4.4
+  },
+  {
+    "word": "pehle",
+    "start": 4.453,
+    "end": 4.8
+  },
+  {
+    "word": "ek",
+    "start": 4.907,
+    "end": 5.12
+  },
+  {
+    "word": "baat",
+    "start": 5.2,
+    "end": 5.52
+  },
+  {
+    "word": "kahi",
+    "start": 5.56,
+    "end": 5.76
+  },
+  {
+    "word": "thi:",
+    "start": 5.84,
+    "end": 6.16
+  },
+  {
+    "word": "Insaan",
+    "start": 6.48,
+    "end": 7.44
+  },
+  {
+    "word": "ki",
+    "start": 7.493,
+    "end": 7.6
+  },
+  {
+    "word": "ichchayein",
+    "start": 7.66,
+    "end": 8.16
+  },
+  {
+    "word": "ek",
+    "start": 8.24,
+    "end": 8.4
+  },
+  {
+    "word": "aisi",
+    "start": 8.48,
+    "end": 8.88
+  },
+  {
+    "word": "nadi",
+    "start": 8.96,
+    "end": 9.2
+  },
+  {
+    "word": "ki",
+    "start": 9.253,
+    "end": 9.36
+  },
+  {
+    "word": "tarah",
+    "start": 9.4,
+    "end": 9.6
+  },
+  {
+    "word": "hain",
+    "start": 9.68,
+    "end": 9.84
+  },
+  {
+    "word": "jo",
+    "start": 10.0,
+    "end": 10.32
+  },
+  {
+    "word": "kabhi",
+    "start": 10.4,
+    "end": 10.72
+  },
+  {
+    "word": "nahi",
+    "start": 10.76,
+    "end": 10.96
+  },
+  {
+    "word": "sookhti,",
+    "start": 11.013,
+    "end": 12.08
+  },
+  {
+    "word": "aur",
+    "start": 12.12,
+    "end": 12.24
+  },
+  {
+    "word": "bina",
+    "start": 12.32,
+    "end": 12.64
+  },
+  {
+    "word": "santosh",
+    "start": 12.704,
+    "end": 13.2
+  },
+  {
+    "word": "ke",
+    "start": 13.307,
+    "end": 13.52
+  },
+  {
+    "word": "yeh",
+    "start": 13.68,
+    "end": 13.92
+  },
+  {
+    "word": "jeevan",
+    "start": 14.0,
+    "end": 14.4
+  },
+  {
+    "word": "ek",
+    "start": 14.48,
+    "end": 14.64
+  },
+  {
+    "word": "aise",
+    "start": 14.72,
+    "end": 15.04
+  },
+  {
+    "word": "jungle",
+    "start": 15.097,
+    "end": 15.44
+  },
+  {
+    "word": "ki",
+    "start": 15.493,
+    "end": 15.6
+  },
+  {
+    "word": "tarah",
+    "start": 15.64,
+    "end": 15.84
+  },
+  {
+    "word": "hai",
+    "start": 15.94,
+    "end": 16.24
+  },
+  {
+    "word": "jahan",
+    "start": 16.4,
+    "end": 16.8
+  },
+  {
+    "word": "koi",
+    "start": 16.88,
+    "end": 17.12
+  },
+  {
+    "word": "shanti",
+    "start": 17.2,
+    "end": 17.68
+  },
+  {
+    "word": "nahi",
+    "start": 17.72,
+    "end": 17.84
+  },
+  {
+    "word": "milti.",
+    "start": 17.88,
+    "end": 18.84
+  },
+  {
+    "word": "Hum",
+    "start": 18.99,
+    "end": 19.44
+  },
+  {
+    "word": "hamesha",
+    "start": 19.48,
+    "end": 20.16
+  },
+  {
+    "word": "'next",
+    "start": 20.36,
+    "end": 20.88
+  },
+  {
+    "word": "big",
+    "start": 20.94,
+    "end": 21.12
+  },
+  {
+    "word": "thing'",
+    "start": 21.16,
+    "end": 21.44
+  },
+  {
+    "word": "ke",
+    "start": 21.467,
+    "end": 21.52
+  },
+  {
+    "word": "peeche",
+    "start": 21.58,
+    "end": 21.84
+  },
+  {
+    "word": "bhagte",
+    "start": 21.893,
+    "end": 22.24
+  },
+  {
+    "word": "hain\u2014better",
+    "start": 22.28,
+    "end": 23.36
+  },
+  {
+    "word": "phone,",
+    "start": 23.44,
+    "end": 24.24
+  },
+  {
+    "word": "bigger",
+    "start": 24.274,
+    "end": 24.48
+  },
+  {
+    "word": "salary,",
+    "start": 24.56,
+    "end": 25.44
+  },
+  {
+    "word": "higher",
+    "start": 25.474,
+    "end": 25.68
+  },
+  {
+    "word": "status.",
+    "start": 25.771,
+    "end": 26.4
+  },
+  {
+    "word": "But",
+    "start": 26.64,
+    "end": 27.36
+  },
+  {
+    "word": "the",
+    "start": 27.38,
+    "end": 27.44
+  },
+  {
+    "word": "truth",
+    "start": 27.507,
+    "end": 27.84
+  },
+  {
+    "word": "is,",
+    "start": 27.973,
+    "end": 28.68
+  },
+  {
+    "word": "greed",
+    "start": 28.753,
+    "end": 29.12
+  },
+  {
+    "word": "is",
+    "start": 29.173,
+    "end": 29.28
+  },
+  {
+    "word": "a",
+    "start": 29.32,
+    "end": 29.36
+  },
+  {
+    "word": "bottomless",
+    "start": 29.429,
+    "end": 30.0
+  },
+  {
+    "word": "pit.",
+    "start": 30.1,
+    "end": 30.48
+  },
+  {
+    "word": "Jab",
+    "start": 30.72,
+    "end": 31.44
+  },
+  {
+    "word": "tak",
+    "start": 31.5,
+    "end": 31.68
+  },
+  {
+    "word": "tum",
+    "start": 31.76,
+    "end": 32.0
+  },
+  {
+    "word": "'enough'",
+    "start": 32.08,
+    "end": 32.72
+  },
+  {
+    "word": "ki",
+    "start": 32.747,
+    "end": 32.8
+  },
+  {
+    "word": "definition",
+    "start": 32.858,
+    "end": 33.44
+  },
+  {
+    "word": "nahi",
+    "start": 33.48,
+    "end": 33.68
+  },
+  {
+    "word": "seekhte,",
+    "start": 33.744,
+    "end": 34.4
+  },
+  {
+    "word": "tum",
+    "start": 34.54,
+    "end": 34.96
+  },
+  {
+    "word": "duniya",
+    "start": 35.0,
+    "end": 35.28
+  },
+  {
+    "word": "ki",
+    "start": 35.36,
+    "end": 35.52
+  },
+  {
+    "word": "har",
+    "start": 35.6,
+    "end": 35.84
+  },
+  {
+    "word": "luxury",
+    "start": 35.909,
+    "end": 36.32
+  },
+  {
+    "word": "ke",
+    "start": 36.373,
+    "end": 36.48
+  },
+  {
+    "word": "baad",
+    "start": 36.533,
+    "end": 36.8
+  },
+  {
+    "word": "bhi",
+    "start": 36.84,
+    "end": 36.96
+  },
+  {
+    "word": "khaali",
+    "start": 37.08,
+    "end": 37.52
+  },
+  {
+    "word": "mehsoos",
+    "start": 37.573,
+    "end": 37.92
+  },
+  {
+    "word": "karoge.",
+    "start": 37.98,
+    "end": 38.48
+  },
+  {
+    "word": "Real",
+    "start": 38.704,
+    "end": 39.6
+  },
+  {
+    "word": "success",
+    "start": 39.69,
+    "end": 40.32
+  },
+  {
+    "word": "isn't",
+    "start": 40.4,
+    "end": 40.72
+  },
+  {
+    "word": "about",
+    "start": 40.773,
+    "end": 41.04
+  },
+  {
+    "word": "getting",
+    "start": 41.09,
+    "end": 41.44
+  },
+  {
+    "word": "more,",
+    "start": 41.52,
+    "end": 42.32
+  },
+  {
+    "word": "it's",
+    "start": 42.373,
+    "end": 42.56
+  },
+  {
+    "word": "about",
+    "start": 42.613,
+    "end": 42.88
+  },
+  {
+    "word": "needing",
+    "start": 42.94,
+    "end": 43.36
+  },
+  {
+    "word": "less.",
+    "start": 43.456,
+    "end": 43.92
+  },
+  {
+    "word": "Are",
+    "start": 44.16,
+    "end": 44.88
+  },
+  {
+    "word": "you",
+    "start": 44.92,
+    "end": 45.04
+  },
+  {
+    "word": "chasing",
+    "start": 45.1,
+    "end": 45.52
+  },
+  {
+    "word": "a",
+    "start": 45.56,
+    "end": 45.6
+  },
+  {
+    "word": "dream",
+    "start": 45.68,
+    "end": 46.08
+  },
+  {
+    "word": "or",
+    "start": 46.293,
+    "end": 46.72
+  },
+  {
+    "word": "just",
+    "start": 46.784,
+    "end": 47.04
+  },
+  {
+    "word": "running",
+    "start": 47.09,
+    "end": 47.44
+  },
+  {
+    "word": "away",
+    "start": 47.504,
+    "end": 47.76
+  },
+  {
+    "word": "from",
+    "start": 47.808,
+    "end": 48.0
+  },
+  {
+    "word": "yourself?",
+    "start": 48.062,
+    "end": 48.72
+  },
+  {
+    "word": "Comment",
+    "start": 48.87,
+    "end": 49.92
+  },
+  {
+    "word": "your",
+    "start": 49.952,
+    "end": 50.08
+  },
+  {
+    "word": "thoughts,",
+    "start": 50.142,
+    "end": 50.72
+  },
+  {
+    "word": "because",
+    "start": 50.8,
+    "end": 51.36
+  },
+  {
+    "word": "if",
+    "start": 51.387,
+    "end": 51.44
+  },
+  {
+    "word": "you",
+    "start": 51.5,
+    "end": 51.68
+  },
+  {
+    "word": "don't",
+    "start": 51.72,
+    "end": 51.92
+  },
+  {
+    "word": "stop",
+    "start": 52.0,
+    "end": 52.32
+  },
+  {
+    "word": "now...",
+    "start": 52.42,
+    "end": 52.88
+  }
+]

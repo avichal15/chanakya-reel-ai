@@ -1,0 +1,607 @@
+[
+  {
+    "word": "SOCIABILITY",
+    "start": 0.0,
+    "end": 0.72
+  },
+  {
+    "word": "IS",
+    "start": 0.8,
+    "end": 0.96
+  },
+  {
+    "word": "KILLING",
+    "start": 1.08,
+    "end": 1.44
+  },
+  {
+    "word": "YOUR",
+    "start": 1.472,
+    "end": 1.6
+  },
+  {
+    "word": "SOUL.",
+    "start": 1.707,
+    "end": 2.24
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.544,
+    "end": 4.08
+  },
+  {
+    "word": "ne",
+    "start": 4.133,
+    "end": 4.24
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.28,
+    "end": 4.64
+  },
+  {
+    "word": "pehle",
+    "start": 4.693,
+    "end": 5.04
+  },
+  {
+    "word": "ek",
+    "start": 5.12,
+    "end": 5.28
+  },
+  {
+    "word": "baat",
+    "start": 5.333,
+    "end": 5.6
+  },
+  {
+    "word": "kahi",
+    "start": 5.64,
+    "end": 5.84
+  },
+  {
+    "word": "thi:",
+    "start": 5.9,
+    "end": 6.8
+  },
+  {
+    "word": "Is",
+    "start": 6.88,
+    "end": 7.04
+  },
+  {
+    "word": "duniya",
+    "start": 7.08,
+    "end": 7.36
+  },
+  {
+    "word": "mein",
+    "start": 7.408,
+    "end": 7.6
+  },
+  {
+    "word": "chaar",
+    "start": 7.66,
+    "end": 7.92
+  },
+  {
+    "word": "cheezein",
+    "start": 7.98,
+    "end": 8.4
+  },
+  {
+    "word": "aisi",
+    "start": 8.44,
+    "end": 8.72
+  },
+  {
+    "word": "hain",
+    "start": 8.76,
+    "end": 9.12
+  },
+  {
+    "word": "jo",
+    "start": 9.227,
+    "end": 9.44
+  },
+  {
+    "word": "insaan",
+    "start": 9.52,
+    "end": 9.92
+  },
+  {
+    "word": "ke",
+    "start": 9.973,
+    "end": 10.08
+  },
+  {
+    "word": "sharir",
+    "start": 10.144,
+    "end": 10.64
+  },
+  {
+    "word": "aur",
+    "start": 10.72,
+    "end": 10.96
+  },
+  {
+    "word": "aatma",
+    "start": 11.04,
+    "end": 11.44
+  },
+  {
+    "word": "ko",
+    "start": 11.493,
+    "end": 11.6
+  },
+  {
+    "word": "shuddh",
+    "start": 11.653,
+    "end": 12.04
+  },
+  {
+    "word": "karti",
+    "start": 12.064,
+    "end": 12.24
+  },
+  {
+    "word": "hain\u2014daan",
+    "start": 12.28,
+    "end": 13.6
+  },
+  {
+    "word": "karne",
+    "start": 13.66,
+    "end": 13.92
+  },
+  {
+    "word": "ki",
+    "start": 13.973,
+    "end": 14.08
+  },
+  {
+    "word": "pravriti,",
+    "start": 14.128,
+    "end": 15.28
+  },
+  {
+    "word": "meethi",
+    "start": 15.333,
+    "end": 15.76
+  },
+  {
+    "word": "vaani,",
+    "start": 15.813,
+    "end": 16.96
+  },
+  {
+    "word": "devon",
+    "start": 17.04,
+    "end": 17.36
+  },
+  {
+    "word": "ki",
+    "start": 17.413,
+    "end": 17.52
+  },
+  {
+    "word": "pooja,",
+    "start": 17.58,
+    "end": 18.16
+  },
+  {
+    "word": "aur",
+    "start": 18.28,
+    "end": 18.64
+  },
+  {
+    "word": "vidvanno",
+    "start": 18.7,
+    "end": 19.2
+  },
+  {
+    "word": "ka",
+    "start": 19.253,
+    "end": 19.36
+  },
+  {
+    "word": "samman.",
+    "start": 19.44,
+    "end": 19.92
+  },
+  {
+    "word": "Aaj",
+    "start": 20.48,
+    "end": 21.2
+  },
+  {
+    "word": "hum",
+    "start": 21.24,
+    "end": 21.36
+  },
+  {
+    "word": "networking",
+    "start": 21.411,
+    "end": 21.92
+  },
+  {
+    "word": "ke",
+    "start": 21.973,
+    "end": 22.08
+  },
+  {
+    "word": "naam",
+    "start": 22.128,
+    "end": 22.32
+  },
+  {
+    "word": "par",
+    "start": 22.38,
+    "end": 22.56
+  },
+  {
+    "word": "fake",
+    "start": 22.64,
+    "end": 22.96
+  },
+  {
+    "word": "connections",
+    "start": 23.013,
+    "end": 23.6
+  },
+  {
+    "word": "banate",
+    "start": 23.64,
+    "end": 24.0
+  },
+  {
+    "word": "hain",
+    "start": 24.04,
+    "end": 24.32
+  },
+  {
+    "word": "aur",
+    "start": 24.46,
+    "end": 24.88
+  },
+  {
+    "word": "ego",
+    "start": 25.0,
+    "end": 25.36
+  },
+  {
+    "word": "satisfy",
+    "start": 25.44,
+    "end": 26.0
+  },
+  {
+    "word": "karte",
+    "start": 26.04,
+    "end": 26.32
+  },
+  {
+    "word": "hain.",
+    "start": 26.36,
+    "end": 27.0
+  },
+  {
+    "word": "But",
+    "start": 27.11,
+    "end": 27.44
+  },
+  {
+    "word": "true",
+    "start": 27.504,
+    "end": 27.76
+  },
+  {
+    "word": "growth",
+    "start": 27.817,
+    "end": 28.16
+  },
+  {
+    "word": "nahi",
+    "start": 28.24,
+    "end": 28.48
+  },
+  {
+    "word": "aati",
+    "start": 28.52,
+    "end": 28.8
+  },
+  {
+    "word": "connections",
+    "start": 28.847,
+    "end": 29.36
+  },
+  {
+    "word": "se,",
+    "start": 29.44,
+    "end": 30.24
+  },
+  {
+    "word": "aati",
+    "start": 30.28,
+    "end": 30.56
+  },
+  {
+    "word": "hai",
+    "start": 30.6,
+    "end": 30.72
+  },
+  {
+    "word": "character",
+    "start": 30.776,
+    "end": 31.28
+  },
+  {
+    "word": "se.",
+    "start": 31.387,
+    "end": 31.68
+  },
+  {
+    "word": "When",
+    "start": 31.84,
+    "end": 32.48
+  },
+  {
+    "word": "you",
+    "start": 32.52,
+    "end": 32.64
+  },
+  {
+    "word": "shift",
+    "start": 32.707,
+    "end": 33.04
+  },
+  {
+    "word": "from",
+    "start": 33.088,
+    "end": 33.28
+  },
+  {
+    "word": "'what",
+    "start": 33.48,
+    "end": 33.84
+  },
+  {
+    "word": "can",
+    "start": 33.88,
+    "end": 34.0
+  },
+  {
+    "word": "I",
+    "start": 34.08,
+    "end": 34.16
+  },
+  {
+    "word": "get'",
+    "start": 34.26,
+    "end": 34.72
+  },
+  {
+    "word": "to",
+    "start": 34.88,
+    "end": 35.2
+  },
+  {
+    "word": "'how",
+    "start": 35.28,
+    "end": 35.44
+  },
+  {
+    "word": "can",
+    "start": 35.48,
+    "end": 35.6
+  },
+  {
+    "word": "I",
+    "start": 35.72,
+    "end": 35.84
+  },
+  {
+    "word": "give'",
+    "start": 35.904,
+    "end": 36.24
+  },
+  {
+    "word": "and",
+    "start": 36.38,
+    "end": 36.8
+  },
+  {
+    "word": "replace",
+    "start": 36.86,
+    "end": 37.28
+  },
+  {
+    "word": "aggression",
+    "start": 37.324,
+    "end": 37.76
+  },
+  {
+    "word": "with",
+    "start": 37.792,
+    "end": 37.92
+  },
+  {
+    "word": "kindness,",
+    "start": 38.0,
+    "end": 38.8
+  },
+  {
+    "word": "you",
+    "start": 38.94,
+    "end": 39.36
+  },
+  {
+    "word": "stop",
+    "start": 39.424,
+    "end": 39.68
+  },
+  {
+    "word": "being",
+    "start": 39.72,
+    "end": 39.92
+  },
+  {
+    "word": "a",
+    "start": 39.96,
+    "end": 40.0
+  },
+  {
+    "word": "slave",
+    "start": 40.093,
+    "end": 40.56
+  },
+  {
+    "word": "to",
+    "start": 40.613,
+    "end": 40.72
+  },
+  {
+    "word": "social",
+    "start": 40.777,
+    "end": 41.12
+  },
+  {
+    "word": "validation.",
+    "start": 41.193,
+    "end": 42.0
+  },
+  {
+    "word": "Real",
+    "start": 42.208,
+    "end": 43.04
+  },
+  {
+    "word": "power",
+    "start": 43.12,
+    "end": 43.52
+  },
+  {
+    "word": "is",
+    "start": 43.573,
+    "end": 43.68
+  },
+  {
+    "word": "in",
+    "start": 43.707,
+    "end": 43.76
+  },
+  {
+    "word": "your",
+    "start": 43.792,
+    "end": 43.92
+  },
+  {
+    "word": "values,",
+    "start": 44.023,
+    "end": 45.04
+  },
+  {
+    "word": "not",
+    "start": 45.12,
+    "end": 45.36
+  },
+  {
+    "word": "your",
+    "start": 45.392,
+    "end": 45.52
+  },
+  {
+    "word": "followers.",
+    "start": 45.584,
+    "end": 46.24
+  },
+  {
+    "word": "Are",
+    "start": 46.44,
+    "end": 47.04
+  },
+  {
+    "word": "you",
+    "start": 47.08,
+    "end": 47.2
+  },
+  {
+    "word": "building",
+    "start": 47.227,
+    "end": 47.44
+  },
+  {
+    "word": "a",
+    "start": 47.48,
+    "end": 47.52
+  },
+  {
+    "word": "network",
+    "start": 47.6,
+    "end": 48.16
+  },
+  {
+    "word": "or",
+    "start": 48.187,
+    "end": 48.24
+  },
+  {
+    "word": "a",
+    "start": 48.28,
+    "end": 48.32
+  },
+  {
+    "word": "character?",
+    "start": 48.384,
+    "end": 49.12
+  },
+  {
+    "word": "Comment",
+    "start": 49.27,
+    "end": 50.32
+  },
+  {
+    "word": "'Growth'",
+    "start": 50.48,
+    "end": 51.36
+  },
+  {
+    "word": "if",
+    "start": 51.44,
+    "end": 51.6
+  },
+  {
+    "word": "you",
+    "start": 51.62,
+    "end": 51.68
+  },
+  {
+    "word": "agree,",
+    "start": 51.773,
+    "end": 52.6
+  },
+  {
+    "word": "because",
+    "start": 52.645,
+    "end": 52.96
+  },
+  {
+    "word": "most",
+    "start": 53.024,
+    "end": 53.28
+  },
+  {
+    "word": "people",
+    "start": 53.314,
+    "end": 53.52
+  },
+  {
+    "word": "forget",
+    "start": 53.577,
+    "end": 53.92
+  },
+  {
+    "word": "that...",
+    "start": 54.0,
+    "end": 54.48
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.08
+  },
+  {
+    "word": "COMFORT",
+    "start": 0.18,
+    "end": 0.56
+  },
+  {
+    "word": "ZONE",
+    "start": 0.68,
+    "end": 0.96
+  },
+  {
+    "word": "IS",
+    "start": 1.04,
+    "end": 1.2
+  },
+  {
+    "word": "A",
+    "start": 1.24,
+    "end": 1.28
+  },
+  {
+    "word": "TRAP.",
+    "start": 1.387,
+    "end": 1.92
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.224,
+    "end": 3.76
+  },
+  {
+    "word": "ne",
+    "start": 3.813,
+    "end": 3.92
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.04,
+    "end": 4.48
+  },
+  {
+    "word": "pehle",
+    "start": 4.533,
+    "end": 4.88
+  },
+  {
+    "word": "ek",
+    "start": 5.013,
+    "end": 5.28
+  },
+  {
+    "word": "baat",
+    "start": 5.333,
+    "end": 5.6
+  },
+  {
+    "word": "kahi",
+    "start": 5.64,
+    "end": 5.84
+  },
+  {
+    "word": "thi:",
+    "start": 5.9,
+    "end": 6.88
+  },
+  {
+    "word": "Jis",
+    "start": 6.92,
+    "end": 7.12
+  },
+  {
+    "word": "tarah",
+    "start": 7.16,
+    "end": 7.36
+  },
+  {
+    "word": "sher",
+    "start": 7.44,
+    "end": 7.76
+  },
+  {
+    "word": "ko",
+    "start": 7.813,
+    "end": 7.92
+  },
+  {
+    "word": "apni",
+    "start": 7.973,
+    "end": 8.16
+  },
+  {
+    "word": "shakti",
+    "start": 8.24,
+    "end": 8.64
+  },
+  {
+    "word": "aur",
+    "start": 8.68,
+    "end": 8.8
+  },
+  {
+    "word": "shikar",
+    "start": 8.853,
+    "end": 9.28
+  },
+  {
+    "word": "pane",
+    "start": 9.344,
+    "end": 9.6
+  },
+  {
+    "word": "ke",
+    "start": 9.627,
+    "end": 9.68
+  },
+  {
+    "word": "liye",
+    "start": 9.733,
+    "end": 10.08
+  },
+  {
+    "word": "jungle",
+    "start": 10.183,
+    "end": 10.8
+  },
+  {
+    "word": "ki",
+    "start": 10.853,
+    "end": 10.96
+  },
+  {
+    "word": "mushkilon",
+    "start": 11.008,
+    "end": 11.44
+  },
+  {
+    "word": "se",
+    "start": 11.493,
+    "end": 11.6
+  },
+  {
+    "word": "guzarna",
+    "start": 11.653,
+    "end": 12.08
+  },
+  {
+    "word": "padta",
+    "start": 12.14,
+    "end": 12.4
+  },
+  {
+    "word": "hai,",
+    "start": 12.44,
+    "end": 12.72
+  },
+  {
+    "word": "aur",
+    "start": 12.84,
+    "end": 13.2
+  },
+  {
+    "word": "ek",
+    "start": 13.253,
+    "end": 13.36
+  },
+  {
+    "word": "lomad",
+    "start": 13.44,
+    "end": 13.84
+  },
+  {
+    "word": "ko",
+    "start": 13.92,
+    "end": 14.08
+  },
+  {
+    "word": "apni",
+    "start": 14.133,
+    "end": 14.4
+  },
+  {
+    "word": "chaturayi",
+    "start": 14.453,
+    "end": 14.96
+  },
+  {
+    "word": "dikhane",
+    "start": 15.0,
+    "end": 15.36
+  },
+  {
+    "word": "ke",
+    "start": 15.413,
+    "end": 15.52
+  },
+  {
+    "word": "liye",
+    "start": 15.573,
+    "end": 15.76
+  },
+  {
+    "word": "bhatakna",
+    "start": 15.813,
+    "end": 16.24
+  },
+  {
+    "word": "padta",
+    "start": 16.32,
+    "end": 16.64
+  },
+  {
+    "word": "hai,",
+    "start": 16.68,
+    "end": 17.52
+  },
+  {
+    "word": "thik",
+    "start": 17.547,
+    "end": 17.84
+  },
+  {
+    "word": "waise",
+    "start": 17.88,
+    "end": 18.24
+  },
+  {
+    "word": "hi",
+    "start": 18.293,
+    "end": 18.4
+  },
+  {
+    "word": "insaan",
+    "start": 18.5,
+    "end": 19.04
+  },
+  {
+    "word": "ko",
+    "start": 19.093,
+    "end": 19.2
+  },
+  {
+    "word": "bhi",
+    "start": 19.24,
+    "end": 19.52
+  },
+  {
+    "word": "apne",
+    "start": 19.68,
+    "end": 20.08
+  },
+  {
+    "word": "lakshya",
+    "start": 20.16,
+    "end": 20.56
+  },
+  {
+    "word": "tak",
+    "start": 20.6,
+    "end": 20.72
+  },
+  {
+    "word": "pahunchne",
+    "start": 20.76,
+    "end": 21.12
+  },
+  {
+    "word": "ke",
+    "start": 21.173,
+    "end": 21.28
+  },
+  {
+    "word": "liye",
+    "start": 21.333,
+    "end": 21.52
+  },
+  {
+    "word": "kathinaiyon",
+    "start": 21.76,
+    "end": 22.56
+  },
+  {
+    "word": "ka",
+    "start": 22.613,
+    "end": 22.72
+  },
+  {
+    "word": "samna",
+    "start": 22.78,
+    "end": 23.12
+  },
+  {
+    "word": "karna",
+    "start": 23.16,
+    "end": 23.44
+  },
+  {
+    "word": "hi",
+    "start": 23.467,
+    "end": 23.52
+  },
+  {
+    "word": "padta",
+    "start": 23.6,
+    "end": 23.92
+  },
+  {
+    "word": "hai.",
+    "start": 23.96,
+    "end": 24.16
+  },
+  {
+    "word": "Hum",
+    "start": 24.46,
+    "end": 25.36
+  },
+  {
+    "word": "chahte",
+    "start": 25.4,
+    "end": 25.76
+  },
+  {
+    "word": "hain",
+    "start": 25.8,
+    "end": 25.92
+  },
+  {
+    "word": "success,",
+    "start": 26.0,
+    "end": 26.64
+  },
+  {
+    "word": "par",
+    "start": 26.78,
+    "end": 27.2
+  },
+  {
+    "word": "humein",
+    "start": 27.26,
+    "end": 27.52
+  },
+  {
+    "word": "'struggle'",
+    "start": 27.6,
+    "end": 28.08
+  },
+  {
+    "word": "se",
+    "start": 28.107,
+    "end": 28.16
+  },
+  {
+    "word": "darr",
+    "start": 28.24,
+    "end": 28.4
+  },
+  {
+    "word": "lagta",
+    "start": 28.46,
+    "end": 28.72
+  },
+  {
+    "word": "hai.",
+    "start": 28.78,
+    "end": 29.04
+  },
+  {
+    "word": "Hum",
+    "start": 29.26,
+    "end": 29.92
+  },
+  {
+    "word": "shortcuts",
+    "start": 29.984,
+    "end": 30.56
+  },
+  {
+    "word": "dhoondhte",
+    "start": 30.6,
+    "end": 30.96
+  },
+  {
+    "word": "hain,",
+    "start": 31.0,
+    "end": 31.2
+  },
+  {
+    "word": "easy",
+    "start": 31.36,
+    "end": 32.0
+  },
+  {
+    "word": "paths",
+    "start": 32.08,
+    "end": 32.48
+  },
+  {
+    "word": "search",
+    "start": 32.537,
+    "end": 32.88
+  },
+  {
+    "word": "karte",
+    "start": 32.92,
+    "end": 33.2
+  },
+  {
+    "word": "hain.",
+    "start": 33.24,
+    "end": 33.52
+  },
+  {
+    "word": "But",
+    "start": 33.72,
+    "end": 34.32
+  },
+  {
+    "word": "remember,",
+    "start": 34.373,
+    "end": 34.88
+  },
+  {
+    "word": "growth",
+    "start": 35.006,
+    "end": 35.76
+  },
+  {
+    "word": "hamesha",
+    "start": 35.8,
+    "end": 36.24
+  },
+  {
+    "word": "discomfort",
+    "start": 36.298,
+    "end": 36.88
+  },
+  {
+    "word": "mein",
+    "start": 36.896,
+    "end": 36.96
+  },
+  {
+    "word": "hoti",
+    "start": 37.04,
+    "end": 37.4
+  },
+  {
+    "word": "hai.",
+    "start": 37.43,
+    "end": 37.6
+  },
+  {
+    "word": "Agar",
+    "start": 37.92,
+    "end": 38.64
+  },
+  {
+    "word": "tumhari",
+    "start": 38.7,
+    "end": 39.12
+  },
+  {
+    "word": "life",
+    "start": 39.184,
+    "end": 39.44
+  },
+  {
+    "word": "mein",
+    "start": 39.472,
+    "end": 39.6
+  },
+  {
+    "word": "aaj",
+    "start": 39.72,
+    "end": 40.0
+  },
+  {
+    "word": "challenges",
+    "start": 40.051,
+    "end": 40.56
+  },
+  {
+    "word": "nahi",
+    "start": 40.6,
+    "end": 40.8
+  },
+  {
+    "word": "hain,",
+    "start": 40.84,
+    "end": 41.12
+  },
+  {
+    "word": "toh",
+    "start": 41.24,
+    "end": 41.6
+  },
+  {
+    "word": "samajh",
+    "start": 41.68,
+    "end": 42.08
+  },
+  {
+    "word": "lo",
+    "start": 42.133,
+    "end": 42.24
+  },
+  {
+    "word": "tum",
+    "start": 42.36,
+    "end": 42.72
+  },
+  {
+    "word": "stagnant",
+    "start": 42.782,
+    "end": 43.28
+  },
+  {
+    "word": "ho",
+    "start": 43.307,
+    "end": 43.36
+  },
+  {
+    "word": "chuke",
+    "start": 43.413,
+    "end": 43.76
+  },
+  {
+    "word": "ho.",
+    "start": 43.813,
+    "end": 44.08
+  },
+  {
+    "word": "Embrace",
+    "start": 44.347,
+    "end": 45.2
+  },
+  {
+    "word": "the",
+    "start": 45.22,
+    "end": 45.28
+  },
+  {
+    "word": "grind,",
+    "start": 45.373,
+    "end": 46.16
+  },
+  {
+    "word": "because",
+    "start": 46.2,
+    "end": 46.48
+  },
+  {
+    "word": "the",
+    "start": 46.5,
+    "end": 46.56
+  },
+  {
+    "word": "struggle",
+    "start": 46.622,
+    "end": 47.12
+  },
+  {
+    "word": "is",
+    "start": 47.173,
+    "end": 47.28
+  },
+  {
+    "word": "the",
+    "start": 47.32,
+    "end": 47.44
+  },
+  {
+    "word": "filter",
+    "start": 47.497,
+    "end": 47.84
+  },
+  {
+    "word": "that",
+    "start": 47.872,
+    "end": 48.0
+  },
+  {
+    "word": "separates",
+    "start": 48.064,
+    "end": 48.64
+  },
+  {
+    "word": "the",
+    "start": 48.68,
+    "end": 48.8
+  },
+  {
+    "word": "winners",
+    "start": 48.85,
+    "end": 49.2
+  },
+  {
+    "word": "from",
+    "start": 49.232,
+    "end": 49.36
+  },
+  {
+    "word": "the",
+    "start": 49.38,
+    "end": 49.44
+  },
+  {
+    "word": "crowd.",
+    "start": 49.533,
+    "end": 50.16
+  },
+  {
+    "word": "Are",
+    "start": 50.36,
+    "end": 50.96
+  },
+  {
+    "word": "you",
+    "start": 51.0,
+    "end": 51.12
+  },
+  {
+    "word": "brave",
+    "start": 51.173,
+    "end": 51.44
+  },
+  {
+    "word": "enough",
+    "start": 51.474,
+    "end": 51.68
+  },
+  {
+    "word": "to",
+    "start": 51.733,
+    "end": 51.84
+  },
+  {
+    "word": "leave",
+    "start": 51.88,
+    "end": 52.08
+  },
+  {
+    "word": "your",
+    "start": 52.096,
+    "end": 52.16
+  },
+  {
+    "word": "comfort",
+    "start": 52.21,
+    "end": 52.56
+  },
+  {
+    "word": "zone",
+    "start": 52.608,
+    "end": 52.8
+  },
+  {
+    "word": "today?",
+    "start": 52.867,
+    "end": 53.28
+  },
+  {
+    "word": "Comment",
+    "start": 53.42,
+    "end": 54.4
+  },
+  {
+    "word": "'YES'",
+    "start": 54.52,
+    "end": 55.04
+  },
+  {
+    "word": "if",
+    "start": 55.093,
+    "end": 55.2
+  },
+  {
+    "word": "you",
+    "start": 55.24,
+    "end": 55.36
+  },
+  {
+    "word": "are",
+    "start": 55.38,
+    "end": 55.44
+  },
+  {
+    "word": "ready,",
+    "start": 55.507,
+    "end": 56.16
+  },
+  {
+    "word": "because",
+    "start": 56.2,
+    "end": 56.48
+  },
+  {
+    "word": "you",
+    "start": 56.5,
+    "end": 56.56
+  },
+  {
+    "word": "need",
+    "start": 56.608,
+    "end": 56.8
+  },
+  {
+    "word": "to",
+    "start": 56.853,
+    "end": 56.96
+  },
+  {
+    "word": "remember",
+    "start": 57.004,
+    "end": 57.36
+  },
+  {
+    "word": "that...",
+    "start": 57.424,
+    "end": 57.84
+  }
+]

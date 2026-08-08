@@ -45,3 +45,6 @@ backend/temp_upload_data.json
 backend/last_quote_id.txt
 backend/scheduler_runs.json
 backend/assets/voice_*.wav
+
+# Secrets - never commit
+.env

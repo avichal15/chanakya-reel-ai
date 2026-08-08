@@ -1,0 +1,672 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "HARD",
+    "start": 0.24,
+    "end": 0.56
+  },
+  {
+    "word": "WORK",
+    "start": 0.672,
+    "end": 1.12
+  },
+  {
+    "word": "IS",
+    "start": 1.2,
+    "end": 1.36
+  },
+  {
+    "word": "WASTED.",
+    "start": 1.52,
+    "end": 2.32
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.624,
+    "end": 4.08
+  },
+  {
+    "word": "ne",
+    "start": 4.16,
+    "end": 4.32
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.36,
+    "end": 4.72
+  },
+  {
+    "word": "pehle",
+    "start": 4.773,
+    "end": 5.12
+  },
+  {
+    "word": "ek",
+    "start": 5.227,
+    "end": 5.44
+  },
+  {
+    "word": "baat",
+    "start": 5.493,
+    "end": 5.76
+  },
+  {
+    "word": "kahi",
+    "start": 5.8,
+    "end": 6.0
+  },
+  {
+    "word": "thi:",
+    "start": 6.06,
+    "end": 6.32
+  },
+  {
+    "word": "'Ek",
+    "start": 6.76,
+    "end": 7.36
+  },
+  {
+    "word": "haathi",
+    "start": 7.413,
+    "end": 7.68
+  },
+  {
+    "word": "ko",
+    "start": 7.76,
+    "end": 7.92
+  },
+  {
+    "word": "hathauda",
+    "start": 7.984,
+    "end": 8.48
+  },
+  {
+    "word": "ya",
+    "start": 8.56,
+    "end": 8.72
+  },
+  {
+    "word": "danda",
+    "start": 8.8,
+    "end": 9.12
+  },
+  {
+    "word": "nahi,",
+    "start": 9.16,
+    "end": 10.08
+  },
+  {
+    "word": "balki",
+    "start": 10.128,
+    "end": 10.4
+  },
+  {
+    "word": "sahi",
+    "start": 10.48,
+    "end": 10.8
+  },
+  {
+    "word": "disha",
+    "start": 10.864,
+    "end": 11.28
+  },
+  {
+    "word": "aur",
+    "start": 11.34,
+    "end": 11.52
+  },
+  {
+    "word": "sahi",
+    "start": 11.627,
+    "end": 11.92
+  },
+  {
+    "word": "ankus",
+    "start": 12.0,
+    "end": 12.4
+  },
+  {
+    "word": "se",
+    "start": 12.453,
+    "end": 12.56
+  },
+  {
+    "word": "vash",
+    "start": 12.68,
+    "end": 13.04
+  },
+  {
+    "word": "mein",
+    "start": 13.072,
+    "end": 13.2
+  },
+  {
+    "word": "kiya",
+    "start": 13.253,
+    "end": 13.44
+  },
+  {
+    "word": "jata",
+    "start": 13.48,
+    "end": 13.84
+  },
+  {
+    "word": "hai;",
+    "start": 13.88,
+    "end": 14.88
+  },
+  {
+    "word": "thik",
+    "start": 14.907,
+    "end": 15.12
+  },
+  {
+    "word": "usi",
+    "start": 15.2,
+    "end": 15.44
+  },
+  {
+    "word": "tarah,",
+    "start": 15.5,
+    "end": 15.92
+  },
+  {
+    "word": "kisi",
+    "start": 16.12,
+    "end": 16.48
+  },
+  {
+    "word": "bhi",
+    "start": 16.52,
+    "end": 16.64
+  },
+  {
+    "word": "mushkil",
+    "start": 16.704,
+    "end": 17.04
+  },
+  {
+    "word": "kaam",
+    "start": 17.12,
+    "end": 17.36
+  },
+  {
+    "word": "ko",
+    "start": 17.413,
+    "end": 17.52
+  },
+  {
+    "word": "taakat",
+    "start": 17.627,
+    "end": 18.08
+  },
+  {
+    "word": "se",
+    "start": 18.107,
+    "end": 18.16
+  },
+  {
+    "word": "nahi,",
+    "start": 18.24,
+    "end": 19.12
+  },
+  {
+    "word": "balki",
+    "start": 19.168,
+    "end": 19.44
+  },
+  {
+    "word": "sahi",
+    "start": 19.547,
+    "end": 19.92
+  },
+  {
+    "word": "strategy",
+    "start": 19.991,
+    "end": 20.56
+  },
+  {
+    "word": "se",
+    "start": 20.64,
+    "end": 20.8
+  },
+  {
+    "word": "jeeta",
+    "start": 20.853,
+    "end": 21.2
+  },
+  {
+    "word": "jata",
+    "start": 21.24,
+    "end": 21.52
+  },
+  {
+    "word": "hai.'",
+    "start": 21.58,
+    "end": 21.84
+  },
+  {
+    "word": "Hum",
+    "start": 22.12,
+    "end": 22.96
+  },
+  {
+    "word": "sab",
+    "start": 23.04,
+    "end": 23.28
+  },
+  {
+    "word": "'hustle",
+    "start": 23.36,
+    "end": 23.76
+  },
+  {
+    "word": "culture'",
+    "start": 23.8,
+    "end": 24.16
+  },
+  {
+    "word": "ke",
+    "start": 24.187,
+    "end": 24.24
+  },
+  {
+    "word": "naam",
+    "start": 24.288,
+    "end": 24.48
+  },
+  {
+    "word": "par",
+    "start": 24.54,
+    "end": 24.72
+  },
+  {
+    "word": "bas",
+    "start": 24.8,
+    "end": 25.04
+  },
+  {
+    "word": "ghis",
+    "start": 25.08,
+    "end": 25.36
+  },
+  {
+    "word": "rahe",
+    "start": 25.413,
+    "end": 25.6
+  },
+  {
+    "word": "hain,",
+    "start": 25.64,
+    "end": 25.84
+  },
+  {
+    "word": "bina",
+    "start": 26.16,
+    "end": 26.72
+  },
+  {
+    "word": "ye",
+    "start": 26.773,
+    "end": 26.88
+  },
+  {
+    "word": "soche",
+    "start": 26.96,
+    "end": 27.44
+  },
+  {
+    "word": "ki",
+    "start": 27.6,
+    "end": 27.92
+  },
+  {
+    "word": "hum",
+    "start": 27.98,
+    "end": 28.16
+  },
+  {
+    "word": "kis",
+    "start": 28.24,
+    "end": 28.48
+  },
+  {
+    "word": "direction",
+    "start": 28.536,
+    "end": 29.04
+  },
+  {
+    "word": "mein",
+    "start": 29.072,
+    "end": 29.2
+  },
+  {
+    "word": "ja",
+    "start": 29.28,
+    "end": 29.44
+  },
+  {
+    "word": "rahe",
+    "start": 29.493,
+    "end": 29.68
+  },
+  {
+    "word": "hain.",
+    "start": 29.72,
+    "end": 30.0
+  },
+  {
+    "word": "Bruteforce",
+    "start": 30.24,
+    "end": 31.6
+  },
+  {
+    "word": "effort",
+    "start": 31.669,
+    "end": 32.08
+  },
+  {
+    "word": "is",
+    "start": 32.16,
+    "end": 32.32
+  },
+  {
+    "word": "not",
+    "start": 32.42,
+    "end": 32.72
+  },
+  {
+    "word": "a",
+    "start": 32.8,
+    "end": 32.88
+  },
+  {
+    "word": "flex;",
+    "start": 32.992,
+    "end": 33.52
+  },
+  {
+    "word": "it's",
+    "start": 33.733,
+    "end": 34.24
+  },
+  {
+    "word": "a",
+    "start": 34.28,
+    "end": 34.32
+  },
+  {
+    "word": "failure",
+    "start": 34.39,
+    "end": 34.88
+  },
+  {
+    "word": "of",
+    "start": 34.933,
+    "end": 35.04
+  },
+  {
+    "word": "strategy.",
+    "start": 35.111,
+    "end": 36.24
+  },
+  {
+    "word": "Stop",
+    "start": 36.352,
+    "end": 36.8
+  },
+  {
+    "word": "trying",
+    "start": 36.846,
+    "end": 37.12
+  },
+  {
+    "word": "to",
+    "start": 37.147,
+    "end": 37.2
+  },
+  {
+    "word": "break",
+    "start": 37.253,
+    "end": 37.52
+  },
+  {
+    "word": "the",
+    "start": 37.54,
+    "end": 37.6
+  },
+  {
+    "word": "wall",
+    "start": 37.664,
+    "end": 37.92
+  },
+  {
+    "word": "with",
+    "start": 37.952,
+    "end": 38.08
+  },
+  {
+    "word": "your",
+    "start": 38.112,
+    "end": 38.24
+  },
+  {
+    "word": "head.",
+    "start": 38.32,
+    "end": 38.72
+  },
+  {
+    "word": "Sahi",
+    "start": 38.92,
+    "end": 39.6
+  },
+  {
+    "word": "tool",
+    "start": 39.68,
+    "end": 40.0
+  },
+  {
+    "word": "aur",
+    "start": 40.06,
+    "end": 40.24
+  },
+  {
+    "word": "sahi",
+    "start": 40.32,
+    "end": 40.64
+  },
+  {
+    "word": "timing",
+    "start": 40.697,
+    "end": 41.04
+  },
+  {
+    "word": "dhoondho,",
+    "start": 41.08,
+    "end": 41.68
+  },
+  {
+    "word": "aur",
+    "start": 41.8,
+    "end": 42.16
+  },
+  {
+    "word": "tum",
+    "start": 42.22,
+    "end": 42.4
+  },
+  {
+    "word": "dekhoge",
+    "start": 42.453,
+    "end": 42.88
+  },
+  {
+    "word": "ki",
+    "start": 42.933,
+    "end": 43.04
+  },
+  {
+    "word": "jo",
+    "start": 43.147,
+    "end": 43.36
+  },
+  {
+    "word": "kaam",
+    "start": 43.44,
+    "end": 43.76
+  },
+  {
+    "word": "saalon",
+    "start": 43.84,
+    "end": 44.24
+  },
+  {
+    "word": "se",
+    "start": 44.293,
+    "end": 44.4
+  },
+  {
+    "word": "nahi",
+    "start": 44.44,
+    "end": 44.64
+  },
+  {
+    "word": "hua,",
+    "start": 44.68,
+    "end": 45.04
+  },
+  {
+    "word": "wo",
+    "start": 45.227,
+    "end": 45.6
+  },
+  {
+    "word": "mahino",
+    "start": 45.66,
+    "end": 46.0
+  },
+  {
+    "word": "mein",
+    "start": 46.032,
+    "end": 46.16
+  },
+  {
+    "word": "ho",
+    "start": 46.213,
+    "end": 46.32
+  },
+  {
+    "word": "jayega.",
+    "start": 46.36,
+    "end": 46.8
+  },
+  {
+    "word": "Are",
+    "start": 47.1,
+    "end": 48.0
+  },
+  {
+    "word": "you",
+    "start": 48.04,
+    "end": 48.16
+  },
+  {
+    "word": "working",
+    "start": 48.21,
+    "end": 48.56
+  },
+  {
+    "word": "hard",
+    "start": 48.688,
+    "end": 49.2
+  },
+  {
+    "word": "or",
+    "start": 49.333,
+    "end": 49.6
+  },
+  {
+    "word": "just",
+    "start": 49.648,
+    "end": 49.84
+  },
+  {
+    "word": "staying",
+    "start": 49.89,
+    "end": 50.24
+  },
+  {
+    "word": "busy?",
+    "start": 50.32,
+    "end": 50.72
+  },
+  {
+    "word": "Comment",
+    "start": 50.88,
+    "end": 52.0
+  },
+  {
+    "word": "your",
+    "start": 52.032,
+    "end": 52.16
+  },
+  {
+    "word": "struggle",
+    "start": 52.204,
+    "end": 52.56
+  },
+  {
+    "word": "below,",
+    "start": 52.64,
+    "end": 53.12
+  },
+  {
+    "word": "because",
+    "start": 53.19,
+    "end": 53.68
+  },
+  {
+    "word": "if",
+    "start": 53.733,
+    "end": 53.84
+  },
+  {
+    "word": "you",
+    "start": 53.86,
+    "end": 53.92
+  },
+  {
+    "word": "don't",
+    "start": 53.96,
+    "end": 54.16
+  },
+  {
+    "word": "change",
+    "start": 54.206,
+    "end": 54.48
+  },
+  {
+    "word": "your",
+    "start": 54.496,
+    "end": 54.56
+  },
+  {
+    "word": "approach,",
+    "start": 54.631,
+    "end": 55.52
+  },
+  {
+    "word": "then",
+    "start": 55.552,
+    "end": 55.68
+  },
+  {
+    "word": "remember...",
+    "start": 55.742,
+    "end": 56.4
+  }
+]

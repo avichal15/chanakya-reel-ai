@@ -1,0 +1,662 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.32
+  },
+  {
+    "word": "CHASING",
+    "start": 0.4,
+    "end": 0.88
+  },
+  {
+    "word": "A",
+    "start": 0.92,
+    "end": 0.96
+  },
+  {
+    "word": "COMFORTABLE",
+    "start": 1.02,
+    "end": 1.52
+  },
+  {
+    "word": "LIFE.",
+    "start": 1.616,
+    "end": 2.16
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.432,
+    "end": 3.92
+  },
+  {
+    "word": "ne",
+    "start": 3.973,
+    "end": 4.08
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.16,
+    "end": 4.48
+  },
+  {
+    "word": "pehle",
+    "start": 4.56,
+    "end": 4.88
+  },
+  {
+    "word": "ek",
+    "start": 4.987,
+    "end": 5.2
+  },
+  {
+    "word": "baat",
+    "start": 5.253,
+    "end": 5.44
+  },
+  {
+    "word": "kahi",
+    "start": 5.52,
+    "end": 5.76
+  },
+  {
+    "word": "thi:",
+    "start": 5.82,
+    "end": 6.64
+  },
+  {
+    "word": "Ek",
+    "start": 6.72,
+    "end": 6.88
+  },
+  {
+    "word": "bura",
+    "start": 6.96,
+    "end": 7.28
+  },
+  {
+    "word": "insaan",
+    "start": 7.36,
+    "end": 7.92
+  },
+  {
+    "word": "apne",
+    "start": 8.0,
+    "end": 8.24
+  },
+  {
+    "word": "bure",
+    "start": 8.32,
+    "end": 8.64
+  },
+  {
+    "word": "swabhav",
+    "start": 8.693,
+    "end": 9.12
+  },
+  {
+    "word": "se",
+    "start": 9.2,
+    "end": 9.36
+  },
+  {
+    "word": "khatam",
+    "start": 9.4,
+    "end": 9.68
+  },
+  {
+    "word": "ho",
+    "start": 9.707,
+    "end": 9.76
+  },
+  {
+    "word": "jata",
+    "start": 9.84,
+    "end": 10.16
+  },
+  {
+    "word": "hai,",
+    "start": 10.2,
+    "end": 10.88
+  },
+  {
+    "word": "ek",
+    "start": 10.96,
+    "end": 11.12
+  },
+  {
+    "word": "gyaani",
+    "start": 11.16,
+    "end": 11.6
+  },
+  {
+    "word": "apne",
+    "start": 11.707,
+    "end": 12.0
+  },
+  {
+    "word": "gyaan",
+    "start": 12.08,
+    "end": 12.4
+  },
+  {
+    "word": "ke",
+    "start": 12.453,
+    "end": 12.56
+  },
+  {
+    "word": "bina,",
+    "start": 12.6,
+    "end": 13.44
+  },
+  {
+    "word": "aur",
+    "start": 13.48,
+    "end": 13.6
+  },
+  {
+    "word": "ek",
+    "start": 13.68,
+    "end": 13.84
+  },
+  {
+    "word": "ameer",
+    "start": 13.947,
+    "end": 14.32
+  },
+  {
+    "word": "insaan",
+    "start": 14.4,
+    "end": 15.04
+  },
+  {
+    "word": "sirf",
+    "start": 15.18,
+    "end": 15.68
+  },
+  {
+    "word": "apne",
+    "start": 15.787,
+    "end": 16.08
+  },
+  {
+    "word": "bhog-vilas",
+    "start": 16.187,
+    "end": 17.04
+  },
+  {
+    "word": "aur",
+    "start": 17.16,
+    "end": 17.52
+  },
+  {
+    "word": "aalas",
+    "start": 17.6,
+    "end": 18.08
+  },
+  {
+    "word": "se",
+    "start": 18.133,
+    "end": 18.24
+  },
+  {
+    "word": "apni",
+    "start": 18.32,
+    "end": 18.64
+  },
+  {
+    "word": "sari",
+    "start": 18.76,
+    "end": 19.12
+  },
+  {
+    "word": "sampatti",
+    "start": 19.184,
+    "end": 19.68
+  },
+  {
+    "word": "kho",
+    "start": 19.74,
+    "end": 19.92
+  },
+  {
+    "word": "deta",
+    "start": 19.96,
+    "end": 20.24
+  },
+  {
+    "word": "hai.",
+    "start": 20.28,
+    "end": 20.56
+  },
+  {
+    "word": "Hum",
+    "start": 20.8,
+    "end": 21.52
+  },
+  {
+    "word": "sabko",
+    "start": 21.58,
+    "end": 21.84
+  },
+  {
+    "word": "lagta",
+    "start": 21.9,
+    "end": 22.24
+  },
+  {
+    "word": "hai",
+    "start": 22.28,
+    "end": 22.4
+  },
+  {
+    "word": "ki",
+    "start": 22.48,
+    "end": 22.64
+  },
+  {
+    "word": "'comfort'",
+    "start": 22.68,
+    "end": 23.2
+  },
+  {
+    "word": "success",
+    "start": 23.26,
+    "end": 23.68
+  },
+  {
+    "word": "hai,",
+    "start": 23.72,
+    "end": 23.92
+  },
+  {
+    "word": "par",
+    "start": 24.08,
+    "end": 24.56
+  },
+  {
+    "word": "reality",
+    "start": 24.63,
+    "end": 25.12
+  },
+  {
+    "word": "ye",
+    "start": 25.173,
+    "end": 25.28
+  },
+  {
+    "word": "hai",
+    "start": 25.34,
+    "end": 25.52
+  },
+  {
+    "word": "ki",
+    "start": 25.68,
+    "end": 26.0
+  },
+  {
+    "word": "comfort",
+    "start": 26.06,
+    "end": 26.48
+  },
+  {
+    "word": "hi",
+    "start": 26.533,
+    "end": 26.64
+  },
+  {
+    "word": "tumhara",
+    "start": 26.68,
+    "end": 27.04
+  },
+  {
+    "word": "sabse",
+    "start": 27.12,
+    "end": 27.44
+  },
+  {
+    "word": "bada",
+    "start": 27.48,
+    "end": 27.68
+  },
+  {
+    "word": "dushman",
+    "start": 27.72,
+    "end": 28.16
+  },
+  {
+    "word": "hai.",
+    "start": 28.2,
+    "end": 29.2
+  },
+  {
+    "word": "Jab",
+    "start": 29.26,
+    "end": 29.44
+  },
+  {
+    "word": "tum",
+    "start": 29.48,
+    "end": 29.6
+  },
+  {
+    "word": "luxury",
+    "start": 29.691,
+    "end": 30.24
+  },
+  {
+    "word": "aur",
+    "start": 30.3,
+    "end": 30.48
+  },
+  {
+    "word": "aalas",
+    "start": 30.56,
+    "end": 30.96
+  },
+  {
+    "word": "ke",
+    "start": 31.013,
+    "end": 31.12
+  },
+  {
+    "word": "ghere",
+    "start": 31.16,
+    "end": 31.44
+  },
+  {
+    "word": "mein",
+    "start": 31.488,
+    "end": 31.68
+  },
+  {
+    "word": "fast-track",
+    "start": 31.76,
+    "end": 32.4
+  },
+  {
+    "word": "life",
+    "start": 32.464,
+    "end": 32.72
+  },
+  {
+    "word": "jeene",
+    "start": 32.747,
+    "end": 32.96
+  },
+  {
+    "word": "lagte",
+    "start": 33.02,
+    "end": 33.28
+  },
+  {
+    "word": "ho,",
+    "start": 33.333,
+    "end": 33.6
+  },
+  {
+    "word": "tab",
+    "start": 33.74,
+    "end": 34.16
+  },
+  {
+    "word": "tumhari",
+    "start": 34.2,
+    "end": 34.56
+  },
+  {
+    "word": "growth",
+    "start": 34.617,
+    "end": 34.96
+  },
+  {
+    "word": "ruk",
+    "start": 35.06,
+    "end": 35.36
+  },
+  {
+    "word": "jati",
+    "start": 35.44,
+    "end": 35.76
+  },
+  {
+    "word": "hai.",
+    "start": 35.8,
+    "end": 36.08
+  },
+  {
+    "word": "The",
+    "start": 36.28,
+    "end": 36.88
+  },
+  {
+    "word": "moment",
+    "start": 36.949,
+    "end": 37.36
+  },
+  {
+    "word": "you",
+    "start": 37.38,
+    "end": 37.44
+  },
+  {
+    "word": "stop",
+    "start": 37.52,
+    "end": 37.84
+  },
+  {
+    "word": "striving",
+    "start": 37.902,
+    "end": 38.4
+  },
+  {
+    "word": "and",
+    "start": 38.42,
+    "end": 38.48
+  },
+  {
+    "word": "start",
+    "start": 38.547,
+    "end": 38.88
+  },
+  {
+    "word": "indulging,",
+    "start": 38.947,
+    "end": 39.92
+  },
+  {
+    "word": "you",
+    "start": 39.96,
+    "end": 40.08
+  },
+  {
+    "word": "start",
+    "start": 40.147,
+    "end": 40.48
+  },
+  {
+    "word": "losing",
+    "start": 40.537,
+    "end": 40.88
+  },
+  {
+    "word": "everything",
+    "start": 40.938,
+    "end": 41.52
+  },
+  {
+    "word": "you",
+    "start": 41.56,
+    "end": 41.68
+  },
+  {
+    "word": "built.",
+    "start": 41.747,
+    "end": 42.24
+  },
+  {
+    "word": "Discipline",
+    "start": 42.356,
+    "end": 43.52
+  },
+  {
+    "word": "is",
+    "start": 43.573,
+    "end": 43.68
+  },
+  {
+    "word": "the",
+    "start": 43.7,
+    "end": 43.76
+  },
+  {
+    "word": "only",
+    "start": 43.872,
+    "end": 44.32
+  },
+  {
+    "word": "thing",
+    "start": 44.373,
+    "end": 44.64
+  },
+  {
+    "word": "that",
+    "start": 44.672,
+    "end": 44.8
+  },
+  {
+    "word": "saves",
+    "start": 44.88,
+    "end": 45.28
+  },
+  {
+    "word": "you",
+    "start": 45.3,
+    "end": 45.36
+  },
+  {
+    "word": "from",
+    "start": 45.408,
+    "end": 45.6
+  },
+  {
+    "word": "your",
+    "start": 45.632,
+    "end": 45.76
+  },
+  {
+    "word": "own",
+    "start": 45.84,
+    "end": 46.08
+  },
+  {
+    "word": "greed.",
+    "start": 46.16,
+    "end": 46.72
+  },
+  {
+    "word": "Are",
+    "start": 46.94,
+    "end": 47.6
+  },
+  {
+    "word": "you",
+    "start": 47.64,
+    "end": 47.76
+  },
+  {
+    "word": "choosing",
+    "start": 47.813,
+    "end": 48.24
+  },
+  {
+    "word": "comfort",
+    "start": 48.3,
+    "end": 48.72
+  },
+  {
+    "word": "over",
+    "start": 48.768,
+    "end": 48.96
+  },
+  {
+    "word": "growth",
+    "start": 49.006,
+    "end": 49.28
+  },
+  {
+    "word": "today?",
+    "start": 49.347,
+    "end": 49.84
+  },
+  {
+    "word": "Comment",
+    "start": 49.97,
+    "end": 50.88
+  },
+  {
+    "word": "'Savage'",
+    "start": 51.04,
+    "end": 51.76
+  },
+  {
+    "word": "if",
+    "start": 51.867,
+    "end": 52.08
+  },
+  {
+    "word": "you're",
+    "start": 52.1,
+    "end": 52.24
+  },
+  {
+    "word": "ready",
+    "start": 52.28,
+    "end": 52.48
+  },
+  {
+    "word": "to",
+    "start": 52.507,
+    "end": 52.56
+  },
+  {
+    "word": "wake",
+    "start": 52.624,
+    "end": 52.88
+  },
+  {
+    "word": "up,",
+    "start": 52.987,
+    "end": 53.52
+  },
+  {
+    "word": "because",
+    "start": 53.56,
+    "end": 53.84
+  },
+  {
+    "word": "you",
+    "start": 53.86,
+    "end": 53.92
+  },
+  {
+    "word": "need",
+    "start": 53.968,
+    "end": 54.16
+  },
+  {
+    "word": "to",
+    "start": 54.187,
+    "end": 54.24
+  },
+  {
+    "word": "realize",
+    "start": 54.32,
+    "end": 54.88
+  },
+  {
+    "word": "that...",
+    "start": 54.928,
+    "end": 55.28
+  }
+]

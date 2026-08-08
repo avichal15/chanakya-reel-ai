@@ -1,0 +1,602 @@
+[
+  {
+    "word": "WHY",
+    "start": 0.0,
+    "end": 0.24
+  },
+  {
+    "word": "YOU'RE",
+    "start": 0.28,
+    "end": 0.48
+  },
+  {
+    "word": "STILL",
+    "start": 0.533,
+    "end": 0.8
+  },
+  {
+    "word": "UNHAPPY,",
+    "start": 0.853,
+    "end": 1.84
+  },
+  {
+    "word": "DESPITE",
+    "start": 1.9,
+    "end": 2.4
+  },
+  {
+    "word": "EVERYTHING.",
+    "start": 2.48,
+    "end": 3.28
+  },
+  {
+    "word": "Chanakya",
+    "start": 3.536,
+    "end": 4.88
+  },
+  {
+    "word": "ne",
+    "start": 4.96,
+    "end": 5.12
+  },
+  {
+    "word": "sadiyon",
+    "start": 5.16,
+    "end": 5.52
+  },
+  {
+    "word": "pehle",
+    "start": 5.573,
+    "end": 5.92
+  },
+  {
+    "word": "ek",
+    "start": 6.027,
+    "end": 6.24
+  },
+  {
+    "word": "baat",
+    "start": 6.293,
+    "end": 6.56
+  },
+  {
+    "word": "kahi",
+    "start": 6.6,
+    "end": 6.8
+  },
+  {
+    "word": "thi:",
+    "start": 6.86,
+    "end": 7.12
+  },
+  {
+    "word": "Na",
+    "start": 7.413,
+    "end": 8.0
+  },
+  {
+    "word": "Bhagwan",
+    "start": 8.053,
+    "end": 8.56
+  },
+  {
+    "word": "lakdi",
+    "start": 8.62,
+    "end": 8.88
+  },
+  {
+    "word": "mein",
+    "start": 8.912,
+    "end": 9.04
+  },
+  {
+    "word": "milta",
+    "start": 9.08,
+    "end": 9.36
+  },
+  {
+    "word": "hai,",
+    "start": 9.42,
+    "end": 10.08
+  },
+  {
+    "word": "na",
+    "start": 10.133,
+    "end": 10.24
+  },
+  {
+    "word": "patthar",
+    "start": 10.32,
+    "end": 10.64
+  },
+  {
+    "word": "mein,",
+    "start": 10.688,
+    "end": 11.36
+  },
+  {
+    "word": "na",
+    "start": 11.413,
+    "end": 11.52
+  },
+  {
+    "word": "mitti",
+    "start": 11.584,
+    "end": 11.92
+  },
+  {
+    "word": "mein.",
+    "start": 11.968,
+    "end": 12.24
+  },
+  {
+    "word": "Bhagwan",
+    "start": 12.507,
+    "end": 13.36
+  },
+  {
+    "word": "toh",
+    "start": 13.4,
+    "end": 13.52
+  },
+  {
+    "word": "sirf",
+    "start": 13.58,
+    "end": 13.84
+  },
+  {
+    "word": "tumhare",
+    "start": 13.9,
+    "end": 14.32
+  },
+  {
+    "word": "bhaav",
+    "start": 14.4,
+    "end": 14.72
+  },
+  {
+    "word": "mein",
+    "start": 14.752,
+    "end": 14.88
+  },
+  {
+    "word": "hai,",
+    "start": 14.94,
+    "end": 15.76
+  },
+  {
+    "word": "isliye",
+    "start": 15.867,
+    "end": 16.24
+  },
+  {
+    "word": "tumhare",
+    "start": 16.3,
+    "end": 16.72
+  },
+  {
+    "word": "bhaav",
+    "start": 16.8,
+    "end": 17.2
+  },
+  {
+    "word": "hi",
+    "start": 17.253,
+    "end": 17.36
+  },
+  {
+    "word": "sab",
+    "start": 17.42,
+    "end": 17.6
+  },
+  {
+    "word": "kuch",
+    "start": 17.64,
+    "end": 17.84
+  },
+  {
+    "word": "hain.",
+    "start": 17.88,
+    "end": 18.88
+  },
+  {
+    "word": "Aaj",
+    "start": 18.96,
+    "end": 19.2
+  },
+  {
+    "word": "ki",
+    "start": 19.227,
+    "end": 19.28
+  },
+  {
+    "word": "duniya",
+    "start": 19.36,
+    "end": 19.68
+  },
+  {
+    "word": "mein,",
+    "start": 19.728,
+    "end": 20.16
+  },
+  {
+    "word": "hum",
+    "start": 20.22,
+    "end": 20.4
+  },
+  {
+    "word": "apni",
+    "start": 20.453,
+    "end": 20.64
+  },
+  {
+    "word": "khushi,",
+    "start": 20.693,
+    "end": 21.44
+  },
+  {
+    "word": "apni",
+    "start": 21.493,
+    "end": 21.68
+  },
+  {
+    "word": "pehchaan",
+    "start": 21.733,
+    "end": 22.4
+  },
+  {
+    "word": "bahar",
+    "start": 22.52,
+    "end": 22.96
+  },
+  {
+    "word": "ki",
+    "start": 23.013,
+    "end": 23.12
+  },
+  {
+    "word": "cheezon",
+    "start": 23.16,
+    "end": 23.44
+  },
+  {
+    "word": "mein",
+    "start": 23.472,
+    "end": 23.6
+  },
+  {
+    "word": "dhoondhte",
+    "start": 23.64,
+    "end": 24.0
+  },
+  {
+    "word": "hain",
+    "start": 24.04,
+    "end": 24.24
+  },
+  {
+    "word": "-",
+    "start": 24.56,
+    "end": 24.88
+  },
+  {
+    "word": "naye",
+    "start": 24.96,
+    "end": 25.2
+  },
+  {
+    "word": "phone",
+    "start": 25.253,
+    "end": 25.52
+  },
+  {
+    "word": "mein,",
+    "start": 25.568,
+    "end": 26.16
+  },
+  {
+    "word": "social",
+    "start": 26.217,
+    "end": 26.56
+  },
+  {
+    "word": "media",
+    "start": 26.613,
+    "end": 26.88
+  },
+  {
+    "word": "ke",
+    "start": 26.933,
+    "end": 27.04
+  },
+  {
+    "word": "likes",
+    "start": 27.107,
+    "end": 27.44
+  },
+  {
+    "word": "mein,",
+    "start": 27.488,
+    "end": 27.76
+  },
+  {
+    "word": "ya",
+    "start": 27.893,
+    "end": 28.16
+  },
+  {
+    "word": "logon",
+    "start": 28.22,
+    "end": 28.48
+  },
+  {
+    "word": "ki",
+    "start": 28.533,
+    "end": 28.64
+  },
+  {
+    "word": "tareef",
+    "start": 28.68,
+    "end": 29.04
+  },
+  {
+    "word": "mein.",
+    "start": 29.088,
+    "end": 29.76
+  },
+  {
+    "word": "Par",
+    "start": 29.88,
+    "end": 30.24
+  },
+  {
+    "word": "asal",
+    "start": 30.32,
+    "end": 30.64
+  },
+  {
+    "word": "khushi,",
+    "start": 30.693,
+    "end": 31.52
+  },
+  {
+    "word": "asal",
+    "start": 31.573,
+    "end": 31.76
+  },
+  {
+    "word": "santushti",
+    "start": 31.84,
+    "end": 32.4
+  },
+  {
+    "word": "toh",
+    "start": 32.44,
+    "end": 32.56
+  },
+  {
+    "word": "tumhare",
+    "start": 32.6,
+    "end": 32.96
+  },
+  {
+    "word": "andar",
+    "start": 33.02,
+    "end": 33.28
+  },
+  {
+    "word": "hai.",
+    "start": 33.32,
+    "end": 34.24
+  },
+  {
+    "word": "Jab",
+    "start": 34.3,
+    "end": 34.48
+  },
+  {
+    "word": "tak",
+    "start": 34.52,
+    "end": 34.64
+  },
+  {
+    "word": "tumhare",
+    "start": 34.7,
+    "end": 35.12
+  },
+  {
+    "word": "intentions,",
+    "start": 35.193,
+    "end": 36.24
+  },
+  {
+    "word": "tumhare",
+    "start": 36.28,
+    "end": 36.64
+  },
+  {
+    "word": "bhaav",
+    "start": 36.72,
+    "end": 37.12
+  },
+  {
+    "word": "shuddh",
+    "start": 37.2,
+    "end": 37.52
+  },
+  {
+    "word": "nahi",
+    "start": 37.56,
+    "end": 37.76
+  },
+  {
+    "word": "honge,",
+    "start": 37.8,
+    "end": 38.64
+  },
+  {
+    "word": "koi",
+    "start": 38.68,
+    "end": 38.88
+  },
+  {
+    "word": "bhi",
+    "start": 38.96,
+    "end": 39.2
+  },
+  {
+    "word": "bahar",
+    "start": 39.24,
+    "end": 39.44
+  },
+  {
+    "word": "ki",
+    "start": 39.493,
+    "end": 39.6
+  },
+  {
+    "word": "cheez",
+    "start": 39.64,
+    "end": 39.92
+  },
+  {
+    "word": "tumhe",
+    "start": 39.96,
+    "end": 40.24
+  },
+  {
+    "word": "pura",
+    "start": 40.32,
+    "end": 40.6
+  },
+  {
+    "word": "nahi",
+    "start": 40.62,
+    "end": 40.8
+  },
+  {
+    "word": "kar",
+    "start": 40.84,
+    "end": 40.96
+  },
+  {
+    "word": "payegi.",
+    "start": 41.02,
+    "end": 41.52
+  },
+  {
+    "word": "Focus",
+    "start": 41.707,
+    "end": 42.64
+  },
+  {
+    "word": "on",
+    "start": 42.693,
+    "end": 42.8
+  },
+  {
+    "word": "your",
+    "start": 42.832,
+    "end": 42.96
+  },
+  {
+    "word": "inner",
+    "start": 43.013,
+    "end": 43.28
+  },
+  {
+    "word": "world,",
+    "start": 43.347,
+    "end": 44.0
+  },
+  {
+    "word": "not",
+    "start": 44.06,
+    "end": 44.24
+  },
+  {
+    "word": "just",
+    "start": 44.304,
+    "end": 44.56
+  },
+  {
+    "word": "the",
+    "start": 44.58,
+    "end": 44.64
+  },
+  {
+    "word": "outer",
+    "start": 44.707,
+    "end": 45.04
+  },
+  {
+    "word": "show.",
+    "start": 45.12,
+    "end": 45.6
+  },
+  {
+    "word": "Save",
+    "start": 45.792,
+    "end": 46.56
+  },
+  {
+    "word": "this",
+    "start": 46.592,
+    "end": 46.72
+  },
+  {
+    "word": "video",
+    "start": 46.787,
+    "end": 47.12
+  },
+  {
+    "word": "if",
+    "start": 47.2,
+    "end": 47.36
+  },
+  {
+    "word": "you're",
+    "start": 47.38,
+    "end": 47.52
+  },
+  {
+    "word": "ready",
+    "start": 47.56,
+    "end": 47.76
+  },
+  {
+    "word": "to",
+    "start": 47.813,
+    "end": 47.92
+  },
+  {
+    "word": "find",
+    "start": 47.984,
+    "end": 48.24
+  },
+  {
+    "word": "true",
+    "start": 48.32,
+    "end": 48.64
+  },
+  {
+    "word": "fulfillment,",
+    "start": 48.7,
+    "end": 49.44
+  },
+  {
+    "word": "and",
+    "start": 49.54,
+    "end": 49.84
+  },
+  {
+    "word": "understand",
+    "start": 49.898,
+    "end": 50.48
+  },
+  {
+    "word": "that...",
+    "start": 50.544,
+    "end": 50.96
+  }
+]

@@ -1,7 +1,12 @@
 import os
 import random
 import logging
+import PIL.Image
+if not hasattr(PIL.Image, 'ANTIALIAS'):
+    PIL.Image.ANTIALIAS = getattr(PIL.Image, 'Resampling', PIL.Image).LANCZOS
+
 from moviepy.editor import VideoFileClip
+import moviepy.video.fx.all as vfx
 
 logger = logging.getLogger("ViralBackgroundEngine")
 
@@ -11,10 +16,10 @@ os.makedirs(VIRAL_DIR, exist_ok=True)
 
 # Curated list of high-retention, satisfying gameplay compilations using search queries
 VIRAL_SOURCES = {
-    "subway_surfers": "ytsearch1:subway surfers gameplay no copyright",
-    "minecraft_parkour": "ytsearch1:minecraft parkour gameplay no copyright",
-    "gta_v_ramps": "ytsearch1:gta 5 ramp jump gameplay no copyright",
-    "satisfying_compilation": "ytsearch1:satisfying video compilation no copyright kinetic sand"
+    "subway_surfers": "ytsearch1:subway surfers gameplay no copyright 4k 60fps",
+    "minecraft_parkour": "ytsearch1:minecraft parkour gameplay no copyright 4k 60fps",
+    "gta_v_ramps": "ytsearch1:gta 5 ramp jump gameplay no copyright 4k 60fps",
+    "satisfying_compilation": "ytsearch1:satisfying video compilation no copyright kinetic sand 4k 60fps"
 }
 
 def init_backgrounds():
@@ -26,16 +31,18 @@ def init_backgrounds():
     import yt_dlp
     
     for name, url in VIRAL_SOURCES.items():
-        file_path = os.path.join(VIRAL_DIR, f"{name}.mp4")
-        if os.path.exists(file_path):
+        file_path_template = os.path.join(VIRAL_DIR, f"{name}.%(ext)s")
+        # Check if any file starting with name exists (could be .webm, .mp4, .mkv)
+        existing_files = [f for f in os.listdir(VIRAL_DIR) if f.startswith(name) and not f.endswith('.part')]
+        if existing_files:
             logger.info(f"[OK] Background '{name}' already exists.")
             continue
             
         logger.info(f"Downloading Viral Background: {name} from {url}")
         
         ydl_opts = {
-            'format': 'bestvideo[height<=1080][ext=mp4]/best[ext=mp4]', 
-            'outtmpl': file_path,
+            'format': 'bestvideo/best', 
+            'outtmpl': file_path_template,
             'quiet': True,
             'no_warnings': True,
         }
@@ -52,7 +59,7 @@ def get_random_background_clip(duration: float, width: int = 1080, height: int =
     Selects a random downloaded compilation, picks a random timestamp, and returns a VideoFileClip
     of the specified duration, perfectly cropped to 9:16 aspect ratio.
     """
-    available_files = [f for f in os.listdir(VIRAL_DIR) if f.endswith('.mp4')]
+    available_files = [f for f in os.listdir(VIRAL_DIR) if f.endswith(('.mp4', '.webm', '.mkv'))]
     
     if not available_files:
         logger.warning("No viral backgrounds found locally! Falling back to solid gradient.")
@@ -65,15 +72,23 @@ def get_random_background_clip(duration: float, width: int = 1080, height: int =
     try:
         clip = VideoFileClip(video_path)
         
+        speed_factor = 1.75
+        required_source_duration = duration * speed_factor
+
         # Calculate random start time
-        if clip.duration <= duration:
+        if clip.duration <= required_source_duration:
             start_time = 0.0
+            end_time = clip.duration
         else:
-            max_start = clip.duration - duration
+            max_start = clip.duration - required_source_duration
             start_time = random.uniform(0.0, max_start)
+            end_time = start_time + required_source_duration
             
-        logger.info(f"Slicing clip from {start_time:.1f}s to {start_time + duration:.1f}s")
-        subclip = clip.subclip(start_time, start_time + duration)
+        logger.info(f"Slicing clip from {start_time:.1f}s to {end_time:.1f}s (Speed: {speed_factor}x)")
+        subclip = clip.subclip(start_time, end_time)
+        
+        # Apply speedup
+        subclip = subclip.fx(vfx.speedx, speed_factor)
         
         # Resize vertically and crop horizontally for 9:16
         subclip = subclip.resize(height=height)

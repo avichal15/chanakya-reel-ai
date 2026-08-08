@@ -1,0 +1,627 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "SECRET",
+    "start": 0.274,
+    "end": 0.96
+  },
+  {
+    "word": "IS",
+    "start": 1.147,
+    "end": 1.52
+  },
+  {
+    "word": "DESTROYING",
+    "start": 1.648,
+    "end": 2.56
+  },
+  {
+    "word": "YOU.",
+    "start": 2.62,
+    "end": 2.88
+  },
+  {
+    "word": "Chanakya",
+    "start": 3.216,
+    "end": 4.88
+  },
+  {
+    "word": "ne",
+    "start": 4.96,
+    "end": 5.12
+  },
+  {
+    "word": "sadiyon",
+    "start": 5.16,
+    "end": 5.52
+  },
+  {
+    "word": "pehle",
+    "start": 5.573,
+    "end": 5.92
+  },
+  {
+    "word": "ek",
+    "start": 6.027,
+    "end": 6.24
+  },
+  {
+    "word": "baat",
+    "start": 6.293,
+    "end": 6.56
+  },
+  {
+    "word": "kahi",
+    "start": 6.62,
+    "end": 6.8
+  },
+  {
+    "word": "thi:",
+    "start": 6.86,
+    "end": 7.76
+  },
+  {
+    "word": "Jaise",
+    "start": 7.84,
+    "end": 8.16
+  },
+  {
+    "word": "tel",
+    "start": 8.26,
+    "end": 8.56
+  },
+  {
+    "word": "lakdi",
+    "start": 8.6,
+    "end": 8.88
+  },
+  {
+    "word": "mein",
+    "start": 8.912,
+    "end": 9.04
+  },
+  {
+    "word": "chhupa",
+    "start": 9.093,
+    "end": 9.52
+  },
+  {
+    "word": "hota",
+    "start": 9.58,
+    "end": 9.84
+  },
+  {
+    "word": "hai",
+    "start": 9.92,
+    "end": 10.16
+  },
+  {
+    "word": "aur",
+    "start": 10.28,
+    "end": 10.64
+  },
+  {
+    "word": "sugandh",
+    "start": 10.7,
+    "end": 11.16
+  },
+  {
+    "word": "phoolon",
+    "start": 11.2,
+    "end": 11.52
+  },
+  {
+    "word": "mein,",
+    "start": 11.568,
+    "end": 12.12
+  },
+  {
+    "word": "waise",
+    "start": 12.3,
+    "end": 12.8
+  },
+  {
+    "word": "hi",
+    "start": 12.853,
+    "end": 12.96
+  },
+  {
+    "word": "is",
+    "start": 13.013,
+    "end": 13.12
+  },
+  {
+    "word": "shareer",
+    "start": 13.173,
+    "end": 13.6
+  },
+  {
+    "word": "mein",
+    "start": 13.648,
+    "end": 13.84
+  },
+  {
+    "word": "aatma",
+    "start": 13.96,
+    "end": 14.4
+  },
+  {
+    "word": "basi",
+    "start": 14.46,
+    "end": 14.72
+  },
+  {
+    "word": "hoti",
+    "start": 14.78,
+    "end": 15.04
+  },
+  {
+    "word": "hai,",
+    "start": 15.08,
+    "end": 16.0
+  },
+  {
+    "word": "par",
+    "start": 16.04,
+    "end": 16.16
+  },
+  {
+    "word": "use",
+    "start": 16.26,
+    "end": 16.56
+  },
+  {
+    "word": "sirf",
+    "start": 16.62,
+    "end": 16.88
+  },
+  {
+    "word": "vivek",
+    "start": 16.992,
+    "end": 17.68
+  },
+  {
+    "word": "aur",
+    "start": 17.72,
+    "end": 17.84
+  },
+  {
+    "word": "gyan",
+    "start": 17.96,
+    "end": 18.32
+  },
+  {
+    "word": "se",
+    "start": 18.4,
+    "end": 18.56
+  },
+  {
+    "word": "hi",
+    "start": 18.613,
+    "end": 18.72
+  },
+  {
+    "word": "pehchana",
+    "start": 18.773,
+    "end": 19.2
+  },
+  {
+    "word": "ja",
+    "start": 19.253,
+    "end": 19.36
+  },
+  {
+    "word": "sakta",
+    "start": 19.44,
+    "end": 19.76
+  },
+  {
+    "word": "hai.",
+    "start": 19.8,
+    "end": 20.88
+  },
+  {
+    "word": "Hum",
+    "start": 20.94,
+    "end": 21.12
+  },
+  {
+    "word": "sab",
+    "start": 21.2,
+    "end": 21.44
+  },
+  {
+    "word": "apni",
+    "start": 21.52,
+    "end": 21.76
+  },
+  {
+    "word": "life",
+    "start": 21.84,
+    "end": 22.16
+  },
+  {
+    "word": "mein",
+    "start": 22.192,
+    "end": 22.32
+  },
+  {
+    "word": "ek",
+    "start": 22.427,
+    "end": 22.64
+  },
+  {
+    "word": "mask",
+    "start": 22.752,
+    "end": 23.2
+  },
+  {
+    "word": "pehen",
+    "start": 23.227,
+    "end": 23.44
+  },
+  {
+    "word": "kar",
+    "start": 23.48,
+    "end": 23.6
+  },
+  {
+    "word": "ghumte",
+    "start": 23.64,
+    "end": 24.08
+  },
+  {
+    "word": "hain,",
+    "start": 24.1,
+    "end": 24.88
+  },
+  {
+    "word": "pretend",
+    "start": 24.93,
+    "end": 25.28
+  },
+  {
+    "word": "karte",
+    "start": 25.32,
+    "end": 25.68
+  },
+  {
+    "word": "hain",
+    "start": 25.72,
+    "end": 26.0
+  },
+  {
+    "word": "ki",
+    "start": 26.16,
+    "end": 26.48
+  },
+  {
+    "word": "hum",
+    "start": 26.52,
+    "end": 26.64
+  },
+  {
+    "word": "perfectly",
+    "start": 26.704,
+    "end": 27.28
+  },
+  {
+    "word": "fine",
+    "start": 27.36,
+    "end": 27.68
+  },
+  {
+    "word": "hain.",
+    "start": 27.72,
+    "end": 28.72
+  },
+  {
+    "word": "Par",
+    "start": 28.76,
+    "end": 28.88
+  },
+  {
+    "word": "tumhara",
+    "start": 28.92,
+    "end": 29.36
+  },
+  {
+    "word": "asli",
+    "start": 29.493,
+    "end": 29.92
+  },
+  {
+    "word": "'self'\u2014wo",
+    "start": 30.0,
+    "end": 31.12
+  },
+  {
+    "word": "inner",
+    "start": 31.187,
+    "end": 31.52
+  },
+  {
+    "word": "truth\u2014ek",
+    "start": 31.613,
+    "end": 32.88
+  },
+  {
+    "word": "gehre",
+    "start": 32.96,
+    "end": 33.44
+  },
+  {
+    "word": "raaz",
+    "start": 33.52,
+    "end": 33.84
+  },
+  {
+    "word": "ki",
+    "start": 33.867,
+    "end": 33.92
+  },
+  {
+    "word": "tarah",
+    "start": 33.98,
+    "end": 34.24
+  },
+  {
+    "word": "daba",
+    "start": 34.28,
+    "end": 34.48
+  },
+  {
+    "word": "hua",
+    "start": 34.56,
+    "end": 34.8
+  },
+  {
+    "word": "hai.",
+    "start": 34.84,
+    "end": 35.04
+  },
+  {
+    "word": "Until",
+    "start": 35.24,
+    "end": 36.24
+  },
+  {
+    "word": "you",
+    "start": 36.28,
+    "end": 36.4
+  },
+  {
+    "word": "stop",
+    "start": 36.464,
+    "end": 36.72
+  },
+  {
+    "word": "seeking",
+    "start": 36.77,
+    "end": 37.12
+  },
+  {
+    "word": "validation",
+    "start": 37.178,
+    "end": 37.76
+  },
+  {
+    "word": "from",
+    "start": 37.792,
+    "end": 37.92
+  },
+  {
+    "word": "the",
+    "start": 37.94,
+    "end": 38.0
+  },
+  {
+    "word": "world",
+    "start": 38.107,
+    "end": 38.64
+  },
+  {
+    "word": "and",
+    "start": 38.74,
+    "end": 39.04
+  },
+  {
+    "word": "start",
+    "start": 39.12,
+    "end": 39.52
+  },
+  {
+    "word": "using",
+    "start": 39.587,
+    "end": 39.92
+  },
+  {
+    "word": "'Vivek'",
+    "start": 40.08,
+    "end": 40.88
+  },
+  {
+    "word": "(discernment)",
+    "start": 41.04,
+    "end": 42.0
+  },
+  {
+    "word": "to",
+    "start": 42.16,
+    "end": 42.48
+  },
+  {
+    "word": "understand",
+    "start": 42.531,
+    "end": 43.04
+  },
+  {
+    "word": "your",
+    "start": 43.072,
+    "end": 43.2
+  },
+  {
+    "word": "own",
+    "start": 43.3,
+    "end": 43.6
+  },
+  {
+    "word": "mind,",
+    "start": 43.696,
+    "end": 44.16
+  },
+  {
+    "word": "you",
+    "start": 44.34,
+    "end": 44.88
+  },
+  {
+    "word": "will",
+    "start": 44.928,
+    "end": 45.12
+  },
+  {
+    "word": "always",
+    "start": 45.2,
+    "end": 45.68
+  },
+  {
+    "word": "feel",
+    "start": 45.744,
+    "end": 46.0
+  },
+  {
+    "word": "like",
+    "start": 46.048,
+    "end": 46.24
+  },
+  {
+    "word": "a",
+    "start": 46.28,
+    "end": 46.32
+  },
+  {
+    "word": "stranger",
+    "start": 46.391,
+    "end": 46.96
+  },
+  {
+    "word": "to",
+    "start": 47.013,
+    "end": 47.12
+  },
+  {
+    "word": "yourself.",
+    "start": 47.182,
+    "end": 47.76
+  },
+  {
+    "word": "Are",
+    "start": 48.06,
+    "end": 48.96
+  },
+  {
+    "word": "you",
+    "start": 49.0,
+    "end": 49.12
+  },
+  {
+    "word": "brave",
+    "start": 49.187,
+    "end": 49.52
+  },
+  {
+    "word": "enough",
+    "start": 49.554,
+    "end": 49.76
+  },
+  {
+    "word": "to",
+    "start": 49.813,
+    "end": 49.92
+  },
+  {
+    "word": "look",
+    "start": 49.952,
+    "end": 50.08
+  },
+  {
+    "word": "at",
+    "start": 50.133,
+    "end": 50.24
+  },
+  {
+    "word": "your",
+    "start": 50.272,
+    "end": 50.4
+  },
+  {
+    "word": "true",
+    "start": 50.496,
+    "end": 50.88
+  },
+  {
+    "word": "self?",
+    "start": 50.976,
+    "end": 51.44
+  },
+  {
+    "word": "Save",
+    "start": 51.696,
+    "end": 52.72
+  },
+  {
+    "word": "this",
+    "start": 52.768,
+    "end": 52.96
+  },
+  {
+    "word": "if",
+    "start": 52.987,
+    "end": 53.04
+  },
+  {
+    "word": "you're",
+    "start": 53.06,
+    "end": 53.28
+  },
+  {
+    "word": "starting",
+    "start": 53.324,
+    "end": 53.68
+  },
+  {
+    "word": "your",
+    "start": 53.696,
+    "end": 53.76
+  },
+  {
+    "word": "journey",
+    "start": 53.81,
+    "end": 54.16
+  },
+  {
+    "word": "of",
+    "start": 54.187,
+    "end": 54.24
+  },
+  {
+    "word": "self-awareness,",
+    "start": 54.304,
+    "end": 55.68
+  },
+  {
+    "word": "because",
+    "start": 55.72,
+    "end": 56.0
+  },
+  {
+    "word": "remember...",
+    "start": 56.053,
+    "end": 56.64
+  }
+]

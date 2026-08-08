@@ -1,0 +1,552 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "PRAYERS",
+    "start": 0.267,
+    "end": 0.8
+  },
+  {
+    "word": "ARE",
+    "start": 0.88,
+    "end": 1.12
+  },
+  {
+    "word": "USELESS.",
+    "start": 1.24,
+    "end": 2.08
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.352,
+    "end": 3.76
+  },
+  {
+    "word": "ne",
+    "start": 3.813,
+    "end": 3.92
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.0,
+    "end": 4.4
+  },
+  {
+    "word": "pehle",
+    "start": 4.453,
+    "end": 4.8
+  },
+  {
+    "word": "ek",
+    "start": 4.88,
+    "end": 5.04
+  },
+  {
+    "word": "baat",
+    "start": 5.12,
+    "end": 5.36
+  },
+  {
+    "word": "kahi",
+    "start": 5.4,
+    "end": 5.68
+  },
+  {
+    "word": "thi:",
+    "start": 5.74,
+    "end": 6.0
+  },
+  {
+    "word": "Bhagwan",
+    "start": 6.293,
+    "end": 7.2
+  },
+  {
+    "word": "na",
+    "start": 7.253,
+    "end": 7.36
+  },
+  {
+    "word": "toh",
+    "start": 7.42,
+    "end": 7.6
+  },
+  {
+    "word": "lakdi",
+    "start": 7.66,
+    "end": 7.92
+  },
+  {
+    "word": "ki",
+    "start": 8.0,
+    "end": 8.16
+  },
+  {
+    "word": "murti",
+    "start": 8.2,
+    "end": 8.48
+  },
+  {
+    "word": "mein",
+    "start": 8.512,
+    "end": 8.64
+  },
+  {
+    "word": "hai,",
+    "start": 8.7,
+    "end": 8.96
+  },
+  {
+    "word": "na",
+    "start": 9.173,
+    "end": 9.6
+  },
+  {
+    "word": "pathar",
+    "start": 9.664,
+    "end": 10.0
+  },
+  {
+    "word": "mein,",
+    "start": 10.048,
+    "end": 10.6
+  },
+  {
+    "word": "aur",
+    "start": 10.69,
+    "end": 10.96
+  },
+  {
+    "word": "na",
+    "start": 11.04,
+    "end": 11.2
+  },
+  {
+    "word": "hi",
+    "start": 11.253,
+    "end": 11.36
+  },
+  {
+    "word": "mitti",
+    "start": 11.424,
+    "end": 11.76
+  },
+  {
+    "word": "mein.",
+    "start": 11.824,
+    "end": 12.08
+  },
+  {
+    "word": "Bhagwan",
+    "start": 12.347,
+    "end": 13.36
+  },
+  {
+    "word": "sirf",
+    "start": 13.42,
+    "end": 13.68
+  },
+  {
+    "word": "tumhare",
+    "start": 13.74,
+    "end": 14.16
+  },
+  {
+    "word": "'bhaav'",
+    "start": 14.24,
+    "end": 14.88
+  },
+  {
+    "word": "yani",
+    "start": 15.008,
+    "end": 15.52
+  },
+  {
+    "word": "tumhare",
+    "start": 15.58,
+    "end": 16.0
+  },
+  {
+    "word": "intentions",
+    "start": 16.073,
+    "end": 16.8
+  },
+  {
+    "word": "aur",
+    "start": 16.94,
+    "end": 17.36
+  },
+  {
+    "word": "shraddha",
+    "start": 17.42,
+    "end": 17.84
+  },
+  {
+    "word": "mein",
+    "start": 17.872,
+    "end": 18.0
+  },
+  {
+    "word": "baste",
+    "start": 18.08,
+    "end": 18.4
+  },
+  {
+    "word": "hain.",
+    "start": 18.44,
+    "end": 19.44
+  },
+  {
+    "word": "Hum",
+    "start": 19.5,
+    "end": 19.68
+  },
+  {
+    "word": "log",
+    "start": 19.74,
+    "end": 19.92
+  },
+  {
+    "word": "sirf",
+    "start": 19.98,
+    "end": 20.24
+  },
+  {
+    "word": "rituals",
+    "start": 20.32,
+    "end": 20.88
+  },
+  {
+    "word": "aur",
+    "start": 20.94,
+    "end": 21.12
+  },
+  {
+    "word": "dikhawe",
+    "start": 21.16,
+    "end": 21.6
+  },
+  {
+    "word": "ki",
+    "start": 21.653,
+    "end": 21.76
+  },
+  {
+    "word": "puja",
+    "start": 21.813,
+    "end": 22.08
+  },
+  {
+    "word": "mein",
+    "start": 22.112,
+    "end": 22.24
+  },
+  {
+    "word": "lage",
+    "start": 22.28,
+    "end": 22.48
+  },
+  {
+    "word": "rehte",
+    "start": 22.507,
+    "end": 22.8
+  },
+  {
+    "word": "hain,",
+    "start": 22.84,
+    "end": 23.6
+  },
+  {
+    "word": "ye",
+    "start": 23.653,
+    "end": 23.76
+  },
+  {
+    "word": "soch",
+    "start": 23.84,
+    "end": 24.16
+  },
+  {
+    "word": "kar",
+    "start": 24.22,
+    "end": 24.4
+  },
+  {
+    "word": "ki",
+    "start": 24.453,
+    "end": 24.56
+  },
+  {
+    "word": "external",
+    "start": 24.622,
+    "end": 25.12
+  },
+  {
+    "word": "tools",
+    "start": 25.2,
+    "end": 25.6
+  },
+  {
+    "word": "humein",
+    "start": 25.64,
+    "end": 25.84
+  },
+  {
+    "word": "success",
+    "start": 25.9,
+    "end": 26.32
+  },
+  {
+    "word": "denge.",
+    "start": 26.38,
+    "end": 26.88
+  },
+  {
+    "word": "But",
+    "start": 27.04,
+    "end": 27.52
+  },
+  {
+    "word": "truth",
+    "start": 27.587,
+    "end": 27.92
+  },
+  {
+    "word": "is,",
+    "start": 28.027,
+    "end": 28.76
+  },
+  {
+    "word": "unless",
+    "start": 28.834,
+    "end": 29.28
+  },
+  {
+    "word": "your",
+    "start": 29.312,
+    "end": 29.44
+  },
+  {
+    "word": "intent",
+    "start": 29.509,
+    "end": 29.92
+  },
+  {
+    "word": "is",
+    "start": 30.0,
+    "end": 30.16
+  },
+  {
+    "word": "pure",
+    "start": 30.288,
+    "end": 30.8
+  },
+  {
+    "word": "and",
+    "start": 30.9,
+    "end": 31.2
+  },
+  {
+    "word": "your",
+    "start": 31.232,
+    "end": 31.36
+  },
+  {
+    "word": "effort",
+    "start": 31.417,
+    "end": 31.76
+  },
+  {
+    "word": "is",
+    "start": 31.813,
+    "end": 31.92
+  },
+  {
+    "word": "real,",
+    "start": 32.0,
+    "end": 32.72
+  },
+  {
+    "word": "no",
+    "start": 32.853,
+    "end": 33.12
+  },
+  {
+    "word": "idol",
+    "start": 33.216,
+    "end": 33.6
+  },
+  {
+    "word": "can",
+    "start": 33.66,
+    "end": 33.84
+  },
+  {
+    "word": "save",
+    "start": 33.92,
+    "end": 34.24
+  },
+  {
+    "word": "you.",
+    "start": 34.28,
+    "end": 34.4
+  },
+  {
+    "word": "Stop",
+    "start": 34.608,
+    "end": 35.44
+  },
+  {
+    "word": "looking",
+    "start": 35.48,
+    "end": 35.76
+  },
+  {
+    "word": "for",
+    "start": 35.8,
+    "end": 35.92
+  },
+  {
+    "word": "miracles",
+    "start": 35.982,
+    "end": 36.48
+  },
+  {
+    "word": "in",
+    "start": 36.533,
+    "end": 36.64
+  },
+  {
+    "word": "stones;",
+    "start": 36.743,
+    "end": 37.44
+  },
+  {
+    "word": "start",
+    "start": 37.573,
+    "end": 38.24
+  },
+  {
+    "word": "building",
+    "start": 38.284,
+    "end": 38.64
+  },
+  {
+    "word": "the",
+    "start": 38.66,
+    "end": 38.72
+  },
+  {
+    "word": "consciousness",
+    "start": 38.771,
+    "end": 39.44
+  },
+  {
+    "word": "within",
+    "start": 39.486,
+    "end": 39.76
+  },
+  {
+    "word": "yourself.",
+    "start": 39.831,
+    "end": 40.48
+  },
+  {
+    "word": "Are",
+    "start": 40.72,
+    "end": 41.44
+  },
+  {
+    "word": "you",
+    "start": 41.48,
+    "end": 41.6
+  },
+  {
+    "word": "relying",
+    "start": 41.66,
+    "end": 42.08
+  },
+  {
+    "word": "on",
+    "start": 42.133,
+    "end": 42.24
+  },
+  {
+    "word": "luck",
+    "start": 42.32,
+    "end": 42.64
+  },
+  {
+    "word": "or",
+    "start": 42.773,
+    "end": 43.04
+  },
+  {
+    "word": "your",
+    "start": 43.088,
+    "end": 43.28
+  },
+  {
+    "word": "own",
+    "start": 43.34,
+    "end": 43.52
+  },
+  {
+    "word": "intention?",
+    "start": 43.584,
+    "end": 44.32
+  },
+  {
+    "word": "Comment",
+    "start": 44.45,
+    "end": 45.36
+  },
+  {
+    "word": "'BHAV'",
+    "start": 45.44,
+    "end": 46.08
+  },
+  {
+    "word": "if",
+    "start": 46.107,
+    "end": 46.16
+  },
+  {
+    "word": "you",
+    "start": 46.18,
+    "end": 46.24
+  },
+  {
+    "word": "agree,",
+    "start": 46.32,
+    "end": 47.12
+  },
+  {
+    "word": "because",
+    "start": 47.17,
+    "end": 47.52
+  },
+  {
+    "word": "you",
+    "start": 47.56,
+    "end": 47.68
+  },
+  {
+    "word": "must",
+    "start": 47.728,
+    "end": 47.92
+  },
+  {
+    "word": "realize",
+    "start": 47.99,
+    "end": 48.48
+  },
+  {
+    "word": "that...",
+    "start": 48.528,
+    "end": 48.88
+  }
+]

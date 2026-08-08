@@ -1,0 +1,607 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "KINDNESS",
+    "start": 0.256,
+    "end": 0.96
+  },
+  {
+    "word": "IS",
+    "start": 1.04,
+    "end": 1.2
+  },
+  {
+    "word": "MAKING",
+    "start": 1.28,
+    "end": 1.68
+  },
+  {
+    "word": "YOU",
+    "start": 1.72,
+    "end": 1.84
+  },
+  {
+    "word": "WEAK.",
+    "start": 1.92,
+    "end": 2.48
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.768,
+    "end": 4.24
+  },
+  {
+    "word": "ne",
+    "start": 4.32,
+    "end": 4.48
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.56,
+    "end": 4.96
+  },
+  {
+    "word": "pehle",
+    "start": 5.013,
+    "end": 5.36
+  },
+  {
+    "word": "ek",
+    "start": 5.44,
+    "end": 5.6
+  },
+  {
+    "word": "baat",
+    "start": 5.653,
+    "end": 5.84
+  },
+  {
+    "word": "kahi",
+    "start": 5.88,
+    "end": 6.08
+  },
+  {
+    "word": "thi:",
+    "start": 6.14,
+    "end": 7.04
+  },
+  {
+    "word": "Jo",
+    "start": 7.12,
+    "end": 7.28
+  },
+  {
+    "word": "insaan",
+    "start": 7.36,
+    "end": 7.92
+  },
+  {
+    "word": "hamesha",
+    "start": 7.96,
+    "end": 8.48
+  },
+  {
+    "word": "kadve",
+    "start": 8.56,
+    "end": 8.96
+  },
+  {
+    "word": "shabd",
+    "start": 9.013,
+    "end": 9.28
+  },
+  {
+    "word": "bolta",
+    "start": 9.32,
+    "end": 9.68
+  },
+  {
+    "word": "hai,",
+    "start": 9.72,
+    "end": 10.48
+  },
+  {
+    "word": "apne",
+    "start": 10.533,
+    "end": 10.8
+  },
+  {
+    "word": "apno",
+    "start": 10.907,
+    "end": 11.28
+  },
+  {
+    "word": "ke",
+    "start": 11.36,
+    "end": 11.52
+  },
+  {
+    "word": "prati",
+    "start": 11.6,
+    "end": 12.0
+  },
+  {
+    "word": "ruda",
+    "start": 12.08,
+    "end": 12.4
+  },
+  {
+    "word": "(rude)",
+    "start": 12.416,
+    "end": 12.528
+  },
+  {
+    "word": "rehta",
+    "start": 12.539,
+    "end": 12.72
+  },
+  {
+    "word": "hai,",
+    "start": 12.78,
+    "end": 13.04
+  },
+  {
+    "word": "aur",
+    "start": 13.2,
+    "end": 13.68
+  },
+  {
+    "word": "neeche",
+    "start": 13.76,
+    "end": 14.16
+  },
+  {
+    "word": "girne",
+    "start": 14.2,
+    "end": 14.48
+  },
+  {
+    "word": "wale",
+    "start": 14.52,
+    "end": 14.72
+  },
+  {
+    "word": "logon",
+    "start": 14.78,
+    "end": 15.04
+  },
+  {
+    "word": "ki",
+    "start": 15.093,
+    "end": 15.2
+  },
+  {
+    "word": "sangati",
+    "start": 15.264,
+    "end": 15.68
+  },
+  {
+    "word": "rakhta",
+    "start": 15.72,
+    "end": 16.0
+  },
+  {
+    "word": "hai\u2014wo",
+    "start": 16.06,
+    "end": 17.04
+  },
+  {
+    "word": "jeete",
+    "start": 17.12,
+    "end": 17.6
+  },
+  {
+    "word": "ji",
+    "start": 17.68,
+    "end": 17.84
+  },
+  {
+    "word": "narak",
+    "start": 17.96,
+    "end": 18.32
+  },
+  {
+    "word": "mein",
+    "start": 18.336,
+    "end": 18.4
+  },
+  {
+    "word": "rehta",
+    "start": 18.453,
+    "end": 18.72
+  },
+  {
+    "word": "hai.",
+    "start": 18.78,
+    "end": 19.04
+  },
+  {
+    "word": "Hum",
+    "start": 19.34,
+    "end": 20.24
+  },
+  {
+    "word": "aksar",
+    "start": 20.3,
+    "end": 20.64
+  },
+  {
+    "word": "'being",
+    "start": 20.8,
+    "end": 21.2
+  },
+  {
+    "word": "real'",
+    "start": 21.264,
+    "end": 21.6
+  },
+  {
+    "word": "ke",
+    "start": 21.653,
+    "end": 21.76
+  },
+  {
+    "word": "naam",
+    "start": 21.824,
+    "end": 22.08
+  },
+  {
+    "word": "par",
+    "start": 22.12,
+    "end": 22.24
+  },
+  {
+    "word": "badtameezi",
+    "start": 22.32,
+    "end": 22.88
+  },
+  {
+    "word": "ko",
+    "start": 22.933,
+    "end": 23.04
+  },
+  {
+    "word": "justify",
+    "start": 23.12,
+    "end": 23.68
+  },
+  {
+    "word": "karte",
+    "start": 23.76,
+    "end": 24.0
+  },
+  {
+    "word": "hain.",
+    "start": 24.04,
+    "end": 24.24
+  },
+  {
+    "word": "Par",
+    "start": 24.48,
+    "end": 25.2
+  },
+  {
+    "word": "sach",
+    "start": 25.264,
+    "end": 25.52
+  },
+  {
+    "word": "ye",
+    "start": 25.6,
+    "end": 25.76
+  },
+  {
+    "word": "hai",
+    "start": 25.82,
+    "end": 26.0
+  },
+  {
+    "word": "ki",
+    "start": 26.053,
+    "end": 26.16
+  },
+  {
+    "word": "toxic",
+    "start": 26.253,
+    "end": 26.72
+  },
+  {
+    "word": "behavior",
+    "start": 26.791,
+    "end": 27.36
+  },
+  {
+    "word": "aur",
+    "start": 27.44,
+    "end": 27.68
+  },
+  {
+    "word": "galat",
+    "start": 27.74,
+    "end": 28.08
+  },
+  {
+    "word": "circle",
+    "start": 28.171,
+    "end": 28.72
+  },
+  {
+    "word": "tumhari",
+    "start": 28.82,
+    "end": 29.36
+  },
+  {
+    "word": "growth",
+    "start": 29.429,
+    "end": 29.84
+  },
+  {
+    "word": "ko",
+    "start": 29.92,
+    "end": 30.08
+  },
+  {
+    "word": "kill",
+    "start": 30.144,
+    "end": 30.4
+  },
+  {
+    "word": "kar",
+    "start": 30.44,
+    "end": 30.56
+  },
+  {
+    "word": "dete",
+    "start": 30.64,
+    "end": 30.96
+  },
+  {
+    "word": "hain.",
+    "start": 31.0,
+    "end": 31.2
+  },
+  {
+    "word": "Respect",
+    "start": 31.39,
+    "end": 32.72
+  },
+  {
+    "word": "is",
+    "start": 32.8,
+    "end": 32.96
+  },
+  {
+    "word": "a",
+    "start": 33.0,
+    "end": 33.04
+  },
+  {
+    "word": "currency;",
+    "start": 33.102,
+    "end": 34.32
+  },
+  {
+    "word": "agar",
+    "start": 34.368,
+    "end": 34.56
+  },
+  {
+    "word": "tum",
+    "start": 34.64,
+    "end": 34.88
+  },
+  {
+    "word": "use",
+    "start": 34.96,
+    "end": 35.2
+  },
+  {
+    "word": "waste",
+    "start": 35.267,
+    "end": 35.6
+  },
+  {
+    "word": "karoge,",
+    "start": 35.64,
+    "end": 36.16
+  },
+  {
+    "word": "toh",
+    "start": 36.24,
+    "end": 36.48
+  },
+  {
+    "word": "tum",
+    "start": 36.54,
+    "end": 36.72
+  },
+  {
+    "word": "akele",
+    "start": 36.84,
+    "end": 37.2
+  },
+  {
+    "word": "reh",
+    "start": 37.26,
+    "end": 37.44
+  },
+  {
+    "word": "jaoge.",
+    "start": 37.493,
+    "end": 37.92
+  },
+  {
+    "word": "Fix",
+    "start": 38.22,
+    "end": 39.12
+  },
+  {
+    "word": "your",
+    "start": 39.152,
+    "end": 39.28
+  },
+  {
+    "word": "circle",
+    "start": 39.36,
+    "end": 39.84
+  },
+  {
+    "word": "and",
+    "start": 39.96,
+    "end": 40.32
+  },
+  {
+    "word": "your",
+    "start": 40.352,
+    "end": 40.48
+  },
+  {
+    "word": "tone,",
+    "start": 40.56,
+    "end": 40.96
+  },
+  {
+    "word": "or",
+    "start": 41.12,
+    "end": 41.44
+  },
+  {
+    "word": "accept",
+    "start": 41.531,
+    "end": 42.08
+  },
+  {
+    "word": "your",
+    "start": 42.144,
+    "end": 42.4
+  },
+  {
+    "word": "misery.",
+    "start": 42.48,
+    "end": 43.6
+  },
+  {
+    "word": "Are",
+    "start": 43.76,
+    "end": 44.24
+  },
+  {
+    "word": "you",
+    "start": 44.28,
+    "end": 44.4
+  },
+  {
+    "word": "surrounded",
+    "start": 44.451,
+    "end": 44.96
+  },
+  {
+    "word": "by",
+    "start": 45.013,
+    "end": 45.12
+  },
+  {
+    "word": "winners",
+    "start": 45.19,
+    "end": 45.68
+  },
+  {
+    "word": "or",
+    "start": 45.76,
+    "end": 45.92
+  },
+  {
+    "word": "just",
+    "start": 46.0,
+    "end": 46.32
+  },
+  {
+    "word": "noise?",
+    "start": 46.427,
+    "end": 47.04
+  },
+  {
+    "word": "Let",
+    "start": 47.26,
+    "end": 47.92
+  },
+  {
+    "word": "me",
+    "start": 47.947,
+    "end": 48.0
+  },
+  {
+    "word": "know",
+    "start": 48.048,
+    "end": 48.24
+  },
+  {
+    "word": "in",
+    "start": 48.267,
+    "end": 48.32
+  },
+  {
+    "word": "the",
+    "start": 48.34,
+    "end": 48.4
+  },
+  {
+    "word": "comments,",
+    "start": 48.471,
+    "end": 49.36
+  },
+  {
+    "word": "because",
+    "start": 49.39,
+    "end": 49.6
+  },
+  {
+    "word": "if",
+    "start": 49.653,
+    "end": 49.76
+  },
+  {
+    "word": "you",
+    "start": 49.8,
+    "end": 49.92
+  },
+  {
+    "word": "don't",
+    "start": 49.96,
+    "end": 50.16
+  },
+  {
+    "word": "change",
+    "start": 50.206,
+    "end": 50.48
+  },
+  {
+    "word": "your",
+    "start": 50.512,
+    "end": 50.64
+  },
+  {
+    "word": "circle,",
+    "start": 50.731,
+    "end": 51.76
+  },
+  {
+    "word": "it's",
+    "start": 51.813,
+    "end": 52.0
+  },
+  {
+    "word": "clear",
+    "start": 52.067,
+    "end": 52.4
+  },
+  {
+    "word": "that...",
+    "start": 52.496,
+    "end": 53.04
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "word": "STOP",
+    "start": 0.0,
+    "end": 0.4
+  },
+  {
+    "word": "PROTECTING",
+    "start": 0.5,
+    "end": 1.28
+  },
+  {
+    "word": "YOUR",
+    "start": 1.344,
+    "end": 1.6
+  },
+  {
+    "word": "KIDS.",
+    "start": 1.72,
+    "end": 2.24
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.48,
+    "end": 3.76
+  },
+  {
+    "word": "ne",
+    "start": 3.84,
+    "end": 4.0
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.08,
+    "end": 4.48
+  },
+  {
+    "word": "pehle",
+    "start": 4.533,
+    "end": 4.8
+  },
+  {
+    "word": "ek",
+    "start": 4.933,
+    "end": 5.2
+  },
+  {
+    "word": "baat",
+    "start": 5.28,
+    "end": 5.6
+  },
+  {
+    "word": "kahi",
+    "start": 5.64,
+    "end": 5.84
+  },
+  {
+    "word": "thi:",
+    "start": 5.9,
+    "end": 6.24
+  },
+  {
+    "word": "Jis",
+    "start": 6.6,
+    "end": 7.04
+  },
+  {
+    "word": "tarah",
+    "start": 7.1,
+    "end": 7.36
+  },
+  {
+    "word": "darr",
+    "start": 7.48,
+    "end": 7.72
+  },
+  {
+    "word": "ke",
+    "start": 7.76,
+    "end": 7.84
+  },
+  {
+    "word": "maare",
+    "start": 7.893,
+    "end": 8.16
+  },
+  {
+    "word": "ek",
+    "start": 8.24,
+    "end": 8.4
+  },
+  {
+    "word": "dher",
+    "start": 8.48,
+    "end": 8.88
+  },
+  {
+    "word": "saara",
+    "start": 8.933,
+    "end": 9.2
+  },
+  {
+    "word": "kohl",
+    "start": 9.32,
+    "end": 9.76
+  },
+  {
+    "word": "(kajal)",
+    "start": 9.92,
+    "end": 10.56
+  },
+  {
+    "word": "fail",
+    "start": 10.624,
+    "end": 10.88
+  },
+  {
+    "word": "jata",
+    "start": 10.92,
+    "end": 11.28
+  },
+  {
+    "word": "hai,",
+    "start": 11.32,
+    "end": 12.16
+  },
+  {
+    "word": "waise",
+    "start": 12.2,
+    "end": 12.56
+  },
+  {
+    "word": "hi",
+    "start": 12.613,
+    "end": 12.72
+  },
+  {
+    "word": "jo",
+    "start": 12.8,
+    "end": 12.96
+  },
+  {
+    "word": "praja",
+    "start": 13.04,
+    "end": 13.44
+  },
+  {
+    "word": "darr",
+    "start": 13.52,
+    "end": 13.72
+  },
+  {
+    "word": "ke",
+    "start": 13.76,
+    "end": 13.84
+  },
+  {
+    "word": "saaye",
+    "start": 13.92,
+    "end": 14.16
+  },
+  {
+    "word": "meinLpalti",
+    "start": 14.224,
+    "end": 14.8
+  },
+  {
+    "word": "hai,",
+    "start": 14.86,
+    "end": 15.12
+  },
+  {
+    "word": "wo",
+    "start": 15.28,
+    "end": 15.6
+  },
+  {
+    "word": "apne",
+    "start": 15.68,
+    "end": 15.92
+  },
+  {
+    "word": "aap",
+    "start": 16.0,
+    "end": 16.16
+  },
+  {
+    "word": "ko",
+    "start": 16.24,
+    "end": 16.4
+  },
+  {
+    "word": "khatam",
+    "start": 16.44,
+    "end": 16.72
+  },
+  {
+    "word": "kar",
+    "start": 16.76,
+    "end": 16.88
+  },
+  {
+    "word": "leti",
+    "start": 16.94,
+    "end": 17.2
+  },
+  {
+    "word": "hai.",
+    "start": 17.26,
+    "end": 17.52
+  },
+  {
+    "word": "Hum",
+    "start": 17.82,
+    "end": 18.72
+  },
+  {
+    "word": "apne",
+    "start": 18.747,
+    "end": 18.96
+  },
+  {
+    "word": "bacchon",
+    "start": 19.02,
+    "end": 19.44
+  },
+  {
+    "word": "aur",
+    "start": 19.5,
+    "end": 19.68
+  },
+  {
+    "word": "khud",
+    "start": 19.76,
+    "end": 20.0
+  },
+  {
+    "word": "ko",
+    "start": 20.08,
+    "end": 20.24
+  },
+  {
+    "word": "'comfort'",
+    "start": 20.32,
+    "end": 20.96
+  },
+  {
+    "word": "aur",
+    "start": 21.02,
+    "end": 21.2
+  },
+  {
+    "word": "'safety'",
+    "start": 21.28,
+    "end": 21.84
+  },
+  {
+    "word": "ke",
+    "start": 21.867,
+    "end": 21.92
+  },
+  {
+    "word": "naam",
+    "start": 21.968,
+    "end": 22.16
+  },
+  {
+    "word": "par",
+    "start": 22.22,
+    "end": 22.4
+  },
+  {
+    "word": "itna",
+    "start": 22.507,
+    "end": 22.88
+  },
+  {
+    "word": "protect",
+    "start": 22.94,
+    "end": 23.36
+  },
+  {
+    "word": "karte",
+    "start": 23.4,
+    "end": 23.68
+  },
+  {
+    "word": "hain",
+    "start": 23.76,
+    "end": 23.92
+  },
+  {
+    "word": "ki",
+    "start": 24.053,
+    "end": 24.32
+  },
+  {
+    "word": "hum",
+    "start": 24.38,
+    "end": 24.56
+  },
+  {
+    "word": "unki",
+    "start": 24.64,
+    "end": 24.88
+  },
+  {
+    "word": "resilience",
+    "start": 24.931,
+    "end": 25.44
+  },
+  {
+    "word": "kill",
+    "start": 25.504,
+    "end": 25.76
+  },
+  {
+    "word": "kar",
+    "start": 25.8,
+    "end": 25.92
+  },
+  {
+    "word": "dete",
+    "start": 26.0,
+    "end": 26.32
+  },
+  {
+    "word": "hain.",
+    "start": 26.36,
+    "end": 26.64
+  },
+  {
+    "word": "Over-protection",
+    "start": 26.864,
+    "end": 28.32
+  },
+  {
+    "word": "is",
+    "start": 28.4,
+    "end": 28.56
+  },
+  {
+    "word": "not",
+    "start": 28.66,
+    "end": 28.96
+  },
+  {
+    "word": "love,",
+    "start": 29.056,
+    "end": 29.84
+  },
+  {
+    "word": "it's",
+    "start": 29.893,
+    "end": 30.08
+  },
+  {
+    "word": "a",
+    "start": 30.12,
+    "end": 30.16
+  },
+  {
+    "word": "slow",
+    "start": 30.272,
+    "end": 30.72
+  },
+  {
+    "word": "poison.",
+    "start": 30.8,
+    "end": 31.36
+  },
+  {
+    "word": "Jab",
+    "start": 31.62,
+    "end": 32.4
+  },
+  {
+    "word": "tak",
+    "start": 32.44,
+    "end": 32.56
+  },
+  {
+    "word": "tum",
+    "start": 32.62,
+    "end": 32.8
+  },
+  {
+    "word": "struggle",
+    "start": 32.853,
+    "end": 33.28
+  },
+  {
+    "word": "aur",
+    "start": 33.34,
+    "end": 33.52
+  },
+  {
+    "word": "darr",
+    "start": 33.6,
+    "end": 33.76
+  },
+  {
+    "word": "se",
+    "start": 33.813,
+    "end": 33.92
+  },
+  {
+    "word": "bhagoge,",
+    "start": 34.0,
+    "end": 34.8
+  },
+  {
+    "word": "tum",
+    "start": 34.92,
+    "end": 35.28
+  },
+  {
+    "word": "kabhi",
+    "start": 35.34,
+    "end": 35.6
+  },
+  {
+    "word": "grow",
+    "start": 35.68,
+    "end": 36.0
+  },
+  {
+    "word": "nahi",
+    "start": 36.04,
+    "end": 36.24
+  },
+  {
+    "word": "karoge.",
+    "start": 36.28,
+    "end": 37.28
+  },
+  {
+    "word": "True",
+    "start": 37.392,
+    "end": 37.84
+  },
+  {
+    "word": "growth",
+    "start": 37.897,
+    "end": 38.24
+  },
+  {
+    "word": "comes",
+    "start": 38.307,
+    "end": 38.64
+  },
+  {
+    "word": "from",
+    "start": 38.672,
+    "end": 38.8
+  },
+  {
+    "word": "facing",
+    "start": 38.869,
+    "end": 39.28
+  },
+  {
+    "word": "the",
+    "start": 39.3,
+    "end": 39.36
+  },
+  {
+    "word": "chaos,",
+    "start": 39.453,
+    "end": 40.32
+  },
+  {
+    "word": "not",
+    "start": 40.44,
+    "end": 40.8
+  },
+  {
+    "word": "avoiding",
+    "start": 40.853,
+    "end": 41.28
+  },
+  {
+    "word": "it.",
+    "start": 41.387,
+    "end": 41.76
+  },
+  {
+    "word": "Are",
+    "start": 41.98,
+    "end": 42.64
+  },
+  {
+    "word": "you",
+    "start": 42.66,
+    "end": 42.72
+  },
+  {
+    "word": "protecting",
+    "start": 42.771,
+    "end": 43.28
+  },
+  {
+    "word": "your",
+    "start": 43.312,
+    "end": 43.44
+  },
+  {
+    "word": "potential",
+    "start": 43.504,
+    "end": 44.08
+  },
+  {
+    "word": "or",
+    "start": 44.16,
+    "end": 44.32
+  },
+  {
+    "word": "just",
+    "start": 44.384,
+    "end": 44.64
+  },
+  {
+    "word": "your",
+    "start": 44.656,
+    "end": 44.72
+  },
+  {
+    "word": "comfort?",
+    "start": 44.8,
+    "end": 45.44
+  },
+  {
+    "word": "Comment",
+    "start": 45.56,
+    "end": 46.4
+  },
+  {
+    "word": "below,",
+    "start": 46.467,
+    "end": 46.96
+  },
+  {
+    "word": "because",
+    "start": 46.98,
+    "end": 47.12
+  },
+  {
+    "word": "you",
+    "start": 47.14,
+    "end": 47.2
+  },
+  {
+    "word": "need",
+    "start": 47.264,
+    "end": 47.52
+  },
+  {
+    "word": "to",
+    "start": 47.547,
+    "end": 47.6
+  },
+  {
+    "word": "realize",
+    "start": 47.67,
+    "end": 48.16
+  },
+  {
+    "word": "that...",
+    "start": 48.224,
+    "end": 48.64
+  }
+]

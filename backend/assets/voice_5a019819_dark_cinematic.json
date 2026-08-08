@@ -1,0 +1,537 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.16
+  },
+  {
+    "word": "DEGREE",
+    "start": 0.24,
+    "end": 0.72
+  },
+  {
+    "word": "IS",
+    "start": 0.827,
+    "end": 1.04
+  },
+  {
+    "word": "A",
+    "start": 1.08,
+    "end": 1.12
+  },
+  {
+    "word": "WASTE",
+    "start": 1.24,
+    "end": 1.68
+  },
+  {
+    "word": "OF",
+    "start": 1.76,
+    "end": 1.92
+  },
+  {
+    "word": "PAPER.",
+    "start": 2.0,
+    "end": 2.56
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.832,
+    "end": 4.32
+  },
+  {
+    "word": "ne",
+    "start": 4.4,
+    "end": 4.56
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.68,
+    "end": 5.12
+  },
+  {
+    "word": "pehle",
+    "start": 5.173,
+    "end": 5.52
+  },
+  {
+    "word": "ek",
+    "start": 5.627,
+    "end": 5.84
+  },
+  {
+    "word": "baat",
+    "start": 5.893,
+    "end": 6.16
+  },
+  {
+    "word": "kahi",
+    "start": 6.2,
+    "end": 6.4
+  },
+  {
+    "word": "thi:",
+    "start": 6.46,
+    "end": 7.52
+  },
+  {
+    "word": "Jis",
+    "start": 7.56,
+    "end": 7.76
+  },
+  {
+    "word": "insaan",
+    "start": 7.82,
+    "end": 8.16
+  },
+  {
+    "word": "ke",
+    "start": 8.213,
+    "end": 8.32
+  },
+  {
+    "word": "paas",
+    "start": 8.4,
+    "end": 8.72
+  },
+  {
+    "word": "gyaan",
+    "start": 8.8,
+    "end": 9.12
+  },
+  {
+    "word": "toh",
+    "start": 9.18,
+    "end": 9.36
+  },
+  {
+    "word": "hai",
+    "start": 9.48,
+    "end": 9.84
+  },
+  {
+    "word": "par",
+    "start": 9.98,
+    "end": 10.4
+  },
+  {
+    "word": "uska",
+    "start": 10.453,
+    "end": 10.64
+  },
+  {
+    "word": "upyog",
+    "start": 10.747,
+    "end": 11.2
+  },
+  {
+    "word": "karne",
+    "start": 11.24,
+    "end": 11.52
+  },
+  {
+    "word": "ki",
+    "start": 11.573,
+    "end": 11.68
+  },
+  {
+    "word": "samajh",
+    "start": 11.74,
+    "end": 12.08
+  },
+  {
+    "word": "nahi,",
+    "start": 12.12,
+    "end": 12.96
+  },
+  {
+    "word": "wo",
+    "start": 13.04,
+    "end": 13.2
+  },
+  {
+    "word": "us",
+    "start": 13.307,
+    "end": 13.52
+  },
+  {
+    "word": "anpadh",
+    "start": 13.653,
+    "end": 14.08
+  },
+  {
+    "word": "se",
+    "start": 14.133,
+    "end": 14.24
+  },
+  {
+    "word": "bhi",
+    "start": 14.28,
+    "end": 14.4
+  },
+  {
+    "word": "zyada",
+    "start": 14.48,
+    "end": 14.8
+  },
+  {
+    "word": "be-bas",
+    "start": 14.88,
+    "end": 15.28
+  },
+  {
+    "word": "hai",
+    "start": 15.38,
+    "end": 15.68
+  },
+  {
+    "word": "jise",
+    "start": 15.84,
+    "end": 16.16
+  },
+  {
+    "word": "kuch",
+    "start": 16.24,
+    "end": 16.48
+  },
+  {
+    "word": "pata",
+    "start": 16.6,
+    "end": 16.88
+  },
+  {
+    "word": "hi",
+    "start": 16.933,
+    "end": 17.04
+  },
+  {
+    "word": "nahi.",
+    "start": 17.08,
+    "end": 17.36
+  },
+  {
+    "word": "Hum",
+    "start": 17.68,
+    "end": 18.64
+  },
+  {
+    "word": "aaj",
+    "start": 18.76,
+    "end": 19.04
+  },
+  {
+    "word": "information-overload",
+    "start": 19.107,
+    "end": 20.48
+  },
+  {
+    "word": "ke",
+    "start": 20.533,
+    "end": 20.64
+  },
+  {
+    "word": "zamane",
+    "start": 20.68,
+    "end": 21.04
+  },
+  {
+    "word": "mein",
+    "start": 21.072,
+    "end": 21.2
+  },
+  {
+    "word": "jee",
+    "start": 21.24,
+    "end": 21.36
+  },
+  {
+    "word": "rahe",
+    "start": 21.413,
+    "end": 21.68
+  },
+  {
+    "word": "hain.",
+    "start": 21.72,
+    "end": 22.64
+  },
+  {
+    "word": "Podcasts,",
+    "start": 22.73,
+    "end": 23.52
+  },
+  {
+    "word": "courses,",
+    "start": 23.62,
+    "end": 24.4
+  },
+  {
+    "word": "aur",
+    "start": 24.5,
+    "end": 24.8
+  },
+  {
+    "word": "books",
+    "start": 24.867,
+    "end": 25.2
+  },
+  {
+    "word": "se",
+    "start": 25.307,
+    "end": 25.52
+  },
+  {
+    "word": "hum",
+    "start": 25.66,
+    "end": 26.08
+  },
+  {
+    "word": "gyaan",
+    "start": 26.12,
+    "end": 26.4
+  },
+  {
+    "word": "toh",
+    "start": 26.44,
+    "end": 26.56
+  },
+  {
+    "word": "jama",
+    "start": 26.64,
+    "end": 26.88
+  },
+  {
+    "word": "kar",
+    "start": 26.92,
+    "end": 27.04
+  },
+  {
+    "word": "lete",
+    "start": 27.093,
+    "end": 27.44
+  },
+  {
+    "word": "hain,",
+    "start": 27.48,
+    "end": 28.16
+  },
+  {
+    "word": "par",
+    "start": 28.2,
+    "end": 28.32
+  },
+  {
+    "word": "execute",
+    "start": 28.41,
+    "end": 29.04
+  },
+  {
+    "word": "nahi",
+    "start": 29.08,
+    "end": 29.2
+  },
+  {
+    "word": "karte.",
+    "start": 29.28,
+    "end": 30.72
+  },
+  {
+    "word": "Knowledge",
+    "start": 30.76,
+    "end": 31.12
+  },
+  {
+    "word": "without",
+    "start": 31.17,
+    "end": 31.52
+  },
+  {
+    "word": "action",
+    "start": 31.6,
+    "end": 32.08
+  },
+  {
+    "word": "is",
+    "start": 32.16,
+    "end": 32.32
+  },
+  {
+    "word": "just",
+    "start": 32.416,
+    "end": 32.8
+  },
+  {
+    "word": "a",
+    "start": 32.92,
+    "end": 33.04
+  },
+  {
+    "word": "mental",
+    "start": 33.097,
+    "end": 33.44
+  },
+  {
+    "word": "burden.",
+    "start": 33.509,
+    "end": 34.96
+  },
+  {
+    "word": "Agar",
+    "start": 35.013,
+    "end": 35.2
+  },
+  {
+    "word": "tumhare",
+    "start": 35.26,
+    "end": 35.6
+  },
+  {
+    "word": "paas",
+    "start": 35.68,
+    "end": 35.92
+  },
+  {
+    "word": "strategy",
+    "start": 35.991,
+    "end": 36.56
+  },
+  {
+    "word": "hai",
+    "start": 36.68,
+    "end": 37.04
+  },
+  {
+    "word": "par",
+    "start": 37.16,
+    "end": 37.52
+  },
+  {
+    "word": "execution",
+    "start": 37.6,
+    "end": 38.32
+  },
+  {
+    "word": "zero,",
+    "start": 38.448,
+    "end": 39.04
+  },
+  {
+    "word": "toh",
+    "start": 39.2,
+    "end": 39.68
+  },
+  {
+    "word": "tum",
+    "start": 39.76,
+    "end": 40.0
+  },
+  {
+    "word": "sirf",
+    "start": 40.08,
+    "end": 40.48
+  },
+  {
+    "word": "ek",
+    "start": 40.56,
+    "end": 40.72
+  },
+  {
+    "word": "'educated",
+    "start": 40.84,
+    "end": 41.6
+  },
+  {
+    "word": "failure'",
+    "start": 41.66,
+    "end": 42.08
+  },
+  {
+    "word": "ban",
+    "start": 42.12,
+    "end": 42.24
+  },
+  {
+    "word": "kar",
+    "start": 42.3,
+    "end": 42.48
+  },
+  {
+    "word": "reh",
+    "start": 42.52,
+    "end": 42.64
+  },
+  {
+    "word": "jaoge.",
+    "start": 42.72,
+    "end": 43.2
+  },
+  {
+    "word": "Are",
+    "start": 43.5,
+    "end": 44.4
+  },
+  {
+    "word": "you",
+    "start": 44.44,
+    "end": 44.56
+  },
+  {
+    "word": "actually",
+    "start": 44.622,
+    "end": 45.12
+  },
+  {
+    "word": "growing,",
+    "start": 45.2,
+    "end": 45.761
+  },
+  {
+    "word": "or",
+    "start": 45.947,
+    "end": 46.32
+  },
+  {
+    "word": "just",
+    "start": 46.4,
+    "end": 46.72
+  },
+  {
+    "word": "collecting",
+    "start": 46.778,
+    "end": 47.36
+  },
+  {
+    "word": "information?",
+    "start": 47.427,
+    "end": 48.24
+  },
+  {
+    "word": "Save",
+    "start": 48.48,
+    "end": 49.44
+  },
+  {
+    "word": "this",
+    "start": 49.488,
+    "end": 49.68
+  },
+  {
+    "word": "to",
+    "start": 49.733,
+    "end": 49.84
+  },
+  {
+    "word": "remind",
+    "start": 49.909,
+    "end": 50.32
+  },
+  {
+    "word": "yourself",
+    "start": 50.382,
+    "end": 50.88
+  },
+  {
+    "word": "that...",
+    "start": 50.96,
+    "end": 51.44
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "word": "YOUR",
+    "start": 0.0,
+    "end": 0.08
+  },
+  {
+    "word": "MORNING",
+    "start": 0.14,
+    "end": 0.48
+  },
+  {
+    "word": "ROUTINE",
+    "start": 0.544,
+    "end": 1.12
+  },
+  {
+    "word": "IS",
+    "start": 1.227,
+    "end": 1.44
+  },
+  {
+    "word": "USELESS.",
+    "start": 1.58,
+    "end": 2.4
+  },
+  {
+    "word": "Chanakya",
+    "start": 2.688,
+    "end": 4.16
+  },
+  {
+    "word": "ne",
+    "start": 4.213,
+    "end": 4.32
+  },
+  {
+    "word": "sadiyon",
+    "start": 4.36,
+    "end": 4.64
+  },
+  {
+    "word": "pehle",
+    "start": 4.72,
+    "end": 5.12
+  },
+  {
+    "word": "ek",
+    "start": 5.227,
+    "end": 5.44
+  },
+  {
+    "word": "baat",
+    "start": 5.493,
+    "end": 5.76
+  },
+  {
+    "word": "kahi",
+    "start": 5.8,
+    "end": 6.08
+  },
+  {
+    "word": "thi:",
+    "start": 6.14,
+    "end": 7.2
+  },
+  {
+    "word": "Asli",
+    "start": 7.28,
+    "end": 7.6
+  },
+  {
+    "word": "shuddhata",
+    "start": 7.653,
+    "end": 8.32
+  },
+  {
+    "word": "sirf",
+    "start": 8.42,
+    "end": 8.8
+  },
+  {
+    "word": "shareer",
+    "start": 8.867,
+    "end": 9.28
+  },
+  {
+    "word": "ki",
+    "start": 9.36,
+    "end": 9.52
+  },
+  {
+    "word": "nahi,",
+    "start": 9.56,
+    "end": 10.4
+  },
+  {
+    "word": "balki",
+    "start": 10.464,
+    "end": 10.8
+  },
+  {
+    "word": "vaani",
+    "start": 10.88,
+    "end": 11.2
+  },
+  {
+    "word": "ki,",
+    "start": 11.28,
+    "end": 12.16
+  },
+  {
+    "word": "mann",
+    "start": 12.224,
+    "end": 12.48
+  },
+  {
+    "word": "ki,",
+    "start": 12.56,
+    "end": 12.8
+  },
+  {
+    "word": "aur",
+    "start": 13.0,
+    "end": 13.6
+  },
+  {
+    "word": "apne",
+    "start": 13.707,
+    "end": 14.08
+  },
+  {
+    "word": "indriyon",
+    "start": 14.16,
+    "end": 14.64
+  },
+  {
+    "word": "par",
+    "start": 14.72,
+    "end": 14.96
+  },
+  {
+    "word": "niyantran",
+    "start": 15.067,
+    "end": 15.68
+  },
+  {
+    "word": "ki",
+    "start": 15.733,
+    "end": 15.84
+  },
+  {
+    "word": "hoti",
+    "start": 15.9,
+    "end": 16.16
+  },
+  {
+    "word": "hai.",
+    "start": 16.2,
+    "end": 17.52
+  },
+  {
+    "word": "Dusron",
+    "start": 17.6,
+    "end": 18.0
+  },
+  {
+    "word": "ke",
+    "start": 18.053,
+    "end": 18.16
+  },
+  {
+    "word": "liye",
+    "start": 18.213,
+    "end": 18.48
+  },
+  {
+    "word": "daya",
+    "start": 18.58,
+    "end": 18.96
+  },
+  {
+    "word": "hi",
+    "start": 19.013,
+    "end": 19.12
+  },
+  {
+    "word": "sacchi",
+    "start": 19.18,
+    "end": 19.44
+  },
+  {
+    "word": "pavitrata",
+    "start": 19.5,
+    "end": 20.08
+  },
+  {
+    "word": "hai.",
+    "start": 20.12,
+    "end": 21.2
+  },
+  {
+    "word": "Hum",
+    "start": 21.24,
+    "end": 21.36
+  },
+  {
+    "word": "skincare",
+    "start": 21.44,
+    "end": 22.08
+  },
+  {
+    "word": "aur",
+    "start": 22.14,
+    "end": 22.32
+  },
+  {
+    "word": "expensive",
+    "start": 22.384,
+    "end": 22.96
+  },
+  {
+    "word": "detox",
+    "start": 23.04,
+    "end": 23.44
+  },
+  {
+    "word": "par",
+    "start": 23.5,
+    "end": 23.68
+  },
+  {
+    "word": "hazaron",
+    "start": 23.76,
+    "end": 24.32
+  },
+  {
+    "word": "kharch",
+    "start": 24.373,
+    "end": 24.64
+  },
+  {
+    "word": "karte",
+    "start": 24.68,
+    "end": 24.96
+  },
+  {
+    "word": "hain,",
+    "start": 25.0,
+    "end": 25.76
+  },
+  {
+    "word": "par",
+    "start": 25.8,
+    "end": 25.92
+  },
+  {
+    "word": "andar",
+    "start": 25.98,
+    "end": 26.24
+  },
+  {
+    "word": "ki",
+    "start": 26.32,
+    "end": 26.48
+  },
+  {
+    "word": "gandagi\u2014nafrat,",
+    "start": 26.52,
+    "end": 28.4
+  },
+  {
+    "word": "jalan,",
+    "start": 28.48,
+    "end": 28.96
+  },
+  {
+    "word": "aur",
+    "start": 29.06,
+    "end": 29.36
+  },
+  {
+    "word": "gussa\u2014waisi",
+    "start": 29.44,
+    "end": 30.64
+  },
+  {
+    "word": "hi",
+    "start": 30.667,
+    "end": 30.72
+  },
+  {
+    "word": "rehti",
+    "start": 30.773,
+    "end": 31.12
+  },
+  {
+    "word": "hai.",
+    "start": 31.16,
+    "end": 31.36
+  },
+  {
+    "word": "Physical",
+    "start": 31.52,
+    "end": 32.8
+  },
+  {
+    "word": "hygiene",
+    "start": 32.86,
+    "end": 33.28
+  },
+  {
+    "word": "is",
+    "start": 33.36,
+    "end": 33.52
+  },
+  {
+    "word": "easy,",
+    "start": 33.616,
+    "end": 34.08
+  },
+  {
+    "word": "but",
+    "start": 34.26,
+    "end": 34.8
+  },
+  {
+    "word": "mental",
+    "start": 34.891,
+    "end": 35.44
+  },
+  {
+    "word": "and",
+    "start": 35.5,
+    "end": 35.68
+  },
+  {
+    "word": "verbal",
+    "start": 35.749,
+    "end": 36.16
+  },
+  {
+    "word": "hygiene",
+    "start": 36.22,
+    "end": 36.64
+  },
+  {
+    "word": "is",
+    "start": 36.72,
+    "end": 36.88
+  },
+  {
+    "word": "where",
+    "start": 36.907,
+    "end": 37.04
+  },
+  {
+    "word": "the",
+    "start": 37.08,
+    "end": 37.2
+  },
+  {
+    "word": "real",
+    "start": 37.28,
+    "end": 37.6
+  },
+  {
+    "word": "growth",
+    "start": 37.669,
+    "end": 38.08
+  },
+  {
+    "word": "is.",
+    "start": 38.187,
+    "end": 38.56
+  },
+  {
+    "word": "Agar",
+    "start": 38.96,
+    "end": 39.84
+  },
+  {
+    "word": "tumhari",
+    "start": 39.88,
+    "end": 40.24
+  },
+  {
+    "word": "baatein",
+    "start": 40.293,
+    "end": 40.64
+  },
+  {
+    "word": "zeherili",
+    "start": 40.693,
+    "end": 41.2
+  },
+  {
+    "word": "hain,",
+    "start": 41.28,
+    "end": 41.76
+  },
+  {
+    "word": "toh",
+    "start": 41.84,
+    "end": 42.08
+  },
+  {
+    "word": "tumhara",
+    "start": 42.12,
+    "end": 42.48
+  },
+  {
+    "word": "mehenga",
+    "start": 42.56,
+    "end": 42.96
+  },
+  {
+    "word": "perfume",
+    "start": 43.03,
+    "end": 43.52
+  },
+  {
+    "word": "tumhe",
+    "start": 43.58,
+    "end": 43.84
+  },
+  {
+    "word": "shuddh",
+    "start": 43.92,
+    "end": 44.24
+  },
+  {
+    "word": "nahi",
+    "start": 44.28,
+    "end": 44.4
+  },
+  {
+    "word": "banata.",
+    "start": 44.46,
+    "end": 45.04
+  },
+  {
+    "word": "Clean",
+    "start": 45.24,
+    "end": 46.24
+  },
+  {
+    "word": "your",
+    "start": 46.272,
+    "end": 46.4
+  },
+  {
+    "word": "thoughts,",
+    "start": 46.471,
+    "end": 47.52
+  },
+  {
+    "word": "not",
+    "start": 47.58,
+    "end": 47.76
+  },
+  {
+    "word": "just",
+    "start": 47.824,
+    "end": 48.08
+  },
+  {
+    "word": "your",
+    "start": 48.096,
+    "end": 48.16
+  },
+  {
+    "word": "face.",
+    "start": 48.256,
+    "end": 48.8
+  },
+  {
+    "word": "Which",
+    "start": 49.053,
+    "end": 50.32
+  },
+  {
+    "word": "part",
+    "start": 50.384,
+    "end": 50.64
+  },
+  {
+    "word": "of",
+    "start": 50.667,
+    "end": 50.72
+  },
+  {
+    "word": "your",
+    "start": 50.752,
+    "end": 50.88
+  },
+  {
+    "word": "mind",
+    "start": 50.976,
+    "end": 51.36
+  },
+  {
+    "word": "needs",
+    "start": 51.413,
+    "end": 51.68
+  },
+  {
+    "word": "a",
+    "start": 51.84,
+    "end": 52.0
+  },
+  {
+    "word": "detox",
+    "start": 52.053,
+    "end": 52.32
+  },
+  {
+    "word": "today?",
+    "start": 52.387,
+    "end": 52.88
+  },
+  {
+    "word": "Comment",
+    "start": 53.03,
+    "end": 54.08
+  },
+  {
+    "word": "below,",
+    "start": 54.16,
+    "end": 54.88
+  },
+  {
+    "word": "because",
+    "start": 54.92,
+    "end": 55.2
+  },
+  {
+    "word": "you",
+    "start": 55.22,
+    "end": 55.28
+  },
+  {
+    "word": "need",
+    "start": 55.36,
+    "end": 55.68
+  },
+  {
+    "word": "to",
+    "start": 55.707,
+    "end": 55.76
+  },
+  {
+    "word": "realize",
+    "start": 55.84,
+    "end": 56.4
+  },
+  {
+    "word": "that...",
+    "start": 56.464,
+    "end": 56.88
+  }
+]
